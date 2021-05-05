@@ -1,19 +1,15 @@
 {
-  "title": {
-    "message": "ナポアンのマイクラ運営Wiki",
-    "description": "The title in the navbar"
+  "item.label.管理編": {
+    "message": "管理編",
+    "description": "Navbar item with label 管理編"
   },
-  "item.label.Contentful": {
-    "message": "Contentful",
-    "description": "Navbar item with label Contentful"
+  "item.label.記事": {
+    "message": "記事",
+    "description": "Navbar item with label 記事"
   },
-  "item.label.クライアント": {
-    "message": "クライアント",
-    "description": "Navbar item with label クライアント"
-  },
-  "item.label.バックエンド": {
-    "message": "バックエンド",
-    "description": "Navbar item with label バックエンド"
+  "item.label.関わった人々": {
+    "message": "関わった人々",
+    "description": "Navbar item with label 関わった人々"
   },
   "item.label.Twitter": {
     "message": "Twitter",

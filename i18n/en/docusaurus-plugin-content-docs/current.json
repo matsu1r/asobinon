@@ -3,6 +3,18 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.tutorialSidebar.category.関わった人々": {
+    "message": "関わった人々",
+    "description": "The label for category 関わった人々 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.このドキュメントの編集方法": {
+    "message": "How to edit this docs",
+    "description": "The label for category このドキュメントの編集方法 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.管理編": {
+    "message": "管理編",
+    "description": "The label for category 管理編 in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Contentful編": {
     "message": "Contentful part",
     "description": "The label for category Contentful編 in sidebar tutorialSidebar"
@@ -23,8 +35,8 @@
     "message": "Backend part",
     "description": "The label for category バックエンド編 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.このドキュメントの編集方法": {
-    "message": "How to edit this docs",
-    "description": "The label for category このドキュメントの編集方法 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.記事のMDバージョン": {
+    "message": "記事のMDバージョン",
+    "description": "The label for category 記事のMDバージョン in sidebar tutorialSidebar"
   }
 }

@@ -1,7 +1,11 @@
 {
-  "link.title.ドキュメント": {
-    "message": "ドキュメント",
-    "description": "The title of the footer links column with title=ドキュメント in the footer"
+  "link.title.管理編": {
+    "message": "管理編",
+    "description": "The title of the footer links column with title=管理編 in the footer"
+  },
+  "link.title.その他": {
+    "message": "その他",
+    "description": "The title of the footer links column with title=その他 in the footer"
   },
   "link.title.SNS": {
     "message": "SNS",
@@ -11,17 +15,33 @@
     "message": "More",
     "description": "The title of the footer links column with title=More in the footer"
   },
-  "link.item.label.Contentful編": {
-    "message": "Contentful編",
-    "description": "The label of footer link with label=Contentful編 linking to /docs/contentful/intro"
+  "link.item.label.Contentful": {
+    "message": "Contentful",
+    "description": "The label of footer link with label=Contentful linking to /docs/admin/contentful/intro"
   },
-  "link.item.label.クライアント編": {
-    "message": "クライアント編",
-    "description": "The label of footer link with label=クライアント編 linking to /docs/client/intro"
+  "link.item.label.クライアント": {
+    "message": "クライアント",
+    "description": "The label of footer link with label=クライアント linking to /docs/admin/client/intro"
   },
-  "link.item.label.バックエンド編": {
-    "message": "バックエンド編",
-    "description": "The label of footer link with label=バックエンド編 linking to /docs/backend/intro"
+  "link.item.label.バックエンド": {
+    "message": "バックエンド",
+    "description": "The label of footer link with label=バックエンド linking to /docs/admin/backend/intro"
+  },
+  "link.item.label.ブログ": {
+    "message": "ブログ",
+    "description": "The label of footer link with label=ブログ linking to /blog"
+  },
+  "link.item.label.関わった人": {
+    "message": "関わった人",
+    "description": "The label of footer link with label=関わった人 linking to /docs/people/intro"
+  },
+  "link.item.label.貢献する": {
+    "message": "貢献する",
+    "description": "The label of footer link with label=貢献する linking to /docs/join/intro"
+  },
+  "link.item.label.記事": {
+    "message": "記事",
+    "description": "The label of footer link with label=記事 linking to /docs/posts/intro"
   },
   "link.item.label.Twitter": {
     "message": "Twitter",
@@ -29,10 +49,10 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/sasigume"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/sasigume/projectnapoancom-docs-saurus2021"
   },
   "copyright": {
-    "message": "Copyright © 2021 sasigume. Built with Docusaurus.",
+    "message": "Copyright © 2021 Aelyone. Built with Docusaurus.",
     "description": "The footer copyright"
   }
 }

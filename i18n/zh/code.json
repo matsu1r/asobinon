@@ -1,186 +1,186 @@
 {
   "general.title": {
-    "message": "ナポアンのマイクラMD"
+    "message": "Napoan no Maikura MD"
   },
   "general.howtoedit": {
-    "message": "編集方法を見る"
+    "message": "了解如何编辑"
   },
   "general.message": {
-    "message": "このDocsは自由に編集可能です。各ページの編集ボタンを押してください!"
+    "message": "该文档可自由编辑。按下每页上的编辑按钮！"
   },
   "theme.NotFound.title": {
-    "message": "ページが見つかりません",
+    "message": "页面未找到",
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "お探しのページが見つかりませんでした。",
+    "message": "找不到您要的页面。",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "このページにリンクしているサイトの所有者に連絡をしてリンクが壊れていることを伝えてください。",
+    "message": "请与链接到此页面的站点的所有者联系，并告诉他们该链接已损坏。",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "閉じる",
+    "message": "关闭",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "ブログ記事一覧のナビゲーション",
+    "message": "博客文章列表导航",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "新しい記事",
+    "message": "新文章",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "過去の記事",
+    "message": "过去的文章",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "約{readingTime}分",
+    "message": "约 {readingTime} 分钟",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.tags.tagsListLabel": {
-    "message": "タグ:",
+    "message": "标签：",
     "description": "The label alongside a tag list"
   },
   "theme.blog.post.readMore": {
-    "message": "もっと見る",
+    "message": "加载更多",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "ブログ記事のナビゲーション",
+    "message": "博客文章导航",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "新しい記事",
+    "message": "新文章",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "過去の記事",
+    "message": "过去的文章",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "タグ",
+    "message": "标签",
     "description": "The title of the tag list page"
   },
   "theme.blog.post.plurals": {
-    "message": "{count}件",
+    "message": "{count}次查看",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "「{tagName}」タグの記事が{nPosts}あります",
+    "message": "有{nPosts}文章带有“{tagName}\"",
     "description": "The title of the page for a blog tag"
   },
   "theme.tags.tagsPageLink": {
-    "message": "全てのタグを見る",
+    "message": "查看所有标签",
     "description": "The label of the link targeting the tag list page"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "クリップボードにコードをコピー",
+    "message": "将代码复制到剪贴板",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.copied": {
-    "message": "コピーしました",
+    "message": "已复制！",
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copy": {
-    "message": "コピー",
+    "message": "复制",
     "description": "The copy button label on code blocks"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "サイドバーを開く",
+    "message": "打开边栏",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "サイドバーを開く",
+    "message": "打开边栏",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "ドキュメントのナビゲーション",
+    "message": "文件导览",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "前へ",
+    "message": "上一步",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "次へ",
+    "message": "下一步",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "サイドバーを隠す",
+    "message": "隐藏侧边栏",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "サイドバーを隠す",
+    "message": "隐藏侧边栏",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.responsiveCloseButtonLabel": {
-    "message": "メニューを閉じる",
+    "message": "关闭菜单",
     "description": "The ARIA label for close button of mobile doc sidebar"
   },
   "theme.docs.sidebar.responsiveOpenButtonLabel": {
-    "message": "メニューを開く",
+    "message": "打开菜单",
     "description": "The ARIA label for open button of mobile doc sidebar"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "これはリリース前の{siteTitle} {versionLabel}のドキュメントです。",
+    "message": "这是预发行版{siteTitle} {versionLabel}文档。",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "これは{siteTitle} {versionLabel}のドキュメントで現在はアクティブにメンテナンスされていません。",
+    "message": "这是一个{siteTitle} {versionLabel}文档，当前未积极维护。",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "最新のドキュメントは{latestVersionLink} ({versionLabel}) を見てください。",
+    "message": "有关最新文档，{latestVersionLink} （{versionLabel}",
     "description": "The label userd to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "最新バージョン",
+    "message": "最新版本",
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "このページを編集",
+    "message": "编辑此页面",
     "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {
-    "message": "見出しへの直接リンク",
+    "message": "直接连结至标题",
     "description": "Title for link to heading"
   },
   "theme.lastUpdated.atDate": {
-    "message": "{date}に",
+    "message": "在{date}",
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
-    "message": "{user}が",
+    "message": "{user}是",
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "{atDate}{byUser}最終更新",
+    "message": "{atDate}{byUser}最近更新",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.common.skipToMainContent": {
-    "message": "メインコンテンツまでスキップ",
+    "message": "跳到主内容",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "general.easy": {
-    "message": "あー簡単！"
+    "message": "容易啊！"
   },
   "general.easy-body": {
-    "message": "ドキュサウルスを使っているので、めんどくさいサーバーとかのセットアップは不要です。"
+    "message": "由于我使用的是Docusaurus，因此无需设置麻烦的服务器。"
   },
   "general.md": {
-    "message": "Markdownで書ける！"
+    "message": "您可以用Markdown编写！"
   },
   "general.mdt-body": {
-    "message": "docsフォルダにMarkdownを入れるだけでページを作れます。GitHubから直接作ってOK!"
+    "message": "您可以通过将Markdown放在docs文件夹中来创建页面。您可以直接从GitHub制作！"
   },
   "general.react": {
-    "message": "Reactでできているよ"
+    "message": "它是由React制成的"
   },
   "general.react-body": {
-    "message": "Reactでできているので、拡張性も最高! とはいえあんまカスタムする予定はなし。"
+    "message": "它是由React制成的，因此具有很高的可扩展性！但是，我没有自定义它的计划。"
   },
   "general.crowdin": {
     "message": "翻訳に協力する"
