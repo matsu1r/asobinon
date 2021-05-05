@@ -1,0 +1,38 @@
+{
+  "link.title.ドキュメント": {
+    "message": "ドキュメント",
+    "description": "The title of the footer links column with title=ドキュメント in the footer"
+  },
+  "link.title.SNS": {
+    "message": "SNS",
+    "description": "The title of the footer links column with title=SNS in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Contentful編": {
+    "message": "Contentful編",
+    "description": "The label of footer link with label=Contentful編 linking to /docs/contentful/intro"
+  },
+  "link.item.label.クライアント編": {
+    "message": "クライアント編",
+    "description": "The label of footer link with label=クライアント編 linking to /docs/client/intro"
+  },
+  "link.item.label.バックエンド編": {
+    "message": "バックエンド編",
+    "description": "The label of footer link with label=バックエンド編 linking to /docs/backend/intro"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/sasigume"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/sasigume"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 sasigume. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
