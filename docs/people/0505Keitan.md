@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# sasigume {#people-sasigume}
+# 0505Keitan {#people-0505Keitan}
 
 準備中

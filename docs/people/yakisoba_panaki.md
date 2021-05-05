@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# 0505Keitan {#people-0505Keitan}
+# yakisoba_panaki {#people-yakisoba_panaki}
 
 準備中

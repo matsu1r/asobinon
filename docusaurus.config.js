@@ -133,20 +133,20 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: ({ locale }) => {
+          editUrl: ({ locale, versionDocsDirPath, docPath }) => {
             if (locale !== DefaultLocale) {
               return `https://crowdin.com/project/napoancom-docs-saurus2021/${locale}`;
             }
-            return 'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/';
+            return `https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/${versionDocsDirPath}/${docPath}`;
           },
         },
         blog: {
           showReadingTime: true,
-          editUrl: ({ locale }) => {
+          editUrl: ({ locale, blogDirPath, blogPath }) => {
             if (locale !== DefaultLocale) {
               return `https://crowdin.com/project/napoancom-docs-saurus2021/${locale}`;
             }
-            return 'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog/';
+            return `https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/${blogDirPath}/${blogPath}`;
           },
         },
         theme: {

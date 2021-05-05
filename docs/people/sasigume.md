@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# yakisoba_panaki {#people-yakisoba_panaki}
+# sasigume {#people-sasigume}
 
 準備中
