@@ -24,7 +24,7 @@ module.exports = {
   projectName: 'projectnapoancom-docs-saurus2021',
   themeConfig: {
     navbar: {
-      title: process.env.SITE_NAME,
+      title: 'ナポアンのマイクラMD',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -75,8 +75,12 @@ module.exports = {
               to: '/docs/admin/contentful/intro',
             },
             {
-              label: 'クライアント',
-              to: '/docs/admin/client/intro',
+              label: 'クライアント(Next)',
+              to: '/docs/admin/client/next-2021/intro',
+            },
+            {
+              label: 'クライアント(WP)',
+              to: '/docs/admin/client/wordpress/intro',
             },
             {
               label: 'バックエンド',
@@ -100,7 +104,7 @@ module.exports = {
               to: '/docs/join/intro',
             },
             {
-              label: '記事',
+              label: '記事のバックアップ',
               to: '/docs/posts/intro',
             },
           ],
