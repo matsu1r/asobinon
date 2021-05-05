@@ -1,9 +1,30 @@
 {
+  "general.easy": {
+    "message": "容易啊！"
+  },
+  "general.easy-body": {
+    "message": "由于我使用的是Docusaurus，因此无需设置麻烦的服务器。"
+  },
+  "general.md": {
+    "message": "您可以用Markdown编写！"
+  },
+  "general.mdt-body": {
+    "message": "您可以通过将Markdown放在docs文件夹中来创建页面。您可以直接从GitHub制作！"
+  },
+  "general.react": {
+    "message": "它是由React制成的"
+  },
+  "general.react-body": {
+    "message": "它是由React制成的，因此具有很高的可扩展性！但是，我没有自定义它的计划。"
+  },
   "general.title": {
     "message": "Napoan no Maikura MD"
   },
   "general.howtoedit": {
     "message": "了解如何编辑"
+  },
+  "general.crowdin": {
+    "message": "协助翻译"
   },
   "general.message": {
     "message": "该文档可自由编辑。按下每页上的编辑按钮！"
@@ -163,26 +184,5 @@
   "theme.common.skipToMainContent": {
     "message": "跳到主内容",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-  },
-  "general.easy": {
-    "message": "容易啊！"
-  },
-  "general.easy-body": {
-    "message": "由于我使用的是Docusaurus，因此无需设置麻烦的服务器。"
-  },
-  "general.md": {
-    "message": "您可以用Markdown编写！"
-  },
-  "general.mdt-body": {
-    "message": "您可以通过将Markdown放在docs文件夹中来创建页面。您可以直接从GitHub制作！"
-  },
-  "general.react": {
-    "message": "它是由React制成的"
-  },
-  "general.react-body": {
-    "message": "它是由React制成的，因此具有很高的可扩展性！但是，我没有自定义它的计划。"
-  },
-  "general.crowdin": {
-    "message": "翻訳に協力する"
   }
 }

@@ -1,9 +1,30 @@
 {
+  "general.easy": {
+    "message": "あー簡単！"
+  },
+  "general.easy-body": {
+    "message": "ドキュサウルスを使っているので、めんどくさいサーバーとかのセットアップは不要です。"
+  },
+  "general.md": {
+    "message": "Markdownで書ける！"
+  },
+  "general.mdt-body": {
+    "message": "docsフォルダにMarkdownを入れるだけでページを作れます。GitHubから直接作ってOK!"
+  },
+  "general.react": {
+    "message": "Reactでできているよ"
+  },
+  "general.react-body": {
+    "message": "Reactでできているので、拡張性も最高! とはいえあんまカスタムする予定はなし。"
+  },
   "general.title": {
     "message": "ナポアンのマイクラMD"
   },
   "general.howtoedit": {
     "message": "編集方法を見る"
+  },
+  "general.crowdin": {
+    "message": "翻訳に協力する"
   },
   "general.message": {
     "message": "このDocsは自由に編集可能です。各ページの編集ボタンを押してください!"
@@ -163,26 +184,5 @@
   "theme.common.skipToMainContent": {
     "message": "メインコンテンツまでスキップ",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-  },
-  "general.easy": {
-    "message": "あー簡単！"
-  },
-  "general.easy-body": {
-    "message": "ドキュサウルスを使っているので、めんどくさいサーバーとかのセットアップは不要です。"
-  },
-  "general.md": {
-    "message": "Markdownで書ける！"
-  },
-  "general.mdt-body": {
-    "message": "docsフォルダにMarkdownを入れるだけでページを作れます。GitHubから直接作ってOK!"
-  },
-  "general.react": {
-    "message": "Reactでできているよ"
-  },
-  "general.react-body": {
-    "message": "Reactでできているので、拡張性も最高! とはいえあんまカスタムする予定はなし。"
-  },
-  "general.crowdin": {
-    "message": "翻訳に協力する"
   }
 }

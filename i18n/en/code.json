@@ -1,9 +1,30 @@
 {
+  "general.easy": {
+    "message": "Ah easy!"
+  },
+  "general.easy-body": {
+    "message": "Since I am using Docusaurus, there is no need to set up a troublesome server."
+  },
+  "general.md": {
+    "message": "You can write in Markdown!"
+  },
+  "general.mdt-body": {
+    "message": "You can create a page just by putting Markdown in the docs folder. You can make it directly from GitHub!"
+  },
+  "general.react": {
+    "message": "It's made of React"
+  },
+  "general.react-body": {
+    "message": "It's made of React, so it's highly expandable! However, I have no plans to customize it."
+  },
   "general.title": {
     "message": "Napoan no Maikura MD"
   },
   "general.howtoedit": {
     "message": "See how to edit"
+  },
+  "general.crowdin": {
+    "message": "Cooperate in translation"
   },
   "general.message": {
     "message": "This Docs is freely editable. Press the edit button on each page!"
@@ -163,26 +184,5 @@
   "theme.common.skipToMainContent": {
     "message": "Skip to Main Content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-  },
-  "general.easy": {
-    "message": "Ah easy!"
-  },
-  "general.easy-body": {
-    "message": "Since I am using Docusaurus, there is no need to set up a troublesome server."
-  },
-  "general.md": {
-    "message": "You can write in Markdown!"
-  },
-  "general.mdt-body": {
-    "message": "You can create a page just by putting Markdown in the docs folder. You can make it directly from GitHub!"
-  },
-  "general.react": {
-    "message": "It's made of React"
-  },
-  "general.react-body": {
-    "message": "It's made of React, so it's highly expandable! However, I have no plans to customize it."
-  },
-  "general.crowdin": {
-    "message": "翻訳に協力する"
   }
 }

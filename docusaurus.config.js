@@ -1,5 +1,5 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-const isDev = process.env.NODE_ENV === 'development';
+const DefaultLocale = 'ja';
 
 const isDeployPreview =
   process.env.NETLIFY && process.env.CONTEXT === 'deploy-preview';
@@ -133,13 +133,21 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/',
+          editUrl: ({ locale }) => {
+            if (locale !== DefaultLocale) {
+              return `https://crowdin.com/project/napoancom-docs-saurus2021/${locale}`;
+            }
+            return 'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/';
+          },
         },
         blog: {
           showReadingTime: true,
-          editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog/',
+          editUrl: ({ locale }) => {
+            if (locale !== DefaultLocale) {
+              return `https://crowdin.com/project/napoancom-docs-saurus2021/${locale}`;
+            }
+            return 'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog/';
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
