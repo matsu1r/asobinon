@@ -1,12 +1,9 @@
 {
-  "記事の編集方法を見る": {
-    "message": "記事の編集方法を見る"
-  },
   "記事の投稿方法を見る": {
-    "message": "記事の投稿方法を見る"
+    "message": "How to post articles"
   },
   "このDocsは自由に編集可能です。各ページの編集ボタンを押してください!": {
-    "message": "このDocsは自由に編集可能です。各ページの編集ボタンを押してください!"
+    "message": "This doc is free to edit. Click \"Edit this page\" on each page!"
   },
   "theme.NotFound.title": {
     "message": "Page Not Found",
@@ -163,5 +160,8 @@
   "theme.common.skipToMainContent": {
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "ドキュメントの編集方法を見る": {
+    "message": "How to update this docs"
   }
 }

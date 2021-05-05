@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import Translate, { translate } from '@docusaurus/Translate';
+import Translate from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -19,7 +19,7 @@ function HomepageHeader() {
             className="button button--info button--lg"
             to="/docs/join/howtoedit"
           >
-            <Translate>記事の編集方法を見る</Translate>
+            <Translate>ドキュメントの編集方法を見る</Translate>
           </Link>
           <Link
             className="button button--secondary button--lg"
