@@ -104,15 +104,13 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // for-editブランチがあるから紛らわしい！
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/for-edit/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          // for-editブランチがあるから紛らわしい！
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/for-edit/blog/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/for-edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
