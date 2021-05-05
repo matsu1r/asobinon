@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Conntentful の基礎
+# Contentful の基礎 {#basic-of-contentful}
 
 準備中

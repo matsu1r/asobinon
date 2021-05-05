@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Contentful編": {
+    "message": "Contentful",
+    "description": "The label for category Contentful編 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.クライアント編": {
+    "message": "Client",
+    "description": "The label for category クライアント編 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Next.jsクライアント": {
+    "message": "Next.js Client",
+    "description": "The label for category Next.jsクライアント in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.WordPress クライアント": {
+    "message": "WordPress Client",
+    "description": "The label for category WordPress クライアント in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.バックエンド編": {
+    "message": "Backend",
+    "description": "The label for category バックエンド編 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.このドキュメントの編集方法": {
+    "message": "How to edit this docs",
+    "description": "The label for category このドキュメントの編集方法 in sidebar tutorialSidebar"
+  }
+}

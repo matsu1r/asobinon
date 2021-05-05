@@ -2,7 +2,7 @@
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
-    locales: ['ja'],
+    locales: ['ja', 'en'],
   },
   title: 'ナポアンのマイクラ管理用ドキュメント',
   tagline: 'ナポアンのマイクラを運用する時のドキュメントです',
@@ -21,6 +21,10 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+          type: 'localeDropdown',
+          position: 'left',
+        },
         {
           type: 'doc',
           docId: 'contentful/intro',

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Napoan no Maikura management document",
+    "description": "The title in the navbar"
+  },
+  "item.label.Contentful": {
+    "message": "Contentful",
+    "description": "Navbar item with label Contentful"
+  },
+  "item.label.クライアント": {
+    "message": "client",
+    "description": "Navbar item with label クライアント"
+  },
+  "item.label.バックエンド": {
+    "message": "backend",
+    "description": "Navbar item with label バックエンド"
+  },
+  "item.label.Twitter": {
+    "message": "Twitter",
+    "description": "Navbar item with label Twitter"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
