@@ -40,12 +40,6 @@ module.exports = {
           label: 'バックエンド',
         },
         {
-          type: 'doc',
-          docId: 'wordpress/intro',
-          position: 'left',
-          label: 'WordPress',
-        },
-        {
           href: `https://twitter.com/sasigume`,
           label: 'Twitter',
           position: 'right',
@@ -66,10 +60,6 @@ module.exports = {
             {
               label: 'Contentful編',
               to: '/docs/contentful/intro',
-            },
-            {
-              label: 'WordPress編',
-              to: '/docs/wordpress/intro',
             },
             {
               label: 'クライアント編',
@@ -111,13 +101,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/website/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/website/blog/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

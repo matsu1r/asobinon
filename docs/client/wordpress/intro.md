@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# WP の基礎
+# WordPressクライアントの基礎
 
 準備中
