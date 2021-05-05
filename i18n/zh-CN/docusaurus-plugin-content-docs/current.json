@@ -1,14 +1,14 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "继续",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.関わった人々": {
-    "message": "関わった人々",
+    "message": "参与人员",
     "description": "The label for category 関わった人々 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.このドキュメントの編集方法": {
-    "message": "このドキュメントの編集方法",
+    "message": "如何编辑这份文件",
     "description": "The label for category このドキュメントの編集方法 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.管理編": {
@@ -16,27 +16,27 @@
     "description": "The label for category 管理編 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Contentful編": {
-    "message": "Contentful編",
+    "message": "Contentful版",
     "description": "The label for category Contentful編 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.クライアント編": {
-    "message": "クライアント編",
+    "message": "客户版",
     "description": "The label for category クライアント編 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Next.jsクライアント": {
-    "message": "Next.jsクライアント",
+    "message": "Next.js客户端",
     "description": "The label for category Next.jsクライアント in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.WordPress クライアント": {
-    "message": "WordPress クライアント",
+    "message": "WordPress客户端",
     "description": "The label for category WordPress クライアント in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.バックエンド編": {
-    "message": "バックエンド編",
+    "message": "后端版",
     "description": "The label for category バックエンド編 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.記事のMDバージョン": {
-    "message": "記事のMDバージョン",
+    "message": "MD版文章",
     "description": "The label for category 記事のMDバージョン in sidebar tutorialSidebar"
   }
 }

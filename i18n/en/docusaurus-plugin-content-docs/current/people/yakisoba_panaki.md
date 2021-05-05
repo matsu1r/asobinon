@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# 0505Keitan {#people-0505Keitan}
+# 0505 Keitan {#people-0505Keitan}
 
-準備中
+COMING SOON

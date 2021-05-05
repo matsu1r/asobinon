@@ -4,11 +4,11 @@
     "description": "Navbar item with label 管理編"
   },
   "item.label.記事": {
-    "message": "記事",
+    "message": "详细描述",
     "description": "Navbar item with label 記事"
   },
   "item.label.関わった人々": {
-    "message": "関わった人々",
+    "message": "参与人员",
     "description": "Navbar item with label 関わった人々"
   },
   "item.label.Twitter": {

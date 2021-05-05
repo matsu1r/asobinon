@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# イントロダクション {#introduction}
+# 介绍 {#introduction}
 
-左のリンクからドキュメントを読めるよ！
+您可以从左侧的链接中阅读文档！

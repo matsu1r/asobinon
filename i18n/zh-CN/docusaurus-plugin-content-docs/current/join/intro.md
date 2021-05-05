@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# JOIN US {#joinus}
+# 加入我们 {#joinus}
 
-参加してね
+请加入我们

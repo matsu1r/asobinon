@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# 記事のMDバージョン {#posts-md}
+# MD version of the article {#posts-md}
 
-準備中
+COMING SOON
