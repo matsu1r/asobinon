@@ -40,12 +40,6 @@ module.exports = {
           label: 'バックエンド',
         },
         {
-          type: 'doc',
-          docId: 'wordpress/intro',
-          position: 'left',
-          label: 'WordPress',
-        },
-        {
           href: `https://twitter.com/sasigume`,
           label: 'Twitter',
           position: 'right',
@@ -66,10 +60,6 @@ module.exports = {
             {
               label: 'Contentful編',
               to: '/docs/contentful/intro',
-            },
-            {
-              label: 'WordPress編',
-              to: '/docs/wordpress/intro',
             },
             {
               label: 'クライアント編',
