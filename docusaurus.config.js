@@ -1,18 +1,21 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-require('dotenv').config();
 module.exports = {
-  title: process.env.SITE_NAME ?? '環境変数を設定してください',
+  i18n: {
+    defaultLocale: 'ja',
+    locales: ['ja'],
+  },
+  title: 'ナポアンのマイクラ管理用ドキュメント',
   tagline: 'ナポアンのマイクラを運用する時のドキュメントです',
-  url: process.env.HTTPS_URL ?? 'https://docs.napoan.com',
+  url: 'https://docs.napoan.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'sasigume',
-  projectName: 'projectnapoancom',
+  projectName: 'projectnapoancom-docs-saurus2021',
   themeConfig: {
     navbar: {
-      title: process.env.SITE_NAME ?? '環境変数を設定してください',
+      title: 'ナポアンのマイクラ管理用ドキュメント',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -43,12 +46,12 @@ module.exports = {
           label: 'WordPress',
         },
         {
-          href: `https://twitter.com/${process.env.TWITTER_ID}`,
+          href: `https://twitter.com/sasigume`,
           label: 'Twitter',
           position: 'right',
         },
         {
-          href: `https://github.com/${process.env.GITHUB_ID}`,
+          href: `https://github.com/sasigume`,
           label: 'GitHub',
           position: 'right',
         },
@@ -62,19 +65,19 @@ module.exports = {
           items: [
             {
               label: 'Contentful編',
-              to: '/docs/contentful',
+              to: '/docs/contentful/intro',
             },
             {
               label: 'WordPress編',
-              to: '/docs/wordpress',
+              to: '/docs/wordpress/intro',
             },
             {
               label: 'クライアント編',
-              to: '/docs/client',
+              to: '/docs/client/intro',
             },
             {
               label: 'バックエンド編',
-              to: '/docs/backend',
+              to: '/docs/backend/intro',
             },
           ],
         },
@@ -83,7 +86,7 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: `https://twitter.com/${process.env.TWITTER_ID}`,
+              href: `https://twitter.com/sasigume`,
             },
           ],
         },
@@ -92,7 +95,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: `https://github.com/${process.env.GITHUB_ID}`,
+              href: `https://github.com/sasigume`,
             },
           ],
         },
@@ -124,5 +127,4 @@ module.exports = {
       },
     ],
   ],
-  plugins: ['docusaurus2-dotenv'],
 };
