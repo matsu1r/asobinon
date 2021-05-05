@@ -7,4 +7,5 @@ with=$CROWDIN_API_TOKEN
 # this won't work on macos
 if [[ $replace != "" && $with != "" ]]; then
   sed -i "s/$replace/$with/" $filename
+  echo "Successfully copied Crowdin API Key" | tee /dev/fd/3
 fi
