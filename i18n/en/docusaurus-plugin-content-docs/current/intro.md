@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# イントロダクション {#introduction}
+# Introduction {#introduction}
 
-左のリンクからドキュメントを読めるよ！
+You can read the document from the link on the left!

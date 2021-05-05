@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# 記事を投稿する {#posting-article}
+# Posting article {#posting-article}
 
-準備中
+COMING SOON

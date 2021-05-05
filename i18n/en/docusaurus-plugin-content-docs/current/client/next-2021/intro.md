@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Next.js クライアントの基礎 {#basic-of-nextjs-client}
+# Basic of Next.js client {#basic-of-nextjs-client}
 
-準備中
+COMING SOON
