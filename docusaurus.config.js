@@ -1,10 +1,11 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+require('dotenv').config();
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
-    locales: ['ja'],
+    locales: ['ja', 'en'],
   },
-  title: 'ナポアンのマイクラ管理用ドキュメント',
+  title: process.env.SITE_NAME,
   tagline: 'ナポアンのマイクラを運用する時のドキュメントです',
   url: 'https://docs.napoan.com',
   baseUrl: '/',
@@ -15,12 +16,16 @@ module.exports = {
   projectName: 'projectnapoancom-docs-saurus2021',
   themeConfig: {
     navbar: {
-      title: 'ナポアンのマイクラ管理用ドキュメント',
+      title: process.env.SITE_NAME,
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
+        {
+          type: 'localeDropdown',
+          position: 'left',
+        },
         {
           type: 'doc',
           docId: 'contentful/intro',
@@ -99,15 +104,15 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
+          // for-editブランチがあるから紛らわしい！
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/for-edit/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
+          // for-editブランチがあるから紛らわしい！
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/for-edit/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -115,4 +120,5 @@ module.exports = {
       },
     ],
   ],
+  plugins: ['docusaurus2-dotenv'],
 };
