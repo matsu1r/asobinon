@@ -1,34 +1,39 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
-
+import Translate, { translate } from '@docusaurus/Translate';
 const FeatureList = [
   {
-    title: 'あー簡単！',
+    title: translate({ id: 'general.easy', message: 'あー簡単！' }),
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        ドキュサウルスを使っているので、めんどくさいサーバーとかのセットアップは不要です。
+        <Translate id="general.easy-body">
+          ドキュサウルスを使っているので、めんどくさいサーバーとかのセットアップは不要です。
+        </Translate>
       </>
     ),
   },
   {
-    title: 'Markdownで書ける！',
+    title: translate({ id: 'general.md', message: 'Markdownで書ける！' }),
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        <code>docs</code>{' '}
-        フォルダにMarkdownを入れるだけでページを作れます。GitHubから直接作ってOK!
+        <Translate id="general.mdt-body">
+          docsフォルダにMarkdownを入れるだけでページを作れます。GitHubから直接作ってOK!
+        </Translate>
       </>
     ),
   },
   {
-    title: 'Reactでできているよ',
+    title: translate({ id: 'general.react', message: 'Reactでできているよ' }),
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Reactでできているので、拡張性も最高!
-        とはいえあんまカスタムする予定はなし。
+        <Translate id="general.react-body">
+          Reactでできているので、拡張性も最高!
+          とはいえあんまカスタムする予定はなし。
+        </Translate>
       </>
     ),
   },

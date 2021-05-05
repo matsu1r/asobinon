@@ -1,15 +1,23 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-require('dotenv').config();
+const isDev = process.env.NODE_ENV === 'development';
+
+const isDeployPreview =
+  process.env.NETLIFY && process.env.CONTEXT === 'deploy-preview';
+
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
-    locales: ['ja', 'en'],
+    locales: isDeployPreview
+      ? // プレビュー高速化
+        ['ja']
+      : // プレビュー以外
+        ['ja', 'en', 'zh-CN'],
   },
-  title: process.env.SITE_NAME,
-  tagline: 'ナポアンのマイクラを運用する時のドキュメントです',
-  url: 'https://docs.napoan.com',
+  title: 'ナポアンのマイクラMD',
+  tagline: 'Markdown版ナポアンのマイクラです,',
+  url: 'https://md.napoan.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'sasigume',
@@ -28,21 +36,21 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'contentful/intro',
+          docId: 'admin/intro',
           position: 'left',
-          label: 'Contentful',
+          label: '管理編',
         },
         {
           type: 'doc',
-          docId: 'client/intro',
+          docId: 'posts/intro',
           position: 'left',
-          label: 'クライアント',
+          label: '記事',
         },
         {
           type: 'doc',
-          docId: 'backend/intro',
+          docId: 'people/intro',
           position: 'left',
-          label: 'バックエンド',
+          label: '関わった人々',
         },
         {
           href: `https://twitter.com/sasigume`,
@@ -50,7 +58,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: `https://github.com/sasigume`,
+          href: `https://github.com/sasigume/projectnapoancom-docs-saurus2021`,
           label: 'GitHub',
           position: 'right',
         },
@@ -60,19 +68,40 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'ドキュメント',
+          title: '管理編',
           items: [
             {
-              label: 'Contentful編',
-              to: '/docs/contentful/intro',
+              label: 'Contentful',
+              to: '/docs/admin/contentful/intro',
             },
             {
-              label: 'クライアント編',
-              to: '/docs/client/intro',
+              label: 'クライアント',
+              to: '/docs/admin/client/intro',
             },
             {
-              label: 'バックエンド編',
-              to: '/docs/backend/intro',
+              label: 'バックエンド',
+              to: '/docs/admin/backend/intro',
+            },
+          ],
+        },
+        {
+          title: 'その他',
+          items: [
+            {
+              label: 'ブログ',
+              to: '/blog',
+            },
+            {
+              label: '関わった人',
+              to: '/docs/people/intro',
+            },
+            {
+              label: '貢献する',
+              to: '/docs/join/intro',
+            },
+            {
+              label: '記事',
+              to: '/docs/posts/intro',
             },
           ],
         },
@@ -90,12 +119,12 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: `https://github.com/sasigume`,
+              href: `https://github.com/sasigume/projectnapoancom-docs-saurus2021`,
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} sasigume. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Aelyone. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -110,7 +139,7 @@ module.exports = {
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/for-edit/main/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -118,5 +147,4 @@ module.exports = {
       },
     ],
   ],
-  plugins: ['docusaurus2-dotenv'],
 };

@@ -12,24 +12,20 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">
-          <Translate id="general.title">
-            ナポアンのマイクラ 管理用Wiki
-          </Translate>
+          <Translate id="general.title">ナポアンのマイクラMD</Translate>
         </h1>
         <div className={styles.buttons}>
           <Link
             className="button button--info button--lg"
             to="/docs/join/howtoedit"
           >
-            <Translate id="general.howtoedit">
-              ドキュメントの編集方法を見る
-            </Translate>
+            <Translate id="general.howtoedit">編集方法を見る</Translate>
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="https://crowdin.com/project/napoancom-docs-saurus2021"
           >
-            <Translate id="general.howtopost">記事の投稿方法を見る</Translate>
+            <Translate id="general.crowdin">翻訳に協力する</Translate>
           </Link>
         </div>
         <div className="alert alert--success" role="alert">
