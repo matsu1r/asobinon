@@ -5,31 +5,35 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import Translate, { translate } from '@docusaurus/Translate';
+import Translate from '@docusaurus/Translate';
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">
+          <Translate id="general.title">
+            ナポアンのマイクラ 管理用Wiki
+          </Translate>
+        </h1>
         <div className={styles.buttons}>
           <Link
             className="button button--info button--lg"
             to="/docs/join/howtoedit"
           >
-            <Translate>記事の編集方法を見る</Translate>
+            <Translate id="general.howtoedit">
+              ドキュメントの編集方法を見る
+            </Translate>
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            <Translate>記事の投稿方法を見る</Translate>
+            <Translate id="general.howtopost">記事の投稿方法を見る</Translate>
           </Link>
         </div>
         <div className="alert alert--success" role="alert">
-          <Translate>
+          <Translate id="general.message">
             このDocsは自由に編集可能です。各ページの編集ボタンを押してください!
           </Translate>
         </div>
