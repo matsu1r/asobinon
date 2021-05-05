@@ -100,9 +100,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ${
-        process.env.COPYRIGHT
-      } Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} sasigume. Built with Docusaurus.`,
     },
   },
   presets: [
