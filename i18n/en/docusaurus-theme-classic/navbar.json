@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Napoan no Maikura management docs",
+    "message": "ナポアンのマイクラ管理用ドキュメント",
     "description": "The title in the navbar"
   },
   "item.label.Contentful": {
@@ -8,11 +8,11 @@
     "description": "Navbar item with label Contentful"
   },
   "item.label.クライアント": {
-    "message": "client",
+    "message": "クライアント",
     "description": "Navbar item with label クライアント"
   },
   "item.label.バックエンド": {
-    "message": "backend",
+    "message": "バックエンド",
     "description": "Navbar item with label バックエンド"
   },
   "item.label.Twitter": {

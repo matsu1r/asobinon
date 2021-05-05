@@ -27,6 +27,22 @@ function HomepageHeader() {
           >
             <Translate>記事の投稿方法を見る</Translate>
           </Link>
+          <Translate
+            // id="homepage.visitMyBlog"
+            description="ブログへのリンク"
+            values={{
+              blog: (
+                <Link
+                  style={{ color: 'white' }}
+                  to="https://docusaurus.io/blog"
+                >
+                  ブログ
+                </Link>
+              ),
+            }}
+          >
+            {'ブログはこちら: {blog}'}
+          </Translate>
         </div>
         <div className="alert alert--success" role="alert">
           <Translate>
