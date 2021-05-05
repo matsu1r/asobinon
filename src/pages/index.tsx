@@ -8,44 +8,32 @@ import HomepageFeatures from '../components/HomepageFeatures';
 import Translate from '@docusaurus/Translate';
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">
+          <Translate id="general.title">
+            ナポアンのマイクラ 管理用Wiki
+          </Translate>
+        </h1>
         <div className={styles.buttons}>
           <Link
             className="button button--info button--lg"
             to="/docs/join/howtoedit"
           >
-            <Translate>ドキュメントの編集方法を見る</Translate>
+            <Translate id="general.howtoedit">
+              ドキュメントの編集方法を見る
+            </Translate>
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            <Translate>記事の投稿方法を見る</Translate>
+            <Translate id="general.howtopost">記事の投稿方法を見る</Translate>
           </Link>
-          <Translate
-            // id="homepage.visitMyBlog"
-            description="ブログへのリンク"
-            values={{
-              blog: (
-                <Link
-                  style={{ color: 'white' }}
-                  to="https://docusaurus.io/blog"
-                >
-                  ブログ
-                </Link>
-              ),
-            }}
-          >
-            {'ブログはこちら: {blog}'}
-          </Translate>
         </div>
         <div className="alert alert--success" role="alert">
-          <Translate>
+          <Translate id="general.message">
             このDocsは自由に編集可能です。各ページの編集ボタンを押してください!
           </Translate>
         </div>

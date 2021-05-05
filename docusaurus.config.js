@@ -1,10 +1,11 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+require('dotenv').config();
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja', 'en'],
   },
-  title: 'ナポアンのマイクラ管理用ドキュメント',
+  title: process.env.SITE_NAME,
   tagline: 'ナポアンのマイクラを運用する時のドキュメントです',
   url: 'https://docs.napoan.com',
   baseUrl: '/',
@@ -15,7 +16,7 @@ module.exports = {
   projectName: 'projectnapoancom-docs-saurus2021',
   themeConfig: {
     navbar: {
-      title: 'ナポアンのマイクラ管理用ドキュメント',
+      title: process.env.SITE_NAME,
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -119,4 +120,5 @@ module.exports = {
       },
     ],
   ],
+  plugins: ['docusaurus2-dotenv'],
 };

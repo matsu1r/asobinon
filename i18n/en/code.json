@@ -1,15 +1,14 @@
 {
-  "ドキュメントの編集方法を見る": {
+  "general.title": {
+    "message": "Napoan no Maikura Management Wiki"
+  },
+  "general.howtoedit": {
     "message": "See how to edit a document"
   },
-  "記事の投稿方法を見る": {
+  "general.howtopost": {
     "message": "See how to post an article"
   },
-  "ブログはこちら: {blog}": {
-    "message": "Click here for the blog: {blog}",
-    "description": "ブログへのリンク"
-  },
-  "このDocsは自由に編集可能です。各ページの編集ボタンを押してください!": {
+  "general.message": {
     "message": "This Docs is freely editable. Press the edit button on each page!"
   }
 }
