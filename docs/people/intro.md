@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 関わった人々一覧 {#people-intro}
-* [sasigume](https://md.napoan.com/docs/people/sasigume/) - サイトの主でナポアンの中身。大学生。
+* [sasigume](sasigume) - サイトの主でナポアンの中身。大学生。
 * [0505Keitan](https://md.napoan.com/docs/people/0505Keitan/) - 東京在住のプログラマー大学生。
 * [Aru](https://md.napoan.com/docs/people/aru/) - ナポアンのマイクラ編集者。高校生。
 * [shiftkey](https://md.napoan.com/docs/people/shiftkey/) - ナポアンサーバーの鯖主。
