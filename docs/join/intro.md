@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# JOIN US {#joinus}
+# MD版自体の編集方法 {#joinus}
 
-参加してね
+下のボタンから編集できるよ

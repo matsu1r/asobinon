@@ -39,9 +39,10 @@ module.exports = {
           label: 'ブログ',
         },
         {
-          to: '/docs',
-          label: 'Docs',
+          to: '/docs/intro',
+          label: 'ドキュメント',
         },
+
         {
           href: `https://twitter.com/sasigume`,
           label: 'Twitter',
@@ -57,6 +58,40 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
+        {
+          title: 'サイトマップ',
+          items: [
+            {
+              to: '/blog',
+              label: 'ブログ',
+            },
+            {
+              to: '/docs/intro',
+              label: 'ドキュメント',
+            },
+          ],
+        },
+        {
+          title: 'ドキュメント',
+          items: [
+            {
+              to: '/docs/admin/intro',
+              label: '更新方法',
+            },
+            {
+              to: '/docs/people/intro',
+              label: 'メンバー',
+            },
+            {
+              to: '/docs/posts/intro',
+              label: '記事',
+            },
+            {
+              to: '/docs/join/intro',
+              label: 'このサイトの編集',
+            },
+          ],
+        },
         {
           title: 'Links',
           items: [
