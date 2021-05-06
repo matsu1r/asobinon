@@ -6,6 +6,8 @@ sidebar_position: 3
 
 ![ある](https://i.imgur.com/DF7MbAH.png)
 
+Twitter:[@MC_AruBlog](https://twitter.com/MC_AruBlog "Twitterアカウント")
+
 富山県出身。小学生の頃、Wiki編集に興味を持つ。プログラミングは未経験だったがWikiの編集で多少の知識は自然に学んでいる。しかし、本格的には学んでいないため、まだまだ知識は乏しい。
 
 Minecraftは初期あたりから遊んでおり、実は古参だが最近はあまり遊べていないため、アップデートに追いついて行けてない。
