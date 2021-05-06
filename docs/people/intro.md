@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # 関わった人々一覧 {#people-intro}
+
 * [sasigume](sasigume) - サイトの主でナポアンの中身。大学生。
 * [0505Keitan](0505Keitan) - 東京在住のプログラマー大学生。
 * [Aru](aru) - ナポアンのマイクラ編集者。高校生。
