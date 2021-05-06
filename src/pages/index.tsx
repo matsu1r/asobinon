@@ -8,21 +8,19 @@ import HomepageFeatures from '../components/HomepageFeatures';
 import Translate from '@docusaurus/Translate';
 
 function HomepageHeader() {
+  const { siteConfig } = useDocusaurusContext();
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">
-          <Translate id="general.title">ナポアンのマイクラMD</Translate>
+          <Translate id="general.title">{siteConfig.title}</Translate>
         </h1>
+        <div className="hero__subtitle">{siteConfig.tagline}</div>
         <div className={styles.buttons}>
           <Link className="button button--info button--lg" to="/docs/intro">
             <Translate id="general.intro">イントロダクション</Translate>
           </Link>
-        </div>
-        <div className="alert alert--success" role="alert">
-          <Translate id="general.message">
-            このDocsは自由に編集可能です。各ページの編集ボタンを押してください!
-          </Translate>
         </div>
       </div>
     </header>
@@ -34,7 +32,7 @@ export default function Home() {
   return (
     <Layout title={`${siteConfig.title}`} description={`${siteConfig.tagline}`}>
       <HomepageHeader />
-      <main>
+      <main className="container">
         <HomepageFeatures />
       </main>
     </Layout>

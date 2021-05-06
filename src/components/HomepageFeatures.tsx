@@ -4,30 +4,30 @@ import styles from './HomepageFeatures.module.css';
 import Translate, { translate } from '@docusaurus/Translate';
 const FeatureList = [
   {
-    title: translate({ id: 'general.easy', message: 'あー簡単！' }),
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: translate({
+      id: 'general.easy',
+      message: '全てをGitHubでトラッキング',
+    }),
     description: (
       <>
         <Translate id="general.easy-body">
-          ドキュサウルスを使っているので、めんどくさいサーバーとかのセットアップは不要です。
+          このサイトの更新履歴は、全てGitHubに記録されます。
         </Translate>
       </>
     ),
   },
   {
     title: translate({ id: 'general.md', message: 'Markdownで書ける！' }),
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         <Translate id="general.mdt-body">
-          docsフォルダにMarkdownを入れるだけでページを作れます。GitHubから直接作ってOK!
+          Markdownだけでページを作れます。GitHubから直接作ってOK!
         </Translate>
       </>
     ),
   },
   {
     title: translate({ id: 'general.react', message: 'Reactでできているよ' }),
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         <Translate id="general.react-body">
@@ -39,15 +39,10 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ title, description }) {
   return (
     <div className={clsx('col col--4')}>
-      {Svg && (
-        <div className="text--center">
-          <Svg className={styles.featureSvg} alt={title} />
-        </div>
-      )}
-      <div className="text--center padding-horiz--md">
+      <div className="padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
       </div>

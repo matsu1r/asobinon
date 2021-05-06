@@ -10,7 +10,7 @@ module.exports = {
     locales: ['ja'],
   },
   title: 'ナポアンのマイクラMD',
-  tagline: 'Markdown版ナポアンのマイクラです,',
+  tagline: '全てを記録。公開。全く新しい形のマイクラ攻略',
   url: 'https://md.napoan.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -37,15 +37,19 @@ module.exports = {
           to: '/docs/intro',
           label: 'ドキュメント',
         },
-
         {
-          href: `https://twitter.com/sasigume`,
-          label: 'Twitter',
+          to: '/eula',
+          label: '利用規約',
+          position: 'right',
+        },
+        {
+          to: '/privacy-policy',
+          label: 'プライバシーポリシー',
           position: 'right',
         },
         {
           href: `https://github.com/sasigume/projectnapoancom-docs-saurus2021`,
-          label: 'GitHub',
+          label: 'レポジトリ',
           position: 'right',
         },
       ],
@@ -63,6 +67,14 @@ module.exports = {
             {
               to: '/docs/intro',
               label: 'ドキュメント',
+            },
+            {
+              to: '/eula',
+              label: '利用規約',
+            },
+            {
+              to: '/privacy-policy',
+              label: 'プライバシーポリシー',
             },
           ],
         },
