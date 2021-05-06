@@ -123,12 +123,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/edit-this-branch/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog',
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/edit-this-branch/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
