@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 関わった人々一覧 {#people-intro}
+# どんな人が関わっているの?
 
 * [sasigume](/docs/people/sasigume) - サイトの主でナポアンの中身。大学生。
 * [0505Keitan](/docs/people/0505Keitan) - 東京在住のプログラマー大学生。
