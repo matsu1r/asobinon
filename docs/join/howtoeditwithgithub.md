@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # GitHubを使った編集方法 {#howto-edit-this-docs}
