@@ -35,22 +35,12 @@ module.exports = {
           position: 'left',
         },
         {
-          type: 'doc',
-          docId: 'admin/intro',
-          position: 'left',
-          label: '管理編',
+          to: '/blog',
+          label: 'ブログ',
         },
         {
-          type: 'doc',
-          docId: 'posts/intro',
-          position: 'left',
-          label: '記事',
-        },
-        {
-          type: 'doc',
-          docId: 'people/intro',
-          position: 'left',
-          label: '関わった人々',
+          to: '/docs',
+          label: 'Docs',
         },
         {
           href: `https://twitter.com/sasigume`,
@@ -68,59 +58,12 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: '管理編',
-          items: [
-            {
-              label: 'Contentful',
-              to: '/docs/admin/contentful/intro',
-            },
-            {
-              label: 'クライアント(Next)',
-              to: '/docs/admin/client/next-2021/intro',
-            },
-            {
-              label: 'クライアント(WP)',
-              to: '/docs/admin/client/wordpress/intro',
-            },
-            {
-              label: 'バックエンド',
-              to: '/docs/admin/backend/intro',
-            },
-          ],
-        },
-        {
-          title: 'その他',
-          items: [
-            {
-              label: 'ブログ',
-              to: '/blog',
-            },
-            {
-              label: '関わった人',
-              to: '/docs/people/intro',
-            },
-            {
-              label: '貢献する',
-              to: '/docs/join/intro',
-            },
-            {
-              label: '記事のバックアップ',
-              to: '/docs/posts/intro',
-            },
-          ],
-        },
-        {
-          title: 'SNS',
+          title: 'Links',
           items: [
             {
               label: 'Twitter',
               href: `https://twitter.com/sasigume`,
             },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
             {
               label: 'GitHub',
               href: `https://github.com/sasigume/projectnapoancom-docs-saurus2021`,
