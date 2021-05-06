@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 技術・運営・管理ガイド {#admin-tech-intro}
+# 管理・技術・運営ガイド
 
 このセクションには、
 

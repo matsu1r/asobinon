@@ -26,12 +26,12 @@ module.exports = {
       },
       items: [
         {
-          to: '/blog',
+          to: '/docs/about',
           label: 'ブログ',
         },
         {
-          to: '/docs/intro',
-          label: 'ドキュメント',
+          to: '/docs/about/intro',
+          label: 'ナポアンのマイクラ大辞典',
         },
         {
           to: '/docs/people/intro',
