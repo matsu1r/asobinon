@@ -24,7 +24,7 @@ sidebar_position: 0
 
 :::info
 
-ドメインの変遷については、[ナポアンのマイクラの歴史](docs/about/history)をご覧ください。
+ドメインの変遷については、[ナポアンのマイクラの歴史](/docs/about/history)をご覧ください。
 
 :::
 
