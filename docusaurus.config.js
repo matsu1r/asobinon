@@ -1,8 +1,4 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-const DefaultLocale = 'ja';
-
-const isDeployPreview =
-  process.env.NETLIFY && process.env.CONTEXT === 'deploy-preview';
 
 module.exports = {
   i18n: {
@@ -36,6 +32,10 @@ module.exports = {
         {
           to: '/docs/intro',
           label: 'ドキュメント',
+        },
+        {
+          to: '/docs/people/intro',
+          label: 'メンバー',
         },
         {
           to: '/eula',
@@ -82,8 +82,8 @@ module.exports = {
           title: 'ドキュメント',
           items: [
             {
-              to: '/docs/admin/intro',
-              label: '更新方法',
+              to: '/docs/admin-tech/intro',
+              label: '技術的な解説',
             },
             {
               to: '/docs/people/intro',
@@ -91,11 +91,11 @@ module.exports = {
             },
             {
               to: '/docs/posts/intro',
-              label: '記事',
+              label: '記事のバックアップ',
             },
             {
-              to: '/docs/join/intro',
-              label: 'このサイトの編集',
+              to: '/docs/howtoeditmdver/intro',
+              label: 'このサイトの編集方法',
             },
           ],
         },

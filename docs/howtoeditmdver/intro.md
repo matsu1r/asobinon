@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# ナポアンのマイクラMDの編集方法 {#joinus}
+# このセクションについて
 
 このサイトは`Docusaurus`というドキュメント作成ツールを使っています。
 

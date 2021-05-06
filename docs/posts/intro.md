@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# 記事のMDバージョン {#posts-md}
+# このセクションについて {#posts-md}
 
-準備中
+あくまでバックアップ目的です。
