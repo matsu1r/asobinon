@@ -1,6 +1,6 @@
 {
   "name": "projectnapoancom-docs-saurus2021",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -11,12 +11,9 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids",
-    "crowdin": "crowdin",
-    "crowdin:sync": "bash predeploy.sh && docusaurus write-translations ; crowdin upload ; crowdin download"
+    "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@crowdin/cli": "3",
     "@docusaurus/core": "2.0.0-alpha.75",
     "@docusaurus/preset-classic": "2.0.0-alpha.75",
     "@mdx-js/react": "^1.6.21",

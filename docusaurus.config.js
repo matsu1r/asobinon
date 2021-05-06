@@ -7,11 +7,7 @@ const isDeployPreview =
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
-    locales: isDeployPreview
-      ? // プレビュー高速化
-        ['ja']
-      : // プレビュー以外
-        ['ja', 'en', 'zh-CN'],
+    locales: ['ja'],
   },
   title: 'ナポアンのマイクラMD',
   tagline: 'Markdown版ナポアンのマイクラです,',
@@ -30,10 +26,6 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'localeDropdown',
-          position: 'left',
-        },
         {
           to: '/blog',
           label: 'ブログ',
@@ -115,21 +107,13 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: ({ locale, versionDocsDirPath, docPath }) => {
-            if (locale !== DefaultLocale) {
-              return `https://crowdin.com/project/napoancom-docs-saurus2021/${locale}`;
-            }
-            return `https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/${versionDocsDirPath}/${docPath}`;
-          },
+          editUrl:
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: ({ locale, blogDirPath, blogPath }) => {
-            if (locale !== DefaultLocale) {
-              return `https://crowdin.com/project/napoancom-docs-saurus2021/${locale}`;
-            }
-            return `https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/${blogDirPath}/${blogPath}`;
-          },
+          editUrl:
+            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

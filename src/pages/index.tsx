@@ -21,12 +21,6 @@ function HomepageHeader() {
           >
             <Translate id="general.howtoedit">編集方法を見る</Translate>
           </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="https://crowdin.com/project/napoancom-docs-saurus2021"
-          >
-            <Translate id="general.crowdin">翻訳に協力する</Translate>
-          </Link>
         </div>
         <div className="alert alert--success" role="alert">
           <Translate id="general.message">
