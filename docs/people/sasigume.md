@@ -4,4 +4,10 @@ sidebar_position: 2
 
 # sasigume {#people-sasigume}
 
-準備中
+ここで **書ける** んだぜ
+
+- リスト
+- も
+- こんな風に
+
+- [ ] チェック
