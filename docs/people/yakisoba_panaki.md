@@ -4,7 +4,11 @@ sidebar_position: 3
 
 # yakisoba_panaki {#people-yakisoba_panaki}
 
+Twitter: [@yakisoba_panaki](https://twitter.com/yakisoba_panaki "Twitterアカウント")
+
 大阪府出身。幼稚園年長の頃からパソコンを触り始める。
 小学3年生から中学2年生までプログラミングを学んでいたが、飽きたため現在はほとんどやっていない。
-YouTubeチャンネル「Yakipana」では、ナポアンの顔を加工した動画を多数投稿しており、パッと見ナポアンのアンチのように思えるが
-実は熱心なファンであり、2021年5月現在、ナポアンサーバーのメンバーでは唯一本人とエンカしている。
+
+YouTubeチャンネル「Yakipana」では、ナポアンの顔を加工した動画を多数投稿している。
+
+2021年5月現在、ナポアンサーバーのメンバーでは唯一本人とエンカしている。
