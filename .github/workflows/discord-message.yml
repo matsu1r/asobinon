@@ -1,0 +1,15 @@
+- name: Discord Message Notify
+  uses: appleboy/discord-action@0.0.3
+  on: [push]
+  jobs:
+    build:
+      name: Build
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@master
+        - name: send custom message with args
+          uses: appleboy/discord-action@master
+          with:
+            webhook_id: ${{ secrets.WEBHOOK_ID }}
+            webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
+            args: ${{ github.event_name }} がトリガーされたよ！サイトが更新されるまで、1分ぐらい時間がかかるから、ちょっと待ってね！(一気に編集したいならテキストエディタを使ってね。)
