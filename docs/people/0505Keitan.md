@@ -6,4 +6,4 @@ sidebar_position: 2
 
 Twitter: [@0505Keitan](https://twitter.com/0505Keitan "Twitterアカウント")
 
-N高等学校卒業生。
+東京都在住。EXR-Network運営補佐。2021年にN高等学校を卒業。
