@@ -19,6 +19,9 @@ module.exports = {
   organizationName: 'sasigume',
   projectName: 'projectnapoancom-docs-saurus2021',
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-182248553-8',
+    },
     navbar: {
       title: 'ナポアンのマイクラMD',
       logo: {
