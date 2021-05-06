@@ -15,11 +15,8 @@ function HomepageHeader() {
           <Translate id="general.title">ナポアンのマイクラMD</Translate>
         </h1>
         <div className={styles.buttons}>
-          <Link
-            className="button button--info button--lg"
-            to="/docs/join/howtoedit"
-          >
-            <Translate id="general.howtoedit">編集方法を見る</Translate>
+          <Link className="button button--info button--lg" to="/docs/intro">
+            <Translate id="general.intro">イントロダクション</Translate>
           </Link>
         </div>
         <div className="alert alert--success" role="alert">
