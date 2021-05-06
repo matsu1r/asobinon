@@ -3,7 +3,8 @@ sidebar_position: 5
 ---
 
 # yakisoba_panaki {#people-yakisoba_panaki}
-![アイコン](https://imgur.com/Cjh0T3n.png)
+<img src="https://imgur.com/Cjh0T3n.png" width="100px" height="auto" />
+↑かわいい
 
 ## Profile
 
