@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # yakisoba_panaki {#people-yakisoba_panaki}
-![アイコン](https://imgur.com/Cjh0T3n)
+![アイコン](https://imgur.com/Cjh0T3n.png)
 
 ## Profile
 大阪府出身。幼稚園年長の頃からパソコンを触り始める。
