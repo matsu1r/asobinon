@@ -42,6 +42,14 @@ https://console.cloud.google.com/marketplace/product/bitnami-launchpad/wordpress
 
 ログイン画面が表示されたら成功です。
 
+先程のデプロイ完了画面に、`Admin user`と`Admin password`がありますから、それを使ってログインしましょう。
+
+![動作確認できた](https://storage.googleapis.com/public-napoancom-data/napoancom-md/deployed3.png)
+
+WordPressの管理画面が表示されたはずです。
+
+次のページでは、このWordPressに静的なIPアドレスを設定し、CloudFlareでキャッシュします。
+
 ---
 
 ## 参考
