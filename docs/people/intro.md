@@ -6,7 +6,7 @@ sidebar_position: 1
 
 * [sasigume](/docs/people/sasigume) - サイトの主でナポアンの中身。大学生。
 * [0505Keitan](/docs/people/0505Keitan) - 東京在住のプログラマー大学生。
-* [Aru](/docs/people/aru) - ナポアンのマイクラ編集者。高校生。
+* [ある](/docs/people/aru) - ナポアンのマイクラ編集者。高校生。
 * [shiftkey](/docs/people/shiftkey) - ナポアンサーバーの鯖主。高校生。
 * [yakisoba_panaki](/docs/people/yakisoba_panaki) - 大阪の鉄道オタク。ナポ鯖古参
 * [mametaku](/docs/people/mametaku) - 作曲が趣味の高校生。千葉県民。
