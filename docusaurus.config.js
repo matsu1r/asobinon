@@ -136,12 +136,20 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/edit-this-branch/',
         },
         blog: {
           showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Aelyone.`,
+          },
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '全ての投稿',
           editUrl:
             'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/edit-this-branch/blog',
         },
