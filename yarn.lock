@@ -1603,6 +1603,11 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.12.tgz#431ec342a7195622f86688bbda82e3166ce8cb28"
   integrity sha512-6RglhutqrGFMO1MNUXp95RBuYIuc8wTnMAV5MUhLmjTOy78ncwOw7RgeQ/HeymkKXRhZd0s2DNrM1rL7unk3MQ==
 
+"@saucelabs/theme-github-codeblock@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@saucelabs/theme-github-codeblock/-/theme-github-codeblock-0.0.4.tgz#4e31c3a878ddc605644ff2bbed1f12d7de5691c6"
+  integrity sha512-Sq7803sunk4ba5178zrVdWMrdDw7qrOglmWJ48rB9AR8XluxXFz6TpGkqiC9hUotCILKaj1lvktDgHdVfhEGcw==
+
 "@sideway/address@^4.1.0":
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/@sideway/address/-/address-4.1.2.tgz#811b84333a335739d3969cfc434736268170cad1"
