@@ -14,6 +14,8 @@ sidebar_position: 0
 
 こちらの動画を見れば、大体参加方法がわかります。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gF0Ooe1F6aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+import YoutubeEmbed from '/src/components/youtube-embed'
 
-見れない方はこちら→ https://www.youtube.com/embed/gF0Ooe1F6aI
+<YoutubeEmbed id="gF0Ooe1F6aI" />
+
+見れない方は[こちら](https://www.youtube.com/watch?v=gF0Ooe1F6aI)

@@ -9,4 +9,4 @@ sidebar_position: 1
 - https://next.napoan.com
 - https://napoan.com
 
-の更新方法が書かれています。**MD版は [こちら](/docs/howtoeditmdver/intro) を参照してください。**
+の更新方法が書かれています。**MD版は [こちら](/docs/howtoedit/intro) を参照してください。**
