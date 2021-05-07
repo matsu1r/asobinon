@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# このセクションについて
+# ナポクラ関連の情報をまとめました
 
 ![Logo](/img/ogp/logo-ogp.png)
 
