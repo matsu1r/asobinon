@@ -13,7 +13,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'sasigume',
-  projectName: 'projectnapoancom-docs-saurus2021',
+  projectName: 'napoancom-md',
   themeConfig: {
     googleAnalytics: {
       trackingID: 'UA-182248553-8',
@@ -63,7 +63,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: `https://github.com/sasigume/projectnapoancom-docs-saurus2021`,
+          href: `https://github.com/sasigume/napoancom-md`,
           label: 'レポジトリ',
           position: 'right',
         },
@@ -123,7 +123,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: `https://github.com/sasigume/projectnapoancom-docs-saurus2021`,
+              href: `https://github.com/sasigume/napoancom-md`,
             },
           ],
         },
@@ -140,7 +140,7 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/edit-this-branch/',
+            'https://github.com/sasigume/napoancom-md/edit/edit-this-branch/',
         },
         blog: {
           showReadingTime: true,
@@ -151,7 +151,7 @@ module.exports = {
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',
           editUrl:
-            'https://github.com/sasigume/projectnapoancom-docs-saurus2021/edit/edit-this-branch/blog',
+            'https://github.com/sasigume/napoancom-md/edit/edit-this-branch/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
