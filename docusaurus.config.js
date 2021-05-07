@@ -45,12 +45,12 @@ module.exports = {
           label: '参加方法',
         },
         {
-          to: '/docs/about/intro',
-          label: 'ナポアンのマイクラ大辞典',
+          to: '/docs/admin-tech/intro',
+          label: '技術的な解説',
         },
         {
-          to: '/docs/people/intro',
-          label: 'メンバー',
+          to: '/docs/about/intro',
+          label: 'ナポクラとは',
         },
         {
           to: '/eula',
