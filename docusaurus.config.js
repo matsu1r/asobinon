@@ -46,8 +46,8 @@ module.exports = {
           label: 'Contribute',
         },
         {
-          to: '/docs/members/intro',
-          label: 'Members',
+          to: '/docs/people/intro',
+          label: 'People',
         },
         {
           to: '/eula',
