@@ -6,7 +6,8 @@ module.exports = {
     locales: ['ja'],
   },
   title: 'ナポアンのマイクラMD',
-  tagline: '全てを記録。公開。全く新しい形のマイクラ攻略',
+  tagline:
+    'ゲームメディアをWebという視点から再定義する - Transform gaming media with modern web techs',
   url: 'https://md.napoan.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -41,16 +42,12 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/howtoedit/intro',
-          label: '参加方法',
+          to: '/docs/howtomakenapoancom/gcp-wordpress/intro',
+          label: 'GCP+WordPressを利用したサイトの構築',
         },
         {
-          to: '/docs/howtomakenapoancom/intro',
-          label: 'ナポクラの作り方',
-        },
-        {
-          to: '/docs/about/intro',
-          label: 'ナポクラとは',
+          to: '/docs/howtomakenapoancom/vercel/intro',
+          label: 'Vercel+Firebaseを利用したサイトの構築',
         },
         {
           to: '/eula',
@@ -97,16 +94,12 @@ module.exports = {
           title: 'ドキュメント',
           items: [
             {
-              to: '/docs/howtomakenapoancom/intro',
-              label: 'ナポクラの作り方',
+              to: '/docs/howtomakenapoancom/gcp-wordpress',
+              label: 'GCP+WordPress',
             },
             {
-              to: '/docs/people/intro',
-              label: 'メンバー',
-            },
-            {
-              to: '/docs/posts/intro',
-              label: '記事のバックアップ',
+              to: '/docs/howtomakenapoancom/vercel',
+              label: 'vercel',
             },
             {
               to: '/docs/howtoedit/intro',
