@@ -41,7 +41,7 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/howtoeditmdver/intro',
+          to: '/docs/howtoedit/intro',
           label: '参加方法',
         },
         {
@@ -109,7 +109,7 @@ module.exports = {
               label: '記事のバックアップ',
             },
             {
-              to: '/docs/howtoeditmdver/intro',
+              to: '/docs/howtoedit/intro',
               label: 'このサイトの編集方法',
             },
           ],

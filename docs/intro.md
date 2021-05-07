@@ -40,7 +40,7 @@ sidebar_position: 0
 
 ### このサイトを編集したい
 
-[編集方法編](/docs/howtoeditmdver/intro)
+[編集方法編](/docs/howtoedit/intro)
 
 ### 実際の管理・技術・運営に貢献したい
 
