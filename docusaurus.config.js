@@ -42,26 +42,26 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/howtomakenapoancom/gcp-wordpress/intro',
-          label: 'GCP+WordPressを利用したサイトの構築',
+          to: '/docs/howtoedit/intro',
+          label: 'Contribute',
         },
         {
-          to: '/docs/howtomakenapoancom/vercel/intro',
-          label: 'Vercel+Firebaseを利用したサイトの構築',
+          to: '/docs/members/intro',
+          label: 'Members',
         },
         {
           to: '/eula',
-          label: '利用規約',
+          label: 'Terms',
           position: 'right',
         },
         {
           to: '/privacy-policy',
-          label: 'プライバシーポリシー',
+          label: 'Privacy Policy',
           position: 'right',
         },
         {
           href: `https://github.com/sasigume/napoancom-md`,
-          label: 'レポジトリ',
+          label: 'GitHub',
           position: 'right',
         },
       ],
@@ -99,11 +99,15 @@ module.exports = {
             },
             {
               to: '/docs/howtomakenapoancom/vercel',
-              label: 'vercel',
+              label: 'Vercel',
             },
             {
               to: '/docs/howtoedit/intro',
               label: 'このサイトの編集方法',
+            },
+            {
+              to: '/docs/about/intro',
+              label: 'ナレッジベース',
             },
           ],
         },
@@ -112,11 +116,11 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: `https://twitter.com/sasigume`,
+              href: `https://twitter.com/napoancom`,
             },
             {
-              label: 'GitHub',
-              href: `https://github.com/sasigume/napoancom-md`,
+              label: 'Discord',
+              href: `https://discord.gg/invite/ASAXKMH`,
             },
           ],
         },
