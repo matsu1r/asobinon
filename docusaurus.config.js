@@ -139,8 +139,7 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/sasigume/napoancom-md/edit/edit-this-branch/',
+          editUrl: 'https://github.com/sasigume/napoancom-md/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -150,8 +149,7 @@ module.exports = {
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',
-          editUrl:
-            'https://github.com/sasigume/napoancom-md/edit/edit-this-branch/blog',
+          editUrl: 'https://github.com/sasigume/napoancom-md/edit/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

@@ -55,17 +55,6 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          <div className={(clsx('card'), styles.caution)}>
-            <div className="card__header">
-              <h3>編集する際の注意</h3>
-              <div className="card__text">
-                <code>main</code>ではなく<code>edit-this-branch</code>
-                を編集してください。
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
