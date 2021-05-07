@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# GCPでナポアンのマイクラを無料で作成しよう
+# GCPでナポアンのマイクラを無料で作成しよう (Lat's deploy WordPress version of napoan.com on GCP)
 
 このセクションでは、 https://napoan.com で公開されている「通常版ナポアンのマイクラ」の運営について解説します。
 

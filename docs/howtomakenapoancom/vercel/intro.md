@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# vercelでナポアンのマイクラを作ろう
+# vercelでナポアンのマイクラを作ろう (Let's deploy your own napoan.com on vercel)
 
 このセクションでは、 https://next.napoan.com で公開されている「ナポアンのマイクラNEXT」の運営について解説します。
 

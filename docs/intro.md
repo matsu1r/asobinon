@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# ナポアンのマイクラMDへようこそ
+# ナポアンのマイクラMDへようこそ (Welcome)
 
 ![Logo](/img/ogp/logo-ogp.png)
 

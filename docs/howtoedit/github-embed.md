@@ -13,7 +13,7 @@ import CodeBlock from '@theme/CodeBlock';
 `````md
 
 ```tsx reference
-https://raw.githubusercontent.com/sasigume/napoancom-next/blob/main/src/components/common/like-dislike.tsx
+https://github.com/sasigume/napoancom-next/blob/main/src/components/common/like-dislike.tsx
 ```
 
 `````

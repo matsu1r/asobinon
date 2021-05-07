@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# どんな人が関わっているの?
+# どんな人が関わっているの? (Contributers)
 
 * [sasigume](/docs/people/sasigume) - 管理人。大学生。
 * [0505Keitan](/docs/people/0505Keitan) - 東京在住のプログラマー大学生。

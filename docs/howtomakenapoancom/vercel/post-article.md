@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# 記事を投稿する
+# 記事を投稿する (Posting article)
 
 ## ログイン
 
