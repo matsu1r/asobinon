@@ -18,6 +18,21 @@ module.exports = {
     googleAnalytics: {
       trackingID: 'UA-182248553-8',
     },
+    gtag: {
+      trackingID: 'UA-182248553-8',
+    },
+    metadatas: [
+      {
+        property: 'og:image',
+        content: 'https://md.napoan.com/img/ogp/logo-ogp.png',
+      },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      {
+        name: 'twitter:image',
+        content: 'https://md.napoan.com/img/ogp/logo-ogp.png',
+      },
+      { name: 'twitter:site', content: '@napoancom' },
+    ],
     navbar: {
       title: 'ナポアンのマイクラMD',
       logo: {
@@ -26,8 +41,8 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/about',
-          label: 'ブログ',
+          to: '/docs/howtoeditmdver/intro',
+          label: '参加方法',
         },
         {
           to: '/docs/about/intro',
