@@ -10,8 +10,12 @@ https://github.com/saucelabs/docusaurus-theme-github-codeblock
 
 import CodeBlock from '@theme/CodeBlock';
 
+`````md
+
 ```tsx reference
 https://raw.githubusercontent.com/sasigume/napoancom-next/blob/main/src/components/common/like-dislike.tsx
 ```
+
+`````
 
 このように`言語名 reference`と書けばいい。
