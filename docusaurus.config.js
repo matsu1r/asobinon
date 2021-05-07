@@ -45,8 +45,8 @@ module.exports = {
           label: '参加方法',
         },
         {
-          to: '/docs/admin-tech/intro',
-          label: '技術的な解説',
+          to: '/docs/howtomakenapoancom/intro',
+          label: 'ナポクラの作り方',
         },
         {
           to: '/docs/about/intro',
@@ -97,8 +97,8 @@ module.exports = {
           title: 'ドキュメント',
           items: [
             {
-              to: '/docs/admin-tech/intro',
-              label: '技術的な解説',
+              to: '/docs/howtomakenapoancom/intro',
+              label: 'ナポクラの作り方',
             },
             {
               to: '/docs/people/intro',

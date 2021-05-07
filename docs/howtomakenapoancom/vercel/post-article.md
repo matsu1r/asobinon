@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
-# 記事を投稿する (Contentful)
+# 記事を投稿する
 
 ## ログイン
 

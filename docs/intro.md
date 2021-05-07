@@ -44,4 +44,4 @@ sidebar_position: 0
 
 ### 実際の管理・技術・運営に貢献したい
 
-[管理・技術・運営編](/docs/admin-tech/intro)
+[管理・技術・運営編](/docs/howtomakenapoancom/intro)
