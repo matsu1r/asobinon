@@ -1,0 +1,37 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.box {
+  border-radius: 1rem;
+  background-color: #fff;
+  font-size: 1.8rem;
+  height: 27px;
+}
+
+.box svg {
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0;
+  margin: 0l;
+}
+
+.flex span {
+  line-height: 2.7rem;
+}
+
+.center {
+  margin-top: 2.4rem;
+  text-align: center;
+  font-size: 2rem;
+}
