@@ -1,16 +1,14 @@
 .wrapper {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   justify-items: center;
   align-items: center;
   gap: 2rem;
-  padding: 1rem;
   font-weight: bold;
 }
 
 .box {
-  border-radius: 1rem;
-  background-color: #fff;
   font-size: 1.8rem;
   height: 27px;
 }

@@ -125,7 +125,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Aelyone. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} imaicu. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -142,7 +142,7 @@ module.exports = {
           showReadingTime: true,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Aelyone.`,
+            copyright: `Copyright © ${new Date().getFullYear()} imaicu.`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',

@@ -14,13 +14,15 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">
-          <Translate id="general.title">{siteConfig.title}</Translate>
-        </h1>
-        <div className="hero__subtitle">{siteConfig.tagline}</div>
+        <div className={styles.container_first}>
+          <NapokuraLogos />
+        </div>
+        <div className="hero__subtitle">
+          Transforming gaming media with open and modern web technologies.
+        </div>
         <div className={styles.buttons}>
           <Link className="button button--info button--lg" to="/docs/intro">
-            <Translate id="general.intro">イントロダクション</Translate>
+            <Translate id="general.intro">About us</Translate>
           </Link>
         </div>
       </div>
@@ -34,9 +36,6 @@ export default function Home() {
     <Layout title={`${siteConfig.title}`} description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main className="container">
-        <div className={styles.container_first}>
-          <NapokuraLogos />
-        </div>
         <HomepageFeatures />
       </main>
     </Layout>

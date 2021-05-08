@@ -82,7 +82,7 @@ const LogoSelecter = ({ fill, logoSelection }: Props) => {
   }
   return (
     <svg {...svgProps}>
-      <g fill={fill ?? '#000000'}>
+      <g fill={fill ?? '#fff'}>
         <PathSelecter mode={logoSelection} />
       </g>
     </svg>
