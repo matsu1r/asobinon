@@ -6,4 +6,4 @@ sidebar_position: 1
 
 Twitter: [@sasigume](https://twitter.com/sasigume "Twitterアカウント")
 
-管理人です。
+サイトの構造をめちゃくちゃにいじりまくって意味不明にした挙げ句、突然やきぱな様を編集長にして管理チームのDiscordからも消えた男
