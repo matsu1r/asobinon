@@ -41,7 +41,7 @@ export default function Home() {
       <main className="container">
         <div className={styles.license}>
           Released under MIT License. Read license{' '}
-          <a href="https://github.com/sasigume/napoancom-md/blob/main/LICENSE">
+          <a href="https://github.com/sasigume/markdown-gaming/blob/main/LICENSE">
             here
           </a>
           .

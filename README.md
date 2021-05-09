@@ -1,6 +1,6 @@
 # Markdown Gaming
 
-![GitHub contributors](https://img.shields.io/github/contributors/sasigume/napoancom-md)
+![GitHub contributors](https://img.shields.io/github/contributors/sasigume/markdown-gaming)
 
 ## Discord参加してね
 

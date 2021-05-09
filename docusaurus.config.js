@@ -14,7 +14,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'sasigume',
-  projectName: 'napoancom-md',
+  projectName: 'markdown-gaming',
   themeConfig: {
     googleAnalytics: {
       trackingID: 'UA-182248553-8',
@@ -64,7 +64,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: `https://github.com/sasigume/napoancom-md`,
+          href: `https://github.com/sasigume/markdown-gaming`,
           label: 'Repository',
           position: 'right',
         },
@@ -144,7 +144,7 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/sasigume/napoancom-md/edit/main/',
+          editUrl: 'https://github.com/sasigume/markdown-gaming/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -154,7 +154,7 @@ module.exports = {
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',
-          editUrl: 'https://github.com/sasigume/napoancom-md/edit/main/blog',
+          editUrl: 'https://github.com/sasigume/markdown-gaming/edit/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

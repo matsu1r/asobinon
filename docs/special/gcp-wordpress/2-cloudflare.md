@@ -40,7 +40,7 @@ https://console.cloud.google.com/networking/addresses/list
 
 ## CloudFlareでDNSを設定
 
-https://storage.googleapis.com/public-napoancom-data/napoancom-md/dns.png
+https://storage.googleapis.com/public-napoancom-data/markdown-gaming/dns.png
 
 CloudFlareで新しいサイトを追加し、「DNS設定」を開きます。
 
