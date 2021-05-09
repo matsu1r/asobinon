@@ -42,12 +42,16 @@ module.exports = {
       },
       items: [
         {
+          to: '/docs/howtomakenapoancom/intro',
+          label: 'Get started',
+        },
+        {
           to: '/docs/howtoedit/intro',
           label: 'Contribute',
         },
         {
-          to: '/docs/people/intro',
-          label: 'People',
+          to: '/docs/github/intro',
+          label: 'Reference',
         },
         {
           to: '/eula',
@@ -61,7 +65,7 @@ module.exports = {
         },
         {
           href: `https://github.com/sasigume/napoancom-md`,
-          label: 'GitHub',
+          label: 'Repository',
           position: 'right',
         },
       ],
