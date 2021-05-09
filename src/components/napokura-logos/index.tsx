@@ -7,16 +7,18 @@ export default function NapokuraLogos() {
     <>
       <div className={styles.wrapper}>
         <div className={styles.box}>
-          <LogoSelecter logoSelection="nomaikura" />
+          <LogoSelecter logoSelection="nomaikura" fill="#fff" />
         </div>
         <div className={styles.box}>
           <div className={styles.flex}>
-            <LogoSelecter logoSelection="nomaikura" /> <span>NEXT</span>
+            <LogoSelecter logoSelection="nomaikura" fill="#fff" />
+            <span>NEXT</span>
           </div>
         </div>
         <div className={styles.box}>
           <div className={styles.flex}>
-            <LogoSelecter logoSelection="nomaikura" /> <span>MD</span>
+            <LogoSelecter logoSelection="nomaikura" fill="#fff" />
+            <span>MD</span>
           </div>
         </div>
       </div>

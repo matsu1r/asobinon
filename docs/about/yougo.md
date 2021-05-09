@@ -11,6 +11,10 @@ sidebar_position: 3
 
 
 ### ナポアンマのイクラ
-#### [ロゴ素材を探しています。お持ちの方は貼り付けてください。]
+
+import LogoSelecter from '/src/components/design/logo-selecter'
+
+<LogoSelecter fill="#2687e8" logoSelection="manoikura" />
+
 * ナポアンのマイクラをリニューアルした際に作られた新しいロゴが「ナポアンマのイクラ」に見えることがTwitterなどで話題になり、一時期かなりネタにされた。
 * 「の」がけものフレンズのロゴのように見えるという意見もあった。
