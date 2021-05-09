@@ -6,7 +6,7 @@ sidebar_position: 5
 <img src="https://imgur.com/Cjh0T3n.png" width="100px" height="auto" />
 
 ## あのさ
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">お知らせです<a href="https://t.co/nWhkKZ2HAj">https://t.co/nWhkKZ2HAj</a> の編集長になってしまいました <a href="https://t.co/v4EMTrCXyK">pic.twitter.com/v4EMTrCXyK</a></p>&mdash; やきぱな (@yakisoba_panaki) <a href="https://twitter.com/yakisoba_panaki/status/1391382587357097995?ref_src=twsrc%5Etfw">May 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="https://pbs.twimg.com/media/E08vFHhVkAAEb9H?format=jpg" width="600px" height="auto" />
 
 なんか編集長になったんだけどｗｗｗｗｗｗｗｗｗｗ
 
