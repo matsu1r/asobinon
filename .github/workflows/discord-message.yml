@@ -17,4 +17,4 @@ jobs:
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           color: '#2687e8'
           username: 'ナポコムMD更新通知くん'
-          args: mainブランチで ${{ github.event_name }} がトリガーされたよ！サイトを更新しています！1分ぐらい時間がかかるから、ちょっと待ってね！
+          args: mainブランチで ${{ github.event_name }} がトリガーされとったわ！サイトを更新しとんで！！1分ぐらい時間かかるんちゃうかな？ちょっと待ってや〜！
