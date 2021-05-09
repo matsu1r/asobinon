@@ -31,3 +31,8 @@
 .container_first {
   margin-bottom: 2rem;
 }
+
+.license {
+  text-align: center;
+  margin: 1rem 0;
+}

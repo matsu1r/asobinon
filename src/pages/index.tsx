@@ -21,8 +21,11 @@ function HomepageHeader() {
           Transforming gaming media with open and modern web technologies.
         </div>
         <div className={styles.buttons}>
-          <Link className="button button--info button--lg" to="/docs/intro">
-            <Translate id="general.intro">About us</Translate>
+          <Link
+            className="button button--info button--lg"
+            to="/docs/howtomakenapoancom/intro"
+          >
+            <Translate id="general.intro">Get started</Translate>
           </Link>
         </div>
       </div>
@@ -36,6 +39,13 @@ export default function Home() {
     <Layout title={`${siteConfig.title}`} description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main className="container">
+        <div className={styles.license}>
+          Released under MIT License. Read license{' '}
+          <a href="https://github.com/sasigume/napoancom-md/blob/main/LICENSE">
+            here
+          </a>
+          .
+        </div>
         <HomepageFeatures />
       </main>
     </Layout>
