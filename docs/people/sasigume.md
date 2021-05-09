@@ -17,3 +17,8 @@ Twitter: [@sasigume](https://twitter.com/sasigume "Twitterアカウント")
 皆ナポアンと呼んでおり、さしぐめと呼ぶ人は誰もいない。
 
 元ネタ：国立大学法人 岡山大学 工学部１年 安藤諒
+
+# リンク
+動画素材は[こちら](https://www.dropbox.com/sh/c0mtuqjs9zefdnm/AADTz_4oLNaWvY5xRQd43ZZDa?dl=0)
+
+画像素材は[Discordサーバー](https://discord.gg/QDVVUHX)のナポアン保管庫にて公開しております
