@@ -6,7 +6,6 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import Translate from '@docusaurus/Translate';
-import NapokuraLogos from '../components/napokura-logos';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -14,9 +13,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <div className={styles.container_first}>
-          <NapokuraLogos />
-        </div>
+        <div className="hero__title">{siteConfig.title}</div>
         <div className="hero__subtitle">
           Transforming gaming media with open and modern web technologies.
         </div>
