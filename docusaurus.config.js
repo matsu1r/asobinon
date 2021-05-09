@@ -50,8 +50,8 @@ module.exports = {
           label: 'Contribute',
         },
         {
-          to: '/docs/github/intro',
-          label: 'Reference',
+          to: '/docs/minecraft/intro',
+          label: 'Minecraft',
         },
         {
           to: '/eula',
@@ -98,11 +98,11 @@ module.exports = {
           title: 'ドキュメント',
           items: [
             {
-              to: '/docs/howtomakenapoancom/gcp-wordpress',
+              to: '/docs/howtomakenapoancom/gcp-wordpress/intro',
               label: 'GCP+WordPress',
             },
             {
-              to: '/docs/howtomakenapoancom/vercel',
+              to: '/docs/howtomakenapoancom/vercel/intro',
               label: 'Vercel',
             },
             {
