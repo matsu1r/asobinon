@@ -5,7 +5,7 @@ module.exports = {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  title: 'ナポアンのマイクラMD',
+  title: 'Markdown Game Docs',
   tagline:
     'ゲームメディアをWebという視点から再定義する - Transform gaming media with modern web techs',
   url: 'https://md.napoan.com',
@@ -35,15 +35,15 @@ module.exports = {
       { name: 'twitter:site', content: '@napoancom' },
     ],
     navbar: {
-      title: 'ナポアンのマイクラMD',
+      title: 'Markdown Game Docs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
-          to: '/docs/howtomakenapoancom/intro',
-          label: 'Get started',
+          to: '/docs/special/intro',
+          label: 'Technical info',
         },
         {
           to: '/docs/howtoedit/intro',
@@ -98,11 +98,11 @@ module.exports = {
           title: 'ドキュメント',
           items: [
             {
-              to: '/docs/howtomakenapoancom/gcp-wordpress/intro',
+              to: '/docs/special/gcp-wordpress/intro',
               label: 'GCP+WordPress',
             },
             {
-              to: '/docs/howtomakenapoancom/vercel/intro',
+              to: '/docs/special/vercel/intro',
               label: 'Vercel',
             },
             {
