@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# ナポクラ関連の情報をまとめました (Knowledgebase)
+# 特集: ナポアンのマイクラ辞典
 
 ![Logo](/img/ogp/logo-ogp.png)
 

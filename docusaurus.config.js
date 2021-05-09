@@ -5,7 +5,7 @@ module.exports = {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  title: 'Markdown Game Docs',
+  title: 'Markdown Gaming',
   tagline:
     'ゲームメディアをWebという視点から再定義する - Transform gaming media with modern web techs',
   url: 'https://md.napoan.com',
@@ -35,16 +35,12 @@ module.exports = {
       { name: 'twitter:site', content: '@napoancom' },
     ],
     navbar: {
-      title: 'Markdown Game Docs',
+      title: 'Markdown Gaming',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
-        {
-          to: '/docs/special/intro',
-          label: 'Technical info',
-        },
         {
           to: '/docs/howtoedit/intro',
           label: 'Contribute',
@@ -52,6 +48,10 @@ module.exports = {
         {
           to: '/docs/minecraft/intro',
           label: 'Minecraft',
+        },
+        {
+          to: '/docs/hytale/intro',
+          label: 'Hytale',
         },
         {
           to: '/eula',
@@ -74,15 +74,23 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'サイトマップ',
+          title: 'Sitemap',
           items: [
             {
-              to: '/blog',
-              label: 'ブログ',
+              to: '/docs/minecraft/intro',
+              label: 'Minecraft',
             },
             {
-              to: '/docs/intro',
-              label: 'ドキュメント',
+              to: '/docs/minecraft/intro',
+              label: 'Hytale',
+            },
+            {
+              to: '/docs/special/intro',
+              label: 'Special pages',
+            },
+            {
+              to: '/blog',
+              label: 'Blog',
             },
             {
               to: '/eula',
@@ -95,7 +103,7 @@ module.exports = {
           ],
         },
         {
-          title: 'ドキュメント',
+          title: 'Special pages',
           items: [
             {
               to: '/docs/special/gcp-wordpress/intro',
@@ -106,12 +114,8 @@ module.exports = {
               label: 'Vercel',
             },
             {
-              to: '/docs/howtoedit/intro',
-              label: 'このサイトの編集方法',
-            },
-            {
-              to: '/docs/about/intro',
-              label: 'ナレッジベース',
+              to: '/docsspecial/napoan-no-maikura/intro',
+              label: 'ナポアンのマイクラ辞典',
             },
           ],
         },
@@ -120,7 +124,7 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: `https://twitter.com/napoancom`,
+              href: `https://twitter.com/markdowngaming`,
             },
             {
               label: 'Discord',

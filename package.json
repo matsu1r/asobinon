@@ -1,7 +1,8 @@
 {
-  "name": "napoancom-md",
-  "version": "0.0.9",
+  "name": "markdown-gaming",
+  "version": "0.1.0",
   "private": true,
+  "author": "imaicu",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -52,5 +53,6 @@
     "prettier": "2.2.1",
     "raw-loader": "^4.0.2",
     "typescript": "^4.2.4"
-  }
+  },
+  "license": "MIT"
 }

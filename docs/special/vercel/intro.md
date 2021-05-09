@@ -2,11 +2,11 @@
 sidebar_position: 0
 ---
 
-# vercelでナポアンのマイクラを作ろう (Let's deploy your own napoan.com on vercel)
+# Vercelでゲームメディアを作ろう (Let's deploy your own gaming media on vercel)
 
-このセクションでは、 https://next.napoan.com で公開されている「ナポアンのマイクラNEXT」の運営について解説します。
+このセクションでは、Vercelを使ったゲームメディアの運営について解説します。
 
-ナポアンのマイクラNEXTは、ナポクラで初の**サーバーレス形式**での公開がされています。
+例えば「ナポアンのマイクラNEXT」は、ナポクラで初の**サーバーレス形式**での公開がされています。
 
 ## vercelについて
 
