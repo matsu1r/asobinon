@@ -1,8 +1,7 @@
 ---
 sidebar_position: 0
 ---
-
-# ナポアンのマイクラMDへようこそ (Welcome)
+# Welcome
 
 ![Logo](/img/ogp/logo-ogp.png)
 

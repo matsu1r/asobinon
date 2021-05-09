@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# MD版をみんなで作っていこう (How to contribute)
+# MD版をみんなで作っていこう
 
 このサイトは`Docusaurus`というドキュメント作成ツールを使っています。
 
