@@ -17,11 +17,10 @@ module.exports = {
   projectName: 'markdown-gaming',
   themeConfig: {
     algolia: {
-      apiKey: '4b1ec880bb3e073ce1a8e8258a26f096',
+      apiKey: '2a6a7c9faf0bdfffc0af68c6e9d16ff4',
       indexName: 'napoan',
       contextualSearch: true,
-      appId: 'BH4D9OD16A',
-      searchParameters: { facetFilters: ['type: content'] },
+      //searchParameters: { facetFilters: ['type:content'] },
     },
     googleAnalytics: {
       trackingID: 'UA-182248553-8',
