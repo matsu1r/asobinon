@@ -65,7 +65,7 @@ https://next.napoan.com
 
 ## 今度はNetlify
 
-### 2021年 「Markdown Gaming」
+### 2021年 「ナポアンのマイクラMD」
 
 https://md.napoan.com
 
