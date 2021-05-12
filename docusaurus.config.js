@@ -16,6 +16,13 @@ module.exports = {
   organizationName: 'sasigume',
   projectName: 'markdown-gaming',
   themeConfig: {
+    algolia: {
+      apiKey: '4b1ec880bb3e073ce1a8e8258a26f096',
+      indexName: 'napoan',
+      contextualSearch: true,
+      appId: 'BH4D9OD16A',
+      searchParameters: { facetFilters: ['type: content'] },
+    },
     googleAnalytics: {
       trackingID: 'UA-182248553-8',
     },
