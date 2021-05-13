@@ -18,11 +18,11 @@ module.exports = {
   organizationName: 'sasigume',
   projectName: 'markdown-gaming',
   themeConfig: {
+    /* 申請し、審査を通ったのでAlgolia DocSearchを使っています
+    ここは絶対に変えないでください */
     algolia: {
       apiKey: '2a6a7c9faf0bdfffc0af68c6e9d16ff4',
       indexName: 'napoan',
-      contextualSearch: true,
-      //searchParameters: { facetFilters: ['type:content'] },
     },
     googleAnalytics: {
       trackingID: 'UA-182248553-8',
