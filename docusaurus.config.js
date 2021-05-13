@@ -1,13 +1,15 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
+const remarkCustomBlocks = require('remark-custom-blocks');
+
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  title: 'ナポアンのマイクラMD',
+  title: 'Markdown Gaming',
   tagline:
-    'ゲームメディアをWebという視点から再定義する - Transform gaming media with modern web techs',
+    'マークダウンゲーミング。ゲームメディアをWebという視点から再定義する',
   url: 'https://md.napoan.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -16,11 +18,11 @@ module.exports = {
   organizationName: 'sasigume',
   projectName: 'markdown-gaming',
   themeConfig: {
+    /* 申請し、審査を通ったのでAlgolia DocSearchを使っています
+    ここは絶対に変えないでください */
     algolia: {
       apiKey: '2a6a7c9faf0bdfffc0af68c6e9d16ff4',
       indexName: 'napoan',
-      contextualSearch: true,
-      //searchParameters: { facetFilters: ['type:content'] },
     },
     googleAnalytics: {
       trackingID: 'UA-182248553-8',
@@ -41,7 +43,7 @@ module.exports = {
       { name: 'twitter:site', content: '@napoancom' },
     ],
     navbar: {
-      title: 'ナポアンのマイクラMD',
+      title: 'Markdown Gaming',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -151,6 +153,17 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/sasigume/markdown-gaming/edit/main/',
+          remarkPlugins: [
+            [
+              remarkCustomBlocks,
+              {
+                dl: {
+                  classes: 'remark-custom-blocks__dl',
+                  title: 'required',
+                },
+              },
+            ],
+          ],
         },
         blog: {
           showReadingTime: true,
