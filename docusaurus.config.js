@@ -110,23 +110,6 @@ module.exports = {
           ],
         },
         {
-          title: 'Special pages',
-          items: [
-            {
-              to: '/docs/special/gcp-wordpress/intro',
-              label: 'GCP+WordPress',
-            },
-            {
-              to: '/docs/special/vercel/intro',
-              label: 'Vercel',
-            },
-            {
-              to: '/docs/special/napoan-no-maikura/intro',
-              label: 'ナポアンのマイクラ辞典',
-            },
-          ],
-        },
-        {
           title: 'Links',
           items: [
             {
