@@ -16,11 +16,8 @@ function HomepageHeader() {
         <div className="hero__title">{siteConfig.title}</div>
         <div className="hero__subtitle">{siteConfig.tagline}</div>
         <div className={styles.buttons}>
-          <Link
-            className="button button--info button--lg"
-            to="/docs/contribute/intro"
-          >
-            <Translate id="general.intro">Get started</Translate>
+          <Link className="button button--info button--lg" to="/docs/intro">
+            <Translate id="general.intro">このサイトについて</Translate>
           </Link>
         </div>
       </div>
