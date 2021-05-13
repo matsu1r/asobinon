@@ -7,9 +7,9 @@ module.exports = {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  title: 'ナポアンのマイクラMD',
+  title: 'Markdown Gaming',
   tagline:
-    'ゲームメディアをWebという視点から再定義する - Transform gaming media with modern web techs',
+    'マークダウンゲーミング。ゲームメディアをWebという視点から再定義する',
   url: 'https://md.napoan.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -43,7 +43,7 @@ module.exports = {
       { name: 'twitter:site', content: '@napoancom' },
     ],
     navbar: {
-      title: 'ナポアンのマイクラMD',
+      title: 'Markdown Gaming',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

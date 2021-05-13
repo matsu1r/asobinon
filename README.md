@@ -1,4 +1,4 @@
-# ナポアンのマイクラMD
+# Markdown Gaming
 
 ![GitHub contributors](https://img.shields.io/github/contributors/sasigume/markdown-gaming)
 
