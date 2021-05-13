@@ -1,4 +1,4 @@
-# setmaxplayersコマンドの使い方
+# 統合版(BE)のsetmaxplayersコマンドの使い方
 
 | 項目 | 内容 |
 | --- | --- |
