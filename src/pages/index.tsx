@@ -14,15 +14,13 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <div className="hero__title">{siteConfig.title}</div>
-        <div className="hero__subtitle">
-          Transforming gaming media with open and modern web technologies.
-        </div>
+        <div className="hero__subtitle">{siteConfig.tagline}</div>
         <div className={styles.buttons}>
           <Link
             className="button button--info button--lg"
-            to="/docs/special/intro"
+            to="/docs/contribute/intro"
           >
-            <Translate id="general.intro">Technical info</Translate>
+            <Translate id="general.intro">Get started</Translate>
           </Link>
         </div>
       </div>
@@ -38,7 +36,7 @@ export default function Home() {
       <main className="container">
         <div className={styles.license}>
           Released under MIT License. Read license{' '}
-          <a href="https://github.com/sasigume/markdown-gaming/blob/main/LICENSE">
+          <a href="https://github.com/imaicu/markdown-gaming/blob/main/LICENSE">
             here
           </a>
           .

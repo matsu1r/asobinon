@@ -8,8 +8,7 @@ module.exports = {
     locales: ['ja'],
   },
   title: 'Markdown Gaming',
-  tagline:
-    'マークダウンゲーミング。ゲームメディアをWebという視点から再定義する',
+  tagline: 'マークダウンゲーミング。GitHubで管理するゲーム攻略サイト',
   url: 'https://md.napoan.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -50,7 +49,7 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/howtoedit/intro',
+          to: '/docs/contribute/intro',
           label: 'Contribute',
         },
         {
@@ -72,7 +71,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: `https://github.com/sasigume/markdown-gaming`,
+          href: `https://github.com/imaicu/markdown-gaming`,
           label: 'Repository',
           position: 'right',
         },
@@ -122,7 +121,7 @@ module.exports = {
               label: 'Vercel',
             },
             {
-              to: '/docsspecial/napoan-no-maikura/intro',
+              to: '/docs/special/napoan-no-maikura/intro',
               label: 'ナポアンのマイクラ辞典',
             },
           ],
@@ -152,7 +151,7 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/sasigume/markdown-gaming/edit/main/',
+          editUrl: 'https://github.com/imaicu/markdown-gaming/edit/main/',
           remarkPlugins: [
             [
               remarkCustomBlocks,
@@ -173,7 +172,7 @@ module.exports = {
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',
-          editUrl: 'https://github.com/sasigume/markdown-gaming/edit/main/blog',
+          editUrl: 'https://github.com/imaicu/markdown-gaming/edit/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

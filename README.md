@@ -1,6 +1,6 @@
 # Markdown Gaming
 
-![GitHub contributors](https://img.shields.io/github/contributors/sasigume/markdown-gaming)
+![GitHub contributors](https://img.shields.io/github/contributors/imaicu/markdown-gaming)
 
 ## Discord参加してね
 
