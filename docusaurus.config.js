@@ -50,29 +50,23 @@ module.exports = {
       items: [
         {
           to: '/docs/contribute/intro',
-          label: 'Contribute',
+          label: '編集する',
         },
         {
           to: '/docs/minecraft/intro',
           label: 'Minecraft',
         },
         {
-          to: '/docs/hytale/intro',
-          label: 'Hytale',
+          to: '/docs/minecraft/reference/command-bedrock/intro',
+          label: 'BEのコマンド',
         },
         {
-          to: '/eula',
-          label: 'Terms',
-          position: 'right',
-        },
-        {
-          to: '/privacy-policy',
-          label: 'Privacy Policy',
-          position: 'right',
+          to: '/docs/minecraft/howto/bedrock-friend-multiplayer-guide/intro',
+          label: 'BEのマルチプレイ',
         },
         {
           href: `https://github.com/imaicu/markdown-gaming`,
-          label: 'Repository',
+          label: 'レポジトリ',
           position: 'right',
         },
       ],
