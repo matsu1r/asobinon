@@ -12,4 +12,4 @@ sidebar_position: 1
 * [mametaku](/docs/people/mametaku) - 作曲が趣味の高校生。千葉県民。
 * [wingzone94](/docs/people/wingzone94) - 神奈川在住のポケモンを愛する26歳。
 
-参加者は随時募集しています。参加したい方は、[issueを立てる](https://github.com/sasigume/markdown-gaming/issues)か、管理人にDMしてください。
+参加者は随時募集しています。参加したい方は、[issueを立てる](https://github.com/imaicu/markdown-gaming/issues)か、管理人にDMしてください。
