@@ -23,3 +23,30 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+/* Added 2021-5-13 for custom blocks */
+/* https://github.com/zestedesavoir/zmarkdown/tree/master/packages/remark-custom-blocks */
+.remark-custom-blocks__dl {
+  margin: 1rem 0 0.6rem;
+  padding: 0 0.6rem 0.4rem;
+  border: solid 1px #444;
+  box-shadow: 0px 3px 0px rgba(1, 1, 1, 0.1);
+}
+
+.remark-custom-blocks__dl .custom-block-heading {
+  position: relative;
+  display: inline-block;
+  background: #fff;
+  padding: 0 0.2rem 0;
+  font-weight: bold;
+  font-size: 1.5rem;
+  top: -1rem;
+}
+
+.remark-custom-blocks__dl .custom-block-body {
+  position: relative;
+  top: 0;
+  margin: 0;
+}
+
+/* Added 2021-5-13 end */

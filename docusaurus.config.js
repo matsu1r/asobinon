@@ -1,5 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
+const remarkCustomBlocks = require('remark-custom-blocks');
+
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
@@ -151,6 +153,17 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/sasigume/markdown-gaming/edit/main/',
+          remarkPlugins: [
+            [
+              remarkCustomBlocks,
+              {
+                dl: {
+                  classes: 'remark-custom-blocks__dl',
+                  title: 'required',
+                },
+              },
+            ],
+          ],
         },
         blog: {
           showReadingTime: true,
