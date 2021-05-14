@@ -114,6 +114,10 @@ module.exports = {
               label: 'Discord',
               href: `https://discord.gg/invite/ASAXKMH`,
             },
+            {
+              label: 'お問い合わせ',
+              href: `https://md-contact.ima.icu`,
+            },
           ],
         },
       ],
