@@ -1,6 +1,6 @@
 {
-  "name": "napoancom-md",
-  "version": "0.1.9",
+  "name": "markdown-gaming",
+  "version": "0.2.0",
   "private": true,
   "author": "imaicu",
   "scripts": {
@@ -16,8 +16,8 @@
   },
   "dependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.14.0",
-    "@docusaurus/core": "2.0.0-alpha.75",
-    "@docusaurus/preset-classic": "2.0.0-alpha.75",
+    "@docusaurus/core": "^2.0.0-beta.0",
+    "@docusaurus/preset-classic": "^2.0.0-beta.0",
     "@mdx-js/react": "^1.6.21",
     "@saucelabs/theme-github-codeblock": "^0.0.4",
     "@svgr/webpack": "^5.5.0",
