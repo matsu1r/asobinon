@@ -1,7 +1,7 @@
 import * as functions from "firebase-functions";
 import { MailJet } from "../lib/mailjet";
 import { AdminConfig } from "../models/admin-config";
-import { Contact } from "../models/contact";
+
 const adminConfig = functions.config() as AdminConfig;
 
 const contactWithMailjet = functions
@@ -22,18 +22,21 @@ const contactWithMailjet = functions
       });
     }
 
-    const body = (await request.body) as Contact;
+    const body = await request.body;
     if (Object.keys(body).length === 0) {
       return response.status(500).json({
         message: `Please specify body`,
       });
     }
+    const parsedBody = JSON.parse(body);
 
     functions.logger.info("Posting contact mail");
     let options = {
-      title: `新しい問い合わせ: ${body.title}`,
-      content: `${body.text ?? "本文なし"}\n\n---\n返信用メールアドレス: ${
-        body.email ?? "指定なし"
+      title: `新しい問い合わせ: ${parsedBody.title ?? "タイトル不明"}`,
+      content: `${
+        parsedBody.text ?? "本文なし"
+      }\n\n---\n返信用メールアドレス: ${
+        parsedBody.email.length > 0 ? parsedBody.email : "指定なし"
       }`,
       from: adminConfig.mail.sender ?? "functions-from-not-set@ima.icu",
       fromName: "Markdown Gaming 運営チーム・お問い合わせ部門",
