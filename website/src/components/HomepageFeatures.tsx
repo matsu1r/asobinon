@@ -27,12 +27,14 @@ const FeatureList = [
     ),
   },
   {
-    title: translate({ id: 'general.react', message: 'Reactでできているよ' }),
+    title: translate({
+      id: 'general.react',
+      message: 'Algolia DocSearchを装備!',
+    }),
     description: (
       <>
         <Translate id="general.react-body">
-          Reactでできているので、拡張性も最高!
-          とはいえあんまカスタムする予定はなし。
+          Algolia DocSearchで、瞬時に検索可能! 検索結果は毎日更新されます。
         </Translate>
       </>
     ),
