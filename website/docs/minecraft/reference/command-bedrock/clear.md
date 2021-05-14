@@ -42,7 +42,5 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/blockdata](/docs/minecraft/reference/command-bedrock/blockdata) ― ブロックのインベントリのアイテムを変更・消去できる
-- [/entitydata](/docs/minecraft/reference/command-bedrock/entitydata) ― エンティティのインベントリのアイテムを変更・消去できる
 - [/give](/docs/minecraft/reference/command-bedrock/give) ― プレイヤーにアイテムを与えられる
 - [/replaceitem](/docs/minecraft/reference/command-bedrock/replaceitem) ― ブロックやエンティティのインベントリのアイテムを置換できる

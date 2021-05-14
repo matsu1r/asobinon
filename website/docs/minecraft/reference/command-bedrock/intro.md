@@ -6,15 +6,32 @@ sidebar_position: 0
 
 ここでは、Bedrock Editionのコマンドのみを扱います。
 
-## 入力方法
+## コマンドの入力方法
+### タッチパネル
+
+![](https://bn02pap001files.storage.live.com/y4mOlX9qD3v6rdZlYQjLjS6I0N-x7vkioHJ0qQcTUJpQuZbEn1lPiQBNy3z_D_TO_KVaf-Oj1O7Wumlpi4yS_WE8KX-w9C8QVxvwvYFDuioZ4sPGBGWbVHBgg-132JolOVVFolCOfnt8ZOFZsIYiwR31_P-YMoyZYyRJ_c6VDze23cJVtqBlrZW3oChpm3EjB5u?width=643&height=308&cropmode=none)
+
+まずは画面上側のチャットボタンを押す。
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105555.png)
 
 チャット画面で**半角スラッシュ**から始まる文章を打てば、それはチャットではなくコマンドの扱いになる。
 
+### 物理キーボード
+
 端末にキーボードを接続している場合は、いきなり/キーを押してもコマンドを入力できる。
 
+## コマンドブロックの入手方法
+
+[[dl|コマンドブロックを1つ手に入れるコマンド]]
+|![](https://bn02pap001files.storage.live.com/y4muv1KVBX36wceiiJVeX05Y_q48w960vq7OXvKIK4uytr7Ss71UgLAuPcig9LVrhOX6t65sbwD71s3ojtowoCGwxUvTWL8fVbGxKqHkAnMr3qq1wGkTN3NLN1zOTRDnL287I67MwzuYQyImHDmnx3lK-oCqs-fnQvqg-9GNFpK-9CKFN9L0hTn7_jjN-MKdKQX?width=574&height=412&cropmode=none)
+|```
+|/give @s command_block
+|```
+
 ## 凡例
+
+### コマンドの概要表
 
 |項目|内容|
 |---|---|
