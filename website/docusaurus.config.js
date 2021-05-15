@@ -54,12 +54,21 @@ module.exports = {
           label: 'Minecraft',
           items: [
             {
-              to: '/docs/minecraft/howto/intro',
-              label: 'ハウツー',
+              to: '/docs/minecraft/reference/command-bedrock/intro',
+              label: 'BEのコマンド',
             },
             {
-              to: '/docs/minecraft/reference/intro',
-              label: 'リファレンス',
+              to:
+                '/docs/minecraft/howto/bedrock-friend-multiplayer-guide/intro',
+              label: 'マルチプレイ',
+            },
+            {
+              to: '/docs/minecraft/howto/install-forge/intro',
+              label: 'MOD(Forge)導入方法',
+            },
+            {
+              to: '/docs/minecraft/howto/install-optifine/intro',
+              label: 'OptiFine導入方法',
             },
           ],
         },
