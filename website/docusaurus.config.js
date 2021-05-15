@@ -42,6 +42,7 @@ module.exports = {
       { name: 'twitter:site', content: '@napoancom' },
     ],
     navbar: {
+      hideOnScroll: true,
       title: 'Markdown Gaming',
       logo: {
         alt: 'My Site Logo',
@@ -49,11 +50,18 @@ module.exports = {
       },
       items: [
         {
-          label: 'スマホなら右下のメニューも使ってね',
-        },
-        {
           to: '/docs/minecraft/intro',
           label: 'Minecraft',
+          items: [
+            {
+              to: '/docs/minecraft/howto/intro',
+              label: 'ハウツー',
+            },
+            {
+              to: '/docs/minecraft/reference/intro',
+              label: 'リファレンス',
+            },
+          ],
         },
         {
           to: '/docs/hytale/intro',
