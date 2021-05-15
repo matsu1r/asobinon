@@ -49,12 +49,7 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/intro',
-          label: 'このサイトについて',
-        },
-        {
-          to: '/docs/contribute/intro',
-          label: '編集する',
+          label: 'スマホなら右下のメニューも使ってね',
         },
         {
           to: '/docs/minecraft/intro',
@@ -63,14 +58,6 @@ module.exports = {
         {
           to: '/docs/hytale/intro',
           label: 'Hytale',
-        },
-        {
-          to: '/docs/special/intro',
-          label: '特別なページ',
-        },
-        {
-          to: '/docs/people/intro',
-          label: 'メンバー',
         },
         {
           to: 'https://discord.gg/Nw8mEKSeut',
