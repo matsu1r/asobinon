@@ -11,7 +11,7 @@ sidebar_position: 1
 * [yakisoba_panaki](/docs/people/yakisoba_panaki) - 大阪の鉄道オタク。ナポ鯖古参
 * [mametaku](/docs/people/mametaku) - 作曲が趣味の高校生。千葉県民。
 * [wingzone94](/docs/people/wingzone94) - 神奈川在住のポケモンを愛する26歳。
-* [Andy.C](/docs/people/p____andy) - 多少PCに触るだけの一般高校生。
+* [Andy.C](/docs/people/p____andy) - 私、受験生なのにこんなサイトの編集者になってる。なぜ。
 * [ろどりゅう](/docs/people/lordryu) - 関東の初心者ドッター。ナポ鯖最新参。
 * [umashiocabbage](/docs/people/umashiocabbage) - 高校生　偉い
 
