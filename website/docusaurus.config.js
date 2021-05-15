@@ -149,8 +149,10 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/imaicu/markdown-gaming/edit/main/website',
+
+          /* https://github.com/imaicu/markdown-gaming-client/tree/main/src/pages/edit/index.tsx
+          /docs/XXXが渡される */
+          editUrl: 'https://mdg.ima.icu/edit/?path=',
           remarkPlugins: [
             [
               remarkCustomBlocks,
@@ -171,8 +173,9 @@ module.exports = {
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',
-          editUrl:
-            'https://github.com/imaicu/markdown-gaming/edit/main/website/blog',
+          /* https://github.com/imaicu/markdown-gaming-client/tree/main/src/pages/edit/index.tsx
+          /blog/XXXが渡される */
+          editUrl: 'https://mdg.ima.icu/edit/?path=',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
