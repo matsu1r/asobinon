@@ -49,6 +49,10 @@ module.exports = {
       },
       items: [
         {
+          to: '/docs/intro',
+          label: 'このサイトについて',
+        },
+        {
           to: '/docs/contribute/intro',
           label: '編集する',
         },
@@ -57,12 +61,21 @@ module.exports = {
           label: 'Minecraft',
         },
         {
-          to: '/docs/minecraft/reference/command-bedrock/intro',
-          label: 'BEのコマンド',
+          to: '/docs/hytale/intro',
+          label: 'Hytale',
         },
         {
-          to: '/docs/minecraft/howto/bedrock-friend-multiplayer-guide/intro',
-          label: 'BEのマルチプレイ',
+          to: '/docs/special/intro',
+          label: '特別なページ',
+        },
+        {
+          to: '/docs/people/intro',
+          label: 'メンバー',
+        },
+        {
+          to: 'https://discord.gg/Nw8mEKSeut',
+          label: 'Discord',
+          position: 'right',
         },
         {
           href: `https://github.com/imaicu/markdown-gaming`,
@@ -112,7 +125,7 @@ module.exports = {
             },
             {
               label: 'Discord',
-              href: `https://discord.gg/invite/ASAXKMH`,
+              href: `https://discord.gg/Nw8mEKSeut`,
             },
             {
               label: 'お問い合わせ',
