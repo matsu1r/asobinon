@@ -11,6 +11,12 @@ We are currently supporting Japanese language only. (Sorry, but admin is not goo
 
 全く新しいゲーム攻略サイト。
 
+## Discord参加してね
+
+![Discord](https://img.shields.io/discord/842949621340045343)
+
+[https://discord.gg/Nw8mEKSeut](https://discord.gg/Nw8mEKSeut)
+
 ## 参加するには
 
 編集作業に参加する前に、[CONTRIBUTING.md](https://github.com/imaicu/markdown-gaming/blob/main/CONTRIBUTING.md)をご確認ください。
