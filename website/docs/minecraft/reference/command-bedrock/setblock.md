@@ -46,5 +46,5 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/clone](/docs/minecraft/reference/command-bedrock/clone) ― 指定した領域のブロックを複製する
-- [/fill](/docs/minecraft/reference/command-bedrock/fill) ― 指定した領域を指定したブロックで埋める
+- [/clone](./clone) ― 指定した領域のブロックを複製する
+- [/fill](./fill) ― 指定した領域を指定したブロックで埋める

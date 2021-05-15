@@ -42,5 +42,5 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/give](/docs/minecraft/reference/command-bedrock/give) ― プレイヤーにアイテムを与えられる
-- [/replaceitem](/docs/minecraft/reference/command-bedrock/replaceitem) ― ブロックやエンティティのインベントリのアイテムを置換できる
+- [/give](./give) ― プレイヤーにアイテムを与えられる
+- [/replaceitem](./replaceitem) ― ブロックやエンティティのインベントリのアイテムを置換できる

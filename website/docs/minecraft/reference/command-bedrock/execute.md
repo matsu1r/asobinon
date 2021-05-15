@@ -56,4 +56,4 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/testforblock](/docs/minecraft/reference/command-bedrock/testforblock) ― 指定した座標に特定のブロックがあるかどうか判定する
+- [/testforblock](./testforblock) ― 指定した座標に特定のブロックがあるかどうか判定する

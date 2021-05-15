@@ -10,7 +10,7 @@
 
 :::warning
 
-特定のプレイヤーにメッセージを送るには、sayではなく[/tell](/docs/minecraft/reference/command-bedrock/tell)コマンドを使ってください。
+特定のプレイヤーにメッセージを送るには、sayではなく[/tell](./tell)コマンドを使ってください。
 
 :::
 
