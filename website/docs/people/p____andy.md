@@ -1,8 +1,9 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 # Andy.C
 
 名前不定の高校生。実はナポアンサーバー開設時からいるがだれもそのことを知らない。何度か名前を変えているからである。
-ナポアン(現Sasigume)にTwitterをブロックされている。早く解除して
+<del>ナポアン(現Sasigume)にTwitterをブロックされている。早く解除して</del> 解除されました。
+全角英数字撲滅。
