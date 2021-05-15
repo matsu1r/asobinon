@@ -32,5 +32,5 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/gamerule](/docs/minecraft/reference/command-bedrock/gamerule) ― 時間や天候の変化を含むゲームルールを設定できる
-- [/time](/docs/minecraft/reference/command-bedrock/time) ― 時間を変更・取得できる
+- [/gamerule](./gamerule) ― 時間や天候の変化を含むゲームルールを設定できる
+- [/time](./time) ― 時間を変更・取得できる

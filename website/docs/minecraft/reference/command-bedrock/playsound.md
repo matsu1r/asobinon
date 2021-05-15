@@ -49,4 +49,4 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/stopsound](/docs/minecraft/reference/command-bedrock/stopsound) ― 音の再生を停止する。
+- [/stopsound](./stopsound) ― 音の再生を停止する。

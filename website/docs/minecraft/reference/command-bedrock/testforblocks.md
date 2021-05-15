@@ -10,7 +10,7 @@
 
 :::warning
 
-これは複数のブロックを対象とする場合のコマンドです。**[testforblock](/docs/minecraft/reference/command-bedrock/testforblock)と間違えないよう注意してください。**
+これは複数のブロックを対象とする場合のコマンドです。**[testforblock](./testforblock)と間違えないよう注意してください。**
 
 :::
 

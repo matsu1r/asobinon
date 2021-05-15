@@ -10,7 +10,7 @@
 
 :::warning
 
-これは単体のブロックを対象とする場合のコマンドです。**[testforblocks](/docs/minecraft/reference/command-bedrock/testforblocks)と間違えないよう注意してください。**
+これは単体のブロックを対象とする場合のコマンドです。**[testforblocks](./testforblocks)と間違えないよう注意してください。**
 
 :::
 

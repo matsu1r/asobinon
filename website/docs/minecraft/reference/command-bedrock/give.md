@@ -43,4 +43,4 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/summon](/docs/minecraft/reference/command-bedrock/summon) ― エンティティを召喚する
+- [/summon](./summon) ― エンティティを召喚する

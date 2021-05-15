@@ -60,4 +60,4 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/fill](/docs/minecraft/reference/command-bedrock/fill) ― 領域をブロックで埋める
+- [/fill](./fill) ― 領域をブロックで埋める

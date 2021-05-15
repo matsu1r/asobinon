@@ -34,4 +34,4 @@
 
 ## あわせて知っておきたいコマンド
 
-- [/gamemode](/docs/minecraft/reference/command-bedrock/gamemode) ― プレイヤーのゲームモードを変更する
+- [/gamemode](./gamemode) ― プレイヤーのゲームモードを変更する
