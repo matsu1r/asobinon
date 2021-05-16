@@ -14,7 +14,7 @@ module.exports = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'sasigume',
+  organizationName: 'imaicu',
   projectName: 'markdown-gaming',
   themeConfig: {
     /* 申請し、審査を通ったのでAlgolia DocSearchを使っています
@@ -24,10 +24,7 @@ module.exports = {
       indexName: 'napoan',
     },
     googleAnalytics: {
-      trackingID: 'UA-182248553-8',
-    },
-    gtag: {
-      trackingID: 'UA-182248553-8',
+      trackingID: 'G-TZJCD1SKG6',
     },
     metadatas: [
       {
