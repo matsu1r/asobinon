@@ -24,6 +24,10 @@ module.exports = {
       indexName: 'napoan',
     },
     googleAnalytics: {
+      trackingID: '',
+    },
+    /* GA4は「GTAG」を使う */
+    gtag: {
       trackingID: 'G-TZJCD1SKG6',
     },
     metadatas: [
