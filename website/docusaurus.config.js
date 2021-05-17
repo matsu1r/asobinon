@@ -123,7 +123,7 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: `https://twitter.com/markdowngaming`,
+              href: `https://twitter.com/asobinon`,
             },
             {
               label: 'Discord',
@@ -131,7 +131,7 @@ module.exports = {
             },
             {
               label: 'お問い合わせ',
-              href: `https://md-contact.ima.icu`,
+              href: `https://client.asobinon.org`,
             },
           ],
         },
@@ -150,7 +150,7 @@ module.exports = {
 
           /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
           /docs/XXXが渡される */
-          editUrl: 'https://mdg.ima.icu/edit/?path=',
+          editUrl: 'https://client.asobinon.org/edit/?path=',
           remarkPlugins: [
             [
               remarkCustomBlocks,
@@ -173,7 +173,7 @@ module.exports = {
           blogSidebarTitle: '全ての投稿',
           /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
           /blog/XXXが渡される */
-          editUrl: 'https://mdg.ima.icu/edit/?path=',
+          editUrl: 'https://client.asobinon.org/edit/?path=',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
