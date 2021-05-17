@@ -5,10 +5,7 @@ sidebar_position: 1
 # 偉大なる編集長・やきぱな {#people-yakisoba_panaki}
 <img src="https://imgur.com/Cjh0T3n.png" width="100px" height="auto" />
 
-## あのさ
-<img src="https://pbs.twimg.com/media/E08vFHhVkAAEb9H?format=jpg" width="600px" height="auto" />
-
-なんか編集長になったんだけどｗｗｗｗｗｗｗｗｗｗ
+## 俺様が一番まともです。
 
 ## Profile
 
