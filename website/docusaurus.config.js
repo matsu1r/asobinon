@@ -7,15 +7,15 @@ module.exports = {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  title: 'Markdown Gaming',
-  tagline: 'マークダウンゲーミング。GitHubで管理するゲーム攻略サイト',
-  url: 'https://md.napoan.com',
+  title: 'ASOBINON',
+  tagline: 'アソビノン。GitHubで管理するゲーム攻略サイト',
+  url: 'https://asobinon.org',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'imaicu',
-  projectName: 'markdown-gaming',
+  organizationName: 'aelyone',
+  projectName: 'asobinon',
   themeConfig: {
     /* 申請し、審査を通ったのでAlgolia DocSearchを使っています
     ここは絶対に変えないでください */
@@ -30,18 +30,18 @@ module.exports = {
     metadatas: [
       {
         property: 'og:image',
-        content: 'https://md.napoan.com/img/ogp/logo-ogp.png',
+        content: 'https://asobinon.org/img/ogp/logo-ogp.png',
       },
       { name: 'twitter:card', content: 'summary_large_image' },
       {
         name: 'twitter:image',
-        content: 'https://md.napoan.com/img/ogp/logo-ogp.png',
+        content: 'https://asobinon.org/img/ogp/logo-ogp.png',
       },
       { name: 'twitter:site', content: '@napoancom' },
     ],
     navbar: {
       hideOnScroll: true,
-      title: 'Markdown Gaming',
+      title: 'ASOBINON',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -80,7 +80,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: `https://github.com/imaicu/markdown-gaming`,
+          href: `https://github.com/aelyone/asobinon`,
           label: 'レポジトリ',
           position: 'right',
         },
@@ -136,7 +136,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} imaicu. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} aelyone. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -148,7 +148,7 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
 
-          /* https://github.com/imaicu/markdown-gaming-client/tree/main/src/pages/edit/index.tsx
+          /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
           /docs/XXXが渡される */
           editUrl: 'https://mdg.ima.icu/edit/?path=',
           remarkPlugins: [
@@ -167,11 +167,11 @@ module.exports = {
           showReadingTime: true,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} imaicu.`,
+            copyright: `Copyright © ${new Date().getFullYear()} aelyone.`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',
-          /* https://github.com/imaicu/markdown-gaming-client/tree/main/src/pages/edit/index.tsx
+          /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
           /blog/XXXが渡される */
           editUrl: 'https://mdg.ima.icu/edit/?path=',
         },

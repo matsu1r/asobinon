@@ -33,7 +33,7 @@ export default function Home() {
       <main className="container">
         <div className={styles.license}>
           Released under MIT License. Read license{' '}
-          <a href="https://github.com/imaicu/markdown-gaming/blob/main/LICENSE">
+          <a href="https://github.com/aelyone/asobinon/blob/main/LICENSE">
             here
           </a>
           .

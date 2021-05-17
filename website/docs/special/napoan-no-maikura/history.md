@@ -68,13 +68,13 @@ https://napoan.com
 
 https://next.napoan.com
 
-### 2021年 「Markdown Gaming」
+### 2021年 「ASOBINON」
 
-https://md.napoan.com
+https://asobinon.org
 
 :::caution
 
-Markdown GamingはナポアンのマイクラNEXTと共存する予定です。
+ASOBINONはナポアンのマイクラNEXTと共存する予定です。
 
 :::
 

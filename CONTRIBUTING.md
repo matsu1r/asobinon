@@ -1,4 +1,4 @@
-# Markdown Gamingへの貢献 (Contributing to Markdown Gaming)
+# ASOBINONへの貢献 (Contributing to ASOBINON)
 
 **Sorry, we are currently supporting only Japanese language in this project.**
 

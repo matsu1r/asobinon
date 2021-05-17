@@ -15,4 +15,4 @@ sidebar_position: 1
 * [ろどりゅう](/docs/people/lordryu) - 関東の初心者ドッター。ナポ鯖最新参。
 * [umashiocabbage](/docs/people/umashiocabbage) - 高校生　偉い
 
-参加者は随時募集しています。参加したい方は、[issueを立てる](https://github.com/imaicu/markdown-gaming/issues)か、管理人にDMしてください。
+参加者は随時募集しています。参加したい方は、[issueを立てる](https://github.com/aelyone/asobinon/issues)か、管理人にDMしてください。
