@@ -51,7 +51,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "このページにリンクしているサイトの所有者に連絡をしてリンクが壊れていることを伝えてください。",
+    "message": "設定ミスで正しく転送できていないのかもしれません。(https://twitter.com/asobinon)にご報告いただけると助かります。URL末尾の「intro」を消すとアクセスできる場合もあります。",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
