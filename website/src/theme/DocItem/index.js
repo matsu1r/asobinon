@@ -36,11 +36,7 @@ function DocItem(props) {
     lastUpdatedAt,
     formattedLastUpdatedAt,
     lastUpdatedBy,
-
-    /* Added by sasigume
-    Analyticsを利用した評価用にパスを取得
-    */
-    unversionedId,
+    r,
   } = metadata;
   const { pluginId } = useActivePlugin({
     failfast: true,
@@ -100,7 +96,7 @@ function DocItem(props) {
                 <DocContent />
               </div>
             </article>
-            <DocsRating docId={unversionedId} />
+            <DocsRating editUrl={editUrl} />
             {(editUrl || lastUpdatedAt || lastUpdatedBy) && (
               <div className="margin-vert--xl">
                 <div className="row">
