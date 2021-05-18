@@ -11,15 +11,20 @@ import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import React, { useState } from 'react';
 import styles from './rating.module.css';
 
-const DocsRating = () => {
+const DocsRating = ({ editUrl }) => {
   if (!ExecutionEnvironment.canUseDOM) {
     return null;
   }
 
   const [haveVoted, setHaveVoted] = useState(false);
-  const giveFeedback = () => {
-    // ここはGTMに任せる
-    setHaveVoted(true);
+
+  const actualPath = editUrl.replace(
+    'https://client.asobinon.org/edit?path=',
+    ''
+  );
+
+  const href = (value: 'good' | 'bad') => {
+    return `http://localhost:3001/feedback?path=${actualPath}&value=${value}`;
   };
 
   return (
@@ -31,14 +36,18 @@ const DocsRating = () => {
           <span className={styles.message}>このページは役に立ちましたか?</span>
           <div className={styles.buttons}>
             <a
-              className={`GTM_FEEDBACK_GOOD ${styles.button} ${styles.buttonGood}`}
-              onClick={() => giveFeedback()}
+              className={`${styles.button} ${styles.buttonGood}`}
+              onClick={() => setHaveVoted(true)}
+              href={href('good')}
+              target="_blank"
             >
               Yes!
             </a>
             <a
-              className={`GTM_FEEDBACK_BAD ${styles.button} ${styles.buttonBad}`}
-              onClick={() => giveFeedback()}
+              className={`${styles.button} ${styles.buttonBad}`}
+              onClick={() => setHaveVoted(true)}
+              href={href('bad')}
+              target="_blank"
             >
               No!
             </a>
