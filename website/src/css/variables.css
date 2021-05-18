@@ -1,0 +1,16 @@
+/* Added by sasigume */
+
+/* This variables are used in module CSS in the theme folder */
+
+.borderButton {
+  color: #2687e8;
+  border: solid 1px #2687e8;
+  border-radius: var(--ifm-pagination-nav-border-radius);
+}
+
+.borderButtonFilled {
+  color: #fff;
+  background-color: #2687e8;
+  border: solid 1px #2687e8;
+  border-radius: var(--ifm-pagination-nav-border-radius);
+}
