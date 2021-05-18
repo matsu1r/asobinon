@@ -52,25 +52,25 @@ OptiFine(自動で作成されたもの)をクリックします。
 
 次も重要です。「ゲームディレクトリ」の**「参照」**をクリックしましょう。
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091015.png,"新しいフォルダーの作成")
+![image](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091015.png)
 
 フォルダー選択画面が表示されます。**Optifine用のフォルダーを作りましょう。** 一番上の「デスクトップ」をクリックし`新しいフォルダーの作成`ボタンをクリックします。
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091105.png,"フォルダー名を入力")
+![image](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091105.png)
 
 新しいフォルダーが作成されたら、バージョン名など、**分かりやすいフォルダー名を入力しましょう。** 先ほど設定したプロファイルの名前と一致させる必要はありません。
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104035.png,"OK")
+![image](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104035.png)
 
 フォルダー名を入力したら<kbd>Enter</kbd>を叩き、`OK`をクリック。これで専用フォルダーの作成および紐付けができました。
 
 ### Macの場合のゲームディレクトリ設定方法
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093045.png,"ユーザー名をクリック")
+![image](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093045.png)
 
 Macの場合、こんな画面が表示されれます。左のメニューにある **ユーザー名をクリック** しましょう。
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093052.png,"デスクトップを開く")
+![image](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093052.png)
 「Desktop(デスクトップ)」をダブルクリックして開きます。
 
 ![フォルダー作成](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093057.png)
