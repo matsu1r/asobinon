@@ -149,27 +149,6 @@ module.exports = {
       copyright: `当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Copyright © ${new Date().getFullYear()} AELYONE. Built with Docusaurus.`,
     },
   },
-  plugins: [
-    [
-      '@docusaurus/plugin-client-redirects',
-      {
-        redirects: [
-          {
-            to: '/minecraft/howto/bedrock-friend-multiplayer-guide/',
-            from: ['/minecraft/howto/bedrock-friend-multiplayer-guide/intro'],
-          },
-          {
-            to: '/minecraft-je/howto/install-optifine/',
-            from: ['/minecraft-je/howto/install-optifine/intro'],
-          },
-          {
-            to: '/minecraft-je/howto/install-forge/',
-            from: ['/minecraft-je/howto/install-forge/intro'],
-          },
-        ],
-      },
-    ],
-  ],
   presets: [
     [
       '@docusaurus/preset-classic',

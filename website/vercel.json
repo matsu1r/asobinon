@@ -1,3 +1,17 @@
 {
-  "redirects": [{ "source": "/docs/(.+?)", "destination": "/$1" }]
+  "redirects": [
+    { "source": "/docs/(.+?)", "destination": "/$1" },
+    {
+      "destination": "/minecraft/howto/bedrock-friend-multiplayer-guide/",
+      "source": "/minecraft/howto/bedrock-friend-multiplayer-guide/intro"
+    },
+    {
+      "destination": "/minecraft-je/howto/install-optifine/",
+      "source": "/minecraft-je/howto/install-optifine/intro"
+    },
+    {
+      "destination": "/minecraft-je/howto/install-forge/",
+      "source": "/minecraft-je/howto/install-forge/intro"
+    }
+  ]
 }
