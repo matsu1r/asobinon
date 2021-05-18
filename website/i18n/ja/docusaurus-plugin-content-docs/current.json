@@ -1,0 +1,94 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.編集する": {
+    "message": "編集する",
+    "description": "The label for category 編集する in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft Java Edition": {
+    "message": "Minecraft Java Edition",
+    "description": "The label for category Minecraft Java Edition in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.howto": {
+    "message": "howto",
+    "description": "The label for category howto in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.いちばん安全なMODの導入方法": {
+    "message": "いちばん安全なMODの導入方法",
+    "description": "The label for category いちばん安全なMODの導入方法 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.OptiFineとシェーダーの導入方法": {
+    "message": "OptiFineとシェーダーの導入方法",
+    "description": "The label for category OptiFineとシェーダーの導入方法 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft": {
+    "message": "Minecraft",
+    "description": "The label for category Minecraft in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ハウツー": {
+    "message": "ハウツー",
+    "description": "The label for category ハウツー in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.スマホ・スイッチのマルチプレイ手順": {
+    "message": "スマホ・スイッチのマルチプレイ手順",
+    "description": "The label for category スマホ・スイッチのマルチプレイ手順 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.リファレンス": {
+    "message": "リファレンス",
+    "description": "The label for category リファレンス in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.コマンドリファレンス(BE)": {
+    "message": "コマンドリファレンス(BE)",
+    "description": "The label for category コマンドリファレンス(BE) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hytale": {
+    "message": "Hytale",
+    "description": "The label for category Hytale in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ウマ娘": {
+    "message": "ウマ娘",
+    "description": "The label for category ウマ娘 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.キャラクター": {
+    "message": "キャラクター",
+    "description": "The label for category キャラクター in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.BF6": {
+    "message": "BF6",
+    "description": "The label for category BF6 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cities Skylines": {
+    "message": "Cities Skylines",
+    "description": "The label for category Cities Skylines in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.カテゴリー": {
+    "message": "カテゴリー",
+    "description": "The label for category カテゴリー in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.メンバー": {
+    "message": "メンバー",
+    "description": "The label for category メンバー in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.特別なページ": {
+    "message": "特別なページ",
+    "description": "The label for category 特別なページ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vercelでゲームメディアを作ろう": {
+    "message": "Vercelでゲームメディアを作ろう",
+    "description": "The label for category Vercelでゲームメディアを作ろう in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.コンポーネント集": {
+    "message": "コンポーネント集",
+    "description": "The label for category コンポーネント集 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.GCPでゲームメディアを無料で作成しよう": {
+    "message": "GCPでゲームメディアを無料で作成しよう",
+    "description": "The label for category GCPでゲームメディアを無料で作成しよう in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.特集: ナポアンのマイクラ辞典": {
+    "message": "特集: ナポアンのマイクラ辞典",
+    "description": "The label for category 特集: ナポアンのマイクラ辞典 in sidebar tutorialSidebar"
+  }
+}

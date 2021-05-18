@@ -1,0 +1,50 @@
+{
+  "title": {
+    "message": "ASOBINON",
+    "description": "The title in the navbar"
+  },
+  "item.label.Minecraft (BE)": {
+    "message": "Minecraft (BE)",
+    "description": "Navbar item with label Minecraft (BE)"
+  },
+  "item.label.Minecraft (JE)": {
+    "message": "Minecraft (JE)",
+    "description": "Navbar item with label Minecraft (JE)"
+  },
+  "item.label.Hytale": {
+    "message": "Hytale",
+    "description": "Navbar item with label Hytale"
+  },
+  "item.label.ウマ娘": {
+    "message": "ウマ娘",
+    "description": "Navbar item with label ウマ娘"
+  },
+  "item.label.BF6": {
+    "message": "BF6",
+    "description": "Navbar item with label BF6"
+  },
+  "item.label.Discord": {
+    "message": "Discord",
+    "description": "Navbar item with label Discord"
+  },
+  "item.label.レポジトリ": {
+    "message": "レポジトリ",
+    "description": "Navbar item with label レポジトリ"
+  },
+  "item.label.BEのコマンド": {
+    "message": "BEのコマンド",
+    "description": "Navbar item with label BEのコマンド"
+  },
+  "item.label.マルチプレイ": {
+    "message": "マルチプレイ",
+    "description": "Navbar item with label マルチプレイ"
+  },
+  "item.label.MOD(Forge)導入方法": {
+    "message": "MOD(Forge)導入方法",
+    "description": "Navbar item with label MOD(Forge)導入方法"
+  },
+  "item.label.OptiFine導入方法": {
+    "message": "OptiFine導入方法",
+    "description": "Navbar item with label OptiFine導入方法"
+  }
+}

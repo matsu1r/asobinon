@@ -47,12 +47,3 @@
 }
 
 /* Added 2021-5-13 end */
-
-/* Added 2021-5-15 start */
-
-/* 日本語タイトルが大きすぎるので3->2.5remに */
-.docTitle_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocItem- {
-  font-size: 2.5rem !important;
-}
-
-/* Added 2021-5-15 end */
