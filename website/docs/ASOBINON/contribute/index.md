@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-slug: /ASOBINON/
+slug: /ASOBINON/contribute/
 ---
 
 # 参加方法 トップページ
