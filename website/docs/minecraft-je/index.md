@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /minecraft-je/
 ---
 
 # Minecraft Java Edition攻略 トップページ

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /minecraft/
 ---
 
 # Minecraft攻略 トップ
@@ -8,7 +9,7 @@ sidebar_position: 0
 
 ここでいうMinecraftはBEを指しています。
 
-**JEは[こちらのページ](/docs/minecraft-je/intro)**に分けています。
+**JEは[こちらのページ](/minecraft-je/)**に分けています。
 内容を混ぜないよう注意してください。
 
 :::

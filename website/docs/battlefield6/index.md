@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /battlefield6/
 ---
 
 # BF6攻略 トップページ
