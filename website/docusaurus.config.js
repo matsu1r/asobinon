@@ -49,7 +49,7 @@ module.exports = {
       items: [
         {
           to: '/docs/minecraft/intro',
-          label: 'Minecraft',
+          label: 'Minecraft (BE)',
           items: [
             {
               to: '/docs/minecraft/reference/command-bedrock/intro',
@@ -61,14 +61,18 @@ module.exports = {
               label: 'マルチプレイ',
             },
             {
-              to: '/docs/minecraft/howto/install-forge/intro',
+              to: '/docs/minecraft-je/howto/install-forge/intro',
               label: 'MOD(Forge)導入方法',
             },
             {
-              to: '/docs/minecraft/howto/install-optifine/intro',
+              to: '/docs/minecraft-je/howto/install-optifine/intro',
               label: 'OptiFine導入方法',
             },
           ],
+        },
+        {
+          to: '/docs/minecraft-je/intro',
+          label: 'Minecraft (JE)',
         },
         {
           to: '/docs/hytale/intro',
@@ -93,20 +97,12 @@ module.exports = {
           title: 'Sitemap',
           items: [
             {
-              to: '/docs/minecraft/intro',
-              label: 'Minecraft',
-            },
-            {
-              to: '/docs/minecraft/intro',
-              label: 'Hytale',
-            },
-            {
-              to: '/docs/special/intro',
-              label: 'Special pages',
+              to: '/docs/intro',
+              label: '攻略ページ',
             },
             {
               to: '/blog',
-              label: 'Blog',
+              label: 'ブログ',
             },
             {
               to: '/eula',
@@ -119,7 +115,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Links',
+          title: 'コミュニティ',
           items: [
             {
               label: 'Twitter',
@@ -133,10 +129,14 @@ module.exports = {
               label: 'お問い合わせ',
               href: `https://client.asobinon.org`,
             },
+            {
+              label: '運営',
+              href: `https://aely.one`,
+            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} aelyone. Built with Docusaurus.`,
+      copyright: `当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Copyright © ${new Date().getFullYear()} AELYONE. Built with Docusaurus.`,
     },
   },
   presets: [
