@@ -1308,7 +1308,7 @@
 
 "@docusaurus/plugin-content-docs@2.0.0-beta.0":
   version "2.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-docs/-/plugin-content-docs-2.0.0-beta.0.tgz#a5a1e0e95e499eefee53e4f61aeb99ac4a669648"
+  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-/-/plugin-content-docs-2.0.0-beta.0.tgz#a5a1e0e95e499eefee53e4f61aeb99ac4a669648"
   integrity sha512-WdDQUh2rRCbfJswVc0vY9EaAspxgziqpVEZja8+BmQR/TZh7HuLplT6GJbiFbE4RvwM3+PwG/jHMPglYDK60kw==
   dependencies:
     "@docusaurus/core" "2.0.0-beta.0"

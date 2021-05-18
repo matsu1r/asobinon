@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /minecraft-je/howto/install-forge/
 ---
 
 # 2021年版 いちばん安全なMODの導入方法

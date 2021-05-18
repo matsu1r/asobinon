@@ -48,45 +48,40 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/minecraft/intro',
+          to: '/minecraft/',
           label: 'Minecraft (BE)',
           items: [
             {
-              to: '/docs/minecraft/reference/command-bedrock/intro',
+              to: '//minecraft/reference/command-bedrock/',
               label: 'BEのコマンド',
             },
             {
-              to:
-                '/docs/minecraft/howto/bedrock-friend-multiplayer-guide/intro',
+              to: '//minecraft/howto/bedrock-friend-multiplayer-guide/',
               label: 'マルチプレイ',
             },
           ],
         },
         {
-          to: '/docs/minecraft-je/intro',
+          to: '/minecraft-je/',
           label: 'Minecraft (JE)',
           items: [
             {
-              to: '/docs/minecraft-je/howto/install-forge/intro',
+              to: '/minecraft-je/howto/install-forge/',
               label: 'MOD(Forge)導入方法',
             },
             {
-              to: '/docs/minecraft-je/howto/install-optifine/intro',
+              to: '/minecraft-je/howto/install-optifine/',
               label: 'OptiFine導入方法',
             },
           ],
         },
         {
-          to: '/docs/hytale/intro',
+          to: '/hytale/',
           label: 'Hytale',
         },
         {
-          to: '/docs/umamusume/intro',
+          to: '/umamusume/',
           label: 'ウマ娘',
-        },
-        {
-          to: '/docs/battlefield6/intro',
-          label: 'BF6',
         },
         {
           to: 'https://discord.gg/Nw8mEKSeut',
@@ -104,16 +99,21 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Sitemap',
+          title: 'ゲーム',
           items: [
             {
-              to: '/docs/intro',
-              label: '攻略ページ',
+              to: '/minecraft/',
+              label: 'Minecraft (BE)',
             },
             {
-              to: '/blog',
-              label: 'ブログ',
+              to: '/minecraft-je/',
+              label: 'Minecraft (JE)',
             },
+          ],
+        },
+        {
+          title: '特別なページ',
+          items: [
             {
               to: '/eula',
               label: '利用規約',
@@ -137,7 +137,7 @@ module.exports = {
             },
             {
               label: 'お問い合わせ',
-              href: `https://client.asobinon.org`,
+              href: `https://client.asobinon.org/contact`,
             },
             {
               label: '運営',
@@ -154,12 +154,13 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          routeBasePath: '/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
 
           /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
-          /docs/XXXが渡される */
+          //XXXが渡される */
           editUrl: 'https://client.asobinon.org/edit/?path=',
           remarkPlugins: [
             [

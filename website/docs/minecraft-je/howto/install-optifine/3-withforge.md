@@ -6,7 +6,7 @@ Optifine「だけ」使う場合は、[単体での導入方法](./singleinstall
 
 Optifineは他のMODと同じように、**Forgeのmodsフォルダーに入れて簡単に導入することも出来ます。**(適応するバージョンのForgeが必要ですが)
 
-まだForgeを導入していない方は、[こちらの記事](../install-forge/intro)を参考に使える状態にして下さい。
+まだForgeを導入していない方は、[こちらの記事](../install-forge/)を参考に使える状態にして下さい。
 
 ![modsフォルダーを探そう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100358.jpg)
 

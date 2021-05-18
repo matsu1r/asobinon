@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /ASOBINON/
 ---
 
 # 参加方法 トップページ

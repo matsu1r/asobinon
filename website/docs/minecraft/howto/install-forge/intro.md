@@ -1,3 +1,3 @@
 # 移動しました
 
-[こちらが新しいページです](/docs/minecraft-je/howto/install-forge/intro)
+[こちらが新しいページです](/minecraft-je/howto/install-forge/)

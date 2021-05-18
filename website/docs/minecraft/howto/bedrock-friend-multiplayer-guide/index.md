@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /minecraft/howto/bedrock-friend-multiplayer-guide/
 ---
 
 # 2021年版 スマホ・スイッチのマルチプレイ手順 アカウント作成・名前変更・フレンド追加まで〜〜

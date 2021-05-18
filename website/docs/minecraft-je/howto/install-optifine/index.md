@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /minecraft-je/howto/install-optifine/
 ---
 
 # 2021年版 軽量化MOD「OptiFine」とシェーダーの導入方法

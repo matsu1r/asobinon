@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /hytale/
 ---
 
 # Hytale攻略 トップページ

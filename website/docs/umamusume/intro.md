@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /umamusume/
 ---
 
 # ウマ娘攻略 トップページ
