@@ -24,7 +24,7 @@ const DocsRating = ({ editUrl }) => {
   );
 
   const href = (value: 'good' | 'bad') => {
-    return `http://localhost:3001/feedback?path=${actualPath}&value=${value}`;
+    return `http://client.asobinon.org/feedback?path=${actualPath}&value=${value}`;
   };
 
   return (
