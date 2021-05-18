@@ -36,7 +36,6 @@ function DocItem(props) {
     lastUpdatedAt,
     formattedLastUpdatedAt,
     lastUpdatedBy,
-    r,
   } = metadata;
   const { pluginId } = useActivePlugin({
     failfast: true,
@@ -83,22 +82,17 @@ function DocItem(props) {
                   <h1 className={styles.docTitle}>{title}</h1>
                 </header>
               )}
-              {(editUrl || lastUpdatedAt || lastUpdatedBy) && (
-                <div className="margin-vert--md">
-                  <div className="row">
-                    <div className="col">
-                      {editUrl && <EditThisPage editUrl={editUrl} />}
-                    </div>
-                  </div>
-                </div>
-              )}
-              <div className="markdown">
+              <div className="markdown margin-vert--lg">
                 <DocContent />
               </div>
             </article>
-            <DocsRating editUrl={editUrl} />
+
+            <div className="margin-vert--xl">
+              <DocPaginator metadata={metadata} />
+            </div>
+
             {(editUrl || lastUpdatedAt || lastUpdatedBy) && (
-              <div className="margin-vert--xl">
+              <div className="margin-vert--lg">
                 <div className="row">
                   <div className="col">
                     {editUrl && <EditThisPage editUrl={editUrl} />}
@@ -113,8 +107,9 @@ function DocItem(props) {
                 </div>
               </div>
             )}
-            <div className="margin-vert--lg">
-              <DocPaginator metadata={metadata} />
+
+            <div className="margin-vert--md">
+              <DocsRating editUrl={editUrl} />
             </div>
           </div>
         </div>
