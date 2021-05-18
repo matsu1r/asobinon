@@ -18,6 +18,7 @@ import {
   useVersions,
   useActiveVersion,
 } from '@theme/hooks/useDocs';
+import DocsRating from '../../components/docpage/rating';
 
 function DocItem(props) {
   const { content: DocContent } = props;
@@ -37,9 +38,9 @@ function DocItem(props) {
     lastUpdatedBy,
 
     /* Added by sasigume
-    編集履歴用にソースの拡張子付きパスを取得
+    Analyticsを利用した評価用にパスを取得
     */
-    source,
+    unversionedId,
   } = metadata;
   const { pluginId } = useActivePlugin({
     failfast: true,
@@ -99,6 +100,7 @@ function DocItem(props) {
                 <DocContent />
               </div>
             </article>
+            <DocsRating docId={unversionedId} />
             {(editUrl || lastUpdatedAt || lastUpdatedBy) && (
               <div className="margin-vert--xl">
                 <div className="row">
