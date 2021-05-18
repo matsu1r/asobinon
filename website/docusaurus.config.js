@@ -174,6 +174,21 @@ module.exports = {
             ],
           ],
         },
+        blog: {
+          showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} aelyone.`,
+          },
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '全ての投稿',
+          /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
+          /blog/XXXが渡される */
+          editUrl: 'https://client.asobinon.org/edit/?path=',
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
       },
     ],
   ],
