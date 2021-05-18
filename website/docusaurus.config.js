@@ -37,13 +37,13 @@ module.exports = {
         name: 'twitter:image',
         content: 'https://asobinon.org/img/ogp/logo-ogp.png',
       },
-      { name: 'twitter:site', content: '@napoancom' },
+      { name: 'twitter:site', content: '@asobinon' },
     ],
     navbar: {
       hideOnScroll: true,
       title: 'ASOBINON',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Asobinon Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -60,6 +60,12 @@ module.exports = {
                 '/docs/minecraft/howto/bedrock-friend-multiplayer-guide/intro',
               label: 'マルチプレイ',
             },
+          ],
+        },
+        {
+          to: '/docs/minecraft-je/intro',
+          label: 'Minecraft (JE)',
+          items: [
             {
               to: '/docs/minecraft-je/howto/install-forge/intro',
               label: 'MOD(Forge)導入方法',
@@ -71,12 +77,16 @@ module.exports = {
           ],
         },
         {
-          to: '/docs/minecraft-je/intro',
-          label: 'Minecraft (JE)',
-        },
-        {
           to: '/docs/hytale/intro',
           label: 'Hytale',
+        },
+        {
+          to: '/docs/umamusume/intro',
+          label: 'ウマ娘',
+        },
+        {
+          to: '/docs/battlefield6/intro',
+          label: 'BF6',
         },
         {
           to: 'https://discord.gg/Nw8mEKSeut',
