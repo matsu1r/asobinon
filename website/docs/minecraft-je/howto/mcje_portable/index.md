@@ -118,3 +118,4 @@ Minecraft.exe --workdir "%CD%\.minecraft"
 
 ### 起動構成
 
+USBから起動する場合、起動構成のディレクトリは必ず相対パスで指定しましょう。
