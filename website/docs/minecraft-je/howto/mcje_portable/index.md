@@ -24,7 +24,11 @@ slug: /minecraft-je/howto/mcje_portable/
 
 ***
 
-## 方法の概要
+## 方法の概要・流れ
+
+元々パソコンでMinecraft Java Editionをプレイしている前提で話を進めます。元々のデータの方でゲームディレクトリやJavaランタイムのパスを変更していなければ、ここの項目のStepだけで完結できます。
+
+Minecraftが初めてだよ、という方は、こんなことにはまだ挑戦しない方が良いかもしれません。
 
 ### Step1 Minecraftのランチャーを入手する
 
@@ -35,15 +39,17 @@ Minecraft Launcherの実行ファイル、ランチャーの本体です。
 
 ![Launcher_Download](https://firebasestorage.googleapis.com/v0/b/markdown-gaming.appspot.com/o/images%2Fuserupload%2FVtjimroDpNTowXhTh56Gbh5CAr63%2F9c912c77-818c-4317-ac86-e8cdbc4dd470.png?alt=media&token=0d35ae30-eeff-4071-bfe3-40e45b4b9f31)
 
-インストールしたい場所(ここではUSBメモリの中のフォルダ `X:\Minecraft\`とします)に突っ込みます。
+インストールしたい場所 (ここではUSBメモリの中のフォルダ `X:\Minecraft\`とします) に突っ込みます。
 
 ### Step2 起動用バッチファイルを作る
 
-先程突っ込んだランチャーは、普通にダブルクリックすると予め設定された場所(後述)にデータを保存しようとします。なので、バッチファイルというものを使ってその保存場所をUSBメモリ内に変えてやる必要があります。
+先程突っ込んだランチャーは、普通にダブルクリックすると予め設定された場所 (後述の`%appdata%`) にデータを保存しようとします。なので、バッチファイルというものを使ってその保存場所をUSBメモリ内に変えてやる必要があります。
 
-メモ帳でも何でも良いので、テキストエディタを開き、以下のコマンドを入力して「Portable.bat」など適当なな名前のバッチファイルにして、先程入れたランチャーのexeファイルと同じ場所に保存します。
+メモ帳でも何でも良いので、テキストエディタを開き、以下のコマンドを入力して「Portable.bat」など適当なな名前のバッチファイル(拡張子:.bat)にして、先程入れたランチャーのexeファイルと同じ場所に保存します。
 
-```MinecraftLauncher.exe --workdir "%CD%\.minecraft"```
+```
+MinecraftLauncher.exe --workdir "%CD%\.minecraft"
+```
 
 **USBメモリからMinecraftを起動する際は必ず今作ったバッチファイルをダブルクリックして起動するようにしましょう**
 
@@ -51,18 +57,55 @@ Minecraft Launcherの実行ファイル、ランチャーの本体です。
 
 先程作ったバッチファイルをダブルクリックして起動します。すると、必要なファイルが一通りダウンロードされ、ランチャーの画面が出てきます。
 
-ここで一旦ランチャーを閉じましょう。すると、「.minecraft」「game」という2つのフォルダーが生成されているはずです。
+ここで一旦ランチャーを閉じましょう。すると、「.minecraft」「game」という2つのフォルダーが生成され、下の画像のようになっているはずです。
 
-### Step4 MinecraftのデータをUSBにコピー
+![is_dot_minecraft_generated?](https://firebasestorage.googleapis.com/v0/b/markdown-gaming.appspot.com/o/images%2Fuserupload%2FVtjimroDpNTowXhTh56Gbh5CAr63%2F0038af96-082e-46fb-a593-e71bd68b6a43.png?alt=media&token=a24c30a5-7e18-4f12-9f72-aa3176e2b48f)
 
-大体マイクラをUSBに入れて持ち運ぼうなんて考える人間は既にそれなりにマイクラをやっているはずなので、そのプレイデータをUSBメモリにコピーします。
+**ここで「.minecraft」が生成されていない場合は何かがうまく行っていないので、ここまでの手順を見直しましょう**
 
-USBに入れたMinecraftでは、OptifineやForgeなどの導入の際いちいちインストール先を変更するのがうまく行かなかったり面倒臭かったりするので、新しくMinecraftを始めた方もUSBに入れる前に自分のパソコンで一通りの設定を済ましてからそのデータをコピーしたほうが良いかもしれません。
+#### Step3.5 元のMinecraftのデータをUSBにコピー
 
-- Minecraftのデータは`C:\Users\(ユーザー名)\AppData\Roaming\.minecraft`に保存されています。
-- 「Windowsキー」と「R」を同時に押して、「ファイル名を指定して実行」に`%appdata%`と入力します。
-- そうするとRoamingフォルダーが開くので、その中にある「.minecraft」というフォルダーをコピーして、先程USBメモリに生成された「.minecraft」に上書きします。
+大体マイクラをUSBに入れて持ち運ぼうなんて考える人間は既にそれなりにマイクラをやっているはずなので、そのプレイデータをUSBメモリにコピーします。こうすると、USBに新しくバージョンをダウンロードしたりOptifineやForgeを導入する手間を省くことができます。
 
-### Step5 MinecraftをUSBメモリから起動しよう!
+ - Minecraftのデータは `C:\Users\(ユーザー名)\AppData\Roaming\.minecraft` に保存されています。
 
-ちゃんとUSBメモリから起動できているか確認
+「Windowsキー」と「R」を同時に押して、「ファイル名を指定して実行」に`%appdata%`と入力します。
+そうするとRoamingフォルダーが開くので、その中にある「.minecraft」というフォルダーをコピーして、先程USBメモリに生成された「.minecraft」に上書きします。
+![dotminecraft_copy](https://firebasestorage.googleapis.com/v0/b/markdown-gaming.appspot.com/o/images%2Fuserupload%2FVtjimroDpNTowXhTh56Gbh5CAr63%2F58aecf59-6333-46bf-a4e3-399f277a7e0a.png?alt=media&token=686e2406-363c-4c6b-a8fb-f3e84441e61b)
+
+### Step4 MinecraftをUSBメモリから起動しよう!
+
+もう一度Portable.batからランチャーを起動してみましょう。
+
+ここでゲームを起動すると、他に必要なファイルが全てUSBメモリにインストールされ、USBメモリからMinecraftが遊べるようになります。
+
+### OptifineやForgeを直接USBへインストールするには
+
+直接こいつらをインストールする際、インストール先を変更する必要があります。めんどくさいですね。
+
+**起動構成の設定に関しては、この場合少し複雑になるのでまだ待ってください。(後述)**
+
+#### Forgeの場合
+
+細かい方法は当サイトの[Forgeのページ](/minecraft-je/howto/install-forge/download-install)を御覧ください。
+
+インストーラが起動したら、下の画像のようにしてインストール先を変更してから、「OK」を押してインストールするとうまくいきます。
+
+それ以外は[Forgeのページ](/minecraft-je/howto/install-forge/download-install)と同じです。
+
+![install_Forge_USB](https://firebasestorage.googleapis.com/v0/b/markdown-gaming.appspot.com/o/images%2Fuserupload%2FVtjimroDpNTowXhTh56Gbh5CAr63%2F487ab735-43cc-42c0-a587-d478f934a514.png?alt=media&token=82b832ee-54bc-4227-9803-b70ebf7fa842)
+
+#### Optifineの場合
+
+細かい方法は当サイトの[Optifineを「バージョン」としてインストール](/minecraft-je/howto/install-optifine/2-singleinstall.md)を御覧ください。
+
+インストーラが起動したら、下の画像のようにしてインストール先を変更してから、「install」を押してインストールするとうまくいきます。
+
+それ以外は[Optifineを「バージョン」としてインストール](/minecraft-je/howto/install-optifine/2-singleinstall.md)と同じです。
+
+![install_optifine_USB](https://firebasestorage.googleapis.com/v0/b/markdown-gaming.appspot.com/o/images%2Fuserupload%2FVtjimroDpNTowXhTh56Gbh5CAr63%2Fe9080840-8419-420c-813a-4ab29354c337.png?alt=media&token=da010edd-8c9f-4f63-9ee1-75d4b3d8daab)
+
+
+## 気をつけるべき設定
+
+### 起動構成
