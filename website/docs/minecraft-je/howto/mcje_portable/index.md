@@ -2,7 +2,7 @@
 sidebar_position: 0
 slug: /minecraft-je/howto/mcje_portable/
 ---
-# Minecraft JEをUSBメモリ等に入れて持ち運ぶ方法の備忘録と私が気を配ってた点
+# Minecraft JEのポータブル化(USBメモリ等で持ち運ぶ)の方法と注意点の備忘録
 
 :::info
 この記事は編集中です。
@@ -43,13 +43,21 @@ Minecraft Launcherの実行ファイル、ランチャーの本体です。
 
 ### Step2 起動用バッチファイルを作る
 
-先程突っ込んだランチャーは、普通にダブルクリックすると予め設定された場所 (後述の`%appdata%`) にデータを保存しようとします。なので、バッチファイルというものを使ってその保存場所をUSBメモリ内に変えてやる必要があります。
+先程突っ込んだランチャーは、普通にダブルクリックすると予め設定された場所 (後述の`%appdata%`) にデータを保存しようとします。ランチャーにはその場所を別の場所に設定するオプションが存在するので、バッチファイルを使ってその設定を適用します。
 
 メモ帳でも何でも良いので、テキストエディタを開き、以下のコマンドを入力して「Portable.bat」など適当なな名前のバッチファイル(拡張子:.bat)にして、先程入れたランチャーのexeファイルと同じ場所に保存します。
 
 ```
 MinecraftLauncher.exe --workdir "%CD%\.minecraft"
 ```
+
+ランチャーを[公式ダウンロードページ](https://www.minecraft.net/ja-jp/download/alternative)からダウンロードした場合は実行ファイルの名前が「Minecraft.exe」なので、
+
+```
+Minecraft.exe --workdir "%CD%\.minecraft"
+```
+
+となります。どっちでもいいわ
 
 **USBメモリからMinecraftを起動する際は必ず今作ったバッチファイルをダブルクリックして起動するようにしましょう**
 
@@ -77,7 +85,7 @@ MinecraftLauncher.exe --workdir "%CD%\.minecraft"
 
 もう一度Portable.batからランチャーを起動してみましょう。
 
-ここでゲームを起動すると、他に必要なファイルが全てUSBメモリにインストールされ、USBメモリからMinecraftが遊べるようになります。
+ここでログインしてゲームを起動すると、他に必要なファイルが全てUSBメモリにインストールされ、USBメモリからMinecraftが遊べるようになります。
 
 ### OptifineやForgeを直接USBへインストールするには
 
@@ -109,3 +117,4 @@ MinecraftLauncher.exe --workdir "%CD%\.minecraft"
 ## 気をつけるべき設定
 
 ### 起動構成
+
