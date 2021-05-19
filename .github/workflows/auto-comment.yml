@@ -12,10 +12,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           issuesOpened: >
             👋 @{{ author }}
-
-            issue 게시물 감사합니다. 직원이 확인 될 때까지 잠시 기다려주십시오.
+            issue投稿ありがとうございます。確認に時間がかかるかもしれませんが、しばらくお待ちください。
 
           pullRequestOpened: >
             👋 @{{ author }}
-
-            Pull request 감사합니다. 직원이 확인 될 때까지 잠시 기다려주십시오.
+            プルリクエストありがとうございます。確認に時間がかかるかもしれませんが、しばらくお待ちください。
