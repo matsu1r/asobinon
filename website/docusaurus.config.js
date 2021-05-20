@@ -52,11 +52,11 @@ module.exports = {
           label: 'Minecraft (BE)',
           items: [
             {
-              to: '//minecraft/reference/command-bedrock/',
+              to: '/minecraft/reference/command-bedrock/',
               label: 'BEのコマンド',
             },
             {
-              to: '//minecraft/howto/bedrock-friend-multiplayer-guide/',
+              to: '/minecraft/howto/bedrock-friend-multiplayer-guide/',
               label: 'マルチプレイ',
             },
           ],
@@ -84,14 +84,10 @@ module.exports = {
           label: 'ウマ娘',
         },
         {
-          to: 'https://discord.gg/Nw8mEKSeut',
-          label: 'Discord',
+          href: 'https://github.com/aelyone/asobinon',
           position: 'right',
-        },
-        {
-          href: `https://github.com/aelyone/asobinon`,
-          label: 'レポジトリ',
-          position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHubレポジトリ',
         },
       ],
     },

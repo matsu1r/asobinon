@@ -7,7 +7,7 @@ slug: /ASOBINON/contribute/
 
 このサイトは`Docusaurus`というドキュメント作成ツールを使っています。
 
-編集方法の詳細は[CONTRIBUTING.md](https://github.com/aelyone/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
+編集する前に、[CONTRIBUTING.md](https://github.com/aelyone/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
 
 ## ゲーム追加について
 
