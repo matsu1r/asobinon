@@ -52,11 +52,11 @@ module.exports = {
           label: 'Minecraft (BE)',
           items: [
             {
-              to: '//minecraft/reference/command-bedrock/',
+              to: '/minecraft/reference/command-bedrock/',
               label: 'BEのコマンド',
             },
             {
-              to: '//minecraft/howto/bedrock-friend-multiplayer-guide/',
+              to: '/minecraft/howto/bedrock-friend-multiplayer-guide/',
               label: 'マルチプレイ',
             },
           ],
