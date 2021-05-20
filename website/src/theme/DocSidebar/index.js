@@ -19,6 +19,8 @@ import IconMenu from '@theme/IconMenu';
 import { translate } from '@docusaurus/Translate';
 import styles from './styles.module.css';
 import ImageUploaderButton from '../../components/common/image-uploader-button';
+import HowtoEditButton from '../../components/common/howto-edit-button';
+
 const MOBILE_TOGGLE_SIZE = 24;
 
 function usePrevious(value) {
@@ -333,15 +335,18 @@ function DocSidebar({
           }
         )}
       >
-        <div className="margin-vert--md margin-horiz--sm">
-          <ImageUploaderButton />
-        </div>
         <ResponsiveSidebarButton
           responsiveSidebarOpened={showResponsiveSidebar}
           onClick={toggleResponsiveSidebar}
         />
 
         <ul className="menu__list">
+          <div className="row margin-vert--md margin-horiz--md">
+            <span className="margin-right--sm">
+              <ImageUploaderButton />
+            </span>
+            <HowtoEditButton />
+          </div>
           <DocSidebarItems
             items={sidebar}
             onItemClick={closeResponsiveSidebar}

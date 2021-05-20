@@ -6,7 +6,7 @@ export default function ImageUploaderButton() {
       target="_blank"
       href="https://client.asobinon.org/authenticated/images/upload"
     >
-      <div className="button button--primary">画像アップローダー</div>
+      <div className="button button--primary">画像アップ</div>
     </a>
   );
 }

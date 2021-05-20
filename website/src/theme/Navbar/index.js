@@ -18,6 +18,7 @@ import Logo from '@theme/Logo';
 import IconMenu from '@theme/IconMenu';
 import styles from './styles.module.css'; // retrocompatible with v1
 import ImageUploaderButton from '../../components/common/image-uploader-button';
+import HowtoEditButton from '../../components/common/howto-edit-button';
 
 const DefaultNavItemPosition = 'right'; // If split links by left/right
 // if position is unspecified, fallback to right (as v1)
@@ -129,9 +130,15 @@ function Navbar() {
         </div>
         <div className="navbar-sidebar__items">
           <div className="menu">
-            <div className="margin-vert--md margin-horiz--md">
-              <ImageUploaderButton />
+            {/* 以下、勝手に追加 */}
+
+            <div className="row margin-vert--md margin-horiz--md">
+              <span className="margin-right--sm">
+                <ImageUploaderButton />
+              </span>
+              <HowtoEditButton />
             </div>
+
             <div className="margin-vert--md margin-horiz--md">
               スマホの方は右下のメニューも使ってね!
             </div>
