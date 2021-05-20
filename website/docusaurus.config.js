@@ -84,14 +84,10 @@ module.exports = {
           label: 'ウマ娘',
         },
         {
-          to: 'https://discord.gg/Nw8mEKSeut',
-          label: 'Discord',
+          href: 'https://github.com/aelyone/asobinon',
           position: 'right',
-        },
-        {
-          href: `https://github.com/aelyone/asobinon`,
-          label: 'レポジトリ',
-          position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHubレポジトリ',
         },
       ],
     },
