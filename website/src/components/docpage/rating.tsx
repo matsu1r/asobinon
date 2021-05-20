@@ -3,7 +3,7 @@
 Most of code is directory copied from this:
 Thank you!
 
-https://github.com/facebook/react-native-website/blob/master/website/src/theme/DocItem/index.js
+https://github.com/facebook/react-native-website/blob/master/website/core/DocsRating.js
 
 */
 
