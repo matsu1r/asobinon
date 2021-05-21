@@ -4,6 +4,9 @@
   "workspaces": [
     "website"
   ],
+  "scripts": {
+    "prepare": "husky install"
+  },
   "dependencies": {
     "@babel/eslint-parser": "^7.14.3",
     "@typescript-eslint/eslint-plugin": "^4.22.1",
