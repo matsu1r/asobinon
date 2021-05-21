@@ -15,6 +15,5 @@
     "moduleResolution": "node",
     "esModuleInterop": true
   },
-  "extends": "@tsconfig/docusaurus/tsconfig.json",
-  "include": ["src/"]
+  "include": ["website/"]
 }
