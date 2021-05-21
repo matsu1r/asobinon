@@ -3,14 +3,14 @@
 /* This variables are used in module CSS in the theme folder */
 
 .borderButton {
-  color: #ff3f00;
-  border: solid 1px #ff3f00;
+  color: var(--theme-color);
+  border: solid 1px var(--theme-color);
   border-radius: var(--ifm-pagination-nav-border-radius);
 }
 
 .borderButtonFilled {
   color: #fff;
-  background-color: #ff3f00;
-  border: solid 1px #ff3f00;
+  background-color: var(--theme-color);
+  border: solid 1px var(--theme-color);
   border-radius: var(--ifm-pagination-nav-border-radius);
 }
