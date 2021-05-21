@@ -13,7 +13,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
   organizationName: 'aelyone',
   projectName: 'asobinon',
   themeConfig: {
@@ -30,12 +30,12 @@ module.exports = {
     metadatas: [
       {
         property: 'og:image',
-        content: 'https://asobinon.org/img/ogp/logo-ogp.png',
+        content: 'https://asobinon.org/ogp/ogp-1200x630.png',
       },
       { name: 'twitter:card', content: 'summary_large_image' },
       {
         name: 'twitter:image',
-        content: 'https://asobinon.org/img/ogp/logo-ogp.png',
+        content: 'https://asobinon.org/ogp/ogp-1200x630.png',
       },
       { name: 'twitter:site', content: '@asobinon' },
     ],
@@ -44,7 +44,7 @@ module.exports = {
       title: 'ASOBINON',
       logo: {
         alt: 'Asobinon Logo',
-        src: 'img/logo.svg',
+        src: 'svg/logo.svg',
       },
       items: [
         {
