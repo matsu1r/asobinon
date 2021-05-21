@@ -1,5 +1,5 @@
 /**
- * Copyright (c) Facebook, Inc. and its affiliates.
+ * Copyright (c) Facebook, Inc. and its affiliates. This file is modified by AELYONE.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -24,12 +24,8 @@ const DefaultNavItemPosition = 'right'; // If split links by left/right
 // if position is unspecified, fallback to right (as v1)
 
 function splitNavItemsByPosition(items) {
-  const leftItems = items.filter(
-    (item) => (item.position ?? DefaultNavItemPosition) === 'left'
-  );
-  const rightItems = items.filter(
-    (item) => (item.position ?? DefaultNavItemPosition) === 'right'
-  );
+  const leftItems = items.filter((item) => (item.position ?? DefaultNavItemPosition) === 'left');
+  const rightItems = items.filter((item) => (item.position ?? DefaultNavItemPosition) === 'right');
   return {
     leftItems,
     rightItems,
@@ -53,7 +49,7 @@ function Navbar() {
   }, [setSidebarShown]);
   const onToggleChange = useCallback(
     (e) => (e.target.checked ? setDarkTheme() : setLightTheme()),
-    [setLightTheme, setDarkTheme]
+    [setLightTheme, setDarkTheme],
   );
   const windowSize = useWindowSize();
   useEffect(() => {
@@ -111,11 +107,7 @@ function Navbar() {
           {!hasSearchNavbarItem && <SearchBar />}
         </div>
       </div>
-      <div
-        role="presentation"
-        className="navbar-sidebar__backdrop"
-        onClick={hideSidebar}
-      />
+      <div role="presentation" className="navbar-sidebar__backdrop" onClick={hideSidebar} />
       <div className="navbar-sidebar">
         <div className="navbar-sidebar__brand">
           <Logo

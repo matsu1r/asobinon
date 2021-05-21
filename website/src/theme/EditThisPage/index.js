@@ -1,5 +1,5 @@
 /**
- * Copyright (c) Facebook, Inc. and its affiliates.
+ * Copyright (c) Facebook, Inc. and its affiliates. This file is modified by AELYONE.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -17,12 +17,7 @@ export default function EditThisPage({ editUrl }) {
     editUrl.replace('https://client.asobinon.org/edit?path=', '');
   return (
     <div className={styles.wrapper}>
-      <a
-        className={styles.linkFilled}
-        href={editUrl}
-        target="_blank"
-        rel="noreferrer noopener"
-      >
+      <a className={styles.linkFilled} href={editUrl} target="_blank" rel="noreferrer noopener">
         <IconEdit />
         <Translate
           id="theme.common.editThisPage"
@@ -31,12 +26,7 @@ export default function EditThisPage({ editUrl }) {
           Edit this page
         </Translate>
       </a>
-      <a
-        className={styles.link}
-        href={historyUrl}
-        target="_blank"
-        rel="noreferrer noopener"
-      >
+      <a className={styles.link} href={historyUrl} target="_blank" rel="noreferrer noopener">
         <IconEdit />
         <Translate
           id="theme.common.editHistory"

@@ -5,7 +5,7 @@ import styles from './youtube-embed.module.css';
 
 // https://dev.to/bravemaster619/simplest-way-to-embed-a-youtube-video-in-your-react-app-3bk2
 
-const YoutubeEmbed = ({ id }) => (
+const YoutubeEmbed = ({ id }: { id: string }) => (
   <div className={styles.videoResponsive}>
     <iframe
       width="853"

@@ -16,10 +16,7 @@ const PathSelecter = ({ mode }: { mode: LogoMode }) => {
   if (mode == 'manoikura') {
     Path = (
       <>
-        <path
-          d="M0 170h150v40H0zm350 0h120v40H350zM160 270h180v40H160z"
-          className="a"
-        ></path>
+        <path d="M0 170h150v40H0zm350 0h120v40H350zM160 270h180v40H160z" className="a"></path>
         <path
           d="M300 170h40v113h-40zm180 50h160v40H480zm0-50h160v40H480zm-370 20h40v120h-40z"
           className="a"

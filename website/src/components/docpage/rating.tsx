@@ -11,17 +11,14 @@ import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import React, { useState } from 'react';
 import styles from './rating.module.css';
 
-const DocsRating = ({ editUrl }) => {
+const DocsRating = ({ editUrl }: { editUrl: string }) => {
   if (!ExecutionEnvironment.canUseDOM) {
     return null;
   }
 
   const [haveVoted, setHaveVoted] = useState(false);
 
-  const actualPath = editUrl.replace(
-    'https://client.asobinon.org/edit?path=',
-    ''
-  );
+  const actualPath = editUrl.replace('https://client.asobinon.org/edit?path=', '');
 
   const href = (value: 'good' | 'bad') => {
     return `http://client.asobinon.org/feedback?path=${actualPath}&value=${value}`;
@@ -40,6 +37,7 @@ const DocsRating = ({ editUrl }) => {
               onClick={() => setHaveVoted(true)}
               href={href('good')}
               target="_blank"
+              rel="noreferrer"
             >
               Yes!
             </a>
@@ -48,6 +46,7 @@ const DocsRating = ({ editUrl }) => {
               onClick={() => setHaveVoted(true)}
               href={href('bad')}
               target="_blank"
+              rel="noreferrer"
             >
               No!
             </a>

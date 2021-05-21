@@ -1,5 +1,5 @@
 /**
- * Copyright (c) Facebook, Inc. and its affiliates.
+ * Copyright (c) Facebook, Inc. and its affiliates. This file is modified by AELYONE.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -37,9 +37,7 @@ const isActiveSidebarItem = (item, activePath) => {
   }
 
   if (item.type === 'category') {
-    return item.items.some((subItem) =>
-      isActiveSidebarItem(subItem, activePath)
-    );
+    return item.items.some((subItem) => isActiveSidebarItem(subItem, activePath));
   }
 
   return false;
@@ -68,13 +66,7 @@ function DocSidebarItem(props) {
   }
 }
 
-function DocSidebarItemCategory({
-  item,
-  onItemClick,
-  collapsible,
-  activePath,
-  ...props
-}) {
+function DocSidebarItemCategory({ item, onItemClick, collapsible, activePath, ...props }) {
   const { items, label } = item;
   const isActive = isActiveSidebarItem(item, activePath);
   const wasActive = usePrevious(isActive); // active categories are always initialized as expanded
@@ -91,9 +83,7 @@ function DocSidebarItemCategory({
   const [menuListHeight, setMenuListHeight] = useState(undefined);
 
   const handleMenuListHeight = (calc = true) => {
-    setMenuListHeight(
-      calc ? `${menuListRef.current?.scrollHeight}px` : undefined
-    );
+    setMenuListHeight(calc ? `${menuListRef.current?.scrollHeight}px` : undefined);
   }; // If we navigate to a category, it should automatically expand itself
 
   useEffect(() => {
@@ -113,7 +103,7 @@ function DocSidebarItemCategory({
 
       setTimeout(() => setCollapsed((state) => !state), 100);
     },
-    [menuListHeight]
+    [menuListHeight],
   );
 
   if (items.length === 0) {
@@ -194,9 +184,7 @@ function DocSidebarItemLink({
 
 function useShowAnnouncementBar() {
   const { isAnnouncementBarClosed } = useUserPreferencesContext();
-  const [showAnnouncementBar, setShowAnnouncementBar] = useState(
-    !isAnnouncementBarClosed
-  );
+  const [showAnnouncementBar, setShowAnnouncementBar] = useState(!isAnnouncementBarClosed);
   useScrollPosition(({ scrollY }) => {
     if (!isAnnouncementBarClosed) {
       setShowAnnouncementBar(scrollY === 0);
@@ -219,7 +207,7 @@ function useResponsiveSidebar() {
       e.target.blur();
       setShowResponsiveSidebar(false);
     },
-    [setShowResponsiveSidebar]
+    [setShowResponsiveSidebar],
   );
   const toggleResponsiveSidebar = useCallback(() => {
     setShowResponsiveSidebar((value) => !value);
@@ -245,10 +233,7 @@ function HideableSidebarButton({ onClick }) {
         message: 'Collapse sidebar',
         description: 'The title attribute for collapse button of doc sidebar',
       })}
-      className={clsx(
-        'button button--secondary button--outline',
-        styles.collapseSidebarButton
-      )}
+      className={clsx('button button--secondary button--outline', styles.collapseSidebarButton)}
       onClick={onClick}
     >
       <IconArrow className={styles.collapseSidebarButtonIcon} />
@@ -264,14 +249,12 @@ function ResponsiveSidebarButton({ responsiveSidebarOpened, onClick }) {
           ? translate({
               id: 'theme.docs.sidebar.responsiveCloseButtonLabel',
               message: 'Close menu',
-              description:
-                'The ARIA label for close button of mobile doc sidebar',
+              description: 'The ARIA label for close button of mobile doc sidebar',
             })
           : translate({
               id: 'theme.docs.sidebar.responsiveOpenButtonLabel',
               message: 'Open menu',
-              description:
-                'The ARIA label for open button of mobile doc sidebar',
+              description: 'The ARIA label for open button of mobile doc sidebar',
             })
       }
       aria-haspopup="true"
@@ -280,11 +263,7 @@ function ResponsiveSidebarButton({ responsiveSidebarOpened, onClick }) {
       onClick={onClick}
     >
       {responsiveSidebarOpened ? (
-        <span
-          className={clsx(styles.sidebarMenuIcon, styles.sidebarMenuCloseIcon)}
-        >
-          &times;
-        </span>
+        <span className={clsx(styles.sidebarMenuIcon, styles.sidebarMenuCloseIcon)}>&times;</span>
       ) : (
         <IconMenu
           className={styles.sidebarMenuIcon}
@@ -296,24 +275,15 @@ function ResponsiveSidebarButton({ responsiveSidebarOpened, onClick }) {
   );
 }
 
-function DocSidebar({
-  path,
-  sidebar,
-  sidebarCollapsible = true,
-  onCollapse,
-  isHidden,
-}) {
+function DocSidebar({ path, sidebar, sidebarCollapsible = true, onCollapse, isHidden }) {
   const showAnnouncementBar = useShowAnnouncementBar();
   const {
     navbar: { hideOnScroll },
     hideableSidebar,
   } = useThemeConfig();
   const { isAnnouncementBarClosed } = useUserPreferencesContext();
-  const {
-    showResponsiveSidebar,
-    closeResponsiveSidebar,
-    toggleResponsiveSidebar,
-  } = useResponsiveSidebar();
+  const { showResponsiveSidebar, closeResponsiveSidebar, toggleResponsiveSidebar } =
+    useResponsiveSidebar();
   return (
     <div
       className={clsx(styles.sidebar, {
@@ -323,17 +293,10 @@ function DocSidebar({
     >
       {hideOnScroll && <Logo tabIndex={-1} className={styles.sidebarLogo} />}
       <div
-        className={clsx(
-          'menu',
-          'menu--responsive',
-          'thin-scrollbar',
-          styles.menu,
-          {
-            'menu--show': showResponsiveSidebar,
-            [styles.menuWithAnnouncementBar]:
-              !isAnnouncementBarClosed && showAnnouncementBar,
-          }
-        )}
+        className={clsx('menu', 'menu--responsive', 'thin-scrollbar', styles.menu, {
+          'menu--show': showResponsiveSidebar,
+          [styles.menuWithAnnouncementBar]: !isAnnouncementBarClosed && showAnnouncementBar,
+        })}
       >
         <ResponsiveSidebarButton
           responsiveSidebarOpened={showResponsiveSidebar}

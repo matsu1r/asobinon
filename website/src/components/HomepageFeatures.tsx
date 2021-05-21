@@ -76,7 +76,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({ title, description }) {
+function Feature({ title, description }: { title: string; description: JSX.Element | string }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="padding-horiz--lg padding-vert--md">
@@ -93,7 +93,7 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+            <Feature key={idx} title={props.title} description={props.description} />
           ))}
         </div>
       </div>

@@ -15,5 +15,5 @@
     "moduleResolution": "node",
     "esModuleInterop": true
   },
-  "include": ["website/"]
+  "include": ["website/docusaurus.config.js", "website/"]
 }

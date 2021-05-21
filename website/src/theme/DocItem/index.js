@@ -1,5 +1,5 @@
 /**
- * Copyright (c) Facebook, Inc. and its affiliates.
+ * Copyright (c) Facebook, Inc. and its affiliates. This file is modified by AELYONE.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -13,11 +13,7 @@ import TOC from '@theme/TOC';
 import EditThisPage from '@theme/EditThisPage';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import {
-  useActivePlugin,
-  useVersions,
-  useActiveVersion,
-} from '@theme/hooks/useDocs';
+import { useActivePlugin, useVersions, useActiveVersion } from '@theme/hooks/useDocs';
 import DocsRating from '../../components/docpage/rating';
 
 function DocItem(props) {
@@ -29,14 +25,8 @@ function DocItem(props) {
     hide_title: hideTitle,
     hide_table_of_contents: hideTableOfContents,
   } = frontMatter;
-  const {
-    description,
-    title,
-    editUrl,
-    lastUpdatedAt,
-    formattedLastUpdatedAt,
-    lastUpdatedBy,
-  } = metadata;
+  const { description, title, editUrl, lastUpdatedAt, formattedLastUpdatedAt, lastUpdatedBy } =
+    metadata;
   const { pluginId } = useActivePlugin({
     failfast: true,
   });
@@ -72,9 +62,7 @@ function DocItem(props) {
             <article>
               {showVersionBadge && (
                 <div>
-                  <span className="badge badge--secondary">
-                    Version: {version.label}
-                  </span>
+                  <span className="badge badge--secondary">Version: {version.label}</span>
                 </div>
               )}
               {!hideTitle && (
@@ -94,9 +82,7 @@ function DocItem(props) {
             {(editUrl || lastUpdatedAt || lastUpdatedBy) && (
               <div className="margin-vert--lg">
                 <div className="row">
-                  <div className="col">
-                    {editUrl && <EditThisPage editUrl={editUrl} />}
-                  </div>
+                  <div className="col">{editUrl && <EditThisPage editUrl={editUrl} />}</div>
                   {(lastUpdatedAt || lastUpdatedBy) && (
                     <LastUpdated
                       lastUpdatedAt={lastUpdatedAt}

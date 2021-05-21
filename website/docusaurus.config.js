@@ -2,7 +2,7 @@
 
 const remarkCustomBlocks = require('remark-custom-blocks');
 
-module.exports = {
+aaamodule.exports = {
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja'],
