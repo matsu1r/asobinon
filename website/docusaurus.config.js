@@ -189,4 +189,61 @@ module.exports = {
     ],
   ],
   themes: ['@saucelabs/theme-github-codeblock'],
+  plugins: [
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: ['appInstalled', 'queryString'],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/pwa/manifest-icon-512.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json',
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: '#ff3f00',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-capable',
+            content: 'yes',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-status-bar-style',
+            content: '#ff3f00',
+          },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: '/pwa/manifest-icon-512x.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: '/pwa/manifest-icon-512x.png',
+            color: '#ff3f00',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileImage',
+            href: '/img/manifest-icon-512x.png',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileColor',
+            content: '#ff3f00',
+          },
+        ],
+      },
+    ],
+  ],
 };
