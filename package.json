@@ -1,7 +1,0 @@
-{
-  "name": "asobinon",
-  "private": true,
-  "workspaces": [
-    "website"
-  ]
-}
