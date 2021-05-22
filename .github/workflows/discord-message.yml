@@ -17,4 +17,4 @@ jobs:
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           color: "#ff3f00"
           username: "ASOBINON Update Notificator"
-          args: $ {{github.event_name}} was triggered on the main branch. The site will be update.
+          args: ${{ github.event_name }} was triggered on the main branch. The site will be update.
