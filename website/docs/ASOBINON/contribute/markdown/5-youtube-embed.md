@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+title: YouTubeを埋め込む方法 (MDXを使用)
 ---
 
-# YouTubeを埋め込む方法 (MDXを使用)
+# 
 
 当サイトでは、Reactコンポーネントを呼び出すことでYouTubeの埋め込みが可能です。
 

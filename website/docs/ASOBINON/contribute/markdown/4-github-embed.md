@@ -1,8 +1,6 @@
 ---
-sidebar_position: 4
+title: GitHubのコードを埋め込む方法
 ---
-
-# GitHubのコードを埋め込む方法
 
 https://github.com/saucelabs/docusaurus-theme-github-codeblock
 
