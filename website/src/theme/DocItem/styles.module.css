@@ -29,3 +29,13 @@
     padding: 0 0.3rem;
   }
 }
+
+/* Added 2021-5-22 */
+/* 表をカスタマイズ */
+table {
+  text-align: left;
+}
+
+table th {
+  max-width: 40%;
+}
