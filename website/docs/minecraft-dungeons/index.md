@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-slug: /cities-skylines/
+slug: /minecraft-dungeons/
 ---
 
-# Cities:skylines 攻略
+# Minecraft Dungeons 攻略
