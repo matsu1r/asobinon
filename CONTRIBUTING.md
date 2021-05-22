@@ -2,6 +2,4 @@
 
 **Sorry, we are currently supporting only Japanese language in this project.**
 
-Webサイト上で表示するため、コントリビューティング・ガイドに相当する内容は`/website/docs`に書いてます。そちらをご参照ください。
-
-https://github.com/aelyone/asobinon/blob/main/website/docs/ASOBINON/contribute/index.md
+このプロジェクトは、非営利で運営されています。また、参加者は全員[行動規範](./CODE_OF_CONDUCT.md)及び[利用規約](./website/docs/eula.md)に同意したものとみなします。
