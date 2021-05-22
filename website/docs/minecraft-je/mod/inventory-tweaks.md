@@ -120,7 +120,7 @@ Inventory Tweaksの並び替えの順序などの動作は、インベントリ�
 </tbody>
 </table>
 
-### 導入方法
+## 導入方法
 
 「Inventory Tweaks」 制作:Kobata氏
 

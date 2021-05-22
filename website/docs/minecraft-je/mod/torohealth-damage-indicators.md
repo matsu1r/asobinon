@@ -12,7 +12,7 @@ HPゲージのデザインは設定から変更可能です。
 
 背景も変更可能。個人的にはNONEが見やすいかな
 
-### 導入方法
+## 導入方法
 
 「ToroHealth Damage Indicators」 制作:ToroCraft氏
 
