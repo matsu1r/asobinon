@@ -17,9 +17,6 @@ import NavbarItem from '@theme/NavbarItem';
 import Logo from '@theme/Logo';
 import IconMenu from '@theme/IconMenu';
 import styles from './styles.module.css'; // retrocompatible with v1
-import ImageUploaderButton from '../../components/common/image-uploader-button';
-import HowtoEditButton from '../../components/common/howto-edit-button';
-
 const DefaultNavItemPosition = 'right'; // If split links by left/right
 // if position is unspecified, fallback to right (as v1)
 
@@ -122,18 +119,7 @@ function Navbar() {
         </div>
         <div className="navbar-sidebar__items">
           <div className="menu">
-            {/* 以下、勝手に追加 */}
-
-            <div className="row margin-vert--md margin-horiz--md">
-              <span className="margin-right--sm">
-                <ImageUploaderButton />
-              </span>
-              <HowtoEditButton />
-            </div>
-
-            <div className="margin-vert--md margin-horiz--md">
-              スマホの方は右下のメニューも使ってね!
-            </div>
+            <div className="margin-vert--md margin-horiz--md">※ページ一覧は右下のボタン</div>
             <ul className="menu__list">
               {items.map((item, i) => (
                 <NavbarItem

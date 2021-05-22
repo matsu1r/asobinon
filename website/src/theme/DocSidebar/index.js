@@ -304,18 +304,19 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true, onCollapse, isHi
         />
 
         <ul className="menu__list">
-          <div className="row margin-vert--md margin-horiz--md">
-            <span className="margin-right--sm">
-              <ImageUploaderButton />
-            </span>
-            <HowtoEditButton />
-          </div>
           <DocSidebarItems
             items={sidebar}
             onItemClick={closeResponsiveSidebar}
             collapsible={sidebarCollapsible}
             activePath={path}
           />
+
+          <div className="row margin-vert--md margin-horiz--md">
+            <span className="margin-right--sm">
+              <ImageUploaderButton />
+            </span>
+            <HowtoEditButton />
+          </div>
         </ul>
       </div>
       {hideableSidebar && <HideableSidebarButton onClick={onCollapse} />}
