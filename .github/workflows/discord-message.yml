@@ -16,5 +16,5 @@ jobs:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           color: "#ff3f00"
-          username: "ナポコムMD更新通知くん"
-          args: mainブランチで ${{ github.event_name }} がトリガーされました。サイトを更新します。
+          username: "ASOBINON Update Notificator"
+          args: $ {{github.event_name}} was triggered on the main branch. The site will be update.
