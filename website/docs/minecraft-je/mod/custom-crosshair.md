@@ -101,7 +101,7 @@ title: Custom Crosshair Mod
 ## 導入方法
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge/)**の記事を参考にしてください
 2.  **「Custom Crosshair Mod」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2637819-custom-crosshair-mod-v0-2-1-forge-minecraft-1-9 "「Custom Crosshair Mod」のダウンロード")のページの「Download the Forge version HERE」からダウンロードできます。
 3.  **zipを展開してjarを取り出す**

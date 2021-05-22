@@ -1,3 +1,3 @@
 # 移動しました
 
-[こちらが新しいページです](/minecraft-je/howto/install-optifine/)
+[こちらが新しいページです](/minecraft-je/mod/optifine/install/)

@@ -40,11 +40,11 @@ title: 基本的なMarkdownの書き方
 
 ## リンク
 
-[文章](URL)
+[文章](https://example.com)
 
 ```md
 
-[文章](URL)
+[文章](https://example.com)
 
 ```
 

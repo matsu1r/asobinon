@@ -8,13 +8,4 @@ title: 要素追加系MOD
 
 IC2、IndustrialCraft2 ― 言わずと知れた大型工業化MODですね。
 
-### 導入方法
-
-「IndustrialCraft2 (IC2)」 制作:[こちら](http://wiki.industrial-craft.net/index.php?title=Credits)の方々
-
-1.  **Forgeを導入**  
-    **[こちら](../howto/install-forge)**の記事を参考にしてください
-2.  **「IndustrialCraft 2」をダウンロード**  
-    [こちら](https://minecraft.curseforge.com/projects/industrial-craft/files "IC2のダウンロード")からダウンロードして下さい。
-3.  **modsフォルダにブチ込む**
-
+<a class="button button--primary" href="/minecraft-je/mod/industrial-craft-2/">詳細はこちら</a>

@@ -26,7 +26,7 @@ Shaders are not compatible with Fast Render.(シェーダー機能はFastRender�
 
 ## 動作が重い場合におすすめの設定
 
-[こちら](../settins)
+[こちら](../settings)
 
 :::success
 

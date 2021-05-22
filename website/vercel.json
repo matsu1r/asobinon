@@ -2,15 +2,15 @@
   "redirects": [
     { "source": "/docs/(.+?)", "destination": "/$1" },
     {
-      "destination": "/minecraft/howto/bedrock-friend-multiplayer-guide",
+      "destination": "/minecraft/howto/bedrock-friend-multiplayer-guide/",
       "source": "/minecraft/howto/bedrock-friend-multiplayer-guide/intro"
     },
     {
-      "destination": "/minecraft-je/mod/optifine/install",
+      "destination": "/minecraft-je/mod/optifine/install/",
       "source": "/minecraft-je/howto/install-optifine/"
     },
     {
-      "destination": "/minecraft-je/mod/optifine/install",
+      "destination": "/minecraft-je/mod/optifine/install/",
       "source": "/minecraft-je/howto/install-optifine/intro"
     },
     {

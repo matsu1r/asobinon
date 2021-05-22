@@ -105,11 +105,11 @@ Minecraft.exe --workdir "%CD%\.minecraft"
 
 #### Optifineの場合
 
-細かい方法は当サイトの[Optifineを「バージョン」としてインストール](/minecraft-je/howto/install-optifine/2-singleinstall.md)を御覧ください。
+細かい方法は当サイトの[Optifineを「バージョン」としてインストール](/minecraft-je/mod/optifine/install/singleinstall)を御覧ください。
 
 インストーラが起動したら、下の画像のようにしてインストール先を変更してから、「install」を押してインストールするとうまくいきます。
 
-それ以外は[Optifineを「バージョン」としてインストール](/minecraft-je/howto/install-optifine/2-singleinstall.md)と同じです。
+それ以外は[Optifineを「バージョン」としてインストール](/minecraft-je/mod/optifine/install/singleinstall)と同じです。
 
 ![install_optifine_USB](https://firebasestorage.googleapis.com/v0/b/markdown-gaming.appspot.com/o/images%2Fuserupload%2FVtjimroDpNTowXhTh56Gbh5CAr63%2Fe9080840-8419-420c-813a-4ab29354c337.png?alt=media&token=da010edd-8c9f-4f63-9ee1-75d4b3d8daab)
 
