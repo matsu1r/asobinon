@@ -16,5 +16,5 @@ jobs:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           color: "#ff3f00"
-          username: "ナポコムMD更新通知くん"
-          args: mainブランチで ${{ github.event_name }} がトリガーされました。サイトを更新します。
+          username: "ナポコムMDの更新を通知する小泉進次郎"
+          args: mainブランチで ${{ github.event_name }} がトリガーされたということは、つまり ${{ github.event_name }} がトリガーされたということです。サイトを更新しますので、サイトを更新します。
