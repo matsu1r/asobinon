@@ -115,11 +115,11 @@ module.exports = {
           title: '特別なページ',
           items: [
             {
-              to: '/eula',
+              to: '/eula/',
               label: '利用規約',
             },
             {
-              to: '/privacy-policy',
+              to: '/privacy-policy/',
               label: 'プライバシーポリシー',
             },
           ],
