@@ -66,6 +66,10 @@ module.exports = {
           label: 'Minecraft (JE)',
           items: [
             {
+              to: '/minecraft-je/mod/',
+              label: 'MOD一覧',
+            },
+            {
               to: '/minecraft-je/howto/install-forge/',
               label: 'MOD(Forge)導入方法',
             },
@@ -165,6 +169,12 @@ module.exports = {
                 dl: {
                   classes: 'remark-custom-blocks__dl',
                   title: 'required',
+                },
+                details: {
+                  classes: 'remark-custom-blocks__details',
+                  title: 'required',
+                  titleElement: 'summary',
+                  contentsElement: 'div',
                 },
               },
             ],
