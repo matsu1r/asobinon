@@ -6,7 +6,11 @@
       "source": "/minecraft/howto/bedrock-friend-multiplayer-guide/intro"
     },
     {
-      "destination": "/minecraft-je/howto/install-optifine/",
+      "destination": "/minecraft-je/mod/optifine/",
+      "source": "/minecraft-je/howto/install-optifine/"
+    },
+    {
+      "destination": "/minecraft-je/mod/optifine/",
       "source": "/minecraft-je/howto/install-optifine/intro"
     },
     {

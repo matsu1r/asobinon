@@ -30,13 +30,12 @@ Topographyボタンを押せば、等高線を分かりやすく表示してく�
 
 カスタマイズの一例。大きくしすぎてもはやミニマップじゃないですね…
 
-[**#StopModReposts**  
-そのダウンロード場所、本物ですか。MODは必ず正規の場所からダウンロードしましょう。](https://www.napoan.com/stop-mod-reposts/)導入方法
+### 導入方法
 
 「JourneyMap」 制作:techbrew氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **「JourneyMap」をダウンロード**  
     [こちら](https://minecraft.curseforge.com/projects/journeymap/files "「JourneyMap」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

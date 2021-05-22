@@ -74,8 +74,8 @@ module.exports = {
               label: 'MOD(Forge)導入方法',
             },
             {
-              to: '/minecraft-je/howto/install-optifine/',
-              label: 'OptiFine導入方法',
+              to: '/minecraft-je/howto/buy/',
+              label: '購入方法',
             },
           ],
         },

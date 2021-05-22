@@ -30,13 +30,12 @@ title: ワールド系おすすめMOD
 
 また、「PlayerDecay」をfalseにすれば、プレイヤーに伐採されたか否かに関わらず速く消えるようになります。
 
-[**#StopModReposts**  
-そのダウンロード場所、本物ですか。MODは必ず正規の場所からダウンロードしましょう。](https://www.napoan.com/stop-mod-reposts/)導入方法
+### 導入方法
 
 「Quick Leaf Decay」 制作:Lumien氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **「Quick Leaf Decay」をダウンロード**  
     [こちら](https://minecraft.curseforge.com/projects/quick-leaf-decay/files "「Quick Leaf Decay」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -48,13 +47,12 @@ title: ワールド系おすすめMOD
 
 MOD導入後に生成されるチャンクでは、岩盤が平らになります。
 
-[**#StopModReposts**  
-そのダウンロード場所、本物ですか。MODは必ず正規の場所からダウンロードしましょう。](https://www.napoan.com/stop-mod-reposts/)導入方法
+### 導入方法
 
 「BedrockLayer」 制作:kagare氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **「BedrockLayer」をダウンロード**  
     [こちら](https://kegare.github.io/ "「BedrockLayer」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -75,7 +73,7 @@ MOD導入後に生成されるチャンクでは、岩盤が平らになりま�
 [![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208094907.png)  
 https://www.napoan.com/extend-render-distance-now-for-112/](https://www.napoan.com/extend-render-distance-now-for-112/)
 
-導入方法は▲の記事をお読みください。
+### 導入方法は▲の記事をお読みください。
 
 ## バイオームの境界線を表示「Biome Borders Revived」
 
@@ -87,8 +85,7 @@ https://www.napoan.com/extend-render-distance-now-for-112/](https://www.napoan.c
 
 LiteLoader専用MODならではの設定画面も用意されています。境界線を表示する距離と線の高さを設定できます。
 
-[**#StopModReposts**  
-そのダウンロード場所、本物ですか。MODは必ず正規の場所からダウンロードしましょう。](https://www.napoan.com/stop-mod-reposts/)導入方法
+### 導入方法
 
 「Biome Borders Revived」 制作: Urushibara氏(~v1.8)、digitalshadowhawk氏引き継ぎ
 
@@ -109,13 +106,12 @@ LiteLoader専用MODならではの設定画面も用意されています。境�
 
 MOD作者さんによる、**追加バイオーム一覧は[こちら](http://imgur.com/a/jDVGa)**へどうぞ。あまりに膨大過ぎて解説が大変なのでここでは簡単な紹介だけにしておきます。果たして全バイオームを踏破できる日は来るのでしょうか…
 
-[**#StopModReposts**  
-そのダウンロード場所、本物ですか。MODは必ず正規の場所からダウンロードしましょう。](https://www.napoan.com/stop-mod-reposts/)導入方法
+### 導入方法
 
 「Biomes O’ Plenty」 制作:Adubbz氏、Amnet氏、Cheeserolls氏、Forstride氏、ted80氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **「Biomes O’ Plenty」をダウンロード**  
     [こちら](http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty#t1:other-downloads "「Biomes O' Plenty」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

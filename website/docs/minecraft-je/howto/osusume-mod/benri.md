@@ -14,7 +14,7 @@ title: 便利系おすすめMOD
 「CutAll」「MineAll」「DigAll」 制作:scalar 氏
 
 1.  **Forge を導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **MOD をダウンロード**  
     [こちら](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874 'ダウンロード')からダウンロードして下さい。
 3.  **mods フォルダにブチ込む**
@@ -31,7 +31,7 @@ title: 便利系おすすめMOD
 「PickupWidely」 制作:scalar 氏引き継ぎ
 
 1.  **Forge を導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **「PickupWidely」をダウンロード**  
     [こちら](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874 '「PickupWidely」のダウンロード')からダウンロードして下さい。
 3.  **mods フォルダにブチ込む**
@@ -48,7 +48,7 @@ title: 便利系おすすめMOD
 「SpawnChecker」 制作:fillppo 氏(~v1.1)→ v1.2.3~ ある氏が引き継ぎ
 
 1.  **Forge を導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **「SpawnChecker」をダウンロード**  
     [こちら](http://forum.minecraftuser.jp/viewtopic.php?t=3835 '「SpawnChecker」のダウンロード')からダウンロードして下さい。
 3.  **mods フォルダにブチ込む**

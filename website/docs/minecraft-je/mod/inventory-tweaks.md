@@ -120,13 +120,12 @@ Inventory Tweaksの並び替えの順序などの動作は、インベントリ�
 </tbody>
 </table>
 
-[**#StopModReposts**  
-そのダウンロード場所、本物ですか。MODは必ず正規の場所からダウンロードしましょう。](https://www.napoan.com/stop-mod-reposts/)導入方法
+### 導入方法
 
 「Inventory Tweaks」 制作:Kobata氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](../howto/install-forge)**の記事を参考にしてください
 2.  **「Inventory Tweaks」をダウンロード**  
     [こちら](http://minecraft.curseforge.com/projects/inventory-tweaks "「Inventory Tweaks」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
