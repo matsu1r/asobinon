@@ -13,9 +13,9 @@ We are currently supporting Japanese language only. (Sorry, but admin is not goo
 
 ## Discord参加してね
 
-![Discord](https://img.shields.io/discord/842949621340045343)
+![Discord](https://img.shields.io/discord/390466362373570561)
 
-[https://discord.gg/Nw8mEKSeut](https://discord.gg/Nw8mEKSeut)
+[https://discord.gg/ASAXKMH](https://discord.gg/ASAXKMH)
 
 ## 参加するには
 

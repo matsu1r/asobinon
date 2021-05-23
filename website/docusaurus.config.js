@@ -125,7 +125,7 @@ module.exports = {
             },
             {
               label: 'Discord',
-              href: `https://discord.gg/Nw8mEKSeut`,
+              href: `https://discord.gg/ASAXKMH`,
             },
             {
               label: 'お問い合わせ',
