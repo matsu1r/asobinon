@@ -11,12 +11,6 @@
   "general.tech-body": {
     "message": "左上のメニューから、ページを移動してみてください。一瞬でページが切り替わります。どんなWikiよりも高速。"
   },
-  "general.profit": {
-    "message": "非営利で運営"
-  },
-  "general.profit-body": {
-    "message": "非営利で運営されており、今のところWebサイトのマネタイズは検討していません。企業Wikiとは真逆の思想で運営しています。"
-  },
   "general.easy": {
     "message": "全てをGitHubでトラッキング"
   },
