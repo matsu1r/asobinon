@@ -15,6 +15,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 import { useActivePlugin, useVersions, useActiveVersion } from '@theme/hooks/useDocs';
 import DocsRating from '../../components/docpage/rating';
+import Head from '@docusaurus/Head';
 
 function DocItem(props) {
   const { content: DocContent } = props;
@@ -42,6 +43,15 @@ function DocItem(props) {
 
   return (
     <>
+      <Head>
+        {' '}
+        <script
+          data-ad-client="ca-pub-9936387301896850"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        ></script>
+      </Head>
+
       <Seo
         {...{
           title: metaTitle,
