@@ -16,6 +16,6 @@ jobs:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           color: "#ff3f00"
-          username: "ASOBINON更新通知"
+          username: "名鉄1700系"
           avatar_url: "https://pbs.twimg.com/profile_images/1395743660025683968/mO1xJDO__400x400.jpg"
-          args: "世界は光と闇でできている────mainブランチで push がトリガーされ、そして世界に終焉が訪れた。サイトを更新しましょうぞ。"
+          args: "ﾄﾞｩﾜｧ! mainブランチで push がｾﾝﾅﾅﾋｬｸ!!
