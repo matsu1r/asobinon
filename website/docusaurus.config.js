@@ -80,14 +80,6 @@ module.exports = {
           ],
         },
         {
-          to: '/hytale/',
-          label: 'Hytale',
-        },
-        {
-          to: '/umamusume/',
-          label: 'ウマ娘',
-        },
-        {
           href: 'https://github.com/aelyone/asobinon',
           position: 'right',
           className: 'header-github-link',
