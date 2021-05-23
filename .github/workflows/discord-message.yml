@@ -17,4 +17,5 @@ jobs:
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
           color: "#ff3f00"
           username: "ASOBINON Update Notificator"
+          avatar_url: "https://pbs.twimg.com/profile_images/1395743660025683968/mO1xJDO__400x400.jpg"
           args: ${{ github.event_name }} was triggered on the main branch. The site will be updated.
