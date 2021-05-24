@@ -9,7 +9,7 @@ slug: /minecraft-je/reference/command-je/
 
 :::warning
 **ここはJava Editionのページです。**
-[BEはこちら](/docs/minecraft/reference/command-bedrock/)
+[BEはこちら](/minecraft/reference/command-bedrock/)
 :::
 
 ## コマンドの入力方法

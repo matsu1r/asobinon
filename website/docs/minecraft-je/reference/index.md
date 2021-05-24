@@ -9,5 +9,5 @@ slug: /minecraft-je/reference/
 
 :::warning
 **ここはJava Editionのページです。**
-[BEはこちら](/docs/minecraft/reference/)
+[BEはこちら](/minecraft/reference/)
 :::
