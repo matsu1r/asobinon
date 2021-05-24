@@ -1,5 +1,6 @@
 ---
 slug: /ASOBINON/
+sidebar_position: 0
 ---
 
 # 運営用セクションについて
