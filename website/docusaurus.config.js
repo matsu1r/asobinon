@@ -25,7 +25,7 @@ module.exports = {
     },
     /* GA4は「GTAG」を使う */
     gtag: {
-      trackingID: 'G-TZJCD1SKG6',
+      trackingID: 'G-B8WX467VDF',
     },
     metadatas: [
       {
