@@ -1,6 +1,6 @@
 ---
 slug: /minecraft-je/mod/
-title: 目次
+title: MOD一覧の目次
 sidebar_position: 0
 ---
 

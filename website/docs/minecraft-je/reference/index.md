@@ -1,0 +1,13 @@
+---
+sidebar_position: 0
+slug: /minecraft-je/reference/
+---
+
+# Minecraft Java Edition 大百科
+
+ここでは、「特定のコマンドの使い方」のような、百科事典的な内容を載せてください。
+
+:::warning
+**ここはJava Editionのページです。**
+[BEはこちら](/docs/minecraft/reference/)
+:::

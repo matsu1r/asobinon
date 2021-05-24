@@ -14,7 +14,7 @@ LiteLoader専用MODならではの設定画面も用意されています。境�
 
 「Biome Borders Revived」 制作: Urushibara氏(~v1.8)、digitalshadowhawk氏引き継ぎ
 
-1.  **[こちらの記事](https://www.napoan.com/howto-install-liteloader-into-forge/)を参考にLiteLoaderを導入**  
+1.  **[こちらの記事](/minecraft-je/howto/install-liteloader/)を参考にLiteLoaderを導入**  
     Forgeに追加で導入しましょう。
 2.  **「Biome Borders Revived」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2665932-biome-borders-revived-liteloader-only "「Biome Borders Revived」のダウンロード")からダウンロードして下さい。

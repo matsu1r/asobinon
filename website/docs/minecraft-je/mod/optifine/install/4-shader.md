@@ -18,11 +18,7 @@ Shaders are not compatible with Fast Render.(シェーダー機能はFastRender�
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110947.png)
 
-\[2016年10月16日追記\] シェーダーパックの中でも人気の「SEUS v10.1」を使うと、▲こんな風に画面が真っ白になってしまう時があります。でも大丈夫、**以下の記事で修正手順を解説しています**のでご安心下さい。
-
-[[dl|SEUSのエラーを修正する方法の解説記事]]
-|[![](https://i2.wp.com/cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102901.png?resize=710%2C399&ssl=1)
-|https://napoan.com/howtofix-seus101-error/](https://napoan.com/howtofix-seus101-error/)
+\[2016年10月16日追記\] シェーダーパックの中でも人気の「SEUS v10.1」を使うと、▲こんな風に画面が真っ白になってしまう時があります。でも大丈夫、**[こちら](../shader-error)で修正手順を解説しています**のでご安心下さい。/)
 
 ## 動作が重い場合におすすめの設定
 

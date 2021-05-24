@@ -18,8 +18,7 @@ title: おすすめ設定
 
 ## 遠くの景色をなめらかにする「ミップマップ」を設定しよう
 
-[![ミップマップの比較](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100344.png)](//exr-nap.sakura.ne.jp/www.napoan.com/wp-content/uploads/2016/03/c4f2ad4fe51cb4596bb900d31fbd578b.png)  
-▲クリックで別タブで画像を表示します
+(画像なし)
 
 * Optifineを導入すると、遠くの景色をなめらかに表示する**「ミップマップ」の場所が変わります。**
 * **Quality…**の中にある**ミップマップレベル**を調節して下さい。

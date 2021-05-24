@@ -14,7 +14,7 @@ Urushibara氏制作digitalshadowhawk氏引き継ぎのMODです。画面右下�
 
 「Armors HUD Revived」 制作:Urushibara氏(~v1.8.1)、digitalshadowhawk氏引き継ぎ
 
-1.  **[こちらの記事](https://www.napoan.com/howto-install-liteloader-into-forge)を参考にLiteLoaderを導入**  
+1.  **[こちらの記事](/minecraft-je/howto/install-liteloader/)を参考にLiteLoaderを導入**  
     Forgeに追加で導入すれば便利です。
 2.  **「Armors HUD Revived」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2664981-armors-hud-revived-liteloader-only "「Armors HUD Revived」のダウンロード")からダウンロードして下さい。

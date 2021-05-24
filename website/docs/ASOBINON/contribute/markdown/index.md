@@ -1,6 +1,6 @@
 ---
 slug: /ASOBONON/contribute/markdown/
-title: 目次
+title: Markdownを使った記事の書き方の目次
 sidebar_position: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 目次
-slug: /minecraft-je/mod/osusume-mod/
+title: おすすめMODの目次
+slug: /minecraft-je/howto/osusume-mod/
 sidebar_position: 0
 ---
 

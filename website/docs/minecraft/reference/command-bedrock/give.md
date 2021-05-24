@@ -30,7 +30,7 @@
 |与えるアイテム(ブロック)のデータ値を指定する。そのアイテムで使えない値を指定した場合は 0 に直される。指定しない場合は、0 になる。
 
 [[dl| [コンポーネント] (任意)]]
-|今のところ `CanPlaceOn` または `CanDestroy` しか使えない。それぞれのコンポーネントの使い方は[こちら](https://next.napoan.com/pe-candestroy-canplaceon-command/)の記事を参照。**(BE では Java 版の NBT タグを使うことはできない。display:{Name:""}とか書いたらエラーになるぞ!)**
+|今のところ `CanPlaceOn` または `CanDestroy` しか使えない。**(BE では Java 版の NBT タグを使うことはできない。display:{Name:""}とか書いたらエラーになるぞ!)**
 
 ## 実行結果
 

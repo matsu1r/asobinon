@@ -35,7 +35,7 @@ MobのHPを表示してくれるMODは色々ありますが、私のおすすめ
 
 ## Rキーでレシピを見られる定番のアイテム取り出しMOD「Just Enough Items(JEI)」
 
-[](https://www.napoan.com/wp-content/uploads/2018/02/d0f81154be6c688857e011e304f9eb89_krdqmo.jfif)
+(画像なし)
 
 Rキーでレシピ確認、Uキーで使い道を確認できます。ちなみに右側のアイテム一覧はCtrl+Oで非表示にできます。
 

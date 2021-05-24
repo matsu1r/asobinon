@@ -43,7 +43,7 @@
 
 - ここが一番重要です。**「ゲームディレクトリ」の「参照」をクリック**してください。
 
-[![](https://www.napoan.com/wp-content/uploads/2017/02/2017-02-14-21.16.58-Preview_ms6j9m.jfif)](https://www.napoan.com/wp-content/uploads/2017/02/2017-02-14-21.16.58-Preview_ms6j9m.jfif)
+(画像なし)
 
 - Macの場合の画面です。「Desktop(デスクトップ)」をダブルクリックして開きます。
 - Windowsでもデスクトップを使うのがおすすめです。
@@ -55,7 +55,7 @@
   - WindowsならCmd+Shift+Nキーを押しましょう。
   - Macなら⌘Command+Shift+Nキーを押しましょう。
 
-[![](https://www.napoan.com/wp-content/uploads/2017/02/2017-02-14-21.15.14-Finder_zlc3wv.jfif)](https://www.napoan.com/wp-content/uploads/2017/02/2017-02-14-21.15.14-Finder_zlc3wv.jfif)
+(画像なし)
 
 するとこんなフォルダー作成画面が出てきます。データ用フォルダーにふさわしい分かりやすい名前をつけましょう。迷ったらForge+バージョン名がおすすめです。フォルダー名を入力したらEnterを叩きます。
 

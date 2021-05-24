@@ -52,12 +52,20 @@ module.exports = {
           label: 'Minecraft (BE)',
           items: [
             {
-              to: '/minecraft/reference/command-bedrock/',
-              label: 'BEのコマンド',
+              to: '/minecraft/howto/bedrock-friend-multiplayer-guide/',
+              label: 'マルチプレイ方法',
             },
             {
-              to: '/minecraft/howto/bedrock-friend-multiplayer-guide/',
-              label: 'マルチプレイ',
+              to: '/minecraft/howto/bedrock-command-words-pickup/',
+              label: 'コマンド用語集',
+            },
+            {
+              to: '/minecraft/howto/howtouse-summon-command/',
+              label: 'summonコマンドの使い方',
+            },
+            {
+              to: '/minecraft/reference/command-bedrock/',
+              label: 'BEのコマンド一覧',
             },
           ],
         },
@@ -66,8 +74,8 @@ module.exports = {
           label: 'Minecraft (JE)',
           items: [
             {
-              to: '/minecraft-je/mod/',
-              label: 'MOD一覧',
+              to: '/minecraft-je/howto/osusume-mod',
+              label: 'おすすめMOD',
             },
             {
               to: '/minecraft-je/howto/install-forge/',
@@ -76,6 +84,10 @@ module.exports = {
             {
               to: '/minecraft-je/howto/buy/',
               label: '購入方法',
+            },
+            {
+              to: '/minecraft-je/mod/',
+              label: 'MOD一覧',
             },
           ],
         },
