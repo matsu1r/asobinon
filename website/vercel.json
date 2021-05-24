@@ -2,20 +2,24 @@
   "redirects": [
     { "source": "/docs/(.+?)", "destination": "/$1" },
     {
-      "destination": "/minecraft/howto/bedrock-friend-multiplayer-guide/",
-      "source": "/minecraft/howto/bedrock-friend-multiplayer-guide/intro"
+      "source": "/minecraft-je/mod/osusume-mod",
+      "destination": "/minecraft-je/howto/osusume-mod/"
     },
     {
-      "destination": "/minecraft-je/mod/optifine/install/",
-      "source": "/minecraft-je/howto/install-optifine/"
+      "source": "/minecraft/howto/bedrock-friend-multiplayer-guide/intro",
+      "destination": "/minecraft/howto/bedrock-friend-multiplayer-guide/"
     },
     {
-      "destination": "/minecraft-je/mod/optifine/install/",
-      "source": "/minecraft-je/howto/install-optifine/intro"
+      "source": "/minecraft-je/howto/install-optifine/",
+      "destination": "/minecraft-je/mod/optifine/install/"
     },
     {
-      "destination": "/minecraft-je/howto/install-forge/",
-      "source": "/minecraft-je/howto/install-forge/intro"
+      "source": "/minecraft-je/howto/install-optifine/intro",
+      "destination": "/minecraft-je/mod/optifine/install/"
+    },
+    {
+      "source": "/minecraft-je/howto/install-forge/intro",
+      "destination": "/minecraft-je/howto/install-forge/"
     }
   ]
 }
