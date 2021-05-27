@@ -164,8 +164,8 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
 
           /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
-          //XXXが渡される */
-          editUrl: 'https://client.asobinon.org/edit/?path=',
+          新エディター */
+          editUrl: 'https://client.asobinon.org/editor?path=',
           remarkPlugins: [
             [
               remarkCustomBlocks,
