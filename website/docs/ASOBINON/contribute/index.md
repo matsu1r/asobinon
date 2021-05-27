@@ -9,6 +9,18 @@ slug: /ASOBINON/contribute/
 
 編集する前に、[CONTRIBUTING.md](https://github.com/aelyone/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
 
+## 画像アップ
+
+OneDriveで「埋め込み」を選んでください。
+
+そして
+
+```md
+![説明](URL)
+```
+
+と書きます。
+
 ## ゲーム追加について
 
 フォルダ名は予告なく**変更する場合があります。**
