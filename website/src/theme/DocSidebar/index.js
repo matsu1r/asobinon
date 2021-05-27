@@ -18,7 +18,6 @@ import IconArrow from '@theme/IconArrow';
 import IconMenu from '@theme/IconMenu';
 import { translate } from '@docusaurus/Translate';
 import styles from './styles.module.css';
-import ImageUploaderButton from '../../components/common/image-uploader-button';
 import HowtoEditButton from '../../components/common/howto-edit-button';
 
 const MOBILE_TOGGLE_SIZE = 24;
@@ -312,9 +311,6 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true, onCollapse, isHi
           />
 
           <div className="row margin-vert--md margin-horiz--md">
-            <span className="margin-right--sm">
-              <ImageUploaderButton />
-            </span>
             <HowtoEditButton />
           </div>
         </ul>
