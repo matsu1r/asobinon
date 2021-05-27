@@ -16,4 +16,4 @@ slug: /ASOBINON/people/
 * [ろどりゅう](./lordryu) - 関東の初心者ドッター。ナポ鯖最新参。
 * [umashiocabbage](./umashiocabbage) - 高校生　偉い
 
-参加者は随時募集しています。参加したい方は、[issueを立てる](https://github.com/aelyone/asobinon/issues)か、管理人にDMしてください。
+参加者はいつでも募集しています。参加したい方は、[issueを立てる](https://github.com/aelyone/asobinon/issues)か、管理人にDMしてください。
