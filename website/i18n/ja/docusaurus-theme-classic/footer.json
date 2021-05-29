@@ -40,7 +40,7 @@
     "description": "The label of footer link with label=運営 linking to https://aely.one"
   },
   "copyright": {
-    "message": "当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Copyright © 2021 AELYONE. Built with Docusaurus.",
+    "message": "当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Copyright © 2021 sasigume. Built with Docusaurus.",
     "description": "The footer copyright"
   }
 }

@@ -14,7 +14,7 @@ module.exports = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
-  organizationName: 'aelyone',
+  organizationName: 'sasigume',
   projectName: 'asobinon',
   themeConfig: {
     /* 申請し、審査を通ったのでAlgolia DocSearchを使っています
@@ -92,7 +92,7 @@ module.exports = {
           ],
         },
         {
-          href: 'https://github.com/aelyone/asobinon',
+          href: 'https://github.com/sasigume/asobinon',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHubレポジトリ',
@@ -150,7 +150,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Copyright © ${new Date().getFullYear()} AELYONE. Built with Docusaurus.`,
+      copyright: `当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Copyright © ${new Date().getFullYear()} sasigume. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -163,7 +163,7 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
 
-          /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
+          /* https://github.com/sasigume/asobinon-client/tree/main/src/pages/edit/index.tsx
           新エディター */
           editUrl: 'https://client.asobinon.org/editor?path=',
           remarkPlugins: [
@@ -188,11 +188,11 @@ module.exports = {
           showReadingTime: true,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} aelyone.`,
+            copyright: `Copyright © ${new Date().getFullYear()} sasigume.`,
           },
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '全ての投稿',
-          /* https://github.com/aelyone/asobinon-client/tree/main/src/pages/edit/index.tsx
+          /* https://github.com/sasigume/asobinon-client/tree/main/src/pages/edit/index.tsx
           /blog/XXXが渡される */
           editUrl: 'https://client.asobinon.org/edit/?path=',
         },

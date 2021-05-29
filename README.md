@@ -2,7 +2,7 @@
 
 We are currently supporting Japanese language only. (Sorry, but admin is not good at English and too busy studying to localize this project.)
 
-![GitHub contributors](https://img.shields.io/github/contributors/aelyone/asobinon)
+![GitHub contributors](https://img.shields.io/github/contributors/sasigume/asobinon)
 
 ![](https://repository-images.githubusercontent.com/364472617/e2821200-b45f-11eb-91c9-0dc461e59cfe)
 
@@ -19,7 +19,7 @@ We are currently supporting Japanese language only. (Sorry, but admin is not goo
 
 ## 参加するには
 
-編集作業に参加する前に、[CONTRIBUTING.md](https://github.com/aelyone/asobinon/blob/main/CONTRIBUTING.md)をご確認ください。
+編集作業に参加する前に、[CONTRIBUTING.md](https://github.com/sasigume/asobinon/blob/main/CONTRIBUTING.md)をご確認ください。
 
 ## Contributersとは
 

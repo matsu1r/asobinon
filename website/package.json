@@ -1,14 +1,14 @@
 {
   "name": "asobinon-website",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "private": true,
-  "author": "aelyone",
-  "homepage": "https://reactnative.dev/",
+  "author": "sasigume",
+  "homepage": "https://asobinon.org/",
   "repository": {
-    "url": "https://github.com/aelyone/asobinon"
+    "url": "https://github.com/sasigume/asobinon"
   },
   "bugs": {
-    "url": "https://github.com/aelyone/asobinon/issues"
+    "url": "https://github.com/sasigume/asobinon/issues"
   },
   "scripts": {
     "docusaurus": "docusaurus",

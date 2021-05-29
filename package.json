@@ -5,8 +5,8 @@
     "postinstall": "husky install",
     "check": "./.githooks/check.sh"
   },
-  "repository": "https://github.com/aelyone/asobinon.git",
-  "author": "AELYONE",
+  "repository": "https://github.com/sasigume/asobinon.git",
+  "author": "sasigume",
   "license": "MIT",
   "private": true,
   "devDependencies": {

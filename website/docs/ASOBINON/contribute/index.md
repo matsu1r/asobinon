@@ -6,7 +6,7 @@ slug: /ASOBINON/contribute/
 
 このサイトは`Docusaurus`というドキュメント作成ツールを使っています。
 
-編集する前に、[CONTRIBUTING.md](https://github.com/aelyone/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
+編集する前に、[CONTRIBUTING.md](https://github.com/sasigume/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
 
 ## 画像アップ
 

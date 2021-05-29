@@ -1,5 +1,5 @@
 /**
- * Copyright (c) Facebook, Inc. and its affiliates. This file is modified by AELYONE.
+ * Copyright (c) Facebook, Inc. and its affiliates. This file is modified by sasigume.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -13,7 +13,7 @@ import styles from './EditThisPage.module.css';
 
 export default function EditThisPage({ editUrl }) {
   const historyUrl =
-    'https://github.com/aelyone/asobinon/commits/main/website' +
+    'https://github.com/sasigume/asobinon/commits/main/website' +
     editUrl.replace('https://client.asobinon.org/editor?path=', '');
   return (
     <div className={styles.wrapper}>
