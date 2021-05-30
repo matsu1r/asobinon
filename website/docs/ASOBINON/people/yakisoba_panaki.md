@@ -6,7 +6,7 @@ sidebar_position: 1
 <img src="https://imgur.com/Cjh0T3n.png" width="100px" height="auto" />
 
 ## Profile
-当サイトの編集長(へんしゅうなが)です。
+復帰しました。当サイトの編集長(へんしゅうなが)です。
 ## Social
 
 * Twitter: [@yakisoba_panaki](https://twitter.com/yakisoba_panaki "Twitterアカウント")
