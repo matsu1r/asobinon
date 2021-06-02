@@ -21,9 +21,8 @@ sidebar_position: 0
 
 ## 今回使用しているアドオンです
 
-Helicopter Addon | Minecraft PE Mods & Addons
-
-[https://mcpedl.com/helicopter-infinite-addon/?cookie\_check=1](https://mcpedl.com/helicopter-infinite-addon/?cookie_check=1)
+[[dl| Helicopter Addon | Minecraft PE Mods & Addons]]
+|<https://mcpedl.com/helicopter-infinite-addon/>
 
 :::info
 
