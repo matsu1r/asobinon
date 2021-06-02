@@ -1,5 +1,5 @@
 ---
-title: 【MOD紹介】家に帰ると、松明の明かりが消えていた… 新感覚の縛りプレイを「RealisticTorches」
+title: Realistic Torches
 ---
 
 [![RealisticTorches](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208132314.png)](#2/7/2741d407.png "RealisticTorches")
