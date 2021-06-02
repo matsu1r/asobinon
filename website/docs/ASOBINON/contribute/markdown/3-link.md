@@ -2,6 +2,22 @@
 title: リンクの書き方
 ---
 
+## URLだけを載せる
+
+<https://example.com>
+
+```md
+<https://example.com>
+```
+
+## テキストをリンク化する
+
+[テキスト](https://example.com)
+
+```md
+[テキスト](https://example.com)
+```
+
 ## Infimaのbuttonを使う
 
 :::caution
