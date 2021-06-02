@@ -56,6 +56,14 @@ module.exports = {
               label: 'マルチプレイ方法',
             },
             {
+              to: '/minecraft/howto/mobile-switch-world-transfer/',
+              label: 'ワールド転送方法',
+            },
+            {
+              to: '/minecraft/howto/howtouse-extra-addon-switch/',
+              label: 'スイッチでアドオン',
+            },
+            {
               to: '/minecraft/howto/bedrock-command-words-pickup/',
               label: 'コマンド用語集',
             },
