@@ -23,7 +23,7 @@ export default function EditThisPage({ editUrl }) {
           id="theme.common.editThisPage"
           description="The link label to edit the current page"
         >
-          Edit this page
+          このページを編集
         </Translate>
       </a>
       <a className={styles.link} href={historyUrl} target="_blank" rel="noreferrer noopener">
@@ -32,7 +32,7 @@ export default function EditThisPage({ editUrl }) {
           id="theme.common.editHistory"
           description="The link label to view the edit history of the current page"
         >
-          View edit history of this page
+          編集履歴
         </Translate>
         {` `}
       </a>
