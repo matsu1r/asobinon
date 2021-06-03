@@ -158,7 +158,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Copyright © ${new Date().getFullYear()} sasigume. Built with Docusaurus.`,
+      copyright: `当サイトのソースコード・文章はMITライセンスで配布されていますが、リンク先や画像はライセンスの範囲外です。文章内に著作物が含まれている場合は削除、運営への通報をお願いします。Built with Docusaurus.`,
     },
   },
   presets: [
@@ -191,18 +191,6 @@ module.exports = {
               },
             ],
           ],
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} sasigume.`,
-          },
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: '全ての投稿',
-          /* https://github.com/sasigume/asobinon-client/tree/main/src/pages/edit/index.tsx
-          /blog/XXXが渡される */
-          editUrl: 'https://client.asobinon.org/edit/?path=',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
