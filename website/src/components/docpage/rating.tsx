@@ -18,7 +18,7 @@ const DocsRating = ({ editUrl }: { editUrl: string }) => {
 
   const [haveVoted, setHaveVoted] = useState(false);
 
-  const actualPath = editUrl.replace('https://client.asobinon.org/edit?path=', '');
+  const actualPath = editUrl.replace('https://client.asobinon.org/editor?path=', '');
 
   const href = (value: 'good' | 'bad') => {
     return `http://client.asobinon.org/feedback?path=${actualPath}&value=${value}`;
