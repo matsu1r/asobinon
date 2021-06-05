@@ -100,6 +100,11 @@ module.exports = {
           ],
         },
         {
+          href: 'https://client.asobinon.org/buy',
+          position: 'right',
+          label: '支援する',
+        },
+        {
           href: 'https://github.com/sasigume/asobinon',
           position: 'right',
           className: 'header-github-link',
@@ -124,8 +129,29 @@ module.exports = {
           ],
         },
         {
+          title: '支援する',
+          items: [
+            {
+              href: 'https://client.asobinon.org/buy',
+              label: 'ちょっとだけ支援',
+            },
+            {
+              href: 'https://client.asobinon.org/law',
+              label: '特定商取引法に基づく表示',
+            },
+          ],
+        },
+        {
           title: '特別なページ',
           items: [
+            {
+              to: '/ASOBINON/contribute/',
+              label: '編集ガイド',
+            },
+            {
+              to: '/code-of-conduct/',
+              label: '行動規範',
+            },
             {
               to: '/eula/',
               label: '利用規約',
