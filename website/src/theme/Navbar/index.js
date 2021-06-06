@@ -121,7 +121,6 @@ function Navbar() {
         </div>
         <div className="navbar-sidebar__items">
           <div className="menu">
-            <div className="margin-vert--md margin-horiz--md">※ページ一覧は右下のボタン</div>
             <ul className="menu__list">
               {items.map((item, i) => (
                 <NavbarItem
