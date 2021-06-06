@@ -49,6 +49,13 @@
 
 /* Added 2021-5-13 end */
 
+/* Added 2021-6-6 */
+.remark-custom-blocks__big .custom-block-body {
+  font-size: 2rem;
+  font-weight: bold;
+}
+/* Added 2021-6-6 end */
+
 /* Added 2021-5-21 */
 /* https://github.com/facebook/docusaurus/blob/master/website/src/css/custom.css */
 

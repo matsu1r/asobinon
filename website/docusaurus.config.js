@@ -214,6 +214,10 @@ module.exports = {
                   titleElement: 'summary',
                   contentsElement: 'div',
                 },
+                big: {
+                  classes: 'remark-custom-blocks__big',
+                  title: 'optional',
+                },
               },
             ],
           ],

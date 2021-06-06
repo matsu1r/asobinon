@@ -56,15 +56,40 @@ Docusaurus v2以外では使えないので注意。**GitHub上ではただの�
 https://github.com/zestedesavoir/zmarkdown/tree/master/packages/remark-custom-blocks
 
 `remark-custom-blocks`により、普通のMarkdownにはない**独自のブロックを追加している。**
+
+`[[ブロック名]]`または`[[ブロック名|タイトル]]`で使う。内容の各行に`|`をつける。
+
 :::caution
 ASOBINON以外では使えないので注意。**GitHub上ではただの文章になる。**
 :::
 ### 「dl」
 
+タイトル付きボックスが作れます。
+
 [[dl | ここにタイトル]]
 | ここに内容を入力
+|
+| もう一つ段落
 
 ```md
 [[dl | ここにタイトル]]
 | ここに内容を入力
+|
+| もう一つ段落
+```
+
+### 「big」
+
+文字がでかくなります。
+
+[[big]]
+| ここに内容を入力
+|
+| もう一つ段落
+
+```md
+[[big]]
+| ここに内容を入力
+|
+| もう一つ段落
 ```
