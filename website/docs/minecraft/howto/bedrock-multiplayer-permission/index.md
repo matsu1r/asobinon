@@ -2,6 +2,8 @@
 slug: /minecraft/howto/bedrock-multiplayer-permission/
 title: マルチプレイでブロックが壊せない時は、権限の設定を見直そう
 sidebar_position: 0
+description: "Twitterを見ていると、「マルチプレイでブロックが壊せない」**という報告をよく目にします。それ、**設定を変えれば簡単に解決できますよ。
+"
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103713.png)
