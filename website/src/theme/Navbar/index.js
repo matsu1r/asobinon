@@ -69,6 +69,13 @@ function Navbar() {
     >
       <div className="navbar__inner">
         <div className="navbar__items">
+          <Logo
+            className="navbar__brand"
+            imageClassName={clsx(styles.moveRight, 'navbar__logo')}
+            titleClassName={clsx('navbar__title')}
+          />
+
+          {/* moved to avoid confusing mobile UX */}
           {items != null && items.length !== 0 && (
             <button
               aria-label="Navigation bar toggle"
@@ -81,11 +88,6 @@ function Navbar() {
               <IconMenu />
             </button>
           )}
-          <Logo
-            className="navbar__brand"
-            imageClassName="navbar__logo"
-            titleClassName={clsx('navbar__title')}
-          />
           {leftItems.map((item, i) => (
             <NavbarItem {...item} key={i} />
           ))}
@@ -106,7 +108,7 @@ function Navbar() {
       </div>
       <div role="presentation" className="navbar-sidebar__backdrop" onClick={hideSidebar} />
       <div className="navbar-sidebar">
-        <div className="navbar-sidebar__brand">
+        <div className={clsx(styles.moveRight, 'navbar-sidebar__brand')}>
           <Logo
             className="navbar__brand"
             imageClassName="navbar__logo"

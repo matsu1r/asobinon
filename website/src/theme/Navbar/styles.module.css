@@ -9,6 +9,11 @@
   .displayOnlyInLargeViewport {
     display: none !important;
   }
+
+  /* added: move menu button to avoid confusing UX */
+  .moveRight {
+    margin-left: 5rem;
+  }
 }
 
 .navbarHideable {

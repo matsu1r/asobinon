@@ -257,7 +257,7 @@ function ResponsiveSidebarButton({ responsiveSidebarOpened, onClick }) {
             })
       }
       aria-haspopup="true"
-      className="button button--secondary button--sm menu__button"
+      className={`button button--secondary button--sm menu__button ${styles.moveButton}`}
       type="button"
       onClick={onClick}
     >
@@ -292,10 +292,17 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true, onCollapse, isHi
     >
       {hideOnScroll && <Logo tabIndex={-1} className={styles.sidebarLogo} />}
       <div
-        className={clsx('menu', 'menu--responsive', 'thin-scrollbar', styles.menu, {
-          'menu--show': showResponsiveSidebar,
-          [styles.menuWithAnnouncementBar]: !isAnnouncementBarClosed && showAnnouncementBar,
-        })}
+        className={clsx(
+          'menu',
+          'menu--responsive',
+          'thin-scrollbar',
+          'sidebarPadding',
+          styles.menu,
+          {
+            'menu--show': showResponsiveSidebar,
+            [styles.menuWithAnnouncementBar]: !isAnnouncementBarClosed && showAnnouncementBar,
+          },
+        )}
       >
         <ResponsiveSidebarButton
           responsiveSidebarOpened={showResponsiveSidebar}
