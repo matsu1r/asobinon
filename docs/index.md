@@ -24,6 +24,12 @@ description: 当サイトは、おそらく日本で初めての全記事がMark
 
 オープンソース非営利ゲーム攻略サイトです。
 
+## Discord参加してね
+
+![Discord](https://img.shields.io/discord/390466362373570561)
+
+[https://discord.gg/ASAXKMH](https://discord.gg/ASAXKMH)
+
 ## このサイトの特徴
 
 ### 企業Wikiではない
@@ -78,3 +84,7 @@ GitHubアカウントがあれば、GitHub上でも編集できます。
 ### クローン・プルリク
 
 もちろんローカルで編集しても構いません。
+
+## ナポアンのマイクラのコピー記事だらけなんだけど?
+
+[こちら](/ASOBINON/napoan)をお読みください。
