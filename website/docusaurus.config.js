@@ -75,6 +75,10 @@ module.exports = {
               to: '/minecraft/reference/command-bedrock/',
               label: 'BEのコマンド一覧',
             },
+            {
+              to: '/minecraft/addon/',
+              label: 'アドオン',
+            },
           ],
         },
         {
