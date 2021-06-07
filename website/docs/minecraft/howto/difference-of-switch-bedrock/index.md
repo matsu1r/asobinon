@@ -128,7 +128,7 @@ https://twitter.com/4JStudios](https://twitter.com/4JStudios)
 
 また、XboxLiveではなく従来版のように**NintendoSwitchOnlineを使ったオンライマルチプレイ**もできます。
 
-スマホなどと一緒に遊ぶ場合の詳しい手順については、[この記事](./bedrock-friend-multiplayer-guide/)をお読みください。
+スマホなどと一緒に遊ぶ場合の詳しい手順については、[この記事](/minecraft/howto/bedrock-friend-multiplayer-guide/)をお読みください。
 
 ### ミニゲームモードの代わりに「サーバー」欄があります
 

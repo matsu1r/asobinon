@@ -24,7 +24,7 @@ sidebar_position: 0
 
 [![最速で動くクロック回路](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122709.jpg)](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122709.jpg)
 
-これがリピーター(反復装置)を使った**最速で動くクロック回路**。2つのリピーターだけで輪っかを作るのですが、起動する際には**本当に一瞬だけ信号を与えないと動かない**のでご注意下さい。後述する[パルサー回路](./2/#pulser)を作って信号を送ると楽ですね。
+これがリピーター(反復装置)を使った**最速で動くクロック回路**。2つのリピーターだけで輪っかを作るのですが、起動する際には**本当に一瞬だけ信号を与えないと動かない**のでご注意下さい。後述する[パルサー回路](#pulser)を作って信号を送ると楽ですね。
 
 ![ホッパーを使ったクロック回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105210.jpg)
 
@@ -114,7 +114,7 @@ PE0.14でリピーター(反復装置)が追加されたことで、トグル回
 | OFF | ON | OFF |
 | ON | ON | ON |
 
-## 一瞬だけ信号を発信する”パルサー回路”の作り方
+## 一瞬だけ信号を発信する”パルサー回路”の作り方{#pulser}
 
 [![パルサー回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101329.jpg)](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101329.jpg)
 
