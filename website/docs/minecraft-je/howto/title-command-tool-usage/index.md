@@ -4,13 +4,11 @@ title: titleコマンドを簡単に作れるツールの使い方
 sidebar_position: 0
 ---
 
-:::warning
-営利サイトへのリンクが含まれます。
-:::
-
-![titleコマンドツール解説](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090407.png)
-
 バージョン1.8で追加され、配布ワールドで必ずといっていいほど使われている**「titleコマンド」**。画面の真ん中にドでかい文字を表示するコマンドですが、**バージョン1.11で新機能が追加されたのをご存知ですか? 画面の中央のやや下、普段は「LSHIFTで降りる」などが表示される「アクションバー」に、好きなメッセージを表示できるようになったんです。**今回はそんなtitleコマンドを、**簡単に作成できるWebツール**の使い方をご紹介します。
+
+:::warning
+情報が古すぎます。更新してください。
+:::
 
 ## titleコマンドってどんなコマンド?
 
@@ -41,10 +39,9 @@ PvPにも合いますね。こんな風に、**試合終了などのお知らせ
 
 それでは便利なWebツールをご紹介します。
 
-Minecraft custom title generator
-
-[![Minecraft custom title generator](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208112941.png)  
-http://minecraft.tools/en/title.php](http://minecraft.tools/en/title.php)
+[[dl|Minecraft custom title generator]]
+|[![Minecraft custom title generator](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208112941.png)  
+|<http://minecraft.tools/en/title.php>
 
 ## まずはタイトルとサブタイトルを入力して表示させてみよう
 
