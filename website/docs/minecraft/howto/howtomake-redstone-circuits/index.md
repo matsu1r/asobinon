@@ -42,7 +42,7 @@ sidebar_position: 0
 
 ![コンパレーターを使ったラッチ回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104546.jpg)
 
-0.14で追加された[コンパレーター](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-comparator)と[リピーター(反復装置)](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-repeater)を使ってもラッチ回路は作れます。この作り方の場合、**片方のボタンを押すとON、もう片方を押すとOFF**、と役割が決まっているので注意。それと**コンパレーターは一回タップして”減算モード”に**切り替えてください。
+0.14で追加されたコンパレーターとリピーター(反復装置)を使ってもラッチ回路は作れます。この作り方の場合、**片方のボタンを押すとON、もう片方を押すとOFF**、と役割が決まっているので注意。それと**コンパレーターは一回タップして”減算モード”に**切り替えてください。
 
 ## ボタンを押す度にON/OFFが切り替わる”トグル回路”の作り方
 
@@ -143,7 +143,3 @@ PE0.14でリピーター(反復装置)が追加されたことで、トグル回
 [http://www26.atwiki.jp/minecraft/pages/26.html](http://www26.atwiki.jp/minecraft/pages/26.html)  
 **Minecraft 101**  
 [http://www.minecraft101.net/redstone/redstone-latches.html](http://www.minecraft101.net/redstone/redstone-latches.html "Minecraft 101")
-
-* * *
-
-**「○○について解説してほしい!」**などのご意見ご感想、コメント欄や[Twitter](https://twitter.com/napoan)でお待ちしています。

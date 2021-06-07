@@ -11,9 +11,13 @@ import CodeBlock from '@theme/CodeBlock';
 `````md
 
 ```tsx reference
-https://github.com/sasigume/napoancom-next/blob/main/src/components/common/like-dislike.tsx
+https://github.com/sasigume/asobinon/website/src/components/docpage/rating.tsx
 ```
 
 `````
+
+```tsx reference
+https://github.com/sasigume/asobinon/website/src/components/docpage/rating.tsx
+```
 
 このように`言語名 reference`と書けばいい。

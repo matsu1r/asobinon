@@ -4,6 +4,10 @@ title: titleコマンドを簡単に作れるツールの使い方
 sidebar_position: 0
 ---
 
+:::warning
+営利サイトへのリンクが含まれます。
+:::
+
 ![titleコマンドツール解説](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090407.png)
 
 バージョン1.8で追加され、配布ワールドで必ずといっていいほど使われている**「titleコマンド」**。画面の真ん中にドでかい文字を表示するコマンドですが、**バージョン1.11で新機能が追加されたのをご存知ですか? 画面の中央のやや下、普段は「LSHIFTで降りる」などが表示される「アクションバー」に、好きなメッセージを表示できるようになったんです。**今回はそんなtitleコマンドを、**簡単に作成できるWebツール**の使い方をご紹介します。
@@ -50,7 +54,7 @@ titleコマンドで表示されるタイトルは、大きな「タイトル」
 
 ![文字を装飾](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101535.png)
 
-ブログを書く感覚で文字を装飾できます。ここらへんの使い方は[tellrawコマンドのツール](https://www.napoan.com/tellraw-command-generator/#decoration)と同じですので詳しくは説明しません。
+ブログを書く感覚で文字を装飾できます。ここらへんの使い方は[tellrawコマンドのツール](/minecraft-je/howto/tellraw-command-generator)と同じですので詳しくは説明しません。
 
 ![記号を入力するには](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104230.png)
 

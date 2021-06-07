@@ -29,7 +29,7 @@ title: イグルー
 
 ![川の向こうにイグルー](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208112918.png)
 
-だだっ広い雪原をひたすら走って**川を越えてもう少し走ればイグルーがあります。しかも地下室付き!** 地下室の詳細は[こちら](https://www.napoan.com/pe-update-10/#igloo)を読んでね。
+だだっ広い雪原をひたすら走って**川を越えてもう少し走ればイグルーがあります。しかも地下室付き!**
 
 ![さらに進もう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101236.png)
 
