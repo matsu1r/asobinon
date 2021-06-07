@@ -2,9 +2,12 @@
 title: YouTubeを埋め込む方法 (MDXを使用)
 ---
 
-# 
-
 当サイトでは、Reactコンポーネントを呼び出すことでYouTubeの埋め込みが可能です。
+
+```jsx
+import YoutubeEmbed from '/src/components/youtube-embed'
+
+<YoutubeEmbed id="gF0Ooe1F6aI" />
 
 ```jsx
 import YoutubeEmbed from '/src/components/youtube-embed'
