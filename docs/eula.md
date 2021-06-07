@@ -4,7 +4,7 @@ slug: eula/
 ---
 
 - 最終改訂: 2021年6月5日
-- 変更履歴: [GitHub](https://github.com/sasigume/asobinon/commits/main/website/docs/eula.md)
+- 変更履歴: [GitHub](https://github.com/sasigume/asobinon/commits/main/docs/eula.md)
 
 この利用規約（以下，「本規約」といいます。）は、<https://asobinon.org> 及び <https://client.asobinon.org> で公開されている「アソビノン」（以下，「当サイト」といいます。）がウェブサイト上で提供するサービス（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。
 
@@ -113,7 +113,7 @@ slug: eula/
 
 ## 11（個人情報の取扱い）
 
-当プロジェクトは，本サービスの利用によって取得する個人情報については，当プロジェクトの [プライバシーポリシー](https://github.com/sasigume/asobinon/blob/main/website/docs/privacy-policy.md) に従い適切に取り扱うものとします。
+当プロジェクトは，本サービスの利用によって取得する個人情報については，当プロジェクトの [プライバシーポリシー](https://github.com/sasigume/asobinon/blob/main/docs/privacy-policy.md) に従い適切に取り扱うものとします。
 
 ## 12（通知または連絡）
 

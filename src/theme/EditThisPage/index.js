@@ -13,7 +13,7 @@ import styles from './EditThisPage.module.css';
 
 export default function EditThisPage({ editUrl }) {
   const historyUrl =
-    'https://github.com/sasigume/asobinon/commits/main/website' +
+    'https://github.com/sasigume/asobinon/commits/main' +
     editUrl.replace('https://client.asobinon.org/editor?path=', '');
   return (
     <div className={styles.wrapper}>
