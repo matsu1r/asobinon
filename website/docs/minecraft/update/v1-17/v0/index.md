@@ -13,30 +13,30 @@ sidebar_position: 0
 
 ## ブロック
 
-<a class="button button--primary" href="./blocks">ブロックに関すること</a>
+<a class="button button--primary" href="./v0/blocks">ブロックに関すること</a>
 
 
 ## Mob
 
-<a class="button button--primary" href="./mobs">Mobに関すること</a>
+<a class="button button--primary" href="./v0/mobs">Mobに関すること</a>
 
 
 ## アイテム
 
-<a class="button button--primary" href="./items">アイテムに関すること</a>
+<a class="button button--primary" href="./v0/items">アイテムに関すること</a>
 
 
 ## ワールド
 
-<a class="button button--primary" href="./world">ワールドに関すること</a>
+<a class="button button--primary" href="./v0/world">ワールドに関すること</a>
 
 
 ## ゲームプレイ
 
-<a class="button button--primary" href="./gameplay">ゲームプレイに関すること</a>
+<a class="button button--primary" href="./v0/gameplay">ゲームプレイに関すること</a>
 
 
 ## 総合的なこと
 
-<a class="button button--primary" href="./general">総合的なこと</a>
+<a class="button button--primary" href="./v0/general">総合的なこと</a>
 
