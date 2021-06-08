@@ -5,22 +5,18 @@ slug: /
 description: 当サイトは、おそらく日本で初めての全記事がMarkdown形式・MITライセンスで公開され、ログインなしで編集できるオープンソース非営利ゲーム攻略サイトです。
 ---
 
-![](/ogp/ogp-1200x630.png)
-
-[[big]]
-| 遊び(ASOBI)
-|
-| \+ 非営利(NONprofit)
-|
-| = ASOBINON。
-
----
+![](https://bn02pap001files.storage.live.com/y4m3eHy7m1RaOLH4UemtvCzEw3WI-g8XfM9IcVQyR2b1ocYTkzoI83K6CwCQVrYwvnJEZCvd-8jcy5Qu3LAKoJ2FtwcxKcrIW9Ftva5cUIZesS8FfCydG3mTnF6prbG_KORcVe_T10uMV_6U0nmwXdp-sLgaZgY-DOO3yt-7M9Z1rHpqK13kqPV9HTXGjaz8kW9?width=660&height=552&cropmode=none)
 
 当サイトは、おそらく日本で初めての
 
 - 全記事が**Markdown**形式で
+  - シンプルに書けて
+  - 編集もしやすい
 - **MITライセンス**で公開され
-- **ログインなしで編集**できる
+  - 再配布が自由で
+- **ログインなしで編集**でき
+  - しかも復元ができ
+  - 荒らしにも強い
 
 オープンソース非営利ゲーム攻略サイトです。
 
@@ -30,7 +26,7 @@ description: 当サイトは、おそらく日本で初めての全記事がMark
 
 [https://discord.gg/ASAXKMH](https://discord.gg/ASAXKMH)
 
-## このサイトの特徴
+## このサイトの長所
 
 ### 企業Wikiではない
 
@@ -42,25 +38,7 @@ description: 当サイトは、おそらく日本で初めての全記事がMark
 
 [Vercel](https://vercel.com)のおかげで、完全に無料で運営できています。
 
-### Built with Docusaurus
-
-[[dl|Docusaurus]]
-|<https://docusaurus.io>
-
-Facebook社の作った「Docusaurus」を使っています。
-
-- 海外のさまざまなオープンソースソフトウェアで使われいる
-- 普通のWikiではあり得ない、瞬間的な画面の切り替えが可能
-- メニューが自動で生成される
-- Ctrl + Kで検索画面が開き、**ガチで一瞬で検索できる**
-
-などの長所があり、
-
-- 記事の編集が即座に反映されない
-- 同じ画面のまま編集ができない
-- Markdownを知らないと記事が書けない
-
-といった短所があります。
+### GitHubに履歴が残る
 
 MediaWikiではないので、編集ページや議論ページはありません。
 
@@ -68,6 +46,20 @@ MediaWikiではないので、編集ページや議論ページはありませ�
 
 [[dl|荒らしは履歴が完全に残ります]]
 |ソースコードと記事は一体になっています。外部のCMSを参照していません。つまり、**レポジトリに変更を加えなければ、記事の内容を一文字もいじれません。** 変更履歴を漏らさず記録できるだけでなく、強固な荒らし対策にもなっています。
+
+### その他の長所
+
+- 普通のWikiではあり得ない、瞬間的な画面の切り替えが可能
+- メニューが自動で生成される
+- Ctrl + Kで検索画面が開き、**ガチで一瞬で検索できる**
+
+## このサイトの短所
+
+- 記事の編集が即座に反映されない
+- 同じ画面のまま編集ができない
+- Markdownを知らないと記事が書けない
+
+といった短所があります。
 
 ## 編集方法は3つ
 
