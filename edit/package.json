@@ -8,8 +8,7 @@
     "prettier:quick": "pretty-quick --staged",
     "type-check": "tsc",
     "lint": "eslint --no-error-on-unmatched-pattern src/** --ext .ts,.tsx",
-    "lint:fix": "eslint --no-error-on-unmatched-pattern  src/** --ext .ts,.tsx --fix",
-    "prepare": "husky install"
+    "lint:fix": "eslint --no-error-on-unmatched-pattern  src/** --ext .ts,.tsx --fix"
   },
   "dependencies": {
     "@chakra-ui/icons": "^1.0.5",
