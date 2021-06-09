@@ -4,7 +4,7 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-import React from 'react';
+import React, { useEffect } from 'react';
 import DocPaginator from '@theme/DocPaginator';
 import DocVersionSuggestions from '@theme/DocVersionSuggestions';
 import Seo from '@theme/Seo';
@@ -39,6 +39,21 @@ function DocItem(props) {
   // See https://github.com/facebook/docusaurus/issues/4665#issuecomment-825831367
 
   const metaTitle = frontMatter.title || title;
+
+  // 2021-6-9 Added utterances
+  useEffect(() => {
+    const script = document.createElement('script');
+
+    script.src = 'https://utteranc.es/client.js';
+    script.setAttribute('repo', 'sasigume/asobinon');
+    script.setAttribute('issue-term', 'pathname');
+    script.setAttribute('label', 'comment');
+    script.setAttribute('theme', 'github-light');
+    script.crossOrigin = 'anonymous';
+    script.async = true;
+
+    document.getElementById('comment-system').appendChild(script);
+  }, []);
 
   return (
     <>
@@ -97,6 +112,8 @@ function DocItem(props) {
             <div className="margin-vert--md">
               <DocsRating editUrl={editUrl} />
             </div>
+
+            <div id="comment-system"></div>
           </div>
         </div>
         {!hideTableOfContents && DocContent.toc && (
