@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if ! git diff HEAD^ HEAD --exit-code ./edit; then
+if ! git diff HEAD^ HEAD --exit-code -- ./; then
   # エディターに変更があったのでビルドする
   echo "✅ - Editor changed: Build can proceed"
   exit 1;
