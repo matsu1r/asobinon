@@ -1,6 +1,6 @@
 ---
-title: ファイル・フォルダ追加ガイドの目次
-slug: /ASOBINON/contribute/add/
+title: ローカルで編集する手順
+slug: /ASOBINON/contribute/local/
 sidebar_position: 0
 ---
 
