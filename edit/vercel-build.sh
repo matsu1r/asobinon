@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# エディターのディレクトリ(edit)が変換されたかをチェックする
+
 if ! git diff HEAD^ HEAD --exit-code -- ./; then
   # エディターに変更があったのでビルドする
   echo "✅ - Editor changed: Build can proceed"
