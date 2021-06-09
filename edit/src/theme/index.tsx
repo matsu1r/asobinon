@@ -8,7 +8,7 @@ export const ASIDE_WIDTH = globalLayout.asideWitdh;
 export const MAIN_WIDTH = globalLayout.mainWidth;
 export const LAYOUT_PADDING = globalLayout.layoutPadding;
 export const LAYOUT_MAXW = globalLayout.maxW;
-export const THEME_COLOR = '#2687e8';
+export const THEME_COLOR = '#ff3f00';
 export const OGP_W = globalLayout.ogp.w;
 export const OGP_H = globalLayout.ogp.h;
 

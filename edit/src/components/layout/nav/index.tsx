@@ -82,7 +82,7 @@ export default function Nav() {
           <Stack flexGrow={1} h="auto">
             <Stack spacing={6} pb={8} w="full">
               <Box>
-                <Logo logoSelection="square" />
+                <Logo />
               </Box>
               <ColorSwitch />
               <Box>
