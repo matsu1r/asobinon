@@ -8,8 +8,8 @@ module.exports = {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  title: 'ASOBINON',
-  tagline: 'アソビノン。GitHubで管理するゲーム攻略サイト',
+  title: 'アソビノン',
+  tagline: '非営利・オープンソースゲーム攻略サイト',
   url: 'https://asobinon.org',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -101,11 +101,6 @@ module.exports = {
           ],
         },
         {
-          href: 'https://edit.asobinon.org/buy',
-          position: 'right',
-          label: '支援する',
-        },
-        {
           href: 'https://github.com/sasigume/asobinon',
           position: 'right',
           className: 'header-github-link',
@@ -130,15 +125,15 @@ module.exports = {
           ],
         },
         {
-          title: '支援する',
+          title: '編集ガイド',
           items: [
             {
-              href: 'https://edit.asobinon.org/buy',
-              label: 'ちょっとだけ支援',
+              to: '/ASOBINON/contribute/browser/',
+              label: 'ブラウザで編集',
             },
             {
-              href: 'https://edit.asobinon.org/law',
-              label: '特定商取引法に基づく表示',
+              to: '/ASOBINON/contribute/local/',
+              label: 'ローカルで編集',
             },
           ],
         },

@@ -93,13 +93,6 @@ export default function Nav() {
 
               <Stack spacing={2}>
                 <Button
-                  leftIcon={<FaiconDiv icon={['fas', 'thumbs-up']} />}
-                  as={LinkChakra}
-                  href="/buy"
-                >
-                  支援する
-                </Button>
-                <Button
                   leftIcon={<FaiconDiv icon={['fas', 'thumbs-down']} />}
                   as={LinkChakra}
                   href="/feedback/list"
@@ -138,9 +131,6 @@ export default function Nav() {
                   isExternal
                 >
                   プライバシーポリシー
-                </Button>
-                <Button leftIcon={<FaiconDiv icon={['fas', 'book']} />} as={LinkChakra} href="/law">
-                  特定商取引法に基づく表示
                 </Button>
               </Stack>
             </Stack>
