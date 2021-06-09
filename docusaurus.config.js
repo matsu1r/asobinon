@@ -100,7 +100,7 @@ module.exports = {
           ],
         },
         {
-          href: 'https://client.asobinon.org/buy',
+          href: 'https://edit.asobinon.org/buy',
           position: 'right',
           label: '支援する',
         },
@@ -132,11 +132,11 @@ module.exports = {
           title: '支援する',
           items: [
             {
-              href: 'https://client.asobinon.org/buy',
+              href: 'https://edit.asobinon.org/buy',
               label: 'ちょっとだけ支援',
             },
             {
-              href: 'https://client.asobinon.org/law',
+              href: 'https://edit.asobinon.org/law',
               label: '特定商取引法に基づく表示',
             },
           ],
@@ -175,7 +175,7 @@ module.exports = {
             },
             {
               label: 'お問い合わせ',
-              href: `https://client.asobinon.org/contact`,
+              href: `https://edit.asobinon.org/contact`,
             },
             {
               label: '運営',
@@ -197,9 +197,9 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
 
-          /* https://github.com/sasigume/asobinon-client/tree/main/src/pages/edit/index.tsx
+          /* https://github.com/sasigume/asobinon-edit.tree/main/src/pages/edit/index.tsx
           新エディター */
-          editUrl: 'https://client.asobinon.org/editor?path=',
+          editUrl: 'https://edit.asobinon.org/editor?path=',
           remarkPlugins: [
             [
               remarkCustomBlocks,
