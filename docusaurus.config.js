@@ -1,5 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
+const THEME_COLOR = '#ff3f00';
 const remarkCustomBlocks = require('remark-custom-blocks');
 
 module.exports = {
@@ -249,7 +250,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'theme-color',
-            content: '#ff3f00',
+            content: THEME_COLOR,
           },
           {
             tagName: 'meta',
@@ -259,7 +260,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'apple-mobile-web-app-status-bar-style',
-            content: '#ff3f00',
+            content: THEME_COLOR,
           },
           {
             tagName: 'link',
@@ -270,7 +271,7 @@ module.exports = {
             tagName: 'link',
             rel: 'mask-icon',
             href: '/pwa/manifest-icon-512x.png',
-            color: '#ff3f00',
+            color: THEME_COLOR,
           },
           {
             tagName: 'meta',
@@ -280,7 +281,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'msapplication-TileColor',
-            content: '#ff3f00',
+            content: THEME_COLOR,
           },
         ],
       },
