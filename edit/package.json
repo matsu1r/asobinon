@@ -1,5 +1,5 @@
 {
-  "name": "asobinon-edit.,
+  "name": "asobinon-editor",
   "version": "0.2.9",
   "scripts": {
     "dev": "next -p 3001",
