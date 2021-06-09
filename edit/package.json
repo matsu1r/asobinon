@@ -3,7 +3,7 @@
   "version": "0.2.9",
   "scripts": {
     "dev": "next -p 3001",
-    "build": "next build",
+    "build": "bash ./vercel-build.sh && next build",
     "start": "next start",
     "prettier:quick": "pretty-quick --staged",
     "type-check": "tsc",
