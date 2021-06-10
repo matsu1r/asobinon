@@ -85,6 +85,20 @@ function DocItem(props) {
                   <h1 className={styles.docTitle}>{title}</h1>
                 </header>
               )}
+              {(editUrl || lastUpdatedAt || lastUpdatedBy) && (
+                <div className="margin-vert--lg">
+                  <div className="row">
+                    <div className="col">{editUrl && <EditThisPage editUrl={editUrl} />}</div>
+                    {(lastUpdatedAt || lastUpdatedBy) && (
+                      <LastUpdated
+                        lastUpdatedAt={lastUpdatedAt}
+                        formattedLastUpdatedAt={formattedLastUpdatedAt}
+                        lastUpdatedBy={lastUpdatedBy}
+                      />
+                    )}
+                  </div>
+                </div>
+              )}
               <div className="markdown margin-vert--lg">
                 <DocContent />
               </div>
