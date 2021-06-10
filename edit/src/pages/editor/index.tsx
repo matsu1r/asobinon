@@ -1,5 +1,5 @@
-//import EditorV1 from '@/components/editor/editor-v1';
-import EditorV2 from '@/components/editor/editor-v2';
+// import EditorV2 from '@/components/editor/editor-v2';
+import EditorV3 from '@/components/editor/editor-v3';
 import {
   Button,
   Box,
@@ -93,7 +93,7 @@ const EditorPage = ({
               <TabPanel>
                 <Stack spacing={6}>
                   {initialData && initialData.content ? (
-                    <EditorV2 path={path} initialData={initialData} />
+                    <EditorV3 path={path} initialData={initialData} />
                   ) : (
                     <Box>ファイルの新規作成には対応していません</Box>
                   )}
