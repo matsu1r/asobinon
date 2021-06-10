@@ -43,6 +43,7 @@ import { CheckboxControl, InputControl, SubmitButton } from 'formik-chakra-ui';
 // auth
 import { useAuthentication } from '@/hooks/authentication';
 import { getIdToken } from '@/lib/firebase';
+import EditorWarning from './editor-warning';
 
 // InitialDataはGetServerSidePropsでページロード時に取得
 const EditorV3 = ({ path, initialData }: { path: string; initialData: GetResOk }) => {
@@ -277,54 +278,69 @@ const EditorV3 = ({ path, initialData }: { path: string; initialData: GetResOk }
   -------------------------- */
 
   const initialSha = initialData.sha;
-  type Draft = { sha: string; md: string } | null;
+
+  type Draft = string | null;
   const draft = (): Draft => {
     if (typeof localStorage !== 'undefined') {
-      const storage = localStorage.getItem('draft');
-      if (storage) {
-        return JSON.parse(storage);
+      const storage = JSON.parse(localStorage.getItem('draft') ?? '{}');
+      if (storage[initialSha]) {
+        // 今のshaに応じたドラフトを引き出す
+        return storage[initialSha];
       } else return null;
     } else return null;
   };
 
-  const saveDraft = (md: string) => {
-    console.log('Saving:', md);
-    const draftData = { sha: initialSha, md: md };
-    localStorage.setItem('draft', JSON.stringify(draftData));
+  const saveDraft = (saveString: string) => {
+    console.info('Saving', saveString);
+    const draftData = { [initialSha]: saveString };
+    // stateを更新
+    setCurrentDraft(saveString);
+    const pastStorage = JSON.parse(localStorage.getItem('draft') ?? '{}');
+    localStorage.setItem('draft', JSON.stringify({ ...pastStorage, ...draftData }));
     toast({
       status: 'info',
       title: '下書きを保存しました',
     });
   };
 
-  // 30秒ごとに実行
-  const saveInterval = 10;
-  const [now, setNow] = useState(new Date());
+  // 3秒ごとにチェックする
+  const saveInterval = 3;
+  const [nowDraft, setNowDraft] = useState(new Date());
+  const [currentDraft, setCurrentDraft] = useState(draft() ?? '');
+  const [canRestore, setCanRestore] = useState(false);
   useEffect(() => {
-    const intervalId = setInterval(function () {
-      setNow(new Date());
-      saveDraft(md);
+    // もし今のshaに対応した下書きがあったなら
+    if (draft()) setCanRestore(true);
+  }, []);
+  // https://blog.ikappio.com/drawing-with-setinterval-on-react/
+  useEffect(() => {
+    // dependenciesでmd指定しないと更新されない
+    // しかしこれを指定すると「入力中」はタイマーが全然進まない
+    // ので、差分があるとき「だけ」保存するようにしている
+    const intervalId = setInterval(() => {
+      // canRestoreの時は保存しない!
+      if (md !== currentDraft && !canRestore) {
+        // localStorageに保存
+        saveDraft(md);
+      }
+
+      // タイマーを進める
+      setNowDraft(new Date());
     }, 1000 * saveInterval);
     return function () {
       clearInterval(intervalId);
     };
-  }, [now]);
+  }, [md, nowDraft]);
 
   const loadDraft = () => {
+    setCanRestore(false);
     if (typeof localStorage !== 'undefined') {
       if (draft() !== null) {
-        if (draft()?.sha == initialData.sha) {
-          setMd(draft()?.md ?? '');
-          toast({
-            status: 'success',
-            title: '下書きを復元しました',
-          });
-        } else {
-          toast({
-            status: 'error',
-            title: '保存した下書きがこのファイルと合っていません',
-          });
-        }
+        setMd(draft() ?? '');
+        toast({
+          status: 'success',
+          title: '下書きを復元しました',
+        });
       } else {
         toast({
           status: 'error',
@@ -334,17 +350,37 @@ const EditorV3 = ({ path, initialData }: { path: string; initialData: GetResOk }
     }
   };
 
+  const clearDraft = () => {
+    if (typeof localStorage !== 'undefined') {
+      const readyToDelete = prompt('全ての下書きを消すには、deleteと入力してください。');
+      if (readyToDelete == 'delete') {
+        localStorage.removeItem('draft');
+        toast({
+          status: 'info',
+          title: '下書きが全て消去されました。',
+        });
+      }
+    }
+  };
+
   const LoadDraftButton = () => {
     return (
       <Stack spacing={3}>
-        {draft() !== null ? (
-          <>
-            <Badge>下書き: {draft()?.md}</Badge>
-            <Button onClick={loadDraft}>下書きを復元する</Button>
-          </>
-        ) : (
-          <Box>下書きを保存していないので、再読み込みしないよう気をつけてください!</Box>
+        {/* canRestoreは、「下書きがあってかつshaが同じ」時trueになる */}
+        {canRestore && (
+          <Button colorScheme="green" onClick={loadDraft}>
+            下書きがあります！ここを押して復元してください！
+          </Button>
         )}
+
+        <>
+          <Badge>最終下書きチェック: {nowDraft.toLocaleTimeString('ja-JP')}</Badge>
+          {draft() !== md && (
+            <Badge colorScheme="yellow">
+              編集を停止して{saveInterval}秒経過すると保存されます。
+            </Badge>
+          )}
+        </>
       </Stack>
     );
   };
@@ -355,34 +391,7 @@ const EditorV3 = ({ path, initialData }: { path: string; initialData: GetResOk }
     <>
       <Stack spacing={6}>
         <Badge>ASOBINON Editor v3</Badge>
-        <Stack spacing={3}>
-          <Heading>編集上の注意</Heading>
-          <Box>
-            <p>
-              Markdownの上に「---」で囲まれた部分がありますが、それらのデータはプレビューに映りません。
-            </p>
-            <ul>
-              <li>
-                <Badge>title</Badge> : 記事のタイトル
-              </li>
-              <li>
-                <Badge>slug</Badge> : 記事のURL
-              </li>
-              <li>
-                <Badge>sidebar_position</Badge> : サイドバーでの位置
-              </li>
-            </ul>
-          </Box>
-          <Box>
-            <p>以下のブロックはプレビューに映りません。</p>
-            <ul>
-              <li>「:::XXXX」「:::」で囲まれた警告</li>
-              <li>YouTubeの埋め込み</li>
-              <li>GitHubの埋め込み</li>
-              <li>{`class="button button--primary"などが付いたリンク`}</li>
-            </ul>
-          </Box>
-        </Stack>
+        <EditorWarning />
         <Stack spacing={3}>
           <Heading>自分の編集中のファイル</Heading>
           <Badge>SHA: {initialData.sha} </Badge>
@@ -464,6 +473,12 @@ const EditorV3 = ({ path, initialData }: { path: string; initialData: GetResOk }
             </Stack>
           )}
         </Formik>
+        <Stack spacing={3}>
+          <Box>下書きはブラウザに保存されています。以下のボタンで消去できます。</Box>
+          <Button onClick={clearDraft} colorScheme="red">
+            下書きデータを全部消去
+          </Button>
+        </Stack>
         <ConflictModal />
       </Stack>
     </>
