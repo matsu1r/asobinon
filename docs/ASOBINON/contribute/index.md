@@ -1,5 +1,5 @@
 ---
-title: 参加方法 トップページ
+title: 編集ガイドトップページ
 sidebar_position: 0
 slug: /ASOBINON/contribute/
 ---
@@ -8,9 +8,21 @@ slug: /ASOBINON/contribute/
 
 編集する前に、[CONTRIBUTING.md](https://github.com/sasigume/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
 
+## ブラウザで編集する
+
+[こちら](./browser/)をお読みください。
+
+## ローカルで編集する
+
+[こちら](./local/)をお読みください。
+
 ## 画像アップ
 
 [こちら](./image/)をお読みください。
+
+## 編集を練習する
+
+[こちら](./test/)を使ってください。
 
 ## ゲーム追加について
 
@@ -33,4 +45,3 @@ slug: /ASOBINON/contribute/
 **複数ファイルに渡って編集する際は、フォークしてローカルで編集し、全て変更できてからプルリクエストすることをお勧めします。**
 
 **意図的に悪意ある編集をコミットしたユーザーに対しては、組織アカウントの「ブロック」機能を使います。**
-
