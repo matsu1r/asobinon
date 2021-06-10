@@ -18,7 +18,7 @@ const DocsRating = ({ editUrl }: { editUrl: string }) => {
 
   const [haveVoted, setHaveVoted] = useState(false);
 
-  const actualPath = editUrl.replace('https://edit.asobinon.org/editor?path=', '');
+  const actualPath = editUrl.replace('https://github.com/sasigume/asobinon/edit/main', '');
 
   const href = (value: 'good' | 'bad') => {
     return `http://edit.asobinon.org/feedback?path=${actualPath}&value=${value}`;
