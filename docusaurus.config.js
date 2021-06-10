@@ -100,6 +100,7 @@ module.exports = {
             },
           ],
         },
+        { to: '/blog', label: 'ブログ' },
         {
           href: 'https://github.com/sasigume/asobinon',
           position: 'right',
@@ -214,6 +215,14 @@ module.exports = {
               },
             ],
           ],
+        },
+        blog: {
+          blogTitle: '運営ブログ',
+          blogDescription: 'アソビノンの編集に関することを記録するブログです。',
+          path: './blog',
+          feedOptions: {
+            type: 'all',
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
