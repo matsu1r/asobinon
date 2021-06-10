@@ -1,5 +1,5 @@
 import RepoInfo from '@/components/common/repo-info';
-import { Box, Container, Flex, Stack } from '@chakra-ui/react';
+import { Box, Container, Flex } from '@chakra-ui/react';
 
 interface FooterProps {
   maxW: number;
