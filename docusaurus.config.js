@@ -128,12 +128,12 @@ module.exports = {
           title: '編集ガイド',
           items: [
             {
-              to: '/ASOBINON/contribute/browser/',
-              label: 'ブラウザで編集',
+              to: '/ASOBINON/contribute/markdown/',
+              label: 'Markdownの書き方',
             },
             {
-              to: '/ASOBINON/contribute/local/',
-              label: 'ローカルで編集',
+              to: '/ASOBINON/contribute/image/',
+              label: '画像アップ方法',
             },
           ],
         },
@@ -192,10 +192,7 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-
-          /* https://github.com/sasigume/asobinon-edit.tree/main/src/pages/edit/index.tsx
-          新エディター */
-          editUrl: 'https://edit.asobinon.org/editor?path=',
+          editUrl: 'https://github.com/sasigume/asobinon/edit/main/',
           remarkPlugins: [
             [
               remarkCustomBlocks,

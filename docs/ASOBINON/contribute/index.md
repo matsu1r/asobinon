@@ -8,10 +8,6 @@ slug: /ASOBINON/contribute/
 
 編集する前に、[CONTRIBUTING.md](https://github.com/sasigume/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
 
-## ブラウザで編集する
-
-[こちら](./browser/)をお読みください。
-
 ## ローカルで編集する
 
 [こちら](./local/)をお読みください。
