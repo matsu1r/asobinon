@@ -12,9 +12,7 @@ import IconEdit from '@theme/IconEdit';
 import styles from './EditThisPage.module.css';
 
 export default function EditThisPage({ editUrl }) {
-  const historyUrl =
-    'https://github.com/sasigume/asobinon/commits/main' +
-    editUrl.replace('https://edit.asobinon.org/editor?path=', '');
+  const historyUrl = editUrl.replace('asobinon/edit', 'asobinon/commits');
   return (
     <div className={styles.wrapper}>
       <a className={styles.linkFilled} href={editUrl} target="_blank" rel="noreferrer noopener">
