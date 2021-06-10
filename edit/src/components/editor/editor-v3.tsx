@@ -47,6 +47,24 @@ import EditorWarning from './editor-warning';
 
 // InitialDataはGetServerSidePropsでページロード時に取得
 const EditorV3 = ({ path, initialData }: { path: string; initialData: GetResOk }) => {
+  /*---------------------------
+  再読み込み防止
+  ----------------------------*/
+  if (typeof window !== 'undefined') {
+    // https://dev.to/eons/detect-page-refresh-tab-close-and-route-change-with-react-router-v5-3pd
+    window.onbeforeunload = (event: BeforeUnloadEvent) => {
+      const e = event || window.event;
+      // Cancel the event
+      e.preventDefault();
+      if (e) {
+        e.returnValue = '';
+      }
+      return '';
+    };
+  }
+  /* ------------------------
+  初期化
+  -------------------------*/
   const router = useRouter();
   const [errorString, setErrorString] = useState('');
 

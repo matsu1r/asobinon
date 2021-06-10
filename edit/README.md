@@ -20,3 +20,7 @@ yarn dev
 ### Package to build form with Chakra UI very very easily: `formik-chakra-ui`
 
 https://github.com/kgnugur/formik-chakra-ui
+
+### Prevent Reload
+
+https://dev.to/eons/detect-page-refresh-tab-close-and-route-change-with-react-router-v5-3pd
