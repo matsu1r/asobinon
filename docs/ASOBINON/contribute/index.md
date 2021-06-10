@@ -8,6 +8,14 @@ slug: /ASOBINON/contribute/
 
 編集する前に、[CONTRIBUTING.md](https://github.com/sasigume/asobinon/blob/main/CONTRIBUTING.md) をご覧ください。
 
+## Markdownガイド
+
+[こちら](./markdown/)をお読みください。
+
+## GitHubのサイトで編集する
+
+[こちら](./github-website/)をお読みください。
+
 ## ローカルで編集する
 
 [こちら](./local/)をお読みください。

@@ -4,10 +4,6 @@ slug: /ASOBINON/contribute/local/
 sidebar_position: 0
 ---
 
-## フォルダを作りたい
+さあ、ローカルで編集してみましょう！
 
-[フォルダ追加ガイド](./folder/)
-
-## ページを追加したい
-
-[ページ追加ガイド](./page/)
+左のメニューが目次です。
