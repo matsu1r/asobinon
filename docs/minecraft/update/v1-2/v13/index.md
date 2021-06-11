@@ -2,6 +2,7 @@
 ---
 title: アップデート「1.2.13」内容まとめ – UIの改善や新要素の体験など
 description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.13」の更新内容をまとめました。ストア等のUIの改善や、大量のバグ修正が含まれます。
+slug: /minecraft/update/v1-2/v13/
 ---
 
 アップデート配信状況

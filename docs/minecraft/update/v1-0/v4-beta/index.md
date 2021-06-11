@@ -2,6 +2,7 @@
 ---
 title: 村人と取引(交易)できるようになった!「1.0.4」のベータ版が公開
 description: マイクラPEプレイヤーの皆さん、新しいベータ版がやって来ましたよ! なんと今回のベータ版では、ついに村人と取引できるようになりました。参加方法と取引の様子を画像付きでお伝えします。
+slug: /minecraft/update/v1-0/v4-beta/
 ---
 
 ![PE104ベータ版](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102257.png)

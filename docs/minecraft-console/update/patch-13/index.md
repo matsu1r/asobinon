@@ -2,6 +2,7 @@
 ---
 title: PS4/Switchのアップデート「1.67」「パッチ13」内容まとめ
 description: 「Minecraft: PlayStation4 Edition」の1.67、「Minecraft: Nintendo Switch Edition」(統合版ではありません)のパッチ13の更新内容をまとめました。スターウォーズのエピソード7・8をテーマにしたスキンパックや、プレステ向けに「クラシックスキンパック1」の配信、なんとHaloマッシュアップパックがスイッチに対応しました。
+slug: /minecraft-console/update/patch-13/
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090021.png)
@@ -27,12 +28,15 @@ description: 「Minecraft: PlayStation4 Edition」の1.67、「Minecraft: Ninten
 
 ## 目次
 
-*   [スキンパック・マッシュアップパックなどDLC関連のこと](#store)
-    *   [「スターウォーズ シークエル スキンパック」が登場](#starwars)
-    *   [スイッチに「Halo マッシュアップパック」が追加](#halo)
-    *   [PS4に「Minecraftクラシックスキンパック1」が追加](#classic)
-*   [ゲームプレイに関すること](#gameplay)
-    *   [エンドクリスタルを最大個数より多く設置しようとすると警告文が表示されるように](#chat)
+- [slug: /minecraft-console/update/patch-13/](#slug-minecraft-consoleupdatepatch-13)
+- [参考にさせて頂いたページ様](#参考にさせて頂いたページ様)
+- [目次](#目次)
+- [スキンパック・マッシュアップパックなどDLC関連のこと](#スキンパックマッシュアップパックなどdlc関連のこと)
+  - [「スターウォーズ シークエル スキンパック」が登場](#スターウォーズ-シークエル-スキンパックが登場)
+  - [スイッチに「Halo マッシュアップパック」が追加](#スイッチにhalo-マッシュアップパックが追加)
+  - [PS4に「Minecraftクラシックスキンパック1」が追加](#ps4にminecraftクラシックスキンパック1が追加)
+- [ゲームプレイに関すること](#ゲームプレイに関すること)
+  - [エンドクリスタルを最大個数より多く設置しようとすると警告文が表示されるように](#エンドクリスタルを最大個数より多く設置しようとすると警告文が表示されるように)
 
 ## スキンパック・マッシュアップパックなどDLC関連のこと
 

@@ -2,6 +2,7 @@
 ---
 title: アップデート「1.1.5」& 無限ダンジョンの配布ワールドなどが配信開始！
 description: マイクラPE/Windows10版(秋に名前変わるけど)にアップデート「1.1.5」がやって来ました。バグ修正アップデートですが、ストア(マーケットプレイス)に数々の魅力的なコンテンツが追加されました。その中にはかつてブログで紹介した「Infinity Dungeon」のPE版もあります！
+slug: /minecraft/update/v1-1/v5/
 ---
 
 ![PE115アプデ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208124213.png)

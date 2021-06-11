@@ -2,6 +2,7 @@
 ---
 title: アップデート「1.5.1」内容まとめ。様々な不具合が修正された
 description: スマホ・タブレット・Windows10・XboxOne・NintendoSwitchのMinecraft(BE/統合版)のアップデート「1.5.1」がリリースされました。スイッチでMSアカウントにログインできない不具合などが修正されています。(スイッチ以外は深夜に配信予定です)
+slug: /minecraft/update/v1-5/v1/
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101356.png)

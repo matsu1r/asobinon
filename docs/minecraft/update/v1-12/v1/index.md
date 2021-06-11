@@ -2,6 +2,7 @@
 ---
 title: 統合版にバグ修正アップデート「1.12.1」配信。スイッチ版のサインイン問題修正
 description: Minecraft(統合版/BE)のアップデート「1.12.1」が、iOSを含む各プラットフォームに配信された。バグ修正のみとなっているが、更新履歴がまだ翻訳されていないので、筆者による修正内容の翻訳を掲載する。
+slug: /minecraft/update/v1-12/v1/
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121002.jpg)

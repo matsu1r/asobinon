@@ -2,6 +2,7 @@
 ---
 title: バージョン1.1のベータ版Build3配信、宝の地図やストアのリニューアルなど
 description: Androidユーザーの皆さん、朗報です。マイクラPEの最新アップデート「1.1」のベータ版「Build3」が配信されました。ついに「製図家」と「宝の地図」が追加され、森の洋館や海底神殿を探すのが一段と楽になります!
+slug: /minecraft/update/v1-1/build3-beta/
 ---
 
 ![PE11betaBuild3](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110501.png)

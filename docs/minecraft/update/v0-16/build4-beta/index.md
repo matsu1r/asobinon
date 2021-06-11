@@ -2,6 +2,7 @@
 ---
 title: 【マインクラフトPE】0.16のベータ版が更新。ウィザーとビーコンがついに使えるようになった
 description: Minecraft: Pocket Edition、通称マイクラPEの次回アップデート「0.16」に向けたベータ版がただいま絶賛公開中です。そして先程ベータ版が更新され、待ち望まれていたボス「ウィザー」と、新ブロック「ビーコン」がついにベータ版で使えるようになりました。
+slug: /minecraft/update/v0-16/build4-beta/
 ---
 
 ![PE0.16ベータ版の更新について](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111433.png)

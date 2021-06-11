@@ -2,6 +2,7 @@
 ---
 title: アップデート「0.14.2/0.14.3」内容まとめ。スキンパックの追加と細かい仕様変更がされた
 description: マイクラPEの小型アップデート「0.14.3」と「0.14.2」の内容を画像付きでまとめました。細かい仕様変更が多数あります。
+slug: /minecraft/update/v0-14/v2and3/
 ---
 
 ![PE0142-0143アップデート内容まとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121938.png)

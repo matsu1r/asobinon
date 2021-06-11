@@ -2,6 +2,7 @@
 ---
 title: アップデート「1.2.2」の内容と修正されたバグまとめ
 description: スマホ・タブレット・Windows10アプリ・XboxOneで配信中の「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.2」の更新内容をまとめました。大量のバグ修正が含まれています。
+slug: /minecraft/update/v1-2/v2/
 ---
 
 ![Bedrockアップデート122](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090315.png)

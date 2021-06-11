@@ -2,6 +2,7 @@
 ---
 title: 【マインクラフトPE】新バージョン0.9.0 アップデート内容まとめ！無限の世界へ！洞窟が追加！村人なども追加！
 description: Minecraft PocketEdition 0.9.0マイクラPE 0.9.0が来ました! アップデート予定リリース日 =7月10日 午前7時以降　正式決定 ついにやって来たアップデート「0.9.0」の内容をまとめま… 続きを読む 【マインクラフトPE】新バージョン0.9.0 アップデート内容まとめ！無限の世界へ！洞窟が追加！村人なども追加！
+slug: /minecraft/update/v0-9/v0/
 ---
 
 [![no title](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152017.jpg)  

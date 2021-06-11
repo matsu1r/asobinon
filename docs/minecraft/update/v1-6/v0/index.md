@@ -2,6 +2,7 @@
 ---
 title: アップデート「1.6」内容まとめ – ファントム襲来！
 description: ファントムやバリアブロックが追加される予定の、スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの「Minecraft(BE,統合版)」のアップデート「1.6」の更新内容をまとめました。 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
+slug: /minecraft/update/v1-6/v0/
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111410.png)
