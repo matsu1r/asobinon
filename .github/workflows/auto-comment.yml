@@ -1,9 +1,7 @@
 name: Auto Comment
 on:
-  issues:
   pull_request_target:
     branches: [main]
-    types: [assigned, opened, synchronize, reopened]
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -11,10 +9,10 @@ jobs:
       - uses: bubkoo/auto-comment@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          issuesOpenedReactions: 'hooray, +1, eyes'
-          issuesOpened: >
-            👋 @{{ author }}
-            投稿ありがとうございます！
+          pullRequestOpenedReactions: 'hooray, +1, eyes'
           pullRequestOpened: >
             👋 @{{ author }}
-            プルリクエストありがとうございます！「Vercel」っていうbotが、ちゃんと動くかテストをしてくれています。テストが終わったらサイトに反映されるので、しばらくお待ちください！
+            サイトに反映されるまで3分ほどかかります。緑色になるまで、しばらくお待ちください！
+          pullRequestClosed: >
+            👋 @{{ author }}
+            もし`✅ Preview: Failed` / `vercel bot had a problem deploying to Preview` と出ている場合は反映できていないので、**記事内のHTMLの構文がJSXとして有効かどうか**ご確認ください。
