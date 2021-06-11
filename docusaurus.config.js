@@ -2,6 +2,8 @@
 
 const THEME_COLOR = '#ff3f00';
 const remarkCustomBlocks = require('remark-custom-blocks');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 
 module.exports = {
   i18n: {
@@ -195,6 +197,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/sasigume/asobinon/edit/main/',
           remarkPlugins: [
+            math,
             [
               remarkCustomBlocks,
               {
@@ -215,6 +218,7 @@ module.exports = {
               },
             ],
           ],
+          rehypePlugins: [katex],
         },
         blog: {
           blogTitle: '運営ブログ',
@@ -229,6 +233,15 @@ module.exports = {
         },
       },
     ],
+  ],
+  stylesheets: [
+    {
+      // KaTeX用
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      type: 'text/css',
+      integrity: 'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous',
+    },
   ],
   themes: ['@saucelabs/theme-github-codeblock'],
   plugins: [
