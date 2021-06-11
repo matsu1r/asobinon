@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】もらったチョコは建材にしてしまえ！「Chocolate mod」
-slug: /minecraft-je/howto/36995974-2
 description: 「Chocolate MOD」の紹介です。今日はバレンタイン！はチョコを貰うはずが、何故かジャングルへ向かいます。そこで作るものとは・・・・・
 ---
 

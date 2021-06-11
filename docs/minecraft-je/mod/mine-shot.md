@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】スクショは4Kの時代へ/ジオラマ風スクショを撮れる「Mineshot」
-slug: /minecraft-je/howto/38861610-2
 description: 今回紹介するのは、BarracudaATAさん制作の「Mineshot」です。
  いつものスクショの4倍の解像度の「4K」スクショが撮れます。
  鳥瞰図のようなダイナミックスクショを撮る便利機能も。

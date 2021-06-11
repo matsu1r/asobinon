@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】レトロゲー風の無限に広がるマップを見るとﾜｸﾜｸｽﾝｿﾞｫ「Antique Atlas」
-slug: /minecraft-je/howto/43267452-2
 description: どっかで見たような見てないような、レトロなRPG風のマップ。
  これ、このワールドの地図なんです。村とかバイオームが反映されてます。
  今回紹介するのは、 Hunternifさん制作の「Antique Atlas」です。

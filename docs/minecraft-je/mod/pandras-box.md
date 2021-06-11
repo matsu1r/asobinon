@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】カオスとはまさにこの事。混沌とした世界を創ろう！「Pandora's Box」
-slug: /minecraft-je/howto/37672384-2
 description: 今回のMODは危険です。取り扱いには十分注意してください。セーブデータのバックアップも忘れずに。今回紹介するのは、「Pandora’s Box」です。
 ---
 

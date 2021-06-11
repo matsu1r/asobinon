@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】自分がもう一人いればいいのに(GTA風MOD)「Sync MOD」
-slug: /minecraft-je/howto/37167848-2
 description: 今回紹介するのは、iChun`sさん制作の「Sync」です。 自分がもう一人いればいいのにと思ったことはありませんか？もう一人、作れるんですよ。マイクラなら。   <!– ——&… 続きを読む 【MOD紹介】自分がもう一人いればいいのに(GTA風MOD)「Sync MOD」
 ---
 

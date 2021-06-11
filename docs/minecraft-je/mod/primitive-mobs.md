@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】ツルハシやチェストが襲ってきた! 約20種のMobを追加「Primitive Mobs」
-slug: /minecraft-je/howto/43697914-2
 description: ピッケルがいきなり暴れだした! チェストを開いたらミミックが出てきた!
  今回紹介するのは、Daveyx0さん制作の「Primitive Mobs」です。
  放浪する村人、地下で泣いている村人、金を欲しがるヒツジなど…

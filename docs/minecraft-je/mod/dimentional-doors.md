@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】どこまでも闇の世界! 新次元のダンジョンを制覇せよ 「Dimensional Doors」
-slug: /minecraft-je/howto/41419102-2
 description: – どこまでも真っ暗な世界。あるのはドアのみ。-
  今回紹介するMODは、stevenrs11さん制作の「Dimensional Doors」です。
  何千人もの死者が眠る暗黒の世界。その謎を解明すべく、あなたはダンジョンへ…

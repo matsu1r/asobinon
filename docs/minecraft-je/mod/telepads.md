@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】世界は一枚で変わる。小ささと簡単さを、研ぎ澄ましました。「TelePads」
-slug: /minecraft-je/howto/45525707-2
 description: TelePadは、ほかのどんなデバイスにも似ていません。使い始めた瞬間から、あらゆることのやり方が変わります。行けるとは思わなかった所まで、行けるようになるでしょう。 今回紹介するのは、senpaisubarakiさん制作の「TelePads」です。
 ---
 

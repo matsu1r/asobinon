@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】1.8対応! 剣などのアイテムを自由自在に変形/回転「ItemTransformHelper」
-slug: /minecraft-je/howto/44307344-2
 description: 巨大な剣。頭に乗ったサボテン。持ったブロックにプレイヤーが飲み込まれる。
  今回紹介するのは、TheGreyGhostさん制作の「Item Transform Helper」です。なんと手に持ったアイテムやブロックを自由に変形/回転/移動できます。
 ---

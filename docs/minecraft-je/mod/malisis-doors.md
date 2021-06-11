@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】組み合わせ無限大!世界に1つのドアを作ろう「MalisisDoors」
-slug: /minecraft-je/howto/40690052-2
 description: 今回紹介するのは、Ordinastieさん制作の「MalisisDoors」です。
  6種のドアが追加され、自分だけのオリジナルドアも作れます。
 ---

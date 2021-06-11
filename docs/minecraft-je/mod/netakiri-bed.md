@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】一生寝ていたらどうなるのか「寝たきりベッドMOD」
-slug: /minecraft-je/howto/37942287-2
 description: 今回紹介するMODは、sinkuuさん制作の「Netakiri Bed」です。 皆さん、忙しい毎日から開放されて、ずっと寝て居られたら良いと思いませんか？ 永遠に眠り続けるのです…
 ---
 

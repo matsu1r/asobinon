@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】そしてみんなデカ鼻になる「みんな村人MOD」
-slug: /minecraft-je/howto/41748263-2
 description: ある日Mob達に起こった突然変異…
  みんな頭が伸びて鼻がデカくなってしまった!
  今回紹介するMODは、putchoさん制作の「みんな村人MOD」です。

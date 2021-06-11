@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】立春寒波により、ジャングルに雪が降った！「AllSnow Mod」
-slug: /minecraft-je/howto/36907955-2
 description: 【MOD紹介】気象に関するニュースです。大スクープ！
  ジャングルに、観測史上初の雪が降りました。
  現場の村人さん！

@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】矢にカメラマンを縛り付けてカッコいいスクショを撮ろう！「Arrow Camera」
-slug: /minecraft-je/howto/37823841-2
 description: かっこいいスクショを撮るにはどうすればいいの？そうだ、矢にカメラマンを縛り付ければ・・・！今回紹介するのは、ShadowBlade50さん制作の「Arrow Camera」です。
 ---
 

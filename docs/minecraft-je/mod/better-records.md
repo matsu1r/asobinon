@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】好きな音楽をレコードにして聴こう「BetterRecords」
-slug: /minecraft-je/howto/41287163-2
 description: マイクラのレコード、もう聞き飽きたって方も多いんじゃないでしょうか。
  今回紹介するMOD 「BetterRecords」(Stumblinbearさん制作) では、
  ネット上の好きな音楽をレコードにして聴き放題。

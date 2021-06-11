@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】クラフターよ、これが"鉄道"だ！「RealTrainMod」
-slug: /minecraft-je/howto/37976968-2
 description: 今回紹介するのは、ngt5479さん制作の「RealTrainMod」です。キハ600!223系!おなじみの電車でGO!踏切や信号もありますよ！
 ---
 

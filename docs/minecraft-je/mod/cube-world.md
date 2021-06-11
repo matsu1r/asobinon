@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】あなたのワールドを丁寧に個包装しました「Cube World」
-slug: /minecraft-je/howto/37767836-2
 description: 世界が個包装されるMOD「Cube World」を紹介します。なんでも包まれたこの世界で生きていこう！
 ---
 

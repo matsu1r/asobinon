@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】何でも自由に上昇/降下させるエレベーターを追加「Moving Box Mod」
-slug: /minecraft-je/howto/40484914-2
 description: 今回紹介するのは、Sumさん制作の「Moving Box Mod」です。
  エンティティを何でも上昇/下降させるブロックを追加します。
  使い方次第でエレベーターにも殺戮兵器にもなります、ご注意!!

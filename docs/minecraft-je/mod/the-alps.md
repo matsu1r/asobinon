@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】天空の神殿からアルプスへ行こう（少女は居ません）「The Alps Mod」
-slug: /minecraft-je/howto/40576974-2
 description: 今回紹介するMODは、unpause_itさん制作の「The Alps Mod」です。
  天空に現れる神殿から、新ディメンション「Alps（アルプス）」へ行くことができます。
  そこには絶景とお宝が盛り沢山…!!

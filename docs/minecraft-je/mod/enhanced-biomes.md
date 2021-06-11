@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】旅立とう、スーパーリアルバイ王蟲へ「Enhanced Biomes」
-slug: /minecraft-je/howto/38663538-2
 description: 今回紹介するのは、SMEZ1234さん制作の「Enhanced Biomes」です。
  1.7でバイオームが追加されましたが、このMODではさらにリアル志向のバイ王蟲を追加します。全部で87種類もあるそうですよ。大冒険の始まりだ！
 ---

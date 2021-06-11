@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】今日は節分！鬼は俺！福も俺！「Angels&DemonsMOD」
-slug: /minecraft-je/howto/36839671-2
 description: 節分MODなんて無かったのでせめて鬼だけでも・・・
  今回紹介するのは、monkeyfunk26氏制作の 「Angels&DemonsMod」です。
  このMODでは、名前の通り天使や鬼が追加される・・・・

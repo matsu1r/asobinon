@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】見えない/剥がれない/場所を問わず湧き潰しできる「InvisibLights」
-slug: /minecraft-je/howto/41140063-2
 description: 湧き潰しをする時、松明がバラバラ配置されてるのがダサいと思ったことはありませんか?
  そんなあなたにお勧めなのが、今回紹介するMOD「InvisibLights」(制作:domi1819さん)です。
  新時代の湧き潰しを始めましょう。

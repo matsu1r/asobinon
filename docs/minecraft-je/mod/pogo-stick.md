@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】ホップスティックジャンピング～♪「Pogo Stick」
-slug: /minecraft-je/howto/36251908-2
 description: 今回紹介するのは、benjibobs氏制作の「Pogo Stick」です。ホップスティックジャンピング～♪
 ---
 

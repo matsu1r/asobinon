@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】全バイオームでイチャイチャの予感「MO' VILLAGES」
-slug: /minecraft-je/howto/38156378-2
 description: 今回紹介するのは、Pigs_FTWさん制作の「MO’ VILLAGES」です。どこでも、村が付いてくる・・・・このMODを導入すると、ほぼ全てのバイオームに村が生成されるようになります。
 ---
 

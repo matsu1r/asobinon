@@ -1,7 +1,6 @@
 
 ---
 title: 【MOD紹介】無限にインベントリを広げよう! しかし代償は大きい「InfiniteInvo」
-slug: /minecraft-je/howto/43160503-2
 description: サバイバルで、ついついインベントリがいっぱいになっちゃいますよね。
  そんな悩めるクラフターにおすすめなのが、Funwayguyさん制作の「InfiniteInvo」です。
  インベントリ(手持ち)画面をPCが壊れない限り無限に増やせます。
