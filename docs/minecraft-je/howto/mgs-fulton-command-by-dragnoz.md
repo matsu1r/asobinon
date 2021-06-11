@@ -37,8 +37,6 @@ new-command-block/](/new-command-block/)
 
 大変申し訳ありませんが、この記事ではSnapShotの遊び方については割愛させて頂きます。**▲の記事にて、ランチャーからSnapShotをダウンロードして遊ぶ方法を解説している**ので分からない方はどうぞ。
 
-.map-table{margin-bottom:10px;}.map-table th{padding:12px 19px 11px!important;}.map-table th{background:#e1e1e1;text-align:left!important;font-weight:bold;}.map-table td{text-align:left!important;padding:8px!important;} tr.bottomB{border-bottom:solid 2px #222} b.command{font-size: 1.1em; display: inline-block; margin: 3px 2px 3px; padding: 3px; border-radius: 3px; font-weight: bold; background: rgb(219, 219, 219);}</p> <h1>article-contents table{width:95%!important;}</h1>
-
 ## Dragnoz氏のコマンドを1つ1つ解説します
 
 以下で解説しているコマンドは、**全て私ではなくDragnoz氏が考案したものです。**私自身よく分かってない部分もありますので、上記の動画のコメントなどで質問して下さい!(丸投げ)

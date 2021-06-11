@@ -36,7 +36,7 @@ Java版1.17のSnapShot「21W10A」で、描画プロファイルが「OpenGL Cor
 
 しかし、**アーカイブ**を見てみましょう。
 
-![20210314104010](//images.ctfassets.net/44sq8tmkumx2/6hnV1tZ3kxzPH1MiCdiGpB/415d0feb8e8525db9ccafe33efe2449a/20210314104010.png)
+![20210314104010](https://images.ctfassets.net/44sq8tmkumx2/6hnV1tZ3kxzPH1MiCdiGpB/415d0feb8e8525db9ccafe33efe2449a/20210314104010.png)
 
 **差分ゼロ**です。おそらく何も変えずに「更新ボタン」を押したせいで「最終更新」だけ変わったんだと思います。
 

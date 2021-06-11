@@ -91,8 +91,6 @@ https://www.napoan.com/43129260/](/43129260/ "[Minecraft]ジャンプで死亡! 
 
 バージョン1.8だとクロックのせいで余計な場所を取りますが、**バージョン1.9なら▲のように2つのコマンドブロックだけで動きます。「Repeat」「Always Active(常時実行)」**等、1.9からのコマンドブロックの設定項目については[こちらの記事](/new-command-block/ "1.9の新しいコマンドブロックの使い方を解説。クロック回路/コンパレータ要らずで回路を小さく!")で解説しています。さらに、**左のレッドストーンブロックを消せば回路をOFFにもできて便利!**
 
-#map-table span.mode{display:inline-block;margin:3px;padding:3px 5px 3px;border-radius:3px;color:#fff;font-weight:bold;font-size:1.1em;}</p> <h1>map-table span.repeat{background-color:#68228B;}</h1> <h1>map-table span.chain{background-color:#48D1CC;color:#000000!important;}</h1> <h1>map-table span.con{background-color:#fff;border:solid 2px #000000!important;padding:1px 3px 1px!important;color:#000000!important;}</h1> <h1>map-table span.unc{background-color:#000000;}</h1> <h1>map-table span.nee{background-color:#DDD;color:#000000!important;}</h1> <h1>map-table span.alw{background-color:#CD0000;}</h1>
-
 「1」のコマンド
 
 RepeatUnconditional(無条件)Needs Redstone(レッドストーン動力が必要)

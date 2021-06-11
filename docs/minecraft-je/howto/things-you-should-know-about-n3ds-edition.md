@@ -103,7 +103,7 @@ https://www.napoan.com/e3-2017-update-information/](https://www.napoan.com/e3-20
 
 ## 立体視には「すぐに来る」アップデートで対応
 
-[こちらの記事](//exr-nap.sakura.ne.jp/www.napoan.com/new3ds-3d-update-soon/)でお伝えしたとおり、**裸眼立体視機能にはすぐにアップデートで対応する**ことが判明しています。
+[こちらの記事](https://exr-nap.sakura.ne.jp/www.napoan.com/new3ds-3d-update-soon/)でお伝えしたとおり、**裸眼立体視機能にはすぐにアップデートで対応する**ことが判明しています。
 
 ## セーブデータのサイズが結構大きい
 

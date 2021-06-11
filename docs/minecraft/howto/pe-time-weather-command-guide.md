@@ -61,7 +61,7 @@ https://www.napoan.com/pe-update-016/](/pe-update-016/ "【マインクラフト
 
 **/time set 12000**
 
-[![マイクラPEの一日](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208092652.png)](//exr-nap.sakura.ne.jp/www.napoan.com/wp-content/uploads/2016/09/0ef4f858a934b11df388333bcfb5637e.png)
+[![マイクラPEの一日](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208092652.png)](https://exr-nap.sakura.ne.jp/www.napoan.com/wp-content/uploads/2016/09/0ef4f858a934b11df388333bcfb5637e.png)
 
 どんな数値を入力すればいいのかわからない、という方は▲の画像をご覧下さい。(タップで拡大できます) **日の出の時間が「0」で、正午が「6000」、日の入りが「12000」、真夜中12時が「18000」**です。**「24000」と入力すれば、また日の出に戻ってくる**わけです。
 

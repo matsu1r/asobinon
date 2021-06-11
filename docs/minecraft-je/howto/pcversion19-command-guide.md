@@ -164,17 +164,20 @@ https://www.napoan.com/loot-table-perfect-guide/](https://www.napoan.com/loot-ta
 
 新システム「tag」に関するコマンド一覧
 
-タグを付与するには
+[[dl|タグを付与するには]]
+|```
+|/scoreboard players tag <ターゲット> add _<タグ名>_ (条件となるデータタグ)**
+|```
 
-**/scoreboard players tag <ターゲット> add _<タグ名>_ (条件となるデータタグ)**
+[[dl|タグを削除するには]]
+|```
+|/scoreboard players tag <ターゲット> remove _タグ名_ (データタグ)**
+|```
 
-タグを削除するには
-
-**/scoreboard players tag <ターゲット> remove _タグ名_ (データタグ)**
-
-タグの一覧を取得するには
-
-**/scoreboard players tag <ターゲット(@eなど)> list**
+[[dl|タグの一覧を取得するには]]
+|```
+|/scoreboard players tag <ターゲット(@eなど)> list**
+|```
 
 新システム「tag」の使い方の解説記事
 
@@ -390,10 +393,12 @@ http://ch.nicovideo.jp/akaishi\_ai/blomaga/ar928909](http://ch.nicovideo.jp/akai
 
 particleコマンドに新しい機能が追加されました。なんと**「パーティクルが見える人」を指定できるように**なったんです。
 
-1.9からはparticleコマンド末尾にセレクターを追記して見える人を指定できるようになった
-
-**/particle explode <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) **<セレクター>****  
-「(モード)」を「normal」にすれば通常、「force」にすれば256ブロック離れても、またビデオ設定で「パーティクル:最小」にしても見えるようになります。
+[[dl|1.9からはparticleコマンド末尾にセレクターを追記して見える人を指定できるようになった]]
+|```
+|/particle explode <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) <セレクター>
+|``` 
+|
+|「(モード)」を「normal」にすれば通常、「force」にすれば256ブロック離れても、またビデオ設定で「パーティクル:最小」にしても見えるようになります。
 
 ▲セレクターに「@a\[m=1\]」と書けば、クリエイティブモードの人だけに見えるパーティクルになります。
 
@@ -403,26 +408,26 @@ particleコマンドに新しい機能が追加されました。なんと**「�
 
 ### 一部のパーティクルで、ブロック/アイテムの種類を指定する方法が変わった
 
-例: ピンク色の羊毛を破壊した際のパーティクルを表示
+[[dl|例: ピンク色の羊毛を破壊した際のパーティクルを表示]]
+|![blockcrackの数値の書き方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091541.png)  
+|```
+|/particle blockcrack <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) @a 24611
+|```
+|▲ブロックを破壊した際のパーティクルである、blockcrackパーティクルではこれまでblockcrack\_(id+(データ値\*4096))と書いて指定していましたが、1.9では**id+(データ値\*4096)をコマンドの末尾に書く仕様に変更されました。**例えばピンク色の羊毛の場合、35 + (6\*4096)なので24611と末尾に書きます。
 
-![blockcrackの数値の書き方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091541.png)  
-**/particle blockcrack <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) @a 24611**
+[[dl|例: ラピスラズリブロックのblockdustパーティクルを表示]]
+|![blockdustパーティクルでラピスラズリのパーティクルを表示](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102312.png)  
+|```
+|/particle blockdust <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) @a 22
+|```
+|blockdustのパーティクルを使う際、これまではblockdust\_(id)という風にIDを指定していましたが、blockcrack同様末尾にブロックID + (データ値 \* 4096)を数字で指定することで、パーティクルのブロックを指定できるようになりました。例えばラピスラズリの場合、「22+(0\*4096)」なので「22」と書いています。
 
-▲ブロックを破壊した際のパーティクルである、blockcrackパーティクルではこれまでblockcrack\_(id+(データ値\*4096))と書いて指定していましたが、1.9では**id+(データ値\*4096)をコマンドの末尾に書く仕様に変更されました。**例えばピンク色の羊毛の場合、35 + (6\*4096)なので24611と末尾に書きます。
-
-例: ラピスラズリブロックのblockdustパーティクルを表示
-
-![blockdustパーティクルでラピスラズリのパーティクルを表示](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102312.png)  
-**/particle blockdust <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) @a 22**
-
-blockdustのパーティクルを使う際、これまではblockdust\_(id)という風にIDを指定していましたが、blockcrack同様末尾にブロックID + (データ値 \* 4096)を数字で指定することで、パーティクルのブロックを指定できるようになりました。例えばラピスラズリの場合、「22+(0\*4096)」なので「22」と書いています。
-
-例: 骨粉のアイコンを破壊した際のパーティクルを表示
-
-![骨粉を破壊した際のパーティクル](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091511.png)  
-**/particle iconcrack <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) @a 35 6**
-
-iconcrackパーティクルも書き方が変わり、これまでiconcrack\_id\_データ値だったのがIDとデータ値は末尾に書く仕様に変更されました。iconcrackだけは、**ID データ値という風に2つの数値を分けて書きます。**
+[[dl|例: 骨粉のアイコンを破壊した際のパーティクルを表示]]
+|![骨粉を破壊した際のパーティクル](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091511.png)  
+|```
+|/particle iconcrack <x> <y> <z> <xd> <yd> <zd> <スピード> (カウント) (モード) @a 35 6
+|```
+|iconcrackパーティクルも書き方が変わり、これまでiconcrack\_id\_データ値だったのがIDとデータ値は末尾に書く仕様に変更されました。iconcrackだけは、**ID データ値という風に2つの数値を分けて書きます。**
 
 ### 1.9で追加されたパーティクル一覧
 

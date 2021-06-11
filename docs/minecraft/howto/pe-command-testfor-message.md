@@ -73,7 +73,7 @@ https://www.napoan.com/pe-105-update/](https://www.napoan.com/pe-105-update/)
 
 ![testforコマンドの書き方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208112953.png)
 
-testforコマンドを初めて書く方のために、仕組みを説明します。testforコマンドは▲こんな風に/testfor <セレクター>(<>は実際には入力しません)という構文で書きます。(NBTタグを忘れてるじゃんとお思いの方、残念ですが1.0.5現在PEではNBTタグを書くことはできません＞＜)
+testforコマンドを初めて書く方のために、仕組みを説明します。testforコマンドは▲こんな風に `/testfor <セレクター>` (`<` `>`は実際には入力しません)という構文で書きます。(NBTタグを忘れてるじゃんとお思いの方、残念ですが1.0.5現在PEではNBTタグを書くことはできません＞＜)
 
 ![testforコマンドの仕組み](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208112956.png)
 

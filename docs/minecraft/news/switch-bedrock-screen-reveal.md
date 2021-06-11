@@ -54,4 +54,4 @@ https://www.napoan.com/switch-bedrock-new-detail/](https://www.napoan.com/switch
 あわせて読みたい: “BetterTogetherUpdate”のよくある誤解
 
 [![BTUよくある誤解](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122155.png)  
-https://www.napoan.com/misunderstanding-of-btu/](//exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
+https://www.napoan.com/misunderstanding-of-btu/](https://exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)

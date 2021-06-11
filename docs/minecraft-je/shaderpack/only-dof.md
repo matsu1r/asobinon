@@ -66,7 +66,7 @@ Shaders…画面にOnlyDOFが表示されたら選択して適用しましょう
 
 Shaders…画面でOnlyDOFを選択し、右下の**Shader Options**をクリックするとシェーダーパックの詳細設定画面が開きます。(**ボタンがない場合はOptifineの最新版をお使い下さい**)その中の**DISTANT\_BLUR**をOFFにしましょう。
 
-[![DISTANT_BLURについて](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208095602.png)](//exr-nap.sakura.ne.jp/www.napoan.com/wp-content/uploads/2016/03/0b85f7ba89d01827531bfa5130b9e369.png)  
+[![DISTANT_BLURについて](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208095602.png)](https://exr-nap.sakura.ne.jp/www.napoan.com/wp-content/uploads/2016/03/0b85f7ba89d01827531bfa5130b9e369.png)  
 ▲クリックで別タブで大きく表示します。
 
 「DISTANT\_BLUR」(遠景ぼかし)機能のON/OFFの変化はこんな感じです。

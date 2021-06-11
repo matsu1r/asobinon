@@ -20,7 +20,7 @@ https://www.napoan.com/pcversion19-command-guide/](https://www.napoan.com/pcvers
 
 ![スポナーって便利ですよね](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091449.png)
 
-Mobを定期的に湧かせられるスポナー。RPG/戦闘系の配布ワールド([AcrossTheTime](//exr-nap.sakura.ne.jp/www.napoan.com/tag/AcrossTheTime/)など)に必ずと言っていいほど使われていますよね。ご存知の通り、コマンドを使えば**出てくるMobの種類、装備品、能力などを多岐に渡ってカスタマイズできます。**
+Mobを定期的に湧かせられるスポナー。RPG/戦闘系の配布ワールド([AcrossTheTime](https://exr-nap.sakura.ne.jp/www.napoan.com/tag/AcrossTheTime/)など)に必ずと言っていいほど使われていますよね。ご存知の通り、コマンドを使えば**出てくるMobの種類、装備品、能力などを多岐に渡ってカスタマイズできます。**
 
 ![1.9でEntityIDタグが非推奨に](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101043.png)
 

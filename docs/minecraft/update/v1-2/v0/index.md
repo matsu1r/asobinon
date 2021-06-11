@@ -27,7 +27,7 @@ __アイテムがまとまりやすくなった事について追記__
 あわせて読みたい: “PC版”とマルチ←できません “BetterTogetherUpdate”のよくある誤解
 
 [![BTUよくある誤解](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122155.png)  
-https://www.napoan.com/misunderstanding-of-btu/](//exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
+https://www.napoan.com/misunderstanding-of-btu/](https://exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
 
 ## 参考にさせて頂いたページ様
 
@@ -136,7 +136,7 @@ SPECIAL THANKS: Yuzu氏(@[y\_red\_mcpe](https://twitter.com/y_red_mcpe))
 さようなら「マイクラPE」。こんにちは「Minecraft」。
 
 [![さようならPE](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105655.png)  
-https://www.napoan.com/goodbye-pe-hello-minecraft/](//exr-nap.sakura.ne.jp/www.napoan.com/goodbye-pe-hello-minecraft/)
+https://www.napoan.com/goodbye-pe-hello-minecraft/](https://exr-nap.sakura.ne.jp/www.napoan.com/goodbye-pe-hello-minecraft/)
 
 ![これが新しいロゴ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208113528.png)
 
@@ -166,7 +166,7 @@ https://www.napoan.com/goodbye-pe-hello-minecraft/](//exr-nap.sakura.ne.jp/www.n
 遠く離れた人とマルチプレイする手順の解説
 
 [![Bedrockフレンドマルチ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105655.png)  
-https://www.napoan.com/bedrock-friend-multiplayer-guide/](//exr-nap.sakura.ne.jp/www.napoan.com/bedrock-friend-multiplayer-guide/)
+https://www.napoan.com/bedrock-friend-multiplayer-guide/](https://exr-nap.sakura.ne.jp/www.napoan.com/bedrock-friend-multiplayer-guide/)
 
 *   __XboxOneユーザーと一緒にマルチプレイできるようになった。__
 *   XboxOneの場合は、新しく配信される「Minecraft」を起動すれば、他のプラットフォームのプレイヤーと一緒にマルチプレイできる。
@@ -1043,8 +1043,8 @@ Creeper-shaped (クリーパー状)
 ### tpコマンドで、テレポート後に向く方向をエンティティや座標で指定できるように
 
 *   tpコマンドで、__テレポート後の向きを指定する方法__が増えた
-*   __/tp \[tpするエンティティ\] <x> <y> <z> facing <ターゲット>__と書くことで、__指定したエンティティの方向を向く__
-*   __/tp \[tpするエンティティ\] <x> <y> <z> facing <x> <y> <z>__と書くことで、__指定した座標の方向を向く__
+*   `/tp [tpするエンティティ] <x> <y> <z> facing <ターゲット>` と書くことで、__指定したエンティティの方向を向く__
+*   `/tp [tpするエンティティ] <x> <y> <z> facing <x> <y> <z>` と書くことで、__指定した座標の方向を向く__
 
 ### 「alwaysday」「daylock」コマンドが追加、昼夜サイクルを止める
 

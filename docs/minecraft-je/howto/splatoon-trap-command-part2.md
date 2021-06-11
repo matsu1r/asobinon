@@ -121,8 +121,6 @@ https://www.napoan.com/splatoon-trap-show/](/splatoon-trap-show/)
 
 scoreboardコマンドのaddモードと、スコアセレクタを上手く使えば、**流れるように次々と好きな処理ができるようになります。**これは武器の仕組みに限らず色々な場面で活用できるので、是非覚えておきましょう!
 
-.map-table{margin-bottom:10px;}.map-table th{padding:12px 19px 11px!important;}.map-table th{background:#e1e1e1;text-align:left!important;font-weight:bold;}.map-table td{text-align:left!important;padding:8px!important;} tr.bottomB{border-bottom:solid 2px #222} b.command{font-size: 1.1em; display: inline-block; margin: 2px; padding: 3px; border-radius: 3px; font-weight: bold; background: rgb(219, 219, 219);}</p> <h1>article-contents table{width:95%!important;}</h1>
-
 ### リリリと警告音を鳴らしスコアをリセットする
 
 **▲こちらがトラップで使っている警告音です。**古いブラウザの場合再生できないかもしれません。ごめんなさい。playsoundコマンドで再生するわけですが、**これはマイクラのどの効果音を使った音か分かりますか?**
@@ -226,8 +224,6 @@ _
 
 **/give @p minecraft:paper 16 0 {display:{Name:赤チームのトラップ,Lore:\[“投げて設置だゾ”\]}}**  
 **/give @p minecraft:slime\_ball 16 0 {display:{Name:青チームのトラップ,Lore:\[“投げて設置してね”\]}}**
-
-.map-table{margin-bottom:10px;}.map-table th{padding:12px 19px 11px!important;}.map-table th{background:#e1e1e1;text-align:left!important;font-weight:bold;}.map-table td{text-align:left!important;padding:8px!important;} tr.bottomB{border-bottom:solid 2px #222} b.command{font-size: 1.1em; display: inline-block; margin: 2px; padding: 3px; border-radius: 3px; font-weight: bold; background: rgb(219, 219, 219);}</p> <h1>article-contents table{width:95%!important;}</h1>
 
 ### トラップアイテムのテクスチャを差し替えよう
 

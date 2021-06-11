@@ -15,7 +15,7 @@ description: お待たせしました、というかすっかり忘れていま�
 [![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104006.png)  
 https://www.napoan.com/je-mods-matome-for-112/](https://www.napoan.com/je-mods-matome-for-112/)
 
-大型なMODの場合個別に記事を作成するので、[「1.11対応MOD」タグの記事一覧ページ](//exr-nap.sakura.ne.jp/www.napoan.com/tag/1.11対応MOD/)も合わせてご覧ください。
+大型なMODの場合個別に記事を作成するので、[「1.11対応MOD」タグの記事一覧ページ](https://exr-nap.sakura.ne.jp/www.napoan.com/tag/1.11対応MOD/)も合わせてご覧ください。
 
 現在、MOD界では「1.11」用と「1.11.2」用のMODが混在しています。**MODの要求バージョンによって臨機応変にProfileが切り替えられるよう、事前に1.11/1.11.2どちらのForgeもインストールして、それぞれProfileとフォルダーを作成しておくことをおすすめします。**  
 Forgeのバージョンを途中で切り替える方法は、[こちらの記事](https://www.napoan.com/new-way-to-install-mod/#update-forge)をご参照下さい。  

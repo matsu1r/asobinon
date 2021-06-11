@@ -72,7 +72,7 @@ Bのコマンドブロック
 **/scoreboard players set @a clickLobbyItem 1 {Inventory:\[{Slot:22b,id:”minecraft:diamond”,Count:1b,tag:{display:{Name:”ロビーに戻る”,Lore:\[“クリックでロビーに戻ります”\]}}}\]}**  
 インベントリに「ロビーに戻る」**アイテムがあるプレイヤーは、「clickLobbyItem」の値が1に**なります。この際、**「Slot:22b」というのはインベントリの真ん中を意味しています**のでそれ以外の場所に置いても「ない」と判断されます。
 
-![公式Wikiより転載](//hydra-media.cursecdn.com/minecraft.gamepedia.com/b/b2/Items_slot_number.png)  
+![公式Wikiより転載](https://hydra-media.cursecdn.com/minecraft.gamepedia.com/b/b2/Items_slot_number.png)
 ▲公式Wikiの[こちらのページ](http://minecraft.gamepedia.com/Player.dat_format#Inventory_slot_numbers)の画像です。この画像を参考に、**「Slot:○○b」の数字を適宜変更して下さい。**
 
 「3」のコマンド

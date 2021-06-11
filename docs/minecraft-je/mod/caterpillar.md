@@ -90,7 +90,7 @@ Reinforcementsを接続すると、ドリルの設定画面に「Reinforcement�
 
 そんな時は、ドリルヘッドの後ろの各パーツをアップグレードしましょう。刃と同じように、**コレクターやReinforcementsなども鉄やダイヤなどにアップグレードできる**んです。
 
-[![コレクターと増援部隊のアップグレードのレシピ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100426.jpg)](//exr-nap.sakura.ne.jp/www.napoan.com/wp-content/uploads/2016/03/e7948ccf3949d5992612897aaa5c8110.jpg)
+[![コレクターと増援部隊のアップグレードのレシピ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100426.jpg)](https://exr-nap.sakura.ne.jp/www.napoan.com/wp-content/uploads/2016/03/e7948ccf3949d5992612897aaa5c8110.jpg)
 
 ▲コレクターと増援部隊はご覧の順にクラフトすればアップグレードできます。**木に丸石、丸石に鉄、鉄にダイヤまたは金を合わていく**だけです。
 

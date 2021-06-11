@@ -6,7 +6,7 @@ description: マイクラPEのアップデート「0.14」がリリースされ�
 
 ![PEレッドストーン回路の作り方まとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103758.png)
 
-マイクラPEの[アップデート「0.14」](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/)がリリースされ、リピーター(反復装置)やコンパレーター、ディスペンサー(発射装置)などレッドストーン回路に関する追加ブロック/アイテムが色々追加されました。それぞれを上手く組み合わせれば立派な装置が作れますが、まずはレッドストーン装置の「パーツ」 – **例えば「クロック回路」や「AND回路」、「パルサー回路」「ラッチ回路」などの作り方をマスターしないと大きな装置は作れません。**今回は、全て画像付きでそれぞれのレッドストーン回路の作り方を解説していきます。
+マイクラPEの[アップデート「0.14」](https://exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/)がリリースされ、リピーター(反復装置)やコンパレーター、ディスペンサー(発射装置)などレッドストーン回路に関する追加ブロック/アイテムが色々追加されました。それぞれを上手く組み合わせれば立派な装置が作れますが、まずはレッドストーン装置の「パーツ」 – **例えば「クロック回路」や「AND回路」、「パルサー回路」「ラッチ回路」などの作り方をマスターしないと大きな装置は作れません。**今回は、全て画像付きでそれぞれのレッドストーン回路の作り方を解説していきます。
 
 0.14にもまだピストンはありませんが、どうしても使いたい方へ。
 
@@ -48,11 +48,11 @@ https://www.napoan.com/pe-piston-mod/](https://www.napoan.com/pe-piston-mod/)
 
 ![ホッパーを使ったクロック回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105210.jpg)
 
-**0.14で追加された「[ホッパー](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#hopper)」を使ってもクロック回路が作れます。**向かい合わせて接続し、**(スニークしながら設置すれば繋がるはずです)**片方に適当なアイテムを入れ、コンパレーターを設置すれば定期的にON/OFFが繰り返されます。
+**0.14で追加された「[ホッパー](https://exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#hopper)」を使ってもクロック回路が作れます。**向かい合わせて接続し、**(スニークしながら設置すれば繋がるはずです)**片方に適当なアイテムを入れ、コンパレーターを設置すれば定期的にON/OFFが繰り返されます。
 
 ![コンパレーターを使ったクロック回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104107.jpg)
 
-さらに[コンパレーター](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-comparator)を使っても簡単にクロック回路が作れます。**コンパレーターをタップすると赤く光り減算モードになる**ので、そこに図のようにパウダーとレバーを設置してONにすればカチカチと周期的に信号を発します。
+さらに[コンパレーター](https://exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-comparator)を使っても簡単にクロック回路が作れます。**コンパレーターをタップすると赤く光り減算モードになる**ので、そこに図のようにパウダーとレバーを設置してONにすればカチカチと周期的に信号を発します。
 
 ## 信号のオンオフを保持し、切り替え可能な”ラッチ回路”の作り方
 
@@ -62,7 +62,7 @@ https://www.napoan.com/pe-piston-mod/](https://www.napoan.com/pe-piston-mod/)
 
 ![コンパレーターを使ったラッチ回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104546.jpg)
 
-0.14で追加された[コンパレーター](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-comparator)と[リピーター(反復装置)](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-repeater)を使ってもラッチ回路は作れます。この作り方の場合、**片方のボタンを押すとON、もう片方を押すとOFF**、と役割が決まっているので注意。それと**コンパレーターは一回タップして”減算モード”に**切り替えてください。
+0.14で追加された[コンパレーター](https://exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-comparator)と[リピーター(反復装置)](https://exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-repeater)を使ってもラッチ回路は作れます。この作り方の場合、**片方のボタンを押すとON、もう片方を押すとOFF**、と役割が決まっているので注意。それと**コンパレーターは一回タップして”減算モード”に**切り替えてください。
 
 ## ボタンを押す度にON/OFFが切り替わる”トグル回路”の作り方
 

@@ -104,4 +104,4 @@ NintendoSwitchで新しく配信される「Minecraft」は、内容がこれま
 あわせて読みたい: PS3はアプデ終了←しません “BetterTogetherUpdate”のよくある誤解
 
 [![BTUよくある誤解](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578369840/ca94c6d898ab37f4bdf936cd0cd50840_xpxd0q.png)  
-https://www.napoan.com/misunderstanding-of-btu/](//exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
+https://www.napoan.com/misunderstanding-of-btu/](https://exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)

@@ -33,6 +33,6 @@ https://minecraft.net/ja-jp/article/everything-announced-minecon-earth](https://
 あわせて読みたい: PS3はアプデ終了←しません “BetterTogetherUpdate”のよくある誤解
 
 [![BTUよくある誤解](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122155.png)  
-https://www.napoan.com/misunderstanding-of-btu/](//exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
+https://www.napoan.com/misunderstanding-of-btu/](https://exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
 
 勘違いされやすいのですが、**「Nintendo Switch “Edition”」がクロスマルチプレイできるようになるわけではありません。新しいマイクラが配信されるのです。**「BetterTogetherUpdate」についてより詳しく知りたい方は、▲の記事をお読みください。

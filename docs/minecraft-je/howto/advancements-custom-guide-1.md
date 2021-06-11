@@ -22,7 +22,7 @@ Minecraft バージョン1.12の最大の新要素**「Advancements(進捗)」**
 
 といった**「進捗自作の基本」**を解説します。”進捗自作”って変な響きですが、**これから配布ワールドを作るなら絶対押さえておきたい機能です。**JSON文書を弄ったことがない方にも分かりやすい解説になるよう心がけましたので、一度読んでいって下さいな。
 
-[<< #0 Advancementsって何?](//exr-nap.sakura.ne.jp/www.napoan.com/advancements-custom-guide-prolog/)
+[<< #0 Advancementsって何?](https://exr-nap.sakura.ne.jp/www.napoan.com/advancements-custom-guide-prolog/)
 
 [#2 達成条件の組み合わせと報酬の設定 >>](https://www.napoan.com/advancements-custom-guide-2/)
 
@@ -521,6 +521,6 @@ final.json
 
 といった**「条件と報酬」の仕組み**を解説しています。
 
-[<< #0 Advancementsって何?](//exr-nap.sakura.ne.jp/www.napoan.com/advancements-custom-guide-prolog/)
+[<< #0 Advancementsって何?](https://exr-nap.sakura.ne.jp/www.napoan.com/advancements-custom-guide-prolog/)
 
 \[#2 達成条件の組み合わせと報酬の設定\](https://next.napoan.com/advancements-custom-guide-2/)

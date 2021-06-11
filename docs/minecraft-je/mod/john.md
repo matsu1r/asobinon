@@ -46,8 +46,7 @@ HPが40もあるので、ダイヤの剣でも十数回斬らないと倒せま�
 もし夜中に出くわしたら、死ぬ覚悟をして下さい。  
 まるで進撃の巨人。
 
-[![](//resize.blogsys.jp/1937ee7454a8f4195aa65848ae7ad12fa0f0b258/crop1/198x125//wp-content/uploads/imgs/1/d/1d4cb985.png)](/41549507/)  
-[この前紹介したMOD**「NoShelter」**](/41549507/ "【MOD紹介】激ムズい! どこでもゾンビが追いかけてくる 「NoShelter」 【Minecraft】")と組み合わせたら、超鬼畜サバイバルができますね。  
+[この前紹介したMOD**「NoShelter」**](./noshelter/ "【MOD紹介】激ムズい! どこでもゾンビが追いかけてくる 「NoShelter」 【Minecraft】")と組み合わせたら、超鬼畜サバイバルができますね。  
 サバイバルはへっちゃらって方、是非遊んでみてください。
 
 [**#StopModReposts**  

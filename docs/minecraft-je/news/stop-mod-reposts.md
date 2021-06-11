@@ -105,7 +105,7 @@ http://stopmodreposts.org/](http://stopmodreposts.org/)
 
 [![StopModRepostsのChrome拡張機能](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150019.jpg)](#8/6/865d4911.jpg "StopModRepostsのChrome拡張機能")
 
-[GoogleChrome用](http://chrome.google.com/webstore/detail/stop-mod-reposts/dmooeeefhgcabgimjgdjaldjkddeopmp)、[Firefox用](http://addons.mozilla.org/ja/firefox/addon/stop-mod-reposts/)、[Opera用](http://addons.opera.com/ja/extensions/details/stop-mod-reposts/)が用意されています。これをブラウザに入れておけば、[こちらのブラックリスト](http://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/SITES.md)に載った**悪質な無断再配布サイトにアクセスすると警告を表示してくれる**優れものです。
+[GoogleChrome用](http://chrome.google.com/webstore/detail/stop-mod-reposts/dmooeeefhgcabgimjgdjaldjkddeopmp)、[Firefox用](http://addons.mozilla.org/ja/firefox/addon/stop-mod-reposts/)、[Opera用](http://addons.opera.com/ja/extensions/details/stop-mod-reposts/)が用意されています。これをブラウザに入れておけば、[こちらのブラックリスト](https://stopmodreposts.org/sites.html)に載った**悪質な無断再配布サイトにアクセスすると警告を表示してくれる**優れものです。
 
 ## 悪質なサイトはGoogleに報告しよう
 

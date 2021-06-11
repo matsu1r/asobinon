@@ -2,31 +2,31 @@
 title: ハンター? 忍者? 職業を選ぼう! 大長編RPG配布ワールド「AcrossTheTime」攻略 part2
 ---
 
-![AcrossTheTime-part2](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png)
+![AcrossTheTime-part2](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png)
 
-![AcrossTheTime-part2](/web/20200623233705im_/https://www.napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png "AcrossTheTime-part2")  
+![AcrossTheTime-part2](https://web.archive.org/web/20200623233705im_/https://www.napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png "AcrossTheTime-part2")  
 **最大級、大長編RPGアドベンチャーワールド**_「Across The Time」_。  
-[part1](/web/20200623233705/http://napoan.com/AcrossTheTime-part1/)では、ワールドのダウンロードやチュートリアル、街での戦闘を解説しました。  
+[part1](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/)では、ワールドのダウンロードやチュートリアル、街での戦闘を解説しました。  
 **今回のpart2では、ついに職業を選択し、最初の町で色々な出会いや体験をします。**  
 **キャラとの会話、買い物など****RPGらしいストーリーと遊びをたっぷり楽しめます。**  
 マルチプレイで、**友達と協力したり競い合って、どんどんストーリーを進めましょう!**  
 _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
-[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1") [レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](/web/20200623233705/http://napoan.com/AcrossTheTime-part3/ "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
+[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1") [レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part3/ "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
 
 .att-back-link{float:left;}.att-next-link{float:right;} .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-back-link:hover , .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
 
 [
 
-![](https://web.archive.org/web/20200623233705im_/https://www.napoan.com/wp-content/themes/Gridnim/img/icon.png)
+![](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705im_/https://www.napoan.com/wp-content/themes/Gridnim/img/icon.png)
 
-![](https://web.archive.org/web/20200623233705im_/https://www.napoan.com/wp-content/themes/Gridnim/img/icon.png)](https://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
+![](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705im_/https://www.napoan.com/wp-content/themes/Gridnim/img/icon.png)](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
 
-[napoan](https://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
+[napoan](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
 
 #article-contents dl{margin:35px 15px 15px;padding:17px;border:solid 1px #A1A1A1;box-shadow:0px 3px 0px rgba(1,1,1,0.1);position:relative;}#article-contents dl dt{display: inline-block;background: #fff;padding: 0 10px;font-weight: bold;font-size:1.1em;}#article-contents dl dd{margin-left:0px;}#article-contents p{margin-bottom:10px}#article-contents strong {background:linear-gradient(rgba(0,0,0,0) 80%, #ffff66 75%);font-weight:bold;}#article-contents h2{font-size: 20px;border: solid 1px #7f7f7f!important;padding: 6px 5px 6px 12px!important;border-radius:5px;width:90%;box-shadow:0px 3px 0px #DDD;}#article-contents h3 {font-size: 17px;border-bottom: 2px solid #D4D4D4;border-left: 3px solid #D4D4D4;padding-left: 7px;width: 90%;} #article-contents kbd, .article-body-inner kbd{font-weight:bold;}.article-body-inner blockquote:before{display:none!important;}
 
-[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1")
+[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1")
 
 ## 目次
 
@@ -39,14 +39,14 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 # 「Across The Time」の特徴やダウンロードはpar1へ
 
 この記事は、**大規模アドベンチャーマップ「Across The Time」の攻略ガイドpart2です。**  
-**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](/web/20200623233705/http://napoan.com/AcrossTheTime-part1/)に詳しく書いています。**
+**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/)に詳しく書いています。**
 
 [
 
-![AcrossTheTime](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/b/7b68b57f.png)
+![AcrossTheTime](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/b/7b68b57f.png)
 
-![AcrossTheTime](/web/20200623233705im_/https://www.napoan.com/www.napoan.com/wp-content/uploads/imgs/7/b/7b68b57f.png)  
-**AcrossTheTime-part1/**](/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")  
+![AcrossTheTime](https://web.archive.org/web/20200623233705im_/https://www.napoan.com/www.napoan.com/wp-content/uploads/imgs/7/b/7b68b57f.png)  
+**AcrossTheTime-part1/**](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")  
   
 
 # ストーリー攻略 part2 ～職業を選択、沢山の出会い～
@@ -82,9 +82,9 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
 [
 
-![街での戦闘、大変でしたね。](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/d/8d07b194.png)
+![街での戦闘、大変でしたね。](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/d/8d07b194.png)
 
-![街での戦闘、大変でしたね。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/d/8d07b194.png "街での戦闘、大変でしたね。")
+![街での戦闘、大変でしたね。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/d/8d07b194.png "街での戦闘、大変でしたね。")
 
 **現代の街で、ゾンビを切り抜けてビルを駆け上った主人公(もしくは主人公たち)。**  
 最上階から飛び降りれば、やっとストーリー本編が始まりました。
@@ -95,9 +95,9 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
   
 [
 
-![なんだこの部屋は!?](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/4/6/4675d85d.png)
+![なんだこの部屋は!?](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/4/6/4675d85d.png)
 
-![なんだこの部屋は!?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/4/6/4675d85d.png "なんだこの部屋は!?")
+![なんだこの部屋は!?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/4/6/4675d85d.png "なんだこの部屋は!?")
 
 **何とも言えない不気味な雰囲気が漂う、赤黒い部屋。**  
 私の勝手な空想ですが、おそらくここは**「時空の狭間」**、そんな感じでしょうか。  
@@ -106,15 +106,15 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
 [
 
-![感圧板を踏みましょう。](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/e/6/e6021934.png)
+![感圧板を踏みましょう。](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/e/6/e6021934.png)
 
-![感圧板を踏みましょう。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/e/6/e6021934.png "感圧板を踏みましょう。")
+![感圧板を踏みましょう。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/e/6/e6021934.png "感圧板を踏みましょう。")
 
 奥に感圧板があります。勇気を出して踏みましょう。
 
   
 
-![主人公がここに来た理由を説明](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/6/c6286185.png)
+![主人公がここに来た理由を説明](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/6/c6286185.png)
 
 ![主人公がここに来た理由を説明](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -151,7 +151,7 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 > ・**あなたは、宝石を見つけられる選ばれし人。**あなたこそ宝石を見つけるのにふさわしい。  
 > **私達はあなたを助けるために全力を尽くします。幸運を!**
 
-> **以下、[3y氏](https://web.archive.org/web/20200623233705/https://twitter.com/3y_UMR)による新しい翻訳です。こちらは最後まで辻褄の合った話になっております。**
+> **以下、[3y氏](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705/https://twitter.com/3y_UMR)による新しい翻訳です。こちらは最後まで辻褄の合った話になっております。**
 > 
 > あなたがなぜここにいるのか説明しましょう:
 > 
@@ -179,9 +179,9 @@ RPGにとって欠かせない要素、**「職業―job―」**。
   
 [
 
-![ここは、職業を選択する特別な部屋。](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/f/cf7fb834.png)
+![ここは、職業を選択する特別な部屋。](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/f/cf7fb834.png)
 
-![ここは、職業を選択する特別な部屋。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/f/cf7fb834.png "ここは、職業を選択する特別な部屋。")
+![ここは、職業を選択する特別な部屋。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/f/cf7fb834.png "ここは、職業を選択する特別な部屋。")
 
 この白い部屋は、**プレイヤーが職業を選択する場所**です。  
 **それぞれの職業ごとに部屋があって、一人づつ中に入ってボタンを押せば職業を選べます。**
@@ -244,9 +244,9 @@ Druid
   
 [
 
-![私はハンターを選びました。](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/55407cc4.png)
+![私はハンターを選びました。](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/55407cc4.png)
 
-![私はハンターを選びました。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/55407cc4.png "私はハンターを選びました。")
+![私はハンターを選びました。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/55407cc4.png "私はハンターを選びました。")
 
 **私は「ハンター」の職業を選びました。**とにかく弓が使いたかったので。  
 マルチプレイの際は、**一人づつ部屋に入ってボタンを押して下さいね!**
@@ -254,9 +254,9 @@ Druid
   
 [
 
-![新しい通貨「クロノトン」の確認方法](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d69eb1d.png)
+![新しい通貨「クロノトン」の確認方法](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d69eb1d.png)
 
-![新しい通貨「クロノトン」の確認方法](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d69eb1d.png "新しい通貨「クロノトン」の確認方法")
+![新しい通貨「クロノトン」の確認方法](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d69eb1d.png "新しい通貨「クロノトン」の確認方法")
 
 それと**もう一つ、重要な事**を解説します。  
 **プロローグで使っていた「ドル」は無くなり、代わりの通貨が誕生しました。**  
@@ -276,9 +276,9 @@ Druid
   
 [
 
-![最初の村に到着。](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/4/f4dc1839.png)
+![最初の村に到着。](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/4/f4dc1839.png)
 
-![最初の村に到着。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/4/f4dc1839.png "最初の村に到着。")
+![最初の村に到着。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/4/f4dc1839.png "最初の村に到着。")
 
 職業を選んだ直後、**いきなり大きな神殿の水の中へワープします。**  
 ここは**「Earndhel\`s village」**。主人公が最初に訪れる村です。  
@@ -290,27 +290,27 @@ Druid
 
 [
 
-![最初の村の夜景](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/d/7/d7cfec6f.png)
+![最初の村の夜景](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/d/7/d7cfec6f.png)
 
-![最初の村の夜景](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/d/7/d7cfec6f.png "最初の村の夜景")
+![最初の村の夜景](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/d/7/d7cfec6f.png "最初の村の夜景")
 
 あ^～、綺麗な夜景ですね。川岸の斜面に民家が連なる美しい光景。  
 どんな王様に会えるんでしょうか。
 
 [
 
-![王様がいる建物の場所](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/a/faabcd0e.png)
+![王様がいる建物の場所](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/a/faabcd0e.png)
 
-![王様がいる建物の場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/a/faabcd0e.png "王様がいる建物の場所")
+![王様がいる建物の場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/a/faabcd0e.png "王様がいる建物の場所")
 
 建物の間をくねくねと繋がった道を登り、**一番上に立派な建物が見えてきます。**  
 この建物の上の階に、この街の王様がいます。入ってみましょう。
 
 [
 
-![王様と会話しよう](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72126126.png)
+![王様と会話しよう](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72126126.png)
 
-![王様と会話しよう](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72126126.png "王様と会話しよう")
+![王様と会話しよう](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72126126.png "王様と会話しよう")
 
 建物の中央にどっしりと座る王様。(どこかしらゾンビに見える...)  
 **チャット画面で「Talk to the King」をクリック**すれば会話できます。
@@ -325,9 +325,9 @@ Druid
   
 [
 
-![王様の建物の正面玄関から出よう](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/2/e/2ecc47db.png)
+![王様の建物の正面玄関から出よう](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/2/e/2ecc47db.png)
 
-![王様の建物の正面玄関から出よう](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/2/e/2ecc47db.png "王様の建物の正面玄関から出よう")
+![王様の建物の正面玄関から出よう](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/2/e/2ecc47db.png "王様の建物の正面玄関から出よう")
 
 王様の話を聞いたら、**下の階に降りて中央の玄関から外に出ましょう。**  
 ここからは、**ここを基準に住民の場所を解説していきます。**
@@ -338,18 +338,18 @@ Druid
 
 [
 
-![Vulk氏の鍛冶屋](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/1/b187f5b1.png)
+![Vulk氏の鍛冶屋](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/1/b187f5b1.png)
 
-![Vulk氏の鍛冶屋](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/1/b187f5b1.png "Vulk氏の鍛冶屋")
+![Vulk氏の鍛冶屋](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/1/b187f5b1.png "Vulk氏の鍛冶屋")
 
 城を出て正面に、Vulk氏の鍛冶屋があります。  
 中に入ったら、ハシゴを降りてVulk氏と会話し、**階段を降りましょう。**
 
 [
 
-![鍛冶屋のショーケース](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/b/8b972bee.png)
+![鍛冶屋のショーケース](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/b/8b972bee.png)
 
-![鍛冶屋のショーケース](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/b/8b972bee.png "鍛冶屋のショーケース")
+![鍛冶屋のショーケース](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/8/b/8b972bee.png "鍛冶屋のショーケース")
 
 ここでは、**様々な武器や道具、防具をクロノトンで買うことができます。**  
 以下、主な商品の価格表です。(v2.0現在)
@@ -400,7 +400,7 @@ Druid
 
 ### ピング・ウー氏のアップグレード屋
 
-![ピング・ウー氏の家の場所](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/8/b804fdc0.png)
+![ピング・ウー氏の家の場所](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/8/b804fdc0.png)
 
 ![ピング・ウー氏の家の場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -409,9 +409,9 @@ Vulk氏の家の右隣に、**「ピング・ウー(Woo Ping)」**さんの家�
 
 [
 
-![プレイヤーの能力を向上させる「アップグレード」ができる場所](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/a/c/ac53ffd2.png)
+![プレイヤーの能力を向上させる「アップグレード」ができる場所](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/a/c/ac53ffd2.png)
 
-![プレイヤーの能力を向上させる「アップグレード」ができる場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/a/c/ac53ffd2.png "プレイヤーの能力を向上させる「アップグレード」ができる場所")
+![プレイヤーの能力を向上させる「アップグレード」ができる場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/a/c/ac53ffd2.png "プレイヤーの能力を向上させる「アップグレード」ができる場所")
 
 この家の地下では、**プレイヤーのステータスを更新する「アップグレード」**が行えます。  
 例えば、15レベル支払えば**「採掘速度上昇1(Haste)」**がもらえます。  
@@ -422,7 +422,7 @@ _ステータス...更新...神様... うっ頭が_
 
 ### ロバート氏の家
 
-![ロバート氏の家の場所](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/6/9/691f2db6.png)
+![ロバート氏の家の場所](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/6/9/691f2db6.png)
 
 ![ロバート氏の家の場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -442,7 +442,7 @@ _ステータス...更新...神様... うっ頭が_
 
 ### チャウ氏のリサイクルショップ
 
-![チャウ氏のリサイクルショップの場所](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/3/8/387fb26a.png)
+![チャウ氏のリサイクルショップの場所](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/3/8/387fb26a.png)
 
 ![チャウ氏のリサイクルショップの場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)  
 ロバートさんの家の隣に、**チャウ氏のリサイクルショップ**があります。  
@@ -450,9 +450,9 @@ _ステータス...更新...神様... うっ頭が_
   
 [
 
-![不要物を換金できる、リサイクルショップ](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/552c6fd6.png)
+![不要物を換金できる、リサイクルショップ](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/552c6fd6.png)
 
-![不要物を換金できる、リサイクルショップ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/552c6fd6.png "不要物を換金できる、リサイクルショップ")
+![不要物を換金できる、リサイクルショップ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/5/552c6fd6.png "不要物を換金できる、リサイクルショップ")
 
 地下は**便利なリサイクルショップ**になっています。  
 **余ったいらないアイテムを、お金(クロノトン)に交換できるのです。**  
@@ -461,9 +461,9 @@ _ステータス...更新...神様... うっ頭が_
   
 [
 
-![金の感圧板を踏んでアイテムを捨てる](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72ffd85a.png)
+![金の感圧板を踏んでアイテムを捨てる](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72ffd85a.png)
 
-![金の感圧板を踏んでアイテムを捨てる](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72ffd85a.png "金の感圧板を踏んでアイテムを捨てる")
+![金の感圧板を踏んでアイテムを捨てる](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/2/72ffd85a.png "金の感圧板を踏んでアイテムを捨てる")
 
 **各所に置いてある、金の重量感圧板を踏まないとアイテムを受け取ってくれません。**  
 私はハンターなので、矢が余りまくってました。ここで一気に放出!!  
@@ -520,7 +520,7 @@ _ステータス...更新...神様... うっ頭が_
 
 ### ヘンリージョーン氏の家
 
-![ヘンリージョーン氏の家の場所](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/8/58817aa9.png)
+![ヘンリージョーン氏の家の場所](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/5/8/58817aa9.png)
 
 ![ヘンリージョーン氏の家の場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -532,16 +532,16 @@ _ステータス...更新...神様... うっ頭が_
 
 ### バレンティン氏のポーション屋
 
-![バレンティン氏のポーション屋の場所](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/d/a/dafd62c8.png)
+![バレンティン氏のポーション屋の場所](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/d/a/dafd62c8.png)
 
 ![バレンティン氏のポーション屋の場所](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)  
 ヘンリージョーンズ氏の家を西に抜け、階段の途中に**バレンティンさんのポーション屋**があります。  
   
 [
 
-![ポーション売り場について](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/f/bf8f0b04.png)
+![ポーション売り場について](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/f/bf8f0b04.png)
 
-![ポーション売り場について](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/f/bf8f0b04.png "ポーション売り場について")
+![ポーション売り場について](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/b/f/bf8f0b04.png "ポーション売り場について")
 
 **バレンティンさんと会話した後、地下のポーション売り場に行きましょう。**  
 スプラッシュポーション以外は**空のガラス瓶を持参する必要があります。**  
@@ -596,9 +596,9 @@ _ステータス...更新...神様... うっ頭が_
 
 [
 
-![セレス氏の食料品店](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/9/f951cbca.png)
+![セレス氏の食料品店](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/9/f951cbca.png)
 
-![セレス氏の食料品店](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/9/f951cbca.png "セレス氏の食料品店")
+![セレス氏の食料品店](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/9/f951cbca.png "セレス氏の食料品店")
 
 バレンティンさんの**ポーション屋の向かい側は、セレスさんの食料品店**です。  
 **建物の中の上の方に居るセレスさんと会話した後、**売り場に行ってみましょう。
@@ -658,9 +658,9 @@ _ステータス...更新...神様... うっ頭が_
 
 [
 
-![神殿に居るカリプソちゃん](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/8/f813b7c6.png)
+![神殿に居るカリプソちゃん](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/8/f813b7c6.png)
 
-![神殿に居るカリプソちゃん](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/8/f813b7c6.png "神殿に居るカリプソちゃん")
+![神殿に居るカリプソちゃん](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/f/8/f813b7c6.png "神殿に居るカリプソちゃん")
 
 最後に、**ワープしてきた神殿(寺院)に戻ってカリプソちゃんと会話しましょう。**  
 なにやら魔法について説明してくれますが、**よく分からないので聞き流しましょう。**
@@ -668,9 +668,9 @@ _ステータス...更新...神様... うっ頭が_
   
 [
 
-![もう一度王様と会話しよう!](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d2a4dc4.png)
+![もう一度王様と会話しよう!](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d2a4dc4.png)
 
-![もう一度王様と会話しよう!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d2a4dc4.png "もう一度王様と会話しよう!")
+![もう一度王様と会話しよう!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/0/d/0d2a4dc4.png "もう一度王様と会話しよう!")
 
 **村の8人と会話したら、もう一度王様と会話しに行きましょう。**  
 もしスクショのようなメッセージが出ない場合は、2回話しかけてみてください。
@@ -693,13 +693,13 @@ _ステータス...更新...神様... うっ頭が_
 
   
 
-[レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](/web/20200623233705/http://napoan.com/AcrossTheTime-part3/ "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
+[レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part3/ "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
 
 .att-next-link{float:right;} .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
 
 * * *
 
-![最後までお読み頂きありがとうございました。](/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/2/6/2614973e.png)
+![最後までお読み頂きありがとうございました。](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/2/6/2614973e.png)
 
 ![最後までお読み頂きありがとうございました。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)  
 いかがでしたか。**是非このワールドで実況プレイなどして下されば幸いです。**  
@@ -710,12 +710,12 @@ _Thank to Mr Piccomaster and Thundesrtruck for this map!_ 🙂**
 
 * * *
 
-**次回 [part3 ~レベル上げと能力強化、砂漠の怪しげな村](/web/20200623233705/http://napoan.com/AcrossTheTime-part3/) >>>**
+**次回 [part3 ~レベル上げと能力強化、砂漠の怪しげな村](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part3/) >>>**
 
 [
 
-![](https://web.archive.org/web/20200623233705im_/https://www.napoan.com/wp-content/themes/Gridnim/img/icon.png)
+![](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705im_/https://www.napoan.com/wp-content/themes/Gridnim/img/icon.png)
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
 
-[napoan](https://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
+[napoan](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)

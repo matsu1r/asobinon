@@ -10,7 +10,7 @@ description: 1.9のMODが出てきたと思ったら、もうバージョン1.10
 
 **最終更新：**
 
-大型なMODの場合個別に記事を作成するので、[「1.10対応MOD」タグの記事一覧ページ](//exr-nap.sakura.ne.jp/www.napoan.com/tag/1.10対応MOD/)も合わせてご覧ください。
+大型なMODの場合個別に記事を作成するので、[「1.10対応MOD」タグの記事一覧ページ](https://exr-nap.sakura.ne.jp/www.napoan.com/tag/1.10対応MOD/)も合わせてご覧ください。
 
 \[追記\] 記事作成現在、以下にまとめたMODには「1.10」用と「1.10.2」用が混在しています。ですが**1.10用が1.10.2で動いたりするので、MODの要求バージョンによって臨機応変にForgeが切り替えられるよう、事前に1.10/1.10.2どちらのForgeもインストールしておくことをおすすめします。**  
 Forgeのバージョンを途中で切り替える方法は、[こちらの記事](https://www.napoan.com/new-way-to-install-mod/#update-forge)をご参照下さい。  
@@ -179,7 +179,7 @@ Ctrl+クリック
 
 ![回転](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208094757.gif)
 
-カメラMODといえば「CameraStudio」が定番でしたが、1.8のベータ版が出たのを最後に更新は止まっています。**そこで登場したヒーローが、あの「[ReplayMod](//exr-nap.sakura.ne.jp/www.napoan.com/tag/ReplayMod/)」開発者の一人CrushedPixel氏の「PixelCam」。**操作が簡単なのに機能が一通り揃ってるんです。
+カメラMODといえば「CameraStudio」が定番でしたが、1.8のベータ版が出たのを最後に更新は止まっています。**そこで登場したヒーローが、あの「[ReplayMod](https://exr-nap.sakura.ne.jp/www.napoan.com/tag/ReplayMod/)」開発者の一人CrushedPixel氏の「PixelCam」。**操作が簡単なのに機能が一通り揃ってるんです。
 
 ![カメラパスが分かりやすい](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578380385/2b2ae1f064c5a0b2188b32f50e8919c2_cm6skr.png)
 

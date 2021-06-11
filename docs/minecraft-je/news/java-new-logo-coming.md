@@ -32,6 +32,6 @@ Jeb氏は現在新ロゴは公開されていませんが、**もしかしたら
 あわせて読みたい: PS3はアプデ終了←しません “BetterTogetherUpdate”のよくある誤解
 
 [![BTUよくある誤解](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122155.png)  
-https://www.napoan.com/misunderstanding-of-btu/](//exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
+https://www.napoan.com/misunderstanding-of-btu/](https://exr-nap.sakura.ne.jp/www.napoan.com/misunderstanding-of-btu/)
 
 「BetterTogetherUpdate」は、**マイクラ全体を大きく変えるこれまでにないアップデートです。アップデートというより”新ゲーム配信”ですもんね。**全てが変わってしまう前に、今一度アップデートのおさらいをしておきましょう。
