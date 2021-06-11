@@ -4,7 +4,7 @@ We are currently supporting Japanese language only. (Sorry, but admin is not goo
 
 ![GitHub contributors](https://img.shields.io/github/contributors/sasigume/asobinon)
 
-![](https://repository-images.githubusercontent.com/364472617/e2821200-b45f-11eb-91c9-0dc461e59cfe)
+![](https://github.com/sasigume/asobinon/blob/main/static/ogp/ogp-1200x630.png?raw=true)
 
 - 全記事がMarkdown形式でGitHubでパブリックに公開され
 - かつ誰でもプルリクエスト・コントリビューターとしての参加ができる
@@ -13,11 +13,11 @@ We are currently supporting Japanese language only. (Sorry, but admin is not goo
 
 ## Discord参加してね
 
-![Discord](https://img.shields.io/discord/390466362373570561)
+[![Discord](https://img.shields.io/discord/390466362373570561)](https://discord.gg/ASAXKMH)
 
-[https://discord.gg/ASAXKMH](https://discord.gg/ASAXKMH)
+ボタンを押すと参加できます。
 
-## 参加するには
+## 編集するには
 
 編集作業に参加する前に、[CONTRIBUTING.md](https://github.com/sasigume/asobinon/blob/main/CONTRIBUTING.md)をご確認ください。
 
