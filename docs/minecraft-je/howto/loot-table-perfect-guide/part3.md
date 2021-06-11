@@ -2,7 +2,7 @@
 title: 「Loot Table (ドロップ表)」の使い方 Part3 エラーへの対処法
 ---
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100458.png)Loot Table解説のPart3です。今回は、ドロップ表自作においてエラーが出た際の対処法を解説します。[Part1](https://www.napoan.com/loot-table-perfect-guide-part1/)および[Part2](https://www.napoan.com/loot-table-perfect-guide-part2/)も合わせてご覧ください。
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100458.png)Loot Table解説のPart3です。今回は、ドロップ表自作においてエラーが出た際の対処法を解説します。[Part1](./part1/)および[Part2](./part2/)も合わせてご覧ください。
 
 ## 自作ルートテーブルのエラーを確認する手順と、各種エラーの原因
 

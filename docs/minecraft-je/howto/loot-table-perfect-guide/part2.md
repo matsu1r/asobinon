@@ -4,7 +4,9 @@ title: 「Loot Table (ドロップ表)」の使い方 Part2 JSONの書き方と�
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100801.png" alt="" width="650" height="599" />
 
-Loot Table解説のPart2です。今回はJSONの書き方を解説します。 **「運効果を持っていればこのアイテムが出やすい」「スコアボードの値に応じてアイテムを出す」「燃やして死んだらアイテムのNBTタグを変える」「アイテムにランダムで指定したエンチャントを付ける」** など、様々な「function」と「condition(条件)」の使い方を解説していますPart1とPart3<も合わせてご覧ください。
+Loot Table解説のPart2です。今回はJSONの書き方を解説します。 **「運効果を持っていればこのアイテムが出やすい」「スコアボードの値に応じてアイテムを出す」「燃やして死んだらアイテムのNBTタグを変える」「アイテムにランダムで指定したエンチャントを付ける」** など、様々な「function」と「condition(条件)」の使い方を解説しています。
+
+[Part1](/minecraft-je/howto/loot-table-perfect-guide/)と[Part3](./part3/)も合わせてご覧ください。
 
 :::note 2020/2/22追記
 1.14仕様に更新しました。1.13以前ではこの方式は使えないので注意してください。
