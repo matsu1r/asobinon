@@ -1,7 +1,5 @@
-
 ---
 title: マイクラでマインスイーパー! 「MinecraftTerrainEditor」の新機能で遊ぼう
-description: 皆さん、マインスイーパーって遊んだことありますか。PCにひっそりと入ってたアレです。爆弾のやつです。それをマイクラで遊べちゃうMOD。それは…
  「Minecraft Terrain Editor」です。なんと「RTM」のngt5479さん制作です。
  ※今回紹介するのはマインスイーパー機能だけです。
 ---

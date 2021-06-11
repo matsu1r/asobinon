@@ -1,7 +1,5 @@
-
 ---
 title: (8/25更新)好きな範囲にダメージなどの効果を設置できる、AreaEffectCloudのコマンドと使い方を解説。
-description: 例えば触れるとダメージを喰らう毒の霧や、指定した回数だけ回復できる回復スポットだとか… バージョン1.9では、配布ワールド制作に便利な新エンティティ「AreaEffectCloud」が追加されました。「残留ポーション」から出てくる効果付きのパーティクルのことです。今回は、ポーション効果や時間などをカスタマイズしたAreaEffectCloudを設置するコマンドを解説します。
 ---
 
 ![AreaEffectCloudのコマンド解説](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104327.png)

@@ -1,7 +1,5 @@
-
 ---
 title: MINECON Earthで、「U」で始まる新要素が発表されることが判明
-description: 日本時間で来週の日曜日の午前2時に配信されるイベント「MINECON Earth」に関するさらなる新情報です。とにかく「U」で始まる何かがやって来るのです。それだけです。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104908.png)

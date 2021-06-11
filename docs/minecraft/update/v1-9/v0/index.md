@@ -1,7 +1,5 @@
-
 ---
 title: アップデート「1.9」内容まとめ – 新ブロック！
-description: 色々な新ブロック、略奪者(ピレジャー)の試験的実装、ジャングルの竹林の試験的実装… スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの「Minecraft(BE,統合版)」のアップデート「1.9」の更新内容をまとめました。 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
 slug: /minecraft/update/v1-9/v0/
 ---
 

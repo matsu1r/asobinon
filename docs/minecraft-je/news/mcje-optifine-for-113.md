@@ -1,7 +1,5 @@
-
 ---
 title: 軽量化MOD「Optifine」がバージョン1.13.2に対応
-description: 言わずと知れたド定番の軽量化MOD「Optifine」が、驚異のスピードでJEバージョン1.13.2に対応しました。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110455.png)

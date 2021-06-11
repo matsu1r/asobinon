@@ -1,7 +1,5 @@
-
 ---
 title: アップデート「1.2.3」の内容とバグ修正まとめ
-description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.3」の更新内容をまとめました。大量のバグ修正が含まれています。
 slug: /minecraft/update/v1-2/v3/
 ---
 

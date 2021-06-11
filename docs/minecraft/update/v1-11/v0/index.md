@@ -1,7 +1,5 @@
-
 ---
 title: 最新アップデート「1.11」内容まとめ – 新しい村と襲撃！
-description: 新しい村と村人の正式実装、襲撃イベント、色々なブロックの正式実装… スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの「Minecraft(BE,統合版)」のアップデート「1.11」の更新内容をまとめました。 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
 slug: /minecraft/update/v1-11/v0/
 ---
 

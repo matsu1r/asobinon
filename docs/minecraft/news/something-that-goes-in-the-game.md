@@ -1,7 +1,5 @@
-
 ---
-title: 新ボス? MINECONで発表される"何か"を示唆する画像が公開される
-description: マイクラ公式Twitterが公開した、一枚の画像。これ何だと思います? ― 私にも分かりません。
+title: 新ボス? MINECONで発表される何かを示唆する画像が公開される
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102849.png)

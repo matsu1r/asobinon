@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】もらったチョコは建材にしてしまえ！「Chocolate mod」
-description: 「Chocolate MOD」の紹介です。今日はバレンタイン！はチョコを貰うはずが、何故かジャングルへ向かいます。そこで作るものとは・・・・・
 ---
 
 [![Chocolate](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152551.jpg)](#9/f/9fd853bb.jpg "Chocolate")

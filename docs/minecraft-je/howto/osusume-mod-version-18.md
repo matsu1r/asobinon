@@ -1,7 +1,5 @@
-
 ---
 title: Minecraft 1.8対応MODおすすめ14選- 便利系特集[並び替え、軽量化..]
-description: 9月2日にリリースされた、Minecraft 1.8。早くも対応したMODをまとめました!現在、全14個のMODを一覧にして紹介しています。1.8のプレイをより快適にする便利なものを集めたので、入れて損はありません!※情… 続きを読む Minecraft 1.8対応MODおすすめ14選- 便利系特集[並び替え、軽量化..]
 ---
 
 [![BlogPaint](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208132027.jpg)](#2/5/25127888.jpg "BlogPaint")  

@@ -1,7 +1,5 @@
-
 ---
 title: DOF(被写界深度)効果だけを追加するシェーダーパック「Nonameguy's DOF Shaders」の紹介
-description: 皆さんDOF(Depth Of Field)ってご存知ですか。焦点を合わせた物以外がぼやける「被写界深度」効果のことです。ピントを合わせている物はくっきり、近くや遠くはぼかすことでリアルな立体感が生まれるので、格好いいスクショを撮りたいなら是非使いたい効果なのですが… 後からスクショを編集するのも面倒なので、最初からシェーダーで付けちゃいましょう。今回紹介するのは、nonameguy798氏制作の「Nonameguy’s Dof Shaders」です。
 ---
 
 ![OnlyDOFShadersの紹介](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111328.png)

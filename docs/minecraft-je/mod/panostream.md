@@ -1,7 +1,5 @@
-
 ---
 title: 【今日の動画】リアルタイムで360°の実況動画を録画する方法 – PanoStreamModを動画で紹介しました
-description: 久しぶりにYouTubeチャンネルに動画をアップロードしました。しかも2本。一本はPanoStreamModを使った360°プレイ動画のサンプルで、もう一本は詳細な録画方法の解説です。新感覚の実況動画を作ってみませんか?
 ---
 
 ![360°実況動画の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122250.png)

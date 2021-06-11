@@ -1,7 +1,5 @@
-
 ---
-title: "PC版"とマルチ←できません "BetterTogetherUpdate"のよくある誤解
-description: ついに配信された「Better Together Update(ベタートゥギャザーアップデート)」は、あらゆる機種をまたいでやってきたこれまでにない規模のアップデートです。そのため発表当時に色々な情報が錯綜し、アップデートの内容を誤解している方が多く見受けられます。そこで、この記事ではBTUに関する「よくある誤解」をまとめました。
+title: PC版とマルチ←できません BetterTogetherUpdateのよくある誤解
 ---
 
 ![BTUよくある誤解](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122155.png)

@@ -1,7 +1,5 @@
-
 ---
 title: Java版17w47aの隠しアイテム「デバッグ棒」の入手方法と使い方
-description: Java版のSnapShot「17w47a」にて、面白いアイテムが見つかりました。その名は「Debug Stick」。なんとブロックの状態を、クリックだけでホイホイと変更できるのです。早速入手方法を見ていきましょう。
 ---
 
 ![デバッグ棒](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121733.png)

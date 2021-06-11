@@ -1,7 +1,5 @@
-
 ---
 title: マイクラPEのアップデート「1.2」が審査入り。最速で来週リリースか
-description: 今日のマイクラニュース2本目！ マイクラPE(アップデート後は”Minecraft”)のアップデート「1.2」が、ついに各種ストアの審査に入ったことが明らかになりました。
 ---
 
 ![Bedrock12審査入り](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110016.png)

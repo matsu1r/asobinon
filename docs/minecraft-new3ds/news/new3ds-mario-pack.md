@@ -1,7 +1,5 @@
-
 ---
 title: New3DS版でマリオマッシュアップパックが使えるように!
-description: New3DSでマイクラを遊んでいる皆さん! ついにNew3DS版マイクラに「スーパーマリオマッシュアップパック」がやってきましたよ! その他「1.5」の更新内容をお届けします。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101815.png)

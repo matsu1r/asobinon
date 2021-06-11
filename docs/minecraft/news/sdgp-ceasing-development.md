@@ -1,7 +1,5 @@
-
 ---
 title: 公式の影DLC「SuperDuperGraphicsPack」の開発中止が正式発表
-description: E3 2017のXboxブリーフィングにて発表された、Minecraft統合版向けの「Super Duper Graphics Pack」。高解像度なテクスチャ、3D化したレールなどのブロック、そして影や水面の美しい描写が愉しめるとされていたが、その開発中止が、公式サイトにて発表された。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208113351.png)

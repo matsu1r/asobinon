@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】焼石の階段など、ありそうで無かったブロックや道具を追加「Igneous Additions」
-description: 「焼き石の階段があったら!」「黒曜石でフェンスを作りたいな」ハーフ○○や○○のフェンスなど、「あったらいいな」なブロックは沢山あります。そこで、1.8対応の「Igneous Additions」(Syntaxialさん制作)の出番です。花崗岩やプリズマリンなどのブロックを素材とした、ブロックやツール類も追加します。バニラのブロックで満足できないあなたにおすすめのMODです。
 ---
 
 ![Igneous](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208125821.png)

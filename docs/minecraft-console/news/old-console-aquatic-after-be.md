@@ -1,7 +1,5 @@
-
 ---
 title: 旧ゲーム機版の水のアップデートは、BE1.6より後。相当先になりそう
-description: 旧ゲーム機版(PS4/PS3/Vita/WiiU/Xbox360)の水のアップデートは、BE(統合版)で水のアップデートが完了するまで、リリースされないことが発表されました。BEは6/23現在1.4。相当先のことになりそうです。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111323.png)

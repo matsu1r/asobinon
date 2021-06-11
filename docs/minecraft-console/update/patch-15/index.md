@@ -1,7 +1,5 @@
-
 ---
 title: PS4/Switchのアップデート「1.70」「パッチ15」内容まとめ
-description: 「Minecraft: PlayStation4 Edition」の1.70、「Minecraft: Nintendo Switch Edition」(統合版ではありません)のパッチ15の更新内容をまとめました。エジプト神話マッシュアップ(パック)の配信、ビーコンの設置数制限の緩和が含まれます。
 slug: /minecraft-console/update/patch-15/
 ---
 

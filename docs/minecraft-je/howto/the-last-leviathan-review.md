@@ -1,7 +1,5 @@
-
 ---
 title: 造船ゲーム「The Last Leviathan」がとても面白いからみんな遊べー！ (唐突)
-description: この手のゲームって実況者がやたらタイトルに「○○系マインクラフト」って付けたがるよね
 ---
 
 ![thelastleviathan](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208181039.png)

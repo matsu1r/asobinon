@@ -1,7 +1,5 @@
-
 ---
 title: NintendoSwitchEditionが最大30秒の動画撮影に対応
-description: 任天堂スイッチ版マイクラを遊んでいる方に朗報です! 先日配信されたアップデート(パッチ12)で、ついにSplatoon2とかに先行実装されている「動画撮影」に対応したんです。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102921.png)

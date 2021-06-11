@@ -1,7 +1,5 @@
-
 ---
 title: アップデート「1.2.7」内容まとめ – 数々のバグが修正
-description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.7」の更新内容をまとめました。いくつかのバグが修正されました。
 slug: /minecraft/update/v1-2/v7/
 ---
 

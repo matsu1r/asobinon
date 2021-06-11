@@ -1,7 +1,5 @@
-
 ---
 title: マイクラがリアルになる影DLCの配信が「2018年」に延期
-description: 全マインクラフターに悲しいお知らせです。昨年のE3で発表されたDLC「Super Duper Graphics Pack」、つまりマイクラが超リアルになる影+高精細テクスチャのDLCの配信が、2018年に延期されました。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123914.png)

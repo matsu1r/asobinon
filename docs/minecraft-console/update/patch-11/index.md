@@ -1,7 +1,5 @@
-
 ---
 title: PS4/Switch「1.64」「パッチ11」アップデート内容まとめ
-description: 「Minecraft: PlayStation4 Edition」の1.64、「Minecraft: Nintendo Switch Edition」(統合版ではありません)のパッチ11の更新内容をまとめました。馬のモデル変更、大釜の進化、氷原やタイガの村などなど。
 slug: /minecraft-console/update/patch-11/
 ---
 

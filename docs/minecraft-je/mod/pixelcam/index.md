@@ -1,7 +1,5 @@
-
 ---
 title: Minecraft 1.9/1.10対応! カメラMODの新定番「PixelCam」の使い方。座標に注目/連続移動など新機能も
-description: 使い方が分かりやすくて私お気に入りのカメラMOD「PixelCam」がバージョン1.9/1.10.2に対応しましたので改めて使い方を解説します。作者はあの「ReplayMod」の開発者の一人、CrushedPixel氏です。当ブログ何回目の登場でしょう… この記事では、「PixelCam」のダウンロードと導入方法、カメラの経路の設定方法、新機能の「座標に注目する」「カメラ移動をループさせる」などを画像付きで分かりやすく解説します。
 ---
 
 ![PixelCamの使い方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121713.png)

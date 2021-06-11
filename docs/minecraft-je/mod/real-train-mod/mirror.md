@@ -1,7 +1,5 @@
-
 ---
 title: 「鏡ブロック」だと!? 鉄道MODの域を越えてるぜ、RealTrainModの最新版は!
-description: 当ブログでこれまで2回紹介しているウルトラスーパー鉄道MOD、「RealTrainMod」。リアルトレインMODといえばリアルな鉄道、線路、製鉄のシステムが目玉ですね。そして最新バージョンでは、新ブロック「鏡」が追加されました。鉄道MODに鏡…?ngt5479さんの努力の結晶である、RealTrainMod1.7.10.23をお楽しみ下さい。
 ---
 
 [![RTMの鏡ブロックが凄すぎる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208143957.png)](#7/3/736e3e80.png "RTMの鏡ブロックが凄すぎる")

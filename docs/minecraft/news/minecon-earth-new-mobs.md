@@ -1,7 +1,5 @@
-
 ---
 title: MINECON Earthで投票が行われる新Mob4種類の特徴まとめ
-description: 日本時間11月19日午前2時から生配信される「MINECON Earth」にて、新Mobを選ぶ投票が行われます。この記事では、投票のルールと、4つの新Mobの現在判明している特徴をまとめました。
 ---
 
 ![新Mobアンケート](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091131.png)

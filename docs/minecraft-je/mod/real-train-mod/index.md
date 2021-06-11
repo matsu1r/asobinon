@@ -1,7 +1,5 @@
-
 ---
-title: 【MOD紹介】クラフターよ、これが"鉄道"だ！「RealTrainMod」
-description: 今回紹介するのは、ngt5479さん制作の「RealTrainMod」です。キハ600!223系!おなじみの電車でGO!踏切や信号もありますよ！
+title: 【MOD紹介】クラフターよ、これが鉄道だ！「RealTrainMod」
 ---
 
 [![Realtrain](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208124834.png)](#0/4/04505b9e.png "Realtrain")

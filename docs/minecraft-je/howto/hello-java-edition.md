@@ -1,7 +1,5 @@
-
 ---
 title: さようなら「PC版」。こんにちは「Java版」。
-description: 「Minecraft: Java Edition」のバージョン1.12.2が配信されました。もう「PC版」と呼ぶのはやめましょう。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111222.png)

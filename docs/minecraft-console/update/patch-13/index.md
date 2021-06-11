@@ -1,7 +1,5 @@
-
 ---
 title: PS4/Switchのアップデート「1.67」「パッチ13」内容まとめ
-description: 「Minecraft: PlayStation4 Edition」の1.67、「Minecraft: Nintendo Switch Edition」(統合版ではありません)のパッチ13の更新内容をまとめました。スターウォーズのエピソード7・8をテーマにしたスキンパックや、プレステ向けに「クラシックスキンパック1」の配信、なんとHaloマッシュアップパックがスイッチに対応しました。
 slug: /minecraft-console/update/patch-13/
 ---
 

@@ -1,7 +1,5 @@
-
 ---
 title: アプデ情報などのニュースはMinecraft.netに投稿されるように。作品や商品の紹介も
-description: これまでMinecraftに関するニュースはMojang.comに投稿されてきましたが、これからはリニューアルしたMinecraft.netに、ニュースに加え様々な記事が投稿されるそうです。詳細をお伝えします。
 ---
 
 ![マイクラニュースがMinecraftNetに](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110918.png)

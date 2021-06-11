@@ -1,7 +1,5 @@
-
 ---
 title: (XboxOne) 影DLC同梱パッケージ版の発売日が「未定」に延期
-description: いつになったら影が愉しめるのか… XboxOne版「スーパープラスパック」、発売延期のお知らせです。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208094224.png)

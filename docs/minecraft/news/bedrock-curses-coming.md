@@ -1,7 +1,5 @@
-
 ---
 title: 新「Minecraft(PE)」にも「呪いのエンチャント」を追加予定、ただし1.2では実装されない
-description: [Minecraft (PE)] 「呪いのエンチャント」を追加予定、ただし1.2では実装されない
 ---
 
 ![Bedrockに呪いエンチャント](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105329.png)

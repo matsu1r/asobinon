@@ -1,7 +1,5 @@
-
 ---
 title: アップデート「1.10」内容まとめ – 盾！試験的要素大量！
-description: ついに追加された「盾」、書見台やランタン、そして様々な試験的要素… スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの「Minecraft(BE,統合版)」のアップデート「1.10」の更新内容をまとめました。 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
 slug: /minecraft/update/v1-10/v0/
 ---
 

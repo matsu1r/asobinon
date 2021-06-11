@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】呪われた砂漠の世界へ! 迷宮で戦闘,お宝探し「Atum」
-description: 黄砂がむんむん飛んでそうな、黄土色の大地。ここは無限に広がる砂漠。怪しい建物がちらほら見えます。今回紹介するのは、Shadowclaimerさん/Lclc98さん制作の「Atum」です。新Mobとダンジョンが待ち構え、お… 続きを読む 【MOD紹介】呪われた砂漠の世界へ! 迷宮で戦闘,お宝探し「Atum」
 ---
 
 [![Atum](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164856.png)](#e/6/e6d79717.png "Atum")  

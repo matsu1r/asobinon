@@ -1,10 +1,5 @@
-
 ---
 title: 今宵僕たちはセカオワのようにトランシーバー握ろう「ドラゲナイMOD」
-description: ドラゲナイｗｗｗ 今宵、僕たちはセカオワのように歌うだろう♪～
- ついに作られてしまいました、「ド ラ ゲ ナ イ M O D」です。
- さぁあなたもトランシーバーを握って、ドラゲナイｗｗｗしちゃいましょう。
- ~Special Thanks : Gaku Aniki & inaka in TcrsSoft~
 ---
 
 [![ドラゲナイ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208083333.png)](#3/2/325a8a6f.png "ドラゲナイ")  

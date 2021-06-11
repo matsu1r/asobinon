@@ -1,7 +1,5 @@
-
 ---
 title: 重力を減らしてふわふわジャンプ「Reduce Player Gravity」[アドオン紹介]
-description: 今回紹介するのは、Xu Jiaxinさん制作の「Reduce Player Gravity」です。このビヘイビアーパックがカスタマイズするのは、なんとプレイヤーの挙動。重力を半分にして2ブロック分ジャンプしたり、さらには無重力にもできちゃいます。
 ---
 
 ![ReducePlayerGravity](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110517.png)

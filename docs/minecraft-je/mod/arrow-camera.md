@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】矢にカメラマンを縛り付けてカッコいいスクショを撮ろう！「Arrow Camera」
-description: かっこいいスクショを撮るにはどうすればいいの？そうだ、矢にカメラマンを縛り付ければ・・・！今回紹介するのは、ShadowBlade50さん制作の「Arrow Camera」です。
 ---
 
 [![Arrowcamera](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208132515.jpg)](#2/9/29921964.jpg "Arrowcamera")

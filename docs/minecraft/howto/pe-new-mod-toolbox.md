@@ -1,7 +1,5 @@
-
 ---
 title: 限界突破エンチャント! 0.13対応のチートMOD「Toolbox」の導入方法と使い方を解説
-description: マイクラPEの便利なMOD、そしてチートMODとして人気の「TooManyItems」。ついこの前、「Toolbox」という名前に変わったんです。今回は、この0.13対応の「TMI」改め「Toolbox」の導入方法と、使い方と便利な機能を詳しく解説します。限界を超えたエンチャントをしたり、時間の速さやポーション効果を自由に操ったりと、使うのをためらってしまうレベルの強力なチート機能を持っています。
 ---
 
 ![PEのチートMODToolbox](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180720.png)

@@ -1,7 +1,5 @@
-
 ---
 title: 軽量化MODの入れ方と、草ブロックが変なのを直す方法
-description: マイクラPEで遊んでいる皆さん、ゲームの動作が重いと感じたことはありませんか?PEの最新バージョン0.11で、動作を軽くする軽量化MODは無いの…?今回紹介するのは、peacestormさん制作の「AgameR MoreOptions PE」です。BlockLauncherを使った簡単な導入方法と、草ブロックが変になるのを治す方法を解説します。
 ---
 
 #article-contents #lede-p{text-align:left!important}

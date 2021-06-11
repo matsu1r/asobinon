@@ -1,7 +1,5 @@
-
 ---
 title: 「Loot Table (ドロップ表)」の使い方 Part2 JSONの書き方と条件分岐
-description: Loot Table解説のPart2です。今回はJSONの書き方を解説します。「運効果を持っていればこのアイテムが出やすい」「スコアボードの値に応じてアイテムを出す」「燃やして死んだらアイテムのNBTタグを変える」「アイテムにランダムで指定したエンチャントを付ける」など、様々な「function」と「condition(条件)」の使い方を解説しています。Part1とPart3も合わせてご覧ください。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100801.png) Loot Table解説のPart2です。今回はJSONの書き方を解説します。 \*\*「運効果を持っていればこのアイテムが出やすい」「スコアボードの値に応じてアイテムを出す」「燃やして死んだらアイテムのNBTタグを変える」「アイテムにランダムで指定したエンチャントを付ける」\*\* など、様々な「function」と「condition(条件)」の使い方を解説しています。[Part1](https://napoan.com/loot-table-perfect-guide-part1/)と[Part3](https://napoan.com/loot-table-perfect-guide-part3/)も合わせてご覧ください。

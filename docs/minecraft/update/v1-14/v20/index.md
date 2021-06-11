@@ -1,7 +1,5 @@
-
 ---
 title: 日本一詳しい「1.14.20」内容まとめ (スイッチ/PS4/スマホ)
-description: スイッチ・PS4・スマホ等のMinecraft(BE/統合版)のアップデート「1.14.2」の内容をお届けする。主にバグの修正。
 slug: /minecraft/update/v1-14/v20/
 ---
 

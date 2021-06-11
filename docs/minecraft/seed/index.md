@@ -1,6 +1,6 @@
 ---
-title: BEのシード値リファレンス トップページ
-slug: /minecraft/reference/seed/
+title: BEのシード値
+slug: /minecraft/seed/
 sidebar_position: 0
 ---
 

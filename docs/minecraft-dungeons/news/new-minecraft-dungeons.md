@@ -1,7 +1,5 @@
-
 ---
-title: 【速報】Mojangの完全新作ゲーム「Minecraft:Dungeons」発表。2020年春発売
-description: アップデートではありません。完全新作ゲームです。「Minecraft: Dungeons(ダンジョンズ)」 PCで2019年発売。
+title: 【速報】Mojangの完全新作ゲーム「MinecraftDungeons」発表。2020年春発売
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105818.png)

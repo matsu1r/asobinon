@@ -1,7 +1,5 @@
-
 ---
 title: アップデート「1.2.11」内容まとめ – PvPが簡単に切替可能に
-description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.11」の更新内容をまとめました。設定の改善や、バグ修正が含まれます。
 slug: /minecraft/update/v1-2/v11/
 ---
 

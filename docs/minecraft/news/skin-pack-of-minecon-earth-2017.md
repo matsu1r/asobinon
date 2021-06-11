@@ -1,7 +1,5 @@
-
 ---
 title: 期間限定!「MINECON Earth 2017 スキンパック」無料配信中
-description: 新しいスキンが今すぐ欲しいあなたに朗報! BEやコンソール版のストアにて、新作スキン8個入りの「MINECON Earth 2017 スキンパック」が無料配信中です!
 ---
 
 ![MINECON2017スキンパック](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101905.png)

@@ -1,9 +1,8 @@
 ---
+title: Minecraftのハウツー記事
 sidebar_position: 0
 slug: /minecraft/howto/
 ---
-
-# Minecraftのハウツー記事
 
 ハウツー記事はここに置いてください。
 

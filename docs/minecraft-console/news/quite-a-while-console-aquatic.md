@@ -1,7 +1,5 @@
-
 ---
 title: PS4/PS3/Vitaの水のアップデートは、「しばらく時間がかかる」
-description: PS4/PS3/Vitaでマイクラを遊んでいる皆さんにお知らせです。これらのゲーム機版への「水のアップデート」の配信ですが、開発陣によると「まだしばらく時間がかかる」とのことです…
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104843.png)

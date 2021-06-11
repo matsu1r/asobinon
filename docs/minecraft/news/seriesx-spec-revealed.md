@@ -1,7 +1,5 @@
-
 ---
 title: 新しいXboxでマイクラを動かすとこうなる。詳細なスペックが公開
-description: あらゆるゲームが劇的に変わる可能性を秘めた、次世代機「Xbox Series X」の詳細なスペックがお披露目された。NVME SSDや最大120FPSのサポートが目玉だが、ビジュアルで分かりやすい部分として「ハードウェアアクセラレーテッドDirextXレイトレーシング(DXR)」が挙げられる。Xbox公式サイトにて分かりやすい具体例が掲載されているので、簡単に紹介する。
 ---
 
 [![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100841.jpg)](https://www.napoan.com/wp-content/uploads/2020/03/XboxSeriesXTech_Inline5.jpg)

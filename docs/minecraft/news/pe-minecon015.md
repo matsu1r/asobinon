@@ -1,7 +1,5 @@
-
 ---
 title: MINECON2015で発表されたPEの最新画像まとめ [MinecraftPE]
-description: PEプレイヤーの皆さん朗報です。先日開催されたMINECON 2015にて、PEの新情報が公開されました!空腹ゲージ、経験値バー、ネザー(ブレイズや砦)、ポーションがついに追加です。放送された画面の… 続きを読む MINECON2015で発表されたPEの最新画像まとめ [MinecraftPE]
 ---
 
 [![PE-MINECON2015](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180317.png)](#f/a/fa9110a8.png "PE-MINECON2015")  

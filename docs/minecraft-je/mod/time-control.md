@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】時間を操れ、マトリックス風に！「Time Control MOD」
-description: 今回紹介するのは、grim3212さん制作の「Time Control」です。
  かなり時間の掛かる、または時間が短縮できるMODです。
 ---
 

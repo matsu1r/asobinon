@@ -1,7 +1,5 @@
-
 ---
 title: マイクラ史上初、「エモート」のプレイ動画が公開
-description: 近年のマルチプレイヤーゲームでは当たり前のように搭載されている「エモート」機能が、マインクラフトにもやってくる。「Minecon Live 2019」にて発表されたエモートのスクショを紹介する。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121207.jpg)

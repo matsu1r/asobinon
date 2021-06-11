@@ -1,7 +1,5 @@
-
 ---
 title: これが2019年のマインクラフトだ。RTXオンの30分に渡るプレイ動画が公開
-description: Eurogamerのテック部門、Digital Foundryは、先日発表された「RTXをオンにしたWindows10版マインクラフト」の、30分に渡るプレイ動画を公開した。NvidiaとMojangの動画では映らなかった部分や、テクスチャの詳細など、「普通に遊ぶ場合にRTXはどう影響してくるのか」がよく分かる内容となっている。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208120840.jpg)

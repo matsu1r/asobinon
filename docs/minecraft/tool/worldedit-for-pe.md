@@ -1,7 +1,5 @@
-
 ---
 title: 【マインクラフトPE】建物をコピー! 一瞬で整地! 便利アプリ「WorldEdit forMCPE」の使い方
-description: マイクラPEで、建物をコピーして貼り付けたり、ブロックを一気に設置できたら….簡単にできる方法があります。そう、便利なアプリを使いましょう。Minecraft PEで地形や建物、ブロックのコピー、置き換え、一… 続きを読む 【マインクラフトPE】建物をコピー! 一瞬で整地! 便利アプリ「WorldEdit forMCPE」の使い方
 ---
 
 [![WEforPE](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175858.png)](#f/7/f7323cac.png "WEforPE")  

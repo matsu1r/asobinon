@@ -1,7 +1,5 @@
-
 ---
 title: 経験値でアイテムを買うショップ(警告文付き)の作り方
-description: [2016年6月16日改訂] バージョン1/9/1.10に対応した、経験値アイテムショップのコマンドを解説します。経験値レベルが足りないと警告する機能付きです。
 ---
 
 ![経験値でアイテムを買うショップ](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578380790/db6e48253bfaf7e2fa951d0d3755e671_an83tj.png)

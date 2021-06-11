@@ -1,7 +1,5 @@
-
 ---
 title: マイクラBEの「1.14」はハチのアプデに。Aubrey氏とCorner氏が確認
-description: MineconLive2019では詳しく語られなかったBE(統合版)のアップデート予定について、開発者のコメントにより詳細が分かってきた。例えば新Mobの「ハチ」は、現在ベータ版が配信中の「1.13」ではなく、「1.14」で追加される。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208120807.jpg)

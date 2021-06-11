@@ -1,7 +1,5 @@
-
 ---
 title: MINECONにて、「戦闘に影響する新機能」が発表されると判明
-description: 日本時間で来週の日曜日の午前2時に配信されるイベント「MINECON Earth」は、新しいMobを決める投票が予定されていたりと、クラフターには見逃せないイベントです。そんなMINECONに関する新情報が入ってきました。
 ---
 
 ![戦闘新機能](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105206.png)

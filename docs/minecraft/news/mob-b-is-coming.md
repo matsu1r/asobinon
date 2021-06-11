@@ -1,7 +1,5 @@
-
 ---
 title: 新Mobは空を飛び、寝てない人を襲うモンスター「B」に決定!
-description: 本日配信された「MINECON Earth」にて、4つの中から新しいMobを選ぶ投票が行われました。そして勝ち残ったのは「B」です! おめでとう!
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091243.png)

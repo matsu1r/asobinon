@@ -1,7 +1,5 @@
-
 ---
 title: 最新アップデート「1.2」のベータ版が配信開始。XboxOneでも参加可能になるぞ
-description: マイクラPE/Win10版にこの秋リリースされるバージョン1.2、「Better Together Update」のベータ版の配信がついに開始されました。 なんとPEとゲーム機版(スイッチとXboxOne)を統合し、一緒にマルチプレイできるようになるという史上最大の変革が起こるアップデートです。2017年8月1日現在はAndroidとWindows10にてベータ版に参加可能ですので、参加手順をまとめました。
 ---
 
 ![PE12ベータ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103118.png)

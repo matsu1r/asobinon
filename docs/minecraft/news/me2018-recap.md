@@ -1,7 +1,5 @@
-
 ---
 title: パンダ/ネコ/クロスボウ！MINECON Earth 2018の発表内容まとめ
-description: MINECON Earth 2018が終わりました。パンダ、ネコ、村人、新しい敵Mob、クロスボウなどなど、発表された新情報をまとめました。早速チェックしていきましょう！
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121658.png)

@@ -1,7 +1,5 @@
-
 ---
 title: コマンドブロックでも自動補完、入力ミスを防ぐ!「Command Syntax Mod」[1.8対応]
-description: コマンドを打ち間違えたり、「あれの書き方何だったっけ?」ってなりませんか?コマンドブロックでも、コマンドをTabキーで自動補完入力してくれたら….今回紹介するのは、あのCrushedPixel氏制作の「Command Syntax Mod」です。コマンドの構文を色付きでハイライトしてくれる機能もとっても便利です。普段コマンドブロックと睨めっこしているあなた、導入して損はないですよ!
 ---
 
 [![CommandSyntax](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208165008.png)](#e/7/e7c609e9.png "CommandSyntax")  

@@ -1,7 +1,5 @@
-
 ---
 title: スイッチの新しい「Minecraft」が配信される前に、やるべきこと5つ
-description: 6月21日、ニンテンドースイッチに新しい『Minecraft』がついに配信されます。首を長くして待っているあなた、本当に準備は万端ですか? リリースまであと1週間なので、「発売前にやるべきこと」をまとめてみました。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103048.png)

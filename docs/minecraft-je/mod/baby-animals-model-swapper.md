@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】ただでさえ可愛い赤ちゃんを、こんなにカワイク!「BabyAnimalsModelSwapper」
-description: マイクラの大きな癒やし要素である、動物の赤ちゃん。そんなマイクラの赤ちゃんMobを、もっとキュートにしてしまうMODがあるのです。今回紹介するのは、 Mrlbbyさん制作の「Baby Animals Model Swapper」。今日から、ブタやニワトリを増やしたくなるでしょう。もう肉なんて食べられなくなります。
 ---
 
 [![BabyAnimals](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208145541.png)](#8/1/81b5e0bb.png "BabyAnimals")  

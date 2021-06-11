@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】余りまくる骨を装備にしちゃえ！「Skeleton Armor MOD」
-description: 今回紹介するのは、SuperJenBotさん制作の「Skeleton Armor MOD」です。
  余りまくる、スケさんの骨。これをうまく使いましょう！
 ---
 

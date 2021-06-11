@@ -1,7 +1,5 @@
-
 ---
 title: BE(統合版)にScoreboardコマンドを実装中だと判明。時期は未定
-description: マイクラBE(統合版)には、現在スコアボード機能がありません。そのせいで色々な仕掛けが作れないのですが… 超絶エクストリーム朗報です。 開発スタッフによると、ScoreboardコマンドをBEに実装する作業中とのことです!
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105315.png)

@@ -1,7 +1,5 @@
-
 ---
 title: 【遅報】NintendoSwitch(ニンテンドースイッチ)版マインクラフトの発売日が5月12日に決定
-description: PC、スマホ、タブレット、プレステ、WiiU…とどんどん拡大していくマイクラのプラットフォーム。もうすぐ新しい選択肢が増えます。「Minecraft: Nintendo Switch Edition」(マイン… 続きを読む 【遅報】NintendoSwitch(ニンテンドースイッチ)版マインクラフトの発売日が5月12日に決定
 ---
 
 ![Switch版マイクラ発売日発表](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101352.png)

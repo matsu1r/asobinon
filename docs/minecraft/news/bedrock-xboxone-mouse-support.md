@@ -1,7 +1,5 @@
-
 ---
 title: PEと統合された新「Minecraft」はXboxOneでもマウスが使えることが判明
-description: この秋NintendoSwitch/XboxOneにやってくる新しい「Minecraft(統合版)」のベータ版で、新事実が明らかになりました。なんとXboxOneでマウスが使えるのです。
 ---
 
 [![](https://www.napoan.com/wp-content/uploads/2017/09/5b4e2e14ab8d168e4558409856bb2f5b_zuqx7a.jfif)](https://www.napoan.com/wp-content/uploads/2017/09/5b4e2e14ab8d168e4558409856bb2f5b_zuqx7a.jfif)

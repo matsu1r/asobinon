@@ -1,7 +1,5 @@
-
 ---
 title: Java版「1.15」の最初のSnapShotが登場、ハチと巣などが追加
-description: Mojangは、Minecraft: Java Editionのバージョン「1.15」の開発版である「19w34a(19年の34週目のSnapShot)」を公開した。目玉は新Mobの「ハチ」で、ハチの巣や関連する素材アイテムなどが追加されている、かなり豪華なSnapShotだ。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208120807.jpg)

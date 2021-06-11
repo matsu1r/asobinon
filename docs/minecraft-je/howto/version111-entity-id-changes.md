@@ -1,7 +1,5 @@
-
 ---
 title: バージョン1.11で変更/分割されたエンティティID一覧。既存のsummonコマンドが死ぬぞ!
-description: やってくれましたねMojang…
  バージョン1.11の最初のSnapShot「16w32a」がリリースされました。(現在16w32″b”が出た所です) もうご存じの方も多いと思いますが、コマンドに関する恐ろしい変更がされてしまったのです… そう、なんと35種類ものエンティティのIDが変わってしまったのです! 例えば「PrimedTnt」が「tnt」に、「FallingSand」が「falling_block」に、「EntityHorse」が「horse」に、「ArmorStand」が「armor_stand」に… おっと、変更だけではありませんよ。例えばウィザースケルトンに「wither_skeleton」というIDが与えられたりと、様々なMobのIDが分割されたんです。来るバージョン1.11の変貌っぷりを見ていきましょう。
 ---
 

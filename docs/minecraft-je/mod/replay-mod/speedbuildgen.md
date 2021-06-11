@@ -1,7 +1,5 @@
-
 ---
-title: 既存の建物の"建築作業のリプレイ動画"を、後から作れる。CrushedPixel氏制作の画期的ツールのご紹介
-description: ReplayModの作者、CrushePixel氏(Twitter)がまた恐ろしい物を制作されました。それは「Schematicから建築のリプレイを生成する」という画期的なツールです。ReplayModを使って建築すれば、第三者視点の早送りの建築過程動画が作れますが、このツールを使えば建築中にReplayModを使わなくても、大昔に建てた建物でも建築のリプレイ動画を作れるんです。使い方を見ていきましょう。
+title: 既存の建物の建築作業のリプレイ動画を、後から作れる。CrushedPixel氏制作の画期的ツールのご紹介
 ---
 
 ![Schematicからリプレイを生成するツールの紹介](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101006.png)

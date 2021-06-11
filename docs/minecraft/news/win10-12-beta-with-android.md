@@ -1,7 +1,5 @@
-
 ---
 title: Windows10版プレイヤーもAndroidと一緒にベータ版をプレイ可能に
-description: マイクラPEとゲーム機版が統合される大型アップデート「Better Together Update」がこの夏やって来ます。PE/Win10には「バージョン1.2」として配信予定ですが、これまでのAndroidユーザー向けベータ版に加え、Windows10ユーザーもアップデートのベータ版がプレイできるようになります。
 ---
 
 ![Win10BTUベータ版ニュース](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104130.png)

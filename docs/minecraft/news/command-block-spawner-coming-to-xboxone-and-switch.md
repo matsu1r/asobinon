@@ -1,7 +1,5 @@
-
 ---
 title: これが新しいゲーム機版だ！新「Minecraft」XboxOne版のプレイ映像で新要素続々判明
-description: この秋、XboxOneとNintendoSwitchには新しい「Minecraft」が配信されます。この新しいMinecraftのXboxOne向けベータ版が配信されたばかりなのですが、あいにく私XboxOne持ってなくて遊べません… そこで、マイクラ開発スタッフたちが生放送でプレイ映像を公開していたので、内容を紹介します。
 ---
 
 ![](https://www.napoan.com/wp-content/uploads/2017/08/514fe57ebb7658b63858516746936205_xnsycj.jfif)

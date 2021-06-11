@@ -1,7 +1,5 @@
-
 ---
 title: スイッチの新しいマイクラは、明日午後3時配信。新アイコンも公開
-description: いよいよ明日に迫った、ニンテンドースイッチの新しい「Minecraft」の配信。公式の最新の生放送で、リリース時刻や、ソフトのアイコンなどの最新情報が発表されたのでお伝えします。
 ---
 
 [](https://www.napoan.com/wp-content/uploads/2018/06/ba36babd3b009d0d1f738885faa90fa8_rm6uh4.jfif)

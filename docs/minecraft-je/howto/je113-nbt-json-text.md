@@ -1,7 +1,5 @@
-
 ---
-title: 1.13ではCustomName:"○○"と書くとエラーになります
-description: Java版1.13では、ブロック、アイテム、エンティティ、ブロックエンティティに付ける「名前」のNBTタグの文字列が、厳格なJSONテキストに変更されます。と言われてもピンと来ないと思いますので、実際のエラー例と正解例をまとめました。
+title: "1.13ではCustomName:\"○○\"と書くとエラーになります"
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090748.png)

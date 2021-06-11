@@ -1,7 +1,5 @@
-
 ---
 title: 「/gamemode 1」←このコマンド、1.13では使えません
-description: /gamemode 1 ― 「自分のゲームモードをクリエイティブモードに変更する」コマンドです。PC版プレイヤーならだれでも使ったことがあると言っても過言ではないでしょう。建築作業の時、コマンドの動作確認の時、ズルしたい時… 脊髄反射的に入力してきた「/gamemode 1」は、バージョン1.13で使えなくなります。
 ---
 
 ![gamemode1死ぬ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104700.png)  

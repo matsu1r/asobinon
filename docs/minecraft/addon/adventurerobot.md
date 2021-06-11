@@ -1,7 +1,5 @@
-
 ---
 title: 巨大ロボットに乗って敵をぶっ飛ばせ「AdventureRobot」
-description: クリエイティブモードでストレス発散したいあなたに。「アドベンチャーロボット」はいかがですか? 今回紹介するのは、MyoHtetさん制作の「AdventureRobot Addon」です。MyoHtetさんは記事投稿現在15歳とのこと。すごすぎでしょ!
 ---
 
 ![AdventureRobotアドオン](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123459.png)

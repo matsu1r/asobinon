@@ -1,7 +1,5 @@
-
 ---
 title: スイッチ版BEは、パッケージ版を準備するまで配信されないと判明
-description: NintendoSwitchユーザーの皆様、悲報です。スイッチ版BE(統合版)は、今年中にリリースされる予定ですが、「ダウンロード版が完成しても、パッケージ版が準備できるまでリリースしない」という新情報が判明しました。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105312.png)

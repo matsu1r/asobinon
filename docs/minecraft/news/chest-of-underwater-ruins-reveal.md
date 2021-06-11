@@ -1,7 +1,5 @@
-
 ---
 title: 「海底遺跡」のチェスト(宝箱)がチラ見せ。中身は不明
-description: 2018年度の第二四半期(7~9月)にやってくる予定の”Update Aquatic(水のアップデート)”。その新要素「水中遺跡(Underwater Ruins)」の、宝箱がちょっと見える画像が公開されました。
 ---
 
 [](https://www.napoan.com/wp-content/uploads/2018/02/3b82ba4bfb6f4966c7bb05d2751fde2d_hporei.jfif)

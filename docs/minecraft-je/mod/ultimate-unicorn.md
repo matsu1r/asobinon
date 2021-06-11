@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】究極の一角獣を探せ! 空を飛び、炎を纏う馬達を追加「Ultimate Unicorn」(1.8対応)
-description: 翼を広げて空を飛ぶ”ユニコーン”、炎を纏う黒い馬”ナイトメア”…こんなファンタジーな馬の能力を、自由に組み合わせてペットにできたら…今回紹介するのは、KaneAppoloさん制作の「The Ultimate Unicorn Mod」です。追加される4種類の馬は、魔法のアイテムを装備して、特殊効果を使えます。「究極の一角獣」を作るために、いざ馬探しの旅へ!
 ---
 
 [![Unicorn](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208151545.png)](#9/5/951a9b32.png "Unicorn")  

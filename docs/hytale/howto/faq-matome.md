@@ -1,7 +1,5 @@
-
 ---
-title: Hytale: 対応ゲーム機・MOD・対象年齢など、よくある質問まとめ
-description: 2021年リリース予定の「Hytale(ハイテール)」について、よくある質問とその回答をまとめた。開発中のため未確定な部分も多いが、プレイスタイルを検討する手がかりになれば幸いだ。
+title: Hytale - 対応ゲーム機・MOD・対象年齢など、よくある質問まとめ
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100706.png)

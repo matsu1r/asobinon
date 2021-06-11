@@ -1,7 +1,5 @@
-
 ---
 title: 1.7.10版Optifineも影MODと合体、ついにシェーダーパックの読み込みに対応した
-description: 1.7.10ユーザーの方に朗報です。定番の軽量化MOD「Optifine」の1.7.10版が、ついにシェーダーパックの読み込みに対応しました。つまり1.7.10でもOptifineがShadersMod(影MOD)の機能を取り込んだのでニュースとしてお伝えいたします。
 ---
 
 ![Optifine11710シェーダー](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103503.png)  

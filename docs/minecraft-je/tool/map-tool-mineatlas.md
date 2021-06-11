@@ -1,7 +1,5 @@
-
 ---
 title: AMIDSTの進化版をWebで! 村や海底神殿などの場所が分かるおすすめマップツール、MineAtlas
-description: 「村」や「スライムチャンク」などの場所を、シード値を入れるだけで調べるツール…といえば「AMIDST」ですよね。ですがこれからは、ツールを起動せずにブラウザ上で済ませてしまいましょう! 今回紹介する「MineAtlas」は、Web上で動作するマップ生成ツールです。村やジャングルの寺院、さらには海底神殿まで、あなたのワールドでこれから生成されるバイオームや生成物の場所が丸わかり!
 ---
 
 [![MineAtlas](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208143450.png)](#6/f/6f51d762.png "MineAtlas")

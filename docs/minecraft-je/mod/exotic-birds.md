@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】鳥の巣を見つけ、盗んだタマゴから生まれてくる鳥は…?「Exotic Birds」(1.8対応)
-description: 木の上に鳥の巣があるのを発見したあなた。タマゴを盗んじゃいましょう。盗んだタマゴから、どんな鳥が生まれてくるのでしょうか….?今回紹介するMODは、Pavo_Realityさん制作の「Exotic Birds」です。6/6現在、10種類もの鮮やかで楽しい鳥のMob達を追加します。あなたのサバイバル生活に癒やしをプラスしてくれます。しかも1.8対応。
 ---
 
 [![Exoticbirds](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162813.png)](#d/d/dd72ea94.png "Exoticbirds")  

@@ -1,7 +1,5 @@
-
 ---
-title: ついにJava版のロゴが変わる！アップデート"1.12.2"を今週配信予定
-description: ブログのロゴを変えたと思ったら、マイクラのロゴも変わるなんて… Java版「1.12.2」のアップデートが予告されました。
+title: ついにJava版のロゴが変わる！アップデート1.12.2を今週配信予定
 ---
 
 ![](https://www.napoan.com/wp-content/uploads/2017/09/2fd1dd78239f5018fce28422a2cdc73e_pefveh.jfif)

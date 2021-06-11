@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】世界は一枚で変わる。小ささと簡単さを、研ぎ澄ましました。「TelePads」
-description: TelePadは、ほかのどんなデバイスにも似ていません。使い始めた瞬間から、あらゆることのやり方が変わります。行けるとは思わなかった所まで、行けるようになるでしょう。 今回紹介するのは、senpaisubarakiさん制作の「TelePads」です。
 ---
 
 [![TelePads](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150317.png)](#8/8/88649c64.png "TelePads")

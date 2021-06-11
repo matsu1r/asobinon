@@ -1,7 +1,5 @@
-
 ---
 title: BEではカメとファントムは少し遅れて実装されると判明
-description: BE(iOS/Android/Kindle/Win10/XboxOneなど)のプレイヤーに悲報… Java版1.13とほぼ同時にやってくるBEのアップデート「1.4」では、カメとファントムは後回しになることが判明しました。後日後から追加する形で実装するとのことです。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122656.png)

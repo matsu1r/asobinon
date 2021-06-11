@@ -1,7 +1,5 @@
-
 ---
 title: バイオーム投票の「山岳」の詳細が発表。ヤギ！雪！
-description: 日本時間29日の午前1時から放送される「MINECON Live 2019」にて行われる「バイオーム投票」の、山岳バイオームの詳細が発表された。ヤギが追加されるほか、地形が大幅に変わるそうだ。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103659.jpg)

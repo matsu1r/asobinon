@@ -1,7 +1,5 @@
-
 ---
 title: MINECONで選ぶ4つの新Mobを、早速アドオンで再現する猛者現る
-description: 日本時間で来週の土曜日の深夜に開催される「MINECON Earth」では、視聴者に新しいMobを4種類の中から投票で選んでもらう予定です。まだ形状が発表されただけの4つのMobたち。これらを早速アドオンで作ってしまった方がいるのです。今回紹介するのは、StarkTMAさん制作の「Minecon Earth Mobs」アドオンです。
 ---
 
 ![MINECONEARTHMOBS](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110441.png)

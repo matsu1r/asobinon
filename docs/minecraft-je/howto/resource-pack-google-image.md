@@ -1,7 +1,5 @@
-
 ---
 title: あらゆるテクスチャをGoogle検索の画像にするとこうなる
-description: RedditのMinecraftコミュニティに、奇妙なリソースパックが投稿された。ある意味では史上最も「現実的」なリソースパックであり、同時に我々に様々な疑問を投げかけてくれる作品でもある。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208095432.png)

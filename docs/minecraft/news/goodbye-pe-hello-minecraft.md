@@ -1,7 +1,5 @@
-
 ---
 title: さようなら「マイクラPE」。こんにちは「Minecraft」。
-description: 「マイクラPE」という名前は、今日で終わりです。明日からは、「Minecraft」です。「Minecraft: Podket Edition」、略して「マイクラPE」。長年親しまれてきた「PE」の名前が、今日で終わりを迎えようとしています。
 ---
 
 ![](https://www.napoan.com/wp-content/uploads/2017/09/f11a20f73a96692c370b87bef0afc2ee_pitqfw.jfif)

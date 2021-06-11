@@ -1,7 +1,5 @@
-
 ---
 title: レベル上げと能力強化、砂漠の怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略part3
-description: 最大級、大長編RPGアドベンチャーワールド「Across The Time」。part2では、職業を選んで、街の人との出会いを楽しみました。今回のpart3では、砂漠のダンジョンを目指し、怪しい砂漠の村を訪れます。レベル上げにおすすめの場所、能力の強化などますますRPG感満載の攻略記事になってきました。強くなるコツやダンジョンの攻略ルートをマスターして、どんどんストーリーを進めましょう!
 ---
 
 [![AcrossTheTime-part3](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180811.png)](#f/e/fec18e46.png "AcrossTheTime-part3")

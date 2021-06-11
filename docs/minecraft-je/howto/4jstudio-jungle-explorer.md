@@ -1,7 +1,5 @@
-
 ---
 title: 4J StudiosのBE用新作ワールド「Jungle Explorer」が8月6日配信決定。リアルな動物がたくさん！
-description: 4J Studiosは「都会の四季」に続くマーケットプレイス販売型ワールド「Jungle Explorer」を8月6日に配信することを発表した。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208095447.jpg)

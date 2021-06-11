@@ -1,7 +1,5 @@
-
 ---
 title: 砂漠のダンジョンで謎解き/ボス戦! 大長編RPG配布ワールド「AcrossTheTime」攻略part4
-description: 最大級、大長編RPGアドベンチャーワールド「Across The Time」。part3では、レベル上げや能力の強化をしながら旅しました。 今回のpart4では、砂漠のダンジョンについに挑戦します。さらなる能力の強化、ダンジョンの攻略ルートなど細かく解説していきます。 どんどんストーリーを進めましょう!
  I`m grateful to Mr Piccomaster and Thundesrtruck for this map! 🙂
 ---
 

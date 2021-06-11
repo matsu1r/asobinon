@@ -1,7 +1,5 @@
-
 ---
 title: 一部地域で、Android向けにマイクラBEの「体験版」が配信開始
-description: 2013年に消えた、マイクラPE(現在はBE)の体験版。なんと先日、Google Play限定で「Minecraft Trial」という名前になって復活したんです。ただし、日本ではまだダウンロードできません。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121443.png)

@@ -2,7 +2,6 @@
 title: アソビノンへようこそ！
 sidebar_position: 0
 slug: /
-description: 当サイトは、おそらく日本で初めての全記事がMarkdown形式・MITライセンスで公開され、ログインなしで編集できるオープンソース非営利ゲーム攻略サイトです。
 ---
 
 ![アソビノンのロゴ](https://asobinon.org/ogp/ogp-1200x630.png)

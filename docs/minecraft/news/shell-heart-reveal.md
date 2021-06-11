@@ -1,7 +1,5 @@
-
 ---
 title: 新アイテム2つが初公開。オウムガイの殻と…何だこれ!?
-description: マイクラの公式Twitch、チェックしてますか? 先日の生放送で、気になる新アイテムが初公開されたんです。その名も「Nautilus Shell(オウムガイの殻)」と「Heart of the Sea(海の心(直訳))」。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105336.png)

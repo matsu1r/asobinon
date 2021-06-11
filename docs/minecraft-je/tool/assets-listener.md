@@ -1,7 +1,5 @@
-
 ---
 title: ホラゲー制作に便利! マイクラの効果音/音楽を、自由な音程で聞けるツール「Minecraft Assets Listener」
-description: Minecraft内に収録されているSE(効果音)を鳴らせる「playsound」コマンド。
  爆発や叫び声、クイズの正解など、ピッチを変えれば色々な音を再生できます。
  しかし、どんな設定をすれば理想の音を鳴らせるのか分かりにくいですね。
  そこで、のと氏制作の「Minecraft Assets Listener」を使いましょう。

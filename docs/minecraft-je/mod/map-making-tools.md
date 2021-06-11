@@ -1,7 +1,5 @@
-
 ---
 title: 1.8のシングルでもWorldEditの機能を。ワールド製作者は必須! 「Map Making Tools」
-description: 配布ワールド製作者は必須の「World Edit」。しかし、シングルプレイ用の「WorldEdit Wrapper」はバージョン1.8に対応していません。1.8でも、シングルプレイでWorldEditのような機能を使いたい…今回紹介するのは、ProPercivalalbさん制作の「Map Making Tools」。ワールド間の地形コピーや、スポナーのカスタマイズなど、WorldEditには無い機能もあります。 魅力的な新コマンドのある1.8の環境で、より効率的にワールドを作成しましょう。
 ---
 
 [![MapMakingTools](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144307.png)](#7/6/76b42bfa.png "MapMakingTools")

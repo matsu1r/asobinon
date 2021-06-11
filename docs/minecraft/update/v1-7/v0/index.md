@@ -1,7 +1,5 @@
-
 ---
 title: アップデート「1.7」内容まとめ – スコアボード！
-description: スコアボード機能がついに実装された、スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの「Minecraft(BE,統合版)」のアップデート「1.7」の更新内容をまとめました。 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
 slug: /minecraft/update/v1-7/v0/
 ---
 

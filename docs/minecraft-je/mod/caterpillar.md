@@ -1,7 +1,5 @@
-
 ---
 title: (アプデ対応版) パーツを組み合わせて、巨大な自動採掘ドリルを作ろう「Caterpillar」[MOD紹介]
-description: ガシャガシャと音を立て、ガリガリと掘り、ガチガチなトンネルを自動で整備してくれる… そんな巨大採掘ドリルはいかがですか。今回紹介するのは、codegreen氏、The_Fireplace氏制作の「Caterpillar」です。まるでピストンの集合体のようなこちらの機械。ドリルなどのパーツを自分で組み立てて、思い通りの採掘をしてみましょう! バニラの雰囲気とゲームバランスを壊さない良いMODです。
 ---
 
 ![Caterpillarの紹介](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110657.png)

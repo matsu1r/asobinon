@@ -1,7 +1,5 @@
-
 ---
 title: 「SEUS」をIntel HD Graphicsで動かす方法。憧れのシェーダーパックをノートPCで! [影MOD]
-description: 影MODを動かすのに必要な「シェーダーパック」の中で、一番人気なのは「Sonic Ether’s Unbelievable Shaders」、通称SEUS。太陽光の表現などがとても綺麗です。でも、ノートPCのIntel HD Graphicsが古かった場合、そのままでは動きません… そこで、今回はオンボード(グラボ無し)でSEUSを無理やり動かす方法を解説します。
 ---
 
 [![SEUSをIntelHDGraphicsで](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152906.jpg)](#a/2/a2671560.jpg "SEUSをIntelHDGraphicsで")

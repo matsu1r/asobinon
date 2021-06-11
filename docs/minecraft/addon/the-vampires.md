@@ -1,7 +1,5 @@
-
 ---
 title: 吸血鬼とスリリングな夜を楽しもう「The Vampires」
-description: ただのゾンビでは物足りないあなたに。「吸血鬼」はいかがですか? 今回紹介するのは、ZachMCさん制作の「The Vampires Addon」です。 恐ろしい三種類の敵Mobが、あなたのワールドにやってくる…
 ---
 
 [](https://www.napoan.com/wp-content/uploads/2017/10/5030323e819127d9b00e0bd689777ea1_xloigz.jfif)

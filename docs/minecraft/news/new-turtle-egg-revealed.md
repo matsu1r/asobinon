@@ -1,7 +1,5 @@
-
 ---
-title: 新Mob「カメ」の"卵"の画像が初公開。シルクタッチで回収可能
-description: この春JE/BE同時にやってくる「水のアップデート」の新情報です。新Mob「カメ」のタマゴの画像が公開されました。
+title: 新Mob「カメ」の卵の画像が初公開。シルクタッチで回収可能
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121553.png)

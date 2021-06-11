@@ -1,7 +1,5 @@
-
 ---
 title: PV撮影に最適なハイスペックPC専用シェーダーパック「Continuum Shaders」をSEUSと比較
-description: シェーダーパック紹介シリーズ第三弾、今回はハイスペックPC向けのシェーダーパック「Continuum Shaders」をご紹介します。実はこのシェーダーパック、あの「SEUS」を大改造したものなんです。ということでSEUSとContinuumで様々な景色を撮影し、例えば水の波打ち具合や日光の色合いなどを徹底比較してみます。どちらも非常に美麗で、建築PV等の撮影にぴったり。あなたの好みはどちら…?
 ---
 
 ![ContinuumShadersの紹介と比較](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208110743.png)

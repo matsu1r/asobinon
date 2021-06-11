@@ -1,7 +1,5 @@
-
 ---
 title: New3DS版に「クールな」ものを含むアップデートが来るぞ!
-description: New3DS版プレイヤーの皆さん! ニュースですよ! もうすぐアップデートがやってきて、しかも「クールな」ものが含まれているそうなんです。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103428.png)

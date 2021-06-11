@@ -1,7 +1,5 @@
-
 ---
 title: バイオーム投票の結果は「山岳」に決定！ヤギ追加！
-description: MINECON Live 2019にて開催された「バイオーム投票」の結果が「山岳」に決まった。つまり1.16の後のアップデートでは、新Mobとして「ヤギ」が追加され、雪が増えてより地形が険しくなった山岳が実装される。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121227.jpg)

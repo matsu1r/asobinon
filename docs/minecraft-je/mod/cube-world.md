@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】あなたのワールドを丁寧に個包装しました「Cube World」
-description: 世界が個包装されるMOD「Cube World」を紹介します。なんでも包まれたこの世界で生きていこう！
 ---
 
 [![Cubeworld](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144027.jpg)  

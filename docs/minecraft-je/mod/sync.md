@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】自分がもう一人いればいいのに(GTA風MOD)「Sync MOD」
-description: 今回紹介するのは、iChun`sさん制作の「Sync」です。 自分がもう一人いればいいのにと思ったことはありませんか？もう一人、作れるんですよ。マイクラなら。   <!– ——&… 続きを読む 【MOD紹介】自分がもう一人いればいいのに(GTA風MOD)「Sync MOD」
 ---
 
 [![Sync](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131357.jpg)](#1/d/1d43cfdf.jpg "Sync")

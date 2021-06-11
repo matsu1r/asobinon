@@ -1,7 +1,5 @@
-
 ---
 title: PS4/PS3/Vita/WiiU/360版の「水のアップデート」がついに配信開始！
-description: コンソール版の「水のアップデート」、ついに配信開始！！ まずはPS4/PS4/Vita版にアップデートが配信されました。WiiU版とXbox360版については今日の深夜ぐらいに配信される予定です。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091101.png)

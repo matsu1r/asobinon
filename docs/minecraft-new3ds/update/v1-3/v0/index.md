@@ -1,7 +1,5 @@
-
 ---
 title: New3DS版アップデート「1.3」内容まとめ – ウィザーや海底神殿など追加
-description: 「Minecraft: New Nintendo 3DS Edition(New3DS版)」の「1.3」の更新内容をまとめました。PE0.16に相当する内容になっており、ウィザーや海底神殿関連の新要素などが追加されています。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105614.png)

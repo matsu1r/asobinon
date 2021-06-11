@@ -1,7 +1,5 @@
-
 ---
 title: BEの素晴らしい和風建築ワールド「和風総本家」のご紹介
-description: 和風建築に飢えているBE勢のあなたに。非常に良質な和風建築ワールドに出会ったのでご紹介します。今回紹介するのは、Asamasa氏制作の「和風総本家」です。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090414.png)

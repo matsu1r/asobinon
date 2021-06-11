@@ -1,7 +1,5 @@
-
 ---
 title: メッセージ用コマンド(sayとtellとtestfor)を世界一丁寧に解説 [Minecraft]
-description: マイクラPE1.0.5ではついにコマンドブロックが追加され、待望のあの仕掛けが作れるようになりました。そう…「近寄ると警告が流れる仕掛け」です。今回は、1.0.5で追加されたコマンドブロックとtestforコマンドを使った作り方を画像付きで丁寧に解説します。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093914.png)

@@ -1,7 +1,5 @@
-
 ---
 title: チートMODなら「NEI」より先に「JEI」を導入しよう
-description: アイテム一覧から簡単にアイテムを取り出したり、レシピや使用法を確認したりできる便利なMOD「NEI (Not Enough Items)」。久しぶりに導入してみたら、「JEI(Just Enough Items)」を一緒に導入する必要があることを知りました。つまりいつの間にかNEIはJEIのアドオンになったわけです。
 ---
 
 ![NEIとJEI](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102947.png)

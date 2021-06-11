@@ -1,7 +1,5 @@
-
 ---
 title: 【マインクラフトPE】バージョン0.11でMODの入れ方! BlockLauncherのダウンロード/導入方法 +お知らせ
-description: Minecraft PEに、MODを導入できることは皆さんご存知ですよね。Androidなら、「Blocklauncher」というアプリを使ってMODを導入できます。 最新の「0.11.1」に対応したBlockLaunc… 続きを読む 【マインクラフトPE】バージョン0.11でMODの入れ方! BlockLauncherのダウンロード/導入方法 +お知らせ
 ---
 
 [![BlockLauncher11対応](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208143550.png)](#6/f/6fdf0720.png "BlockLauncher11対応")  

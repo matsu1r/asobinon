@@ -1,7 +1,5 @@
-
 ---
 title: マイクラアースのAndroid版のベータがオープン化、東京の人は遊べる
-description: Androidユーザー、とはいえ東京だけ限定の記事だが、「マイクラアース」のベータ版がついにクローズドではなく幅広いプレイヤーに配信されるようだ。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208120755.jpg)

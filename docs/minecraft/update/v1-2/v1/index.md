@@ -1,7 +1,5 @@
-
 ---
 title: アップデート「1.2.1」の内容と修正されたバグまとめ
-description: スマホ・タブレット・Windows10アプリ・XboxOneで配信中の「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.1」の更新内容をまとめました。コントローラー用のフリーカーソルの実装や、いくつかの改善・バグ修正が含まれています。
 slug: /minecraft/update/v1-2/v1/
 ---
 

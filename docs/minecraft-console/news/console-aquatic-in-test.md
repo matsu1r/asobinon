@@ -1,7 +1,5 @@
-
 ---
 title: PS4/PS3/Vita等の「水のアップデート」が、ゲーム機各社のテスト段階に
-description: コンソール版の「水のアップデート」の続報です。PS4/PS3/Vita/WiiUなど、旧ゲーム機版の水のアップデートは今ゲーム機各社によるテストを受けている段階になりました。リリースはもうすぐです！
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102133.png)

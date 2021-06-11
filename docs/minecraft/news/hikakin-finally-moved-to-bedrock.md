@@ -1,7 +1,5 @@
-
 ---
 title: ヒカキンがついにJava版をやめる。マイクラ実況は大きく変わるかもしれない
-description: ついに「ヒカクラ2」が始まりました。当初はSuperDuperGraphicsPackのリリースを待っていたそうですが、時期がなかなか決まらないということで、結局彼はWindows10版を使うことになりました。そうです、Java版ではないのです。これはマイクラ実況界の大きな変化の始まりかもしれません。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208102841.png)

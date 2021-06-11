@@ -1,7 +1,5 @@
-
 ---
 title: デカい! スマホやSwitchに配信される統合版「マインクラフト」のロゴが公開
-description: 夏の大型アップデート「Better Together Update」で、マイクラPEは統合版「Minecraft」になります。そして同じ統合版がNintendoSwitch/XboxOneにも配信されます。統合版のロゴはどんな感じになるのか気になっている方も多いはず。先程新ロゴが公開されたのでお見せします。
 ---
 
 ![](https://www.napoan.com/wp-content/uploads/2017/07/6d15c16257edc2c17909973c69992a12_piioi5.jfif)

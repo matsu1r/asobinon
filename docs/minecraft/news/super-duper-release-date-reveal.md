@@ -1,7 +1,5 @@
-
 ---
 title: マイクラが超リアルになるDLCは11/7までに来ません [延期されました]
-description: Windows10/XboxOneで配信中の統合版「Minecraft」に、この秋やってくる「Super Duper Graphics Pack」は、高解像度テクスチャとシェーダーパック(影)をセットにしたDLCです。ところで、XboxOne向け「Minecraft」のパッケージ版が11月7日に発売されるのですが、その商品ページから新情報が発覚しました。そのパッケージ版に「Super Duper Graphics Pack」が同梱されているのです!
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208094120.jpg)

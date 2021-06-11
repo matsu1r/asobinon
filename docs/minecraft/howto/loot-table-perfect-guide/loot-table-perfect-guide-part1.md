@@ -1,7 +1,5 @@
-
 ---
 title: 「Loot Table (ドロップ表)」の使い方 Part1 Mobとチェストへの適用方法
-description: バージョン1.9では、配布ワールド制作などに便利な「Loot table」という新システムが追加されました。「ルートテーブル」と呼ばれるファイルをワールドに同梱して、ダンジョンの宝箱の中身やMobのドロップアイテムを自分好みに置き換えられるんです。全3回に分けて、Loot table(ドロップ表)の使い方からJSONの書き方まで詳細に解説します。Part2およびPart3も合わせてご覧ください。
 ---
 
 ![LootTable(ドロップ表)完全ガイド](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123329.png)

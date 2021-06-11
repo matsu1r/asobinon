@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】ニセモノの鉱石を探せ! 鉱石の集合体、ボスと戦闘だ「Fake Ores2」(1.8対応)
-description: 色々な鉱石でできた、こちらのゴッツイ恐ろしいモンスター。その正体は「ニセモノの鉱石 ―Fake Ores―」。一体どうやって召喚するんでしょう。記念すべき80回目のMOD紹介。今回は、elias54さん制作の「Fake Ores2」です。鉱石が猛スピードであなたを襲ってきます。ボスの欠片を集めると…
 ---
 
 [![FakeOres2](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208140445.png)](#5/4/5435a1de.png "FakeOres2")

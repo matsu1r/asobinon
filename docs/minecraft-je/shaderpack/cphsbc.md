@@ -1,7 +1,5 @@
-
 ---
 title: マイクラの世界をモノクロに! 色相彩度明度を自由に調整できるシェーダー「CPHSBC」の紹介
-description: マッドマックスのモノクロ版なるものが劇場公開されるらしいっすね。時間無くて本編すら見れてないんですが。それはさておきマイクラの世界をモノクロにしてみませんか? ReplayModの作者、CrushedPixel氏がまたまた面白そうなものを制作されたようです。それが「CPHSBC (CrushedPixelHueSaturationBrightnessContrast)」というシェーダー。このシェーダーパックを使えば、画像編集ソフトを使わずに、目に映る物をモノクロにしたり、コントラストを上げたり、色相/彩度を変えたりできちゃいます。ある意味閲覧注意なおもしろ機能も入ってますのでご紹介します。
 ---
 
 ![CPHSBCシェーダー](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122343.png)

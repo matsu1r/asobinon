@@ -1,7 +1,5 @@
-
 ---
 title: New3DS版は近いうちに立体視に対応することが判明
-description: 今日のマイクラニュース！ 先日配信開始された「Minecraft: New Nintendo 3DS Edition」(New3DS版)は現在立体視に対応していませんが、アップデートで対応することが明らかになりました。
 ---
 
 ![N3DS立体視すぐ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123600.png)  

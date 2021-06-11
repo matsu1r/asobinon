@@ -1,7 +1,5 @@
-
 ---
 title: New3DS版が最大2人のローカルマルチプレイに対応
-description: New3DS版マイクラ(Minecraft: New Nintendo 3DS Edition)にアップデート「1.4」が配信されました。ダウンロードすれば、最大2人でローカルマルチプレイできるようになります。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101739.png)

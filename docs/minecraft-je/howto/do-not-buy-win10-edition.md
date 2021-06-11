@@ -1,7 +1,5 @@
-
 ---
 title: スタートメニューに最初からあるMinecraftでMODは使えません
-description: 春から進学してパソコンを買ってもらうそこの君! 今のパソコンには最初からマイクラが入っているのは知っているかな? でもそれでMODは使えないよ!
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123521.png)

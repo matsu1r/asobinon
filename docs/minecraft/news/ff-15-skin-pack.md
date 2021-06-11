@@ -1,7 +1,5 @@
-
 ---
 title: まさかのコラボ。1.68/パッチ14でFF15のスキンパックが配信開始
-description: なんかコラボしまくってるFFXV。まさかのマイクラとコラボしてしまいました。「ファイナルファンタジーXV スキンパック」、配信開始です。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123534.png)

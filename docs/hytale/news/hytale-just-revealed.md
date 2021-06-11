@@ -1,7 +1,5 @@
-
 ---
 title: 新作サンドボックスRPG「Hytale」正式発表。わくわくするPVが公開
-description: Hypixelサーバーのチームが贈る、完全新作サンドボックスRPG「Hytale」が発表された。
 ---
 
 [](https://www.napoan.com/wp-content/uploads/2018/12/46ba47fc37077306e872ee46f775c920_jmgvux.jfif)

@@ -1,7 +1,5 @@
-
 ---
 title: iOS/Androidの「1.2」は明日リリース。ただしSwitch版は「今年中」に延期
-description: マイクラPE改め、統合版「Minecraft」のアップデート「1.2」のリリース日が発表されました。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101940.jpg)

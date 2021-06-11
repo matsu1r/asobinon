@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】ホップスティックジャンピング～♪「Pogo Stick」
-description: 今回紹介するのは、benjibobs氏制作の「Pogo Stick」です。ホップスティックジャンピング～♪
 ---
 
 ![](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578358412/dd70764b4be4892114e5c61d393dbc66_st8yb1.jpg)

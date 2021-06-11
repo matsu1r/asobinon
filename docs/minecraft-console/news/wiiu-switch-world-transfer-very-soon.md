@@ -1,7 +1,5 @@
-
 ---
-title: ついに実装! Minecraft: WiiU EditionからSwitch Editionにワールドを移行する手順
-description: WiiU・スイッチユーザーの皆さん、朗報です。以前から予告されていた「WiiU版のワールドをニンテンドースイッチ版に移行(転送)する機能」がついにアップデートで実装されました！
+title: "ついに実装! Minecraft WiiU EditionからSwitch Editionにワールドを移行する手順"
 ---
 
 ![WiiUSwitchEdデータ移行](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122649.png)

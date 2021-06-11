@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】ここまで見せちゃう!? MobのHP/ブロックの情報を何でも表示「SmartCursor」
-description: 「カーソルを合わせた敵のHPを表示」 ….ド定番のMODですね。
  しかし、これは一味違います。何でも見せちゃうんです。
  今回紹介するのは、asaskevichさん制作の「SmartCursor」です。
  MobのHPはもちろん、Mobの状態や成長の度合い、ブロックの壊し具合…

@@ -1,7 +1,5 @@
-
 ---
-title: 【マインクラフトPE/Win10】"アドオン"機能を体験できる配布ワールドが公開。エイリアン襲来&村人とゾンビのバトル
-description: マイクラPE/Windows10版のアップデート「0.16」がついにやって来ました。あまり知られていない新要素「アドオン」が実装されたのですが、いきなり「Mobのカスタマイズができる!」と言われてもピンときませんよね。そこで”アドオン”の機能を体験できる配布ワールドが2つも公開されたのです! しかもMojang公式! この記事では、2つの配布ワールドの導入方法をiOS/Android/Win10端末向けに解説します。
+title: 【マインクラフトPE/Win10】アドオン機能を体験できる配布ワールドが公開。エイリアン襲来&村人とゾンビのバトル
 ---
 
 ![PEとWin10版のアドオン体験配布ワールド](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103201.png)
@@ -17,11 +15,12 @@ https://www.napoan.com/pe-update-016/](/pe-update-016/ "【マインクラフト
 
 ## 目次
 
-*   [配布ワールド「ALIEN INVASION」- 街を襲うエイリアンの宇宙船を爆破せよ!](#alien)
-*   [配布ワールド「CASTLE SIEGE」- 村人たちVSゾンビたちのぶつかり合いを観戦せよ!](#castle)
-*   [iOS(iPhone/iPad/iPod touch)での公式配布ワールドの導入方法](#ios)
-*   [Android端末での公式配布ワールドの導入方法](#android)
-*   [Windows10端末/PCでの公式配布ワールドの導入方法](#win10)
+- [目次](#目次)
+- [配布ワールド「ALIEN INVASION」- 街を襲うエイリアンの宇宙船を爆破せよ!](#配布ワールドalien-invasion--街を襲うエイリアンの宇宙船を爆破せよ)
+- [配布ワールド「CASTLE SIEGE」- 村人たちVSゾンビたちのぶつかり合いを観戦せよ!](#配布ワールドcastle-siege--村人たちvsゾンビたちのぶつかり合いを観戦せよ)
+- [iOS(iPhone/iPad/iPod touch)での公式配布ワールドの導入方法](#iosiphoneipadipod-touchでの公式配布ワールドの導入方法)
+- [Android端末での公式配布ワールドの導入方法](#android端末での公式配布ワールドの導入方法)
+- [Windows10端末/PCでの公式配布ワールドの導入方法](#windows10端末pcでの公式配布ワールドの導入方法)
 
 ## 配布ワールド「ALIEN INVASION」- 街を襲うエイリアンの宇宙船を爆破せよ!
 

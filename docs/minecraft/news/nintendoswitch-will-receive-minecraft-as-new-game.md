@@ -1,7 +1,5 @@
-
 ---
 title: この秋、ニンテンドースイッチ・XboxOneに新ゲーム「Minecraft」が配信されます
-description: この秋Switch版/XboxOne版/PE/Win10版/VRにやってくる「Better Together Update」に関する続報です。
 ---
 
 ![スイッチ・XboxOne別ゲームとして配信](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105523.png)

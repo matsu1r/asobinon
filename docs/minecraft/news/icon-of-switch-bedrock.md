@@ -1,7 +1,5 @@
-
 ---
 title: スイッチ版BEのアイコンが公開。リリースは「getting closer」
-description: ニンテンドースイッチのホーム画面に並ぶ、ソフトのアイコン。そういえば今年、新しい「Minecraft」(統合版)(BE)がスイッチに配信されますが、そのアイコンはやっぱりこうなるみたいです。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101036.png)

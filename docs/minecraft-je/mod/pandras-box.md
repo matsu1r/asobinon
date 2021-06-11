@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】カオスとはまさにこの事。混沌とした世界を創ろう！「Pandora's Box」
-description: 今回のMODは危険です。取り扱いには十分注意してください。セーブデータのバックアップも忘れずに。今回紹介するのは、「Pandora’s Box」です。
 ---
 
 [![Pandora's Box](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208142000.jpg)](#6/1/61cf399a.jpg "Pandora's Box")

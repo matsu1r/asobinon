@@ -1,7 +1,5 @@
-
 ---
 title: マイクラのダイナミックテーマがついに登場
-description: PS4版マインクラフト(統合版ではなくPS4 Edition)のダイナミックテーマがついに登場。PS版マインクラフトでのパッケージに描かれていた洞窟のオフィシャルアートを、君のPS4の背景にしよう。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111442.jpg)

@@ -2,7 +2,6 @@
 slug: /minecraft/howto/difference-of-switch-bedrock/
 title: 何が変わった? 「SwitchEdition」と新しい「Minecraft」の違い
 sidebar_position: 0
-description: "6月21日に発売された、ニンテンドースイッチの新しい『Minecraft』。 従来の『Minecraft: Nintendo Switch Edition』と、「統合版」「BE」と呼ばれる『Minecraft』の違いをまとめました。"
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208103522.png)

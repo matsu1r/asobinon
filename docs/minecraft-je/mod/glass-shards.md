@@ -1,7 +1,5 @@
-
 ---
 title: 【MOD紹介】壊してしまったガラスも、破片を集めて元通りに「Glass Shards」
-description: 久しぶりのMOD紹介です。今回紹介するのは、ljfa氏制作の「Glass Shards」。ガラスブロックはシルクタッチを使わないと回収できませんが、このMODがあれば「ガラスの破片」を集めて取り戻すことができます。これぞありそうでなかったMODですね。
 ---
 
 ![GlassShardsMOD](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100208.png)

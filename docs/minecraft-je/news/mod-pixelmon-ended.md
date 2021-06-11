@@ -1,7 +1,5 @@
-
 ---
 title: 【マインクラフト】 さようならポケモンMOD。「Pixelmon」が(株)ポケモンの要請で公開停止
-description: マイクラの実況界隈で「ポケモンMOD」として人気の「Pixelmon」が、ついに公開停止になりました。株式会社ポケモンからの要請があったようです。ポケモンのファンメイドMODとして数多くダウンロードされ、長年アップデートが続けられてきたPixelmon Mod。公開停止の原因は何だったのでしょうか。
 ---
 
 ![pixelmon開発終了](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208181028.png)
