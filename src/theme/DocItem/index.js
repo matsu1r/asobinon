@@ -14,7 +14,6 @@ import EditThisPage from '@theme/EditThisPage';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import { useActivePlugin, useVersions, useActiveVersion } from '@theme/hooks/useDocs';
-import DocsRating from '../../components/docpage/rating';
 
 function DocItem(props) {
   const { content: DocContent } = props;
@@ -122,10 +121,6 @@ function DocItem(props) {
                 </div>
               </div>
             )}
-
-            <div className="margin-vert--md">
-              <DocsRating editUrl={editUrl} />
-            </div>
 
             <div id="comment-system"></div>
           </div>
