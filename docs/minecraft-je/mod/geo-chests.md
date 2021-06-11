@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】村をまるごとチェストにブチ込んだらどうなる? – 簡単地形コピー 「Geochests」
- そんなクラフターの願いを叶えるおすすめMOD「Geochests」(Sirwolさん制作)の紹介です。
- 不思議なチェストを置けば、ワンクリックでなんでも収納。
- 好きな場所で取り出して、地形移動は自由自在です!
 ---
 
 [![Geochests](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162031.png)](#d/6/d63df524.png "Geochests")  

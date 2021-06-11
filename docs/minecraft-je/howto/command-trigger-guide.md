@@ -1,8 +1,5 @@
 ---
 title: 【コマンド解説】triggerコマンドでクイズ大会やイベント分岐、競馬っぽいことをしよう
- RPG風の変数を使った分岐や、ちょっとした賭けをしてみませんか?
- Minecraft 1.8で追加された「trigger」コマンドとscoreboardコマンドで実現可能です。
- 手順を覚えて、楽しいアドベンチャーマップを制作しましょう。
 ---
 
 [![trigger](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208135139.png)](#4/7/47fd3e1e.png "trigger")  

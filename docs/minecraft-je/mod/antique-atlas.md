@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】レトロゲー風の無限に広がるマップを見るとﾜｸﾜｸｽﾝｿﾞｫ「Antique Atlas」
- これ、このワールドの地図なんです。村とかバイオームが反映されてます。
- 今回紹介するのは、 Hunternifさん制作の「Antique Atlas」です。
- この地図を眺めていると、冒険に出たくなってきます。
 ---
 
 [![Antique](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150626.png)](#8/c/8c1cd96f.png "Antique")  

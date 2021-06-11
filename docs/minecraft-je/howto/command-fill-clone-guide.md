@@ -1,8 +1,5 @@
 ---
 title: 一括設置/建物コピー! fillやcloneの使い方とダンジョン用仕掛けの作り方
- ダンジョンや配布ワールドに、そんな仕掛けがあったらいいなと思いませんか?
- 今回のコマンド解説は、そんな夢を叶えてくれる新コマンド「fill」と「clone」の解説です!
- 使いこなして、楽しいアドベンチャーマップを作ってみましょう。
 ---
 
 [![fill-clone](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208134637.png)](#4/3/43a55b59.png "fill-clone")

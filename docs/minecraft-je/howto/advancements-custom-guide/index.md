@@ -1,5 +1,6 @@
 ---
 title: "配布ワールド制作を変える。Advancements(進捗)自作完全ガイド #0 ～プロローグ～"
+sidebar_position: 0
 ---
 
 ![Advancementsプロローグ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111137.png)

@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】自分だけのダンジョン/ショップを作って生成させよう「GenCreator」
- スポーン部屋や魔女の小屋など、ダンジョンや生成物を自分で作りたいと思いませんか?
- このMODならどんなダンジョンだって自分で作って生成も思い通りにできます。
- ダンジョンを共有して友達を驚かせよう!
 ---
 
 [![GenCreator](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155311.png)](#b/9/b987f445.png "GenCreator")  

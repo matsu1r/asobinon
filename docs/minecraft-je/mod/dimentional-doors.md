@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】どこまでも闇の世界! 新次元のダンジョンを制覇せよ 「Dimensional Doors」
- 今回紹介するMODは、stevenrs11さん制作の「Dimensional Doors」です。
- 何千人もの死者が眠る暗黒の世界。その謎を解明すべく、あなたはダンジョンへ…
- さあ、無限に広がるダンジョンを突き進め!
 ---
 
 [![Dimensional Doors](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208134314.png)](#4/0/40e21669.png "Dimensional Doors")

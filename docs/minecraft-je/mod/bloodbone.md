@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】本当の血祭りはこれからだ – 血の力で戦え 「BloodBone」
- 小麦や肉ではなく、血を喰う恐ろしい生活になってしまった!
- 今回紹介するMODは、hyakulei0743さん制作の「BloodBone」です。
- 新Mobや血の力を利用した武器などを追加します。(BloodBorneじゃなくてBloodBone)
 ---
 
 [![BloodBone](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164902.png)](#e/6/e6d8d95c.png "BloodBone")  

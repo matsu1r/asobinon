@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】好きな音楽をレコードにして聴こう「BetterRecords」
- 今回紹介するMOD 「BetterRecords」(Stumblinbearさん制作) では、
- ネット上の好きな音楽をレコードにして聴き放題。
- スピーカーを使って大人数でミュージックパーティーもできます。
 ---
 
 [![BetterRecords (1)](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208134954.png)](#4/5/45e585c6.png "BetterRecords (1)")  

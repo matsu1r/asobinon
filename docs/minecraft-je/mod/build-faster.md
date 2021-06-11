@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】建築作業を超効率化! ワンクリックでブロック一括設置,コピー「Build Faster」
- 「WorldEdit」などを使う方が多いですが、 それに匹敵するほど便利なMODを紹介します。 今回紹介するのは、TheGreyGhostさん制作の「Buid Faster」です。
- 不思議な道具で、ワンクリックでブロックをコピー/移動/一括設置できます。
- 使いこなして、建築作業の効率をグンと上げましょう!
 ---
 
 [![BuildFaster](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208140916.png)](#5/8/5841434a.png "BuildFaster")  

@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】無限にインベントリを広げよう! しかし代償は大きい「InfiniteInvo」
- そんな悩めるクラフターにおすすめなのが、Funwayguyさん制作の「InfiniteInvo」です。
- インベントリ(手持ち)画面をPCが壊れない限り無限に増やせます。
- しかし、持てるアイテムを増やす代わりに厳しいコストが…..
 ---
 
 [![InfiniteInvo](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150701.png)](#8/c/8c8f88bb.png "InfiniteInvo")  

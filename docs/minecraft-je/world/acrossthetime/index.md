@@ -1,10 +1,5 @@
 ---
 title: 広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1
- その名も「Across The Time」。 時を超えた冒険です。
- マルチプレイにも対応していて、最大3人で協力して冒険できます。
- クエスト、職業やスキル、通貨や買い物などRPGの要素が沢山詰まっています。
- 大体のプレイ時間は20~30時間。本編開始まで2時間もあります。
- 今回は、チュートリアルから本編開始まで、ミッションと戦いの攻略手順を攻略します。 I`m grateful to Mr Piccomaster and Thundesrtruck for this map! 🙂
 ---
 
 **これまでで最大級、大長編**と呼べる、**RPG配布ワールド**を紹介します。  
@@ -19,7 +14,6 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
 ## 目次
 
-- [今回は、チュートリアルから本編開始まで、ミッションと戦いの攻略手順を攻略します。 I`m grateful to Mr Piccomaster and Thundesrtruck for this map! 🙂](#今回はチュートリアルから本編開始までミッションと戦いの攻略手順を攻略します-im-grateful-to-mr-piccomaster-and-thundesrtruck-for-this-map-)
 - [目次](#目次)
 - [ワールドの特徴と仕様、導入方法とマルチプレイについて](#ワールドの特徴と仕様導入方法とマルチプレイについて)
   - [どんなワールド? **特徴と魅力**を紹介](#どんなワールド-特徴と魅力を紹介)

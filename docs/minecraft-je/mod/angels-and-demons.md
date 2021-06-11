@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】今日は節分！鬼は俺！福も俺！「Angels&DemonsMOD」
- 今回紹介するのは、monkeyfunk26氏制作の 「Angels&DemonsMod」です。
- このMODでは、名前の通り天使や鬼が追加される・・・・
- わけではありません。
 ---
 
 [![天使と悪魔](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180447.jpg)](#f/b/fbd1b062.jpg "天使と悪魔")  

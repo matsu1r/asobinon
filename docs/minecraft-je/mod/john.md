@@ -1,8 +1,5 @@
 ---
 title: 【MOD紹介】とびっきり怖いハロウィン… 最恐のモンスター襲来! 「John」
- 今回紹介するMODは、SCMownsさん制作の「John」です。
- 巨大なアイツに囲まれたらもう終わり…. 無事にこいつらを倒せるか!?
- (一日遅いけどハッピーハロウィン!)
 ---
 
 [![John](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131501.png)](#1/e/1e510a20.png "John")  
