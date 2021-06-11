@@ -5,7 +5,7 @@ const remarkCustomBlocks = require('remark-custom-blocks');
 const math = require('remark-math');
 const katex = require('rehype-katex');
 
-module.exports = {
+module.exports = {ああああああ
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja'],
