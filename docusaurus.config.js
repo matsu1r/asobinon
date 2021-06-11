@@ -55,29 +55,18 @@ module.exports = {
           label: 'Minecraft (BE)',
           items: [
             {
-              to: '/minecraft/howto/bedrock-friend-multiplayer-guide/',
-              label: 'マルチプレイ方法',
+              to: '/minecraft/howto//',
+              label: 'ハウツー',
             },
             {
-              to: '/minecraft/howto/mobile-switch-world-transfer/',
-              label: 'ワールド転送方法',
+              to: '/minecraft/addon/',
+              label: 'アドオン',
             },
             {
-              to: '/minecraft/howto/howtouse-extra-addon-switch/',
-              label: 'スイッチでアドオン',
+              to: '/minecraft/seed/',
+              label: 'シード値',
             },
-            {
-              to: '/minecraft/howto/bedrock-command-words-pickup/',
-              label: 'コマンド用語集',
-            },
-            {
-              to: '/minecraft/howto/howtouse-summon-command/',
-              label: 'summonコマンドの使い方',
-            },
-            {
-              to: '/minecraft/reference/command-bedrock/',
-              label: 'BEのコマンド一覧',
-            },
+            { to: '/minecraft/command/', label: 'コマンド' },
           ],
         },
         {
@@ -85,20 +74,12 @@ module.exports = {
           label: 'Minecraft (JE)',
           items: [
             {
-              to: '/minecraft-je/howto/osusume-mod',
-              label: 'おすすめMOD',
-            },
-            {
-              to: '/minecraft-je/howto/install-forge/',
-              label: 'MOD(Forge)導入方法',
-            },
-            {
-              to: '/minecraft-je/howto/buy/',
-              label: '購入方法',
+              to: '/minecraft-je/howto/',
+              label: 'ハウツー',
             },
             {
               to: '/minecraft-je/mod/',
-              label: 'MOD一覧',
+              label: 'MOD',
             },
           ],
         },
@@ -125,6 +106,10 @@ module.exports = {
               to: '/minecraft-je/',
               label: 'Minecraft (JE)',
             },
+            {
+              to: '/hytale/',
+              label: 'Hytale',
+            },
           ],
         },
         {
@@ -138,15 +123,15 @@ module.exports = {
               to: '/ASOBINON/contribute/image/',
               label: '画像アップ方法',
             },
+            {
+              to: '/ASOBINON/contribute/local/',
+              label: 'ローカルで編集する方法',
+            },
           ],
         },
         {
           title: '特別なページ',
           items: [
-            {
-              to: '/ASOBINON/contribute/',
-              label: '編集ガイド',
-            },
             {
               to: '/code-of-conduct/',
               label: '行動規範',
@@ -173,12 +158,8 @@ module.exports = {
               href: `https://discord.gg/ASAXKMH`,
             },
             {
-              label: 'お問い合わせ',
-              href: `https://edit.asobinon.org/contact`,
-            },
-            {
-              label: '運営',
-              href: `https://aely.one`,
+              label: '管理人に連絡',
+              href: `https://twitter.com/sasigume`,
             },
           ],
         },
