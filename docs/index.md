@@ -9,7 +9,7 @@ slug: /
 
 ## Discord参加してね
 
-![Discord](https://img.shields.io/discord/390466362373570561)
+[![Discord](https://img.shields.io/discord/390466362373570561)](https://discord.gg/ASAXKMH)
 
 [https://discord.gg/ASAXKMH](https://discord.gg/ASAXKMH)
 
