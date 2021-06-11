@@ -2,8 +2,6 @@
 title: 軽量化MODの入れ方と、草ブロックが変なのを直す方法
 ---
 
-#article-contents #lede-p{text-align:left!important}
-
 [![PE軽量化MOD0-11](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208140857.png)](#5/8/5800bb1f.png "PE軽量化MOD0-11")  
 マイクラPEで遊んでいる皆さん、ゲームの動作が重いと感じたことはありませんか?  
 **PEの動作を軽くする軽量化MODは無いの…?**  
@@ -12,9 +10,10 @@ title: 軽量化MODの入れ方と、草ブロックが変なのを直す方法
 
 ## 目次
 
-*   [まずはBlockLauncherをダウンロードしよう](#inst-bl)
-*   [軽量化MODをダウンロード、導入方法](#inst-mod)
-*   [草ブロックの見た目がおかしいのを直す方法](#howto-fix)
+- [目次](#目次)
+- [まずはBlockLauncherをダウンロードしよう](#まずはblocklauncherをダウンロードしよう)
+- [軽量化MODをダウンロード、導入方法](#軽量化modをダウンロード導入方法)
+- [草ブロックの見た目がおかしいのを直す方法](#草ブロックの見た目がおかしいのを直す方法)
 
 ## まずはBlockLauncherをダウンロードしよう
 
