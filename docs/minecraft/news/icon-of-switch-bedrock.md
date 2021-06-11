@@ -1,7 +1,6 @@
 
 ---
 title: スイッチ版BEのアイコンが公開。リリースは「getting closer」
-slug: /minecraft-je/howto/icon-of-switch-bedrock
 description: ニンテンドースイッチのホーム画面に並ぶ、ソフトのアイコン。そういえば今年、新しい「Minecraft」(統合版)(BE)がスイッチに配信されますが、そのアイコンはやっぱりこうなるみたいです。
 ---
 

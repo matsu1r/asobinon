@@ -1,7 +1,6 @@
 
 ---
 title: 「ReplayMod」で360°スクショを撮影、共有する手順
-slug: /minecraft-je/howto/replaymod-360-ss
 description: プレイを後から動画化できる革命的なMOD「ReplayMod」。最新のベータ版では、360°のスクリーンショットが撮影できるようになりました。撮影方法と、360°画像を簡単に共有・閲覧できるサイトをご紹介します。
 ---
 

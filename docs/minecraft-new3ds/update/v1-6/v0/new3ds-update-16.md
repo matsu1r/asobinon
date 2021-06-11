@@ -1,7 +1,6 @@
 
 ---
 title: New3DS版パッチ「1.6」内容まとめ。いくつかのスキンパックが使えるように
-slug: /minecraft-je/howto/new3ds-update-16
 description: 「Minecraft: New Nintendo 3DS Edition(New3DS版)」の「1.6」の更新内容をまとめました。キャンディーテクスチャパックと、いくつかのスキンパックが使えるようになっています。
 ---
 

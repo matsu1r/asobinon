@@ -1,7 +1,6 @@
 
 ---
 title: 造船ゲーム「The Last Leviathan」がとても面白いからみんな遊べー！ (唐突)
-slug: /minecraft-je/howto/the-last-leviathan-review
 description: この手のゲームって実況者がやたらタイトルに「○○系マインクラフト」って付けたがるよね
 ---
 

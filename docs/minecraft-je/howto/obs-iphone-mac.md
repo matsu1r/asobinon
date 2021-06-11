@@ -1,7 +1,6 @@
 
 ---
 title: OBSでiPhoneの画面を配信する方法
-slug: /minecraft-je/howto/obs-iphone-mac
 description: 近頃、YouTubeでの生放送が大変賑わっていますね。この記事ではiPhoneのゲーム画面をMacを使って配信する方法を紹介します
 ---
 

@@ -1,7 +1,6 @@
 
 ---
 title: 世界初。NintendoSwitchの「Minecraft(統合版)」のプレイ画面公開
-slug: /minecraft-je/howto/switch-bedrock-screen-reveal
 description: ニンテンドースイッチユーザーの皆様、大ニュースです。来年Switchに配信予定の、新しい「Minecraft」(統合版)の動作している画面が、初めて公開されました。さらに、スマホ・XboxOneとクロスマルチプレイしている画面も公開。配信がますます楽しみですね!
 ---
 

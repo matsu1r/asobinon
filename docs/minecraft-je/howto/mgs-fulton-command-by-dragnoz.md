@@ -1,7 +1,6 @@
 
 ---
 title: フルトン回収システムでMobを飛ばそう! Dragnoz氏が見事に再現してるので紹介 [コマンド解説]
-slug: /minecraft-je/howto/mgs-fulton-command-by-dragnoz
 description: 今話題の最新作、「MGSV:TPP」に登場する「フルトン回収システム」が、早速マイクラで再現されちゃいました。制作は私ではなく、コマンドの動画で有名なDragnoz氏。いつもの役立つ動画への感謝を込め、再現動画のご紹介と、コマンドの解説をします。ちなみにバージョン1.9(のSnapShot)でないと動きません。
 ---
 

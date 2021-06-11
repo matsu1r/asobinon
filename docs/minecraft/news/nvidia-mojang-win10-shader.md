@@ -1,7 +1,6 @@
 
 ---
 title: Mojang、SDGPを中止したくせにWin10限定のシェーダーをNvidiaと共同開発
-slug: /minecraft-je/howto/nvidia-mojang-win10-shader
 description: 先日「Super Duper Graphics Pack」の開発中止をお伝えしたが、その直後にMojangが「Nvidiaと共同開発したWindows10版専用のシェーダー」を発表した。正直言って意味がわからない、コンソール版プレイヤーを失望させた後に、ハイエンドなPC限定のシェーダーを発表しやがったのである。
 ---
 

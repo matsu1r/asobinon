@@ -1,7 +1,6 @@
 
 ---
 title: 巨大ロボットに乗って敵をぶっ飛ばせ「AdventureRobot」
-slug: /minecraft-je/howto/addon-adventurerobot
 description: クリエイティブモードでストレス発散したいあなたに。「アドベンチャーロボット」はいかがですか? 今回紹介するのは、MyoHtetさん制作の「AdventureRobot Addon」です。MyoHtetさんは記事投稿現在15歳とのこと。すごすぎでしょ!
 ---
 

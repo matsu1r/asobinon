@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.2.10」内容まとめ – 処理範囲拡大やバグ修正
-slug: /minecraft-je/howto/bedrock-update-1210
 description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.10」の更新内容をまとめました。操作性などの改善や、大量のバグ修正が含まれます。
 ---
 

@@ -1,7 +1,6 @@
 
 ---
 title: Hytale: スタジオ設立から発表までの道のりを、Hypixel生みの親が語る
-slug: /minecraft-je/howto/hytale-201812-simon-and-rezzus
 description: 「Hytale」の開発スタジオ、Hypixel StudiosのSimon氏とRezzus氏が、スタジオ設立までの道のり、今後の目標などを公式サイトに投稿した。実はこの2人は、あのハイピクセルサーバーの生みの親なのである。
 ---
 

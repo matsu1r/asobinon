@@ -1,7 +1,6 @@
 
 ---
 title: マイクラBEの「1.14」はハチのアプデに。Aubrey氏とCorner氏が確認
-slug: /minecraft-je/howto/mcbe-bees-will-come-in-114
 description: MineconLive2019では詳しく語られなかったBE(統合版)のアップデート予定について、開発者のコメントにより詳細が分かってきた。例えば新Mobの「ハチ」は、現在ベータ版が配信中の「1.13」ではなく、「1.14」で追加される。
 ---
 

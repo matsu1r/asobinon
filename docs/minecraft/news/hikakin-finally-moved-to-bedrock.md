@@ -1,7 +1,6 @@
 
 ---
 title: ヒカキンがついにJava版をやめる。マイクラ実況は大きく変わるかもしれない
-slug: /minecraft-je/howto/hikakin-finally-moved-to-bedrock
 description: ついに「ヒカクラ2」が始まりました。当初はSuperDuperGraphicsPackのリリースを待っていたそうですが、時期がなかなか決まらないということで、結局彼はWindows10版を使うことになりました。そうです、Java版ではないのです。これはマイクラ実況界の大きな変化の始まりかもしれません。
 ---
 

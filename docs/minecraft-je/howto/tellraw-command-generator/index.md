@@ -1,7 +1,7 @@
 ---
-slug: /minecraft-je/howto/tellraw-command-generator/
 title: tellrawコマンドを驚くほど直感的に作成できるツールのご紹介
 sidebar_position: 0
+slug: /minecraft-je/howto/tellraw-command-generator/
 ---
 
 チャット欄に様々なテキストを流す**「tellraw」コマンド**。ただ文章を流すだけでなく、**マウスオーバーした際にさらに何か表示したり、クリックで様々なイベントを発動したり、メッセージ内にプレイヤー名やスコアボードの値を表示したり…** 多機能な分コマンドも複雑(というかJSON書くのが面倒)なのでツールに頼りましょう。今回紹介するツールなら、**まさに”見たまま編集”**ですらすらtellrawコマンドを作成できちゃいます。

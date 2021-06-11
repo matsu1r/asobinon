@@ -1,7 +1,6 @@
 
 ---
 title: マインクラフトを現金で買ってインストールするまで。
-slug: /minecraft-je/howto/pc-newway-tobuy
 description: PC(Java)版の購入方法を、どこよりも丁寧に解説します。
 ---
 

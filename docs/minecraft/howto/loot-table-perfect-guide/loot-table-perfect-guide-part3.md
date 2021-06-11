@@ -1,7 +1,6 @@
 
 ---
 title: 「Loot Table (ドロップ表)」の使い方 Part3 エラーへの対処法
-slug: /minecraft-je/howto/loot-table-perfect-guide-part3
 description: Loot Table解説のPart3です。今回は、ドロップ表自作においてエラーが出た際の対処法を解説します。Part1およびPart3も合わせてご覧ください。
 ---
 

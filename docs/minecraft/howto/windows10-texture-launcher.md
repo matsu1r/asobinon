@@ -1,7 +1,6 @@
 
 ---
 title: Windows10版でテクスチャーパックを使うには? 0.15でより簡単に導入できるようになりました
-slug: /minecraft-je/howto/windows10-texture-launcher
 description: マイクラのWindows10版といえば、内容はほぼPEですがWindows上で非常に軽快に動くということで最近注目を浴びていますね。そういえばPEはBlockLauncherを使えばテクスチャーパックを導入できますが、Windows10版でダウンロードしたテクスチャを使うにはどうすればいいのでしょうか。今回紹介するのは、jocopa3氏制作の「Texture Pack Launcher for Minecraft Win10」です。この記事ではこのツールを使って、既存のPE向けのテクスチャーパックをWindows10版に導入する手順を解説します。
 ---
 

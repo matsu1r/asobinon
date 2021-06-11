@@ -1,7 +1,6 @@
 
 ---
 title: 軽量化MOD「Optifine」がバージョン1.13.2に対応
-slug: /minecraft-je/howto/mcje-optifine-for-113
 description: 言わずと知れたド定番の軽量化MOD「Optifine」が、驚異のスピードでJEバージョン1.13.2に対応しました。
 ---
 

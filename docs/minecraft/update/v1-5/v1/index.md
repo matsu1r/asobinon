@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.5.1」内容まとめ。様々な不具合が修正された
-slug: /minecraft-je/howto/bedrock-update-151
 description: スマホ・タブレット・Windows10・XboxOne・NintendoSwitchのMinecraft(BE/統合版)のアップデート「1.5.1」がリリースされました。スイッチでMSアカウントにログインできない不具合などが修正されています。(スイッチ以外は深夜に配信予定です)
 ---
 

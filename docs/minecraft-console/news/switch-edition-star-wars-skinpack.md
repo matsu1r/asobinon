@@ -1,7 +1,6 @@
 
 ---
 title: スターウォーズのスキンパック3種がSwitchEditionにも登場
-slug: /minecraft-je/howto/switch-edition-star-wars-skinpack
 description: エピソードI~IVまで、そして「反乱者たち」の登場人物たちになりきれるスターウォーズのスキンパック3種類が、ついに「Minecraft: Nintendo Switch Edition」に登場。
 ---
 

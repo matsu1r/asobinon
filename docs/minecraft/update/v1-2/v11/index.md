@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.2.11」内容まとめ – PvPが簡単に切替可能に
-slug: /minecraft-je/howto/bedrock-update-1211
 description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.11」の更新内容をまとめました。設定の改善や、バグ修正が含まれます。
 ---
 

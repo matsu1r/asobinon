@@ -1,7 +1,6 @@
 
 ---
 title: 吸血鬼とスリリングな夜を楽しもう「The Vampires」
-slug: /minecraft-je/howto/addon-the-vampires
 description: ただのゾンビでは物足りないあなたに。「吸血鬼」はいかがですか? 今回紹介するのは、ZachMCさん制作の「The Vampires Addon」です。 恐ろしい三種類の敵Mobが、あなたのワールドにやってくる…
 ---
 

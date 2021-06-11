@@ -1,7 +1,6 @@
 
 ---
 title: 「クラフトできない世界」の作り方 [Java版1.13]
-slug: /minecraft-je/howto/je-113-disable-crafting
 description: Java版1.13のSnapShot17w48aで追加された、カスタムレシピ作成機能。データパックを使って、オリジナルレシピを追加できるようになりました。これを応用して、あなたのワールドを「クラフトできない世界」にする方法があるんです。
 ---
 

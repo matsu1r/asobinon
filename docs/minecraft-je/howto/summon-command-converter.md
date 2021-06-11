@@ -1,7 +1,6 @@
 
 ---
 title: 装備が消えた/Ridingが効かないなど、1.9で使えなくなったSummonコマンドを変換するツールの紹介
-slug: /minecraft-je/howto/summon-command-converter
 description: バージョン1.9で今までのSummonコマンドを使って、乗っていたMobや装備品が消えたりしてしまった…なんて経験ありませんか? 実はMinecraft 1.9では、Summonコマンドで使うエンティティのNBTタグに大きな変更があり、「Riding」タグが「Passengers」になったり、装備アイテムやHPの書き方が大きく変わったりしました。いちいちコマンドを修正するのは大変なので、便利な新形式への変換ツールを紹介します。
 ---
 

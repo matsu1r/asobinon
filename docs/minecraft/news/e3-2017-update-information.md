@@ -1,7 +1,6 @@
 
 ---
 title: これが「Better Together Update」だ！E32017の最新情報まとめ
-slug: /minecraft-je/howto/e3-2017-update-information
 description: E3 2017にて、マイクラPE/ゲーム機版/Windows10版の夏アップデート「Better Together Update」が発表されました。なんとスマホ・タブレット・Win10(VR)・ニンテンドースイッチ・XboxOneのプレイヤーが一緒にマルチプレイできるようになります。さらに、それらの端末間でDLCが共有可能に! そしてLifeBoatやMineplex等の人気サーバーや、「SUPER DUPER GRAPHICS PACK」という影MODのような綺麗なグラフィックで遊べるDLCがやって来ます。
 ---
 

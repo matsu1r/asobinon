@@ -1,7 +1,6 @@
 
 ---
 title: マイクロソフトと任天堂のタッグ再び。「オリとくらやみの森」スイッチ版が発売
-slug: /minecraft-je/howto/ori-and-the-blind-forest-switch
 description: 「Ori and the Blind Forest(邦題: オリとくらやみの森)」は、オーストリアのMoon Studiosが開発し、かつてのMicrosoft Studios、つまり現在の「Xbox Game Studios」がパブリッシュしているゲームである。そしてパブリッシャーはそのまま「スイッチ版」が発表された。あの「マインクラフト」のような「MSがスイッチ版もパブリッシュする」状況が、当たり前になりつつあるのだ。
 ---
 

@@ -1,7 +1,6 @@
 
 ---
 title: あらゆるテクスチャをGoogle検索の画像にするとこうなる
-slug: /minecraft-je/howto/resource-pack-google-image
 description: RedditのMinecraftコミュニティに、奇妙なリソースパックが投稿された。ある意味では史上最も「現実的」なリソースパックであり、同時に我々に様々な疑問を投げかけてくれる作品でもある。
 ---
 

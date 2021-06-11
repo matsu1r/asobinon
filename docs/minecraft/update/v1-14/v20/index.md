@@ -1,7 +1,6 @@
 
 ---
 title: 日本一詳しい「1.14.20」内容まとめ (スイッチ/PS4/スマホ)
-slug: /minecraft-je/howto/mcbe-update-1442
 description: スイッチ・PS4・スマホ等のMinecraft(BE/統合版)のアップデート「1.14.2」の内容をお届けする。主にバグの修正。
 ---
 

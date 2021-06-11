@@ -1,7 +1,6 @@
 
 ---
 title: バージョン1.7.10用の「ReplayMod」が開発中だと判明
-slug: /minecraft-je/howto/possibly-replaymod-for-v1710-is-coming
 description: 数々の動画クリエイターの方を救った「ReplayMod」。先ほど開発者のCrushedPixel氏が、バージョン1.7.10版の開発を示唆する画像をツイートしました。
 ---
 

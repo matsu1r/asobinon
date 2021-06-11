@@ -1,7 +1,6 @@
 
 ---
 title: これが新しいゲーム機版だ！新「Minecraft」XboxOne版のプレイ映像で新要素続々判明
-slug: /minecraft-je/howto/command-block-spawner-coming-to-xboxone-and-switch
 description: この秋、XboxOneとNintendoSwitchには新しい「Minecraft」が配信されます。この新しいMinecraftのXboxOne向けベータ版が配信されたばかりなのですが、あいにく私XboxOne持ってなくて遊べません… そこで、マイクラ開発スタッフたちが生放送でプレイ映像を公開していたので、内容を紹介します。
 ---
 

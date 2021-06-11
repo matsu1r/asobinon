@@ -1,7 +1,6 @@
 
 ---
 title: 【アドオン紹介】サバイバルでも入手可能な2種類のラジコンを追加「RC Car Addon」【Minecraft(PE)】
-slug: /minecraft-je/howto/addon-rc-car
 description: 記念すべき第一回目のアドオン紹介。今回紹介するのは、Vladu11氏制作の「RC Car Addon」です。
  サバイバルでも簡単に入手できるラジコンを追加。マルチプレイでレースができますので是非一度使ってみて下さい。
 ---

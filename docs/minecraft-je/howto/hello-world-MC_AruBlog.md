@@ -1,7 +1,6 @@
 
 ---
 title: 初めまして　あるです
-slug: /minecraft-je/howto/hello-world-MC_AruBlog
 description: 新たな編集メンバー
 ---
 

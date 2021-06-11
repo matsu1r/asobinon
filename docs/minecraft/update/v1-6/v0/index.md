@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.6」内容まとめ – ファントム襲来！
-slug: /minecraft-je/howto/bedrock-update-16
 description: ファントムやバリアブロックが追加される予定の、スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの「Minecraft(BE,統合版)」のアップデート「1.6」の更新内容をまとめました。 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
 ---
 

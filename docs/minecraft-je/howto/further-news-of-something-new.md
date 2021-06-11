@@ -1,7 +1,6 @@
 
 ---
 title: 新ボスっぽい謎の物体は、エンドに関連しているかも
-slug: /minecraft-je/howto/further-news-of-something-new
 description: 昨日の記事でお伝えした、今年のMINECONで発表される予定の謎の物体。ジ・エンドと何か関係があるかもしないことが分かってきました。よーく見ると既視感、ありません?
 ---
 

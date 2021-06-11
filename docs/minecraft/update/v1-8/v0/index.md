@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.8」内容まとめ – パンダ/ネコ！
-slug: /minecraft-je/howto/mcbe-update-18
 description: “ホリデーアップデート” ― かわいい仲間が登場します！パンダ、竹、クロスボウ、足場、ネコ… スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの「Minecraft(BE,統合版)」のアップデート「1.8」の更新内容をまとめました。 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
 ---
 

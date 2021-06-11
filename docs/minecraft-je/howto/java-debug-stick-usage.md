@@ -1,7 +1,6 @@
 
 ---
 title: Java版17w47aの隠しアイテム「デバッグ棒」の入手方法と使い方
-slug: /minecraft-je/howto/java-debug-stick-usage
 description: Java版のSnapShot「17w47a」にて、面白いアイテムが見つかりました。その名は「Debug Stick」。なんとブロックの状態を、クリックだけでホイホイと変更できるのです。早速入手方法を見ていきましょう。
 ---
 

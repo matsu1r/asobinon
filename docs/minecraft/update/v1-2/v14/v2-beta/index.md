@@ -1,7 +1,6 @@
 
 ---
 title: BEのベータ版に、初公開の「氷山」を含む様々な新要素が追加
-slug: /minecraft-je/howto/be-beta-329-update
 description: マイクラBE(統合版)のベータ版(Android/Windows10/XboxOne限定)に更新「1.2.14.2」が配信されました。なんとJava版に先行して「氷山」が追加されている他、難破船、サンゴ礁、色々な海のバイオームなど、アクアティックアップデートの全てを今すぐ体験できます。
 ---
 

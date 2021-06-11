@@ -1,7 +1,6 @@
 
 ---
 title: PEと統合された新「Minecraft」はXboxOneでもマウスが使えることが判明
-slug: /minecraft-je/howto/bedrock-xboxone-mouse-support
 description: この秋NintendoSwitch/XboxOneにやってくる新しい「Minecraft(統合版)」のベータ版で、新事実が明らかになりました。なんとXboxOneでマウスが使えるのです。
 ---
 

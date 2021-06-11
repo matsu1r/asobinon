@@ -1,7 +1,6 @@
 
 ---
 title: RTXをONにしたWindows10版のプレイ映像が公開。美麗だが暗すぎる気もする
-slug: /minecraft-je/howto/mcwin10-rtx-gameplay
 description: NVIDIAは、Windows10版Minecraft向けに開発中のRTX対応シェーダーの実機プレイ映像を公開した。リアルタイムレイトレーシングの効果が見て分かる一方、光の当たらない部分があまりに暗すぎるのではないか、という声も聞こえる。
 ---
 

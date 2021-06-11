@@ -1,7 +1,6 @@
 
 ---
 title: PS4等のゲーム機版にも海の新要素追加か。4Jが意味深なツイート
-slug: /minecraft-je/howto/aquatic-console-tweet
 description: JE/BEにもうすぐやって来る「アクアティックアップデート」。水関連の新要素が大漁に追加されるアップデートですが、それらがPS4などのコンソール版にもやって来るんでしょうか? 4J Stidiosが意味深なツイートをしています。
 ---
 

@@ -1,7 +1,6 @@
 
 ---
 title: 面倒な操作から開放! クラフト/エンチャ等したアイテムをすぐ装備できる「Visible Armor Slots」
-slug: /minecraft-je/howto/mod-visible-armor-slots
 description: 作業台で装備品を作った後、いちいちクラフト画面を閉じて装備するのって面倒じゃないですか? 防具をエンチャントした後、いちいちエンチャント画面を閉じて装備するのって面倒じゃないですか? チェストから取り出した装備品を、いちいち画面を閉じｔ… キリがないあなたの悩みを解決するのが、sidben氏制作の「Visible Armor Slots」。ありそうでなかった便利系MODです。
 ---
 

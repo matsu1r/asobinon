@@ -1,7 +1,6 @@
 
 ---
 title: アプデ情報などのニュースはMinecraft.netに投稿されるように。作品や商品の紹介も
-slug: /minecraft-je/howto/minecraft-news-on-minecraft-net
 description: これまでMinecraftに関するニュースはMojang.comに投稿されてきましたが、これからはリニューアルしたMinecraft.netに、ニュースに加え様々な記事が投稿されるそうです。詳細をお伝えします。
 ---
 

@@ -1,7 +1,6 @@
 
 ---
 title: BEでも、サバイバルでのブロックスポイトができるように
-slug: /minecraft-je/howto/bedrock-survival-blockpick
 description: BE(iOS/Android/Kindle/Win10/XboxOneなど)のプレイヤーに朗報! Java版やコンソール版ではできていた「サバイバルモード時のブロックスポイト」がついにできるようになります。
 ---
 

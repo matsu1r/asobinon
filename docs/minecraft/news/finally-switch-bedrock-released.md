@@ -1,7 +1,6 @@
 
 ---
 title: スイッチ版BE(統合版)、配信開始。既存の世界を無限ワールド化しよう
-slug: /minecraft-je/howto/finally-switch-bedrock-released
 description: ゲーム機の常識が覆る時がやってきました。ニンテンドースイッチで、ついに無限ワールドで遊べます。今すぐ新しい「Minecraft」をダウンロードして、既存のワールドを無限ワールド化しましょう。
 ---
 

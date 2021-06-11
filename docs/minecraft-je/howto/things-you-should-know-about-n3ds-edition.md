@@ -1,7 +1,6 @@
 
 ---
 title: New3DS版マイクラを買う前に、知っておくべきこと
-slug: /minecraft-je/howto/things-you-should-know-about-n3ds-edition
 description: 「Minecraft: New Nintendo 3DS Edition」が発表されたのです！ まさかのNew3DSでマイクラ! エイプリルフールかよ!
  早くも「性能大丈夫か?」「ワールドくそ狭そう」という声が聞こえますが、実はワールドの大きさはWiiU版より大きいのです。なぜでしょう? この記事では、New3DS版について「知っておくべきこと」をまとめました。
 ---

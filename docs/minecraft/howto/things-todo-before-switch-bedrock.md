@@ -1,7 +1,6 @@
 
 ---
 title: スイッチの新しい「Minecraft」が配信される前に、やるべきこと5つ
-slug: /minecraft-je/howto/things-todo-before-switch-bedrock
 description: 6月21日、ニンテンドースイッチに新しい『Minecraft』がついに配信されます。首を長くして待っているあなた、本当に準備は万端ですか? リリースまであと1週間なので、「発売前にやるべきこと」をまとめてみました。
 ---
 

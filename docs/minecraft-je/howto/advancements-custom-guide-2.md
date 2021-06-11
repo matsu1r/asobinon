@@ -1,7 +1,6 @@
 
 ---
 title: Advancements(進捗)自作完全ガイド #2: 達成条件の組み合わせと報酬の設定
-slug: /minecraft-je/howto/advancements-custom-guide-2
 description: Minecraft バージョン1.12の最大の新要素「Advancements(進捗)」。前回は「タブやツリーの作成とアイコンや背景の設定」を解説しました。 第二回目となる今回は、 進捗の達成条件を決める「Require… 続きを読む Advancements(進捗)自作完全ガイド #2: 達成条件の組み合わせと報酬の設定
 ---
 

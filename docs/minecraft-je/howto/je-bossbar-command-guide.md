@@ -1,7 +1,6 @@
 
 ---
 title: ボスのような体力バーを作り、MobのHPを反映させる方法
-slug: /minecraft-je/howto/je-bossbar-command-guide
 description: JE1.13のコマンド関連の新要素の1つ、/bossbarコマンド。なんとボスMobのような体力バーを自作できるんです。しかもデザインや値を自由に編集可能。エンティティのHPとバーを同期させる方法も解説します。
 ---
 

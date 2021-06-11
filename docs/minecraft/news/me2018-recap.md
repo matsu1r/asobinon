@@ -1,7 +1,6 @@
 
 ---
 title: パンダ/ネコ/クロスボウ！MINECON Earth 2018の発表内容まとめ
-slug: /minecraft-je/howto/me2018-recap
 description: MINECON Earth 2018が終わりました。パンダ、ネコ、村人、新しい敵Mob、クロスボウなどなど、発表された新情報をまとめました。早速チェックしていきましょう！
 ---
 

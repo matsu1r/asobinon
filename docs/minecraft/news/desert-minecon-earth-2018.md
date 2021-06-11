@@ -1,7 +1,6 @@
 
 ---
 title: MINECONの投票で砂漠が選ばれたら、ヤシの木とミーアキャットを追加するってよ
-slug: /minecraft-je/howto/desert-minecon-earth-2018
 description: 29日に開催されるマイクラの公式イベント「MINECON Earth 2018」。放送中に「タイガ・サバンナ・砂漠のどれに新要素を追加するか」の投票が行われるのですが、まず「砂漠」が選ばれた場合に追加される新要素が発表されました。
 ---
 

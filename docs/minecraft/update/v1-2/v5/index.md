@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.2.5」の内容とバグ修正まとめ
-slug: /minecraft-je/howto/bedrock-update-125
 description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.5」の更新内容をまとめました。マーケットプレイスの評価機能やインベントリの操作の改善、大量のバグ修正が含まれています。
 ---
 

@@ -1,7 +1,6 @@
 
 ---
 title: 座標がチートじゃなくなった! アップデート「1.2.9」内容まとめ
-slug: /minecraft-je/howto/bedrock-update-129
 description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.9」の更新内容をまとめました。ついに、座標がチートじゃなくなりました。
 ---
 

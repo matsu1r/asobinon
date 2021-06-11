@@ -1,7 +1,6 @@
 
 ---
 title: マイクラPEのアップデート「1.2」が審査入り。最速で来週リリースか
-slug: /minecraft-je/howto/bedrock-version12-went-into-cert
 description: 今日のマイクラニュース2本目！ マイクラPE(アップデート後は”Minecraft”)のアップデート「1.2」が、ついに各種ストアの審査に入ったことが明らかになりました。
 ---
 

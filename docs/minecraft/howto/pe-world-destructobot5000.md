@@ -1,7 +1,6 @@
 
 ---
 title: ロボットに乗って機械生命体を駆逐する配布ワールド「Destructobot 5000」
-slug: /minecraft-je/howto/pe-world-destructobot5000
 description: 戦車型の謎の機械生命体に襲われる街。巨大ロボットに乗り込むあなた。極限まで生き延びるか、それともフレンドと対戦して勝利をつかむか…!?
  今回紹介するのは、配布ワールド制作のプロ集団「NoxCrew」による新作「Destructobot 5000」です。
 ---

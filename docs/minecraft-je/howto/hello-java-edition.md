@@ -1,7 +1,6 @@
 
 ---
 title: さようなら「PC版」。こんにちは「Java版」。
-slug: /minecraft-je/howto/hello-java-edition
 description: 「Minecraft: Java Edition」のバージョン1.12.2が配信されました。もう「PC版」と呼ぶのはやめましょう。
 ---
 

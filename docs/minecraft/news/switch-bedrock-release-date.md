@@ -1,7 +1,6 @@
 
 ---
 title: 無限ワールドで遊べる、スイッチの新しいマイクラが6月21日に発売
-slug: /minecraft-je/howto/switch-bedrock-release-date
 description: ニンテンドースイッチへの「Minecraft(BE,統合版)」の配信が、6/21に決定しました。
 ---
 

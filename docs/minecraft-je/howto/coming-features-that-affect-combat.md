@@ -1,7 +1,6 @@
 
 ---
 title: MINECONにて、「戦闘に影響する新機能」が発表されると判明
-slug: /minecraft-je/howto/coming-features-that-affect-combat
 description: 日本時間で来週の日曜日の午前2時に配信されるイベント「MINECON Earth」は、新しいMobを決める投票が予定されていたりと、クラフターには見逃せないイベントです。そんなMINECONに関する新情報が入ってきました。
 ---
 

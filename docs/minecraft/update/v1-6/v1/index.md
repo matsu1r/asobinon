@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.6.1」内容まとめ。ファントム等の不具合修正
-slug: /minecraft-je/howto/bedrock-update-161
 description: スマホ・タブレット・Windows10・XboxOne・NintendoSwitchのMinecraft(BE/統合版)のアップデート「1.6.1」がリリースされました。ファントムが襲ってこない不具合などが修正されています。
 ---
 

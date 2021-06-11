@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.2.7」内容まとめ – 数々のバグが修正
-slug: /minecraft-je/howto/bedrock-update-127
 description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.7」の更新内容をまとめました。いくつかのバグが修正されました。
 ---
 

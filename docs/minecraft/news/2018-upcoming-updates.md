@@ -1,7 +1,6 @@
 
 ---
 title: パンダ等はBEで先行配信し、JEでは1.14にまとめられることが判明
-slug: /minecraft-je/howto/2018-upcoming-updates
 description: MINECON Earth 2018以来混乱が続いてきた「Java版の1.14はどうなるのか」という件ですが、Dinnerbone氏が公式に「1.14に村とピレッジアップデートの内容が含まれる」ことを発表しました。BEではホリデーアップデート(パンダなど)がまず配信され、来年に村とピレッジアップデートが配信されます。
 ---
 

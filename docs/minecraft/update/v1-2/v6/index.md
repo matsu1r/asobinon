@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.2.6」内容まとめ – 馬たちの見た目変更など
-slug: /minecraft-je/howto/bedrock-update-126
 description: スマホ・タブレット・Windows10アプリ・XboxOneの「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.6」の更新内容をまとめました。ウマ・ロバ・ラバの見た目が変わりました。
 ---
 

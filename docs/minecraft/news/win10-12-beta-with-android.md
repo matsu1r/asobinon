@@ -1,7 +1,6 @@
 
 ---
 title: Windows10版プレイヤーもAndroidと一緒にベータ版をプレイ可能に
-slug: /minecraft-je/howto/win10-12-beta-with-android
 description: マイクラPEとゲーム機版が統合される大型アップデート「Better Together Update」がこの夏やって来ます。PE/Win10には「バージョン1.2」として配信予定ですが、これまでのAndroidユーザー向けベータ版に加え、Windows10ユーザーもアップデートのベータ版がプレイできるようになります。
 ---
 

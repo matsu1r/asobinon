@@ -1,7 +1,6 @@
 
 ---
 title: (1.13) しばらく寝てないと何か起こる仕掛けの作り方
-slug: /minecraft-je/howto/java-stat-time-since-sleep
 description: JE1.13のSnapShot18w07aで、気になる新要素が追加されました。プレイヤーが最後に起きてからの時間を計測する、time_since_sleepという”統計”です。これをコマンドで利用して作れる仕掛けを簡単にご紹介します。
 ---
 

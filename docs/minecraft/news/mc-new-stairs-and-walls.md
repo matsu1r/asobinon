@@ -1,7 +1,6 @@
 
 ---
 title: 次期アップデートでついに花崗岩などの階段・壁が追加へ
-slug: /minecraft-je/howto/mc-new-stairs-and-walls
 description: Minecraft BE/JEの次期アップデートでは数多くの階段や壁が追加されることが分かっていますが、先程花崗岩・安山岩・閃緑岩の階段と壁の画像が公開されました。
 ---
 

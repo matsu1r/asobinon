@@ -1,7 +1,6 @@
 
 ---
 title: さようなら「マイクラPE」。こんにちは「Minecraft」。
-slug: /minecraft-je/howto/goodbye-pe-hello-minecraft
 description: 「マイクラPE」という名前は、今日で終わりです。明日からは、「Minecraft」です。「Minecraft: Podket Edition」、略して「マイクラPE」。長年親しまれてきた「PE」の名前が、今日で終わりを迎えようとしています。
 ---
 

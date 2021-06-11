@@ -1,7 +1,6 @@
 
 ---
 title: 「PCのビデオ設定がXboxOneに適用されてしまう」ゲームが発見される
-slug: /minecraft-je/howto/bcp-video-settings-shared
 description: ゲームプラットフォームとしてのXboxOneとWindows10は、限りなく近い存在である。両者の間で完全なクロスセーブ機能を備えたタイトルが年々増えており、「Bridge Constructor Portal」もその一つだ。ところで先日このゲームで、奇妙なことに「ビデオ設定が共有されてしまう」という問題が発見されたのだ。
 ---
 

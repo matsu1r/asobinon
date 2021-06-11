@@ -1,7 +1,6 @@
 
 ---
 title: 注意! スイッチのパッケージ版を買うと、ミニゲームは遊べません!
-slug: /minecraft-je/howto/dont-buy-switch-cartridge
 description: 6月21日に発売/配信される、ニンテンドースイッチの新しい『Minecraft』のパッケージ版。既にAmazonなどで予約が開始されており、購入を検討している方も多いかと思います。でもちょっと待って。パッケージ版の発売を待っていたら、よゐこの2人が遊んでいた「SwitchEdition」は一生遊べなくなるんですよ。
 ---
 

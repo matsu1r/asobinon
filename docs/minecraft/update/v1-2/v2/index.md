@@ -1,7 +1,6 @@
 
 ---
 title: アップデート「1.2.2」の内容と修正されたバグまとめ
-slug: /minecraft-je/howto/bedrock-update-122
 description: スマホ・タブレット・Windows10アプリ・XboxOneで配信中の「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.2」の更新内容をまとめました。大量のバグ修正が含まれています。
 ---
 

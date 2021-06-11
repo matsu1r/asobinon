@@ -1,7 +1,6 @@
 
 ---
 title: お前、変わるのか… ついに「作業台」のテクスチャが変更へ
-slug: /minecraft-je/howto/crafting-table-texture-will-be-finally-changed
 description: この前マイクラの開発チームにドット絵職人として参加したJAPPA(@JasperBoerstra)氏が、新しいテクスチャを公開しました。なんとあの「作業台」のテクスチャがついに変更されるのです。クラフターなら誰しも使うブロックなだけに、熱い議論が勃発してます。
 ---
 

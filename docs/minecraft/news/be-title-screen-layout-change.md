@@ -1,7 +1,6 @@
 
 ---
 title: BE1.5のベータ版で、タイトル画面のボタン配置が変更。ゲーム機に配慮か
-slug: /minecraft-je/howto/be-title-screen-layout-change
 description: BEのベータ版の最新Build「1.5.0.10」で、更新履歴に載っていないけど結構大きな変更がされました。タイトル画面のボタンの配置が変わったのです。 おそらく、ゲーム機でのプレイに配慮したのでしょう。
 ---
 

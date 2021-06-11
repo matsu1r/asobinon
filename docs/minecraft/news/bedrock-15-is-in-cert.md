@@ -1,7 +1,6 @@
 
 ---
 title: BE1.5は審査中で、7月リリース予定。1.6は8月予定とのこと
-slug: /minecraft-je/howto/bedrock-15-is-in-cert
 description: BE(統合版)のアップデートアクアティック第2弾「1.5」のリリース時期が見えてきました。開発者のPearson氏が公式Discordでリリース時期について言及。また公式生放送で、Gartzke氏が「1.5は審査中」であると明かしました。
 ---
 

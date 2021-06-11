@@ -1,7 +1,6 @@
 
 ---
 title: スイッチ版BEの新情報が「今週」公開。ただし今月リリースではない
-slug: /minecraft-je/howto/this-week-news-of-switch-bedrock
 description: 昨年のE3で発表されてから1年が経とうとしている、ニンテンドースイッチへの「Minecraft(BE,統合版)」の配信。近頃ついに実機プレイが公開されていますが、スイッチ版BEについての「いくつかのニュース」が、今週中に公開されることが判明しました!
 ---
 

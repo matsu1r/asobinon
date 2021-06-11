@@ -1,7 +1,6 @@
 
 ---
 title: スイッチ版マイクラがマリオテニスを超えている件
-slug: /minecraft-je/howto/switch-mc-outselling-mariotennis
 description: スイッチ版マインクラフトの勢いが止まりません。PS4版を超えたのはもちろんのこと、同時期に発売された「マリオテニスエース」すら超えてしまいました。
 ---
 

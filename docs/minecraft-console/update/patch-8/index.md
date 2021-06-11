@@ -1,7 +1,6 @@
 
 ---
 title: PS4/スイッチのアップデート「1.60」「パッチ8」内容まとめ
-slug: /minecraft-je/howto/ps4-switch-edition-160-patch8
 description: 「Minecraft: PlayStation4 Edition」の1.60、「Minecraft: Nintendo Switch Edition」(統合版ではありません)のパッチ8の更新内容をまとめました。ハロウィーンならではのスキンパックやステージ、ミニゲームのカスタマイズなど。
 ---
 
