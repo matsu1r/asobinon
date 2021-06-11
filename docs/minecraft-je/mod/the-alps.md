@@ -1,7 +1,5 @@
 ---
 title: 【MOD紹介】天空の神殿からアルプスへ行こう（少女は居ません）「The Alps Mod」
- 天空に現れる神殿から、新ディメンション「Alps（アルプス）」へ行くことができます。
- そこには絶景とお宝が盛り沢山…!!
 ---
 
 [![Alps](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208154040.png)](#a/d/adbdcbb9.png "Alps")  

@@ -1,9 +1,5 @@
 ---
 title: 【MOD紹介】余の辞書にゲームバランスという文字は無い「AdminWeapons」(1.10対応)
- 今回紹介するのは、elias54さん制作の「Admin Weapons」です。
- 名前の通り、サーバー管理人のための道具を追加するのですが…
- 使うとサーバーを壊してしまいそうなアイテムばかり。
- 使い過ぎ注意なゲームバランス崩壊MODです。
 ---
 
 [![AdminWeapons](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208132814.png)](#2/d/2d02d9ff.png "AdminWeapons")  

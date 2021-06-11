@@ -1,9 +1,5 @@
 ---
 title: 【MOD紹介】ここまで見せちゃう!? MobのHP/ブロックの情報を何でも表示「SmartCursor」
- しかし、これは一味違います。何でも見せちゃうんです。
- 今回紹介するのは、asaskevichさん制作の「SmartCursor」です。
- MobのHPはもちろん、Mobの状態や成長の度合い、ブロックの壊し具合…
- 瞬時に色々な情報を表示してくれる、超便利MODです。
 ---
 
 [![SmartCursor](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144820.png)](#7/b/7bc86de1.png "SmartCursor")  

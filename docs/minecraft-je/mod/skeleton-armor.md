@@ -1,6 +1,5 @@
 ---
 title: 【MOD紹介】余りまくる骨を装備にしちゃえ！「Skeleton Armor MOD」
- 余りまくる、スケさんの骨。これをうまく使いましょう！
 ---
 
 [![SkeletonArmor](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208143516.png)](#6/f/6f766373.png "SkeletonArmor")  

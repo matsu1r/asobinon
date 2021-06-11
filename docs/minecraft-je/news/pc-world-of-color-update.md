@@ -1,6 +1,5 @@
 ---
 title: Minecraft 1.12「ザ・ワールド・オブ・カラー・アップデート」内容まとめません
- アップデート内容はまとめません！！！ぐぐってね！！！
 ---
 
 ![色の世界アップデート](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121348.png)

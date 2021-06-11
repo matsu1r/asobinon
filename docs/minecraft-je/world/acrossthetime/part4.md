@@ -1,6 +1,5 @@
 ---
 title: 砂漠のダンジョンで謎解き/ボス戦! 大長編RPG配布ワールド「AcrossTheTime」攻略part4
- I`m grateful to Mr Piccomaster and Thundesrtruck for this map! 🙂
 ---
 
 [![AcrossTheTime-part4](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208133131.png)](#2/f/2f658bcb.png "AcrossTheTime-part4")

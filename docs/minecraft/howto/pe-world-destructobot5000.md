@@ -1,6 +1,5 @@
 ---
 title: ロボットに乗って機械生命体を駆逐する配布ワールド「Destructobot 5000」
- 今回紹介するのは、配布ワールド制作のプロ集団「NoxCrew」による新作「Destructobot 5000」です。
 ---
 
 ![Destructobot5000紹介](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122637.png)

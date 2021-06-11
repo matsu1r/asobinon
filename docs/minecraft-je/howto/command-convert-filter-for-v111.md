@@ -1,6 +1,5 @@
 ---
 title: 1.11でも動くようにワールドのコマンドをまるごと変換するMCEditフィルターとツールのご紹介
- 誰かが一刻も早く変換ツールを作ってくれたら… ふふふ、既に作られてました。今回紹介するのは、防具立てのアニメーションツールの作者のMrGarretto氏が光の如く速さで制作したMCEditフィルター「Entity Command Converter for 1.11 filter」です。既存のコマンド装置をまるごと選択してパパパッと変換して終わり!
 ---
 
 ![新しいエンティティIDへコマンドを変換するツール](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101743.png)

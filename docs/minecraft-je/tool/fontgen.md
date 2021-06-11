@@ -1,9 +1,5 @@
 ---
 title: 好きなフォントをマイクラで使える! 「Minecraft FontGen」で色々な文字を自分好みにしよう
- もっと滑らかに、綺麗なフォントでマイクラを遊びたいですよね。
- そこで活躍するのが、Tsoftさん制作のツール「Minecraft FontGen」です。
- このツールでは、自分の好きなフォントをマイクラ用に変換できます。
- 好きなフリーフォントや高品質なフォントで、快適にマイクラをプレイしましょう。
 ---
 
 [![FontGen](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208125815.png)](#0/e/0e99b231.png "FontGen")  

@@ -1,10 +1,5 @@
 ---
 title: 便利系MODの新定番! アイテム/Mobを簡単にカスタマイズして入手「All-U-Want」
- いちいちコマンドを打って入手したり、召喚するのは面倒ですね。
- そこで、このMODを使えばクリックだけで色々な事ができます。
- 今回紹介するのは、mister_personさん制作の「All-U-Want」です。
- 様々なアイテム、ブロック、Mobを簡単にカスタマイズして入手できます。
- 数えきれないほどの便利な機能を備えた、まさに”便利系MOD”そのものです。
 ---
 
 [![All-U-Want](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175704.png)](#f/5/f5666b1c.png "All-U-Want")  

@@ -1,6 +1,5 @@
 ---
 title: 知らなかった。Optifine1.7.10~1.11版で「Dynamic Lights(動的な光源)」機能が使えるなんて
- 皆さん、「Optifine」使ってますか? 当ブログでも何度も登場しているド定番の軽量化MODです。ForgeがなくてもインストールしてOptifine単体で使えるので、バニラ派の人も気兼ねなく使えるのも特徴の1つ。この前Optifineがシェーダーパックの読み込みに対応した事をお伝えしましたが、いつの間にか「Dynamic Lights」MODのような機能も取り込んでいたようです。(MODを統合したわけではなく独自開発という点に注意)
 ---
 
 ![OptifineのDynamicLights](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090601.png)

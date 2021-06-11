@@ -1,9 +1,5 @@
 ---
 title: 【MOD紹介】ツルハシやチェストが襲ってきた! 約20種のMobを追加「Primitive Mobs」
- 今回紹介するのは、Daveyx0さん制作の「Primitive Mobs」です。
- 放浪する村人、地下で泣いている村人、金を欲しがるヒツジなど…
- 約20種類の味方Mobや敵Modを追加します。
- かわいいペットと暮らしたり、奇妙な敵と戦ったり、楽しい生活が待ってます。
 ---
 
 [![Primitive](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208141924.png)](#6/1/615c4e9a.png "Primitive")  

@@ -1,9 +1,5 @@
 ---
 title: 【MOD紹介】ポッキーの日だからマイクラでポッキー作ろう 「Minekawaii」
- 私は前日にポッキー食べちゃいました。なので今日は食べられない….
- いいや、マイクラで作って食べればいいんです。タダだし。
- ということで、今回紹介するMODはTwangoさん制作の「Minekawaii」です。
- 好きな味のポッキーを、好きなだけ食べちゃお☆
 ---
 
 [![Minekawaii](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208130705.png)](#1/5/15c073ad.png "Minekawaii")  

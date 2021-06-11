@@ -1,6 +1,5 @@
 ---
 title: 【MOD紹介】時間を操れ、マトリックス風に！「Time Control MOD」
- かなり時間の掛かる、または時間が短縮できるMODです。
 ---
 
 [![TimeControl](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180057.png)](#f/8/f869d9ac.png "TimeControl")

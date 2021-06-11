@@ -1,7 +1,5 @@
 ---
 title: 【MOD紹介】スケさん好きのあなたへ – 9種のスケルトンを追加「Mo`Skeletons Mod」
- 炎のスケさんやクリーパースケさん、エンダースケさんなど9種のスケルトンが追加されます。
- スケルトン好きのクラフターにはもってこいのMODですよ。
 ---
 
 [![Mo`skeletons](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208125107.png)](#0/7/075bb6cc.png "Mo`skeletons")  

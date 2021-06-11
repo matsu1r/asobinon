@@ -1,6 +1,5 @@
 ---
 title: 【MOD紹介】組み合わせ無限大!世界に1つのドアを作ろう「MalisisDoors」
- 6種のドアが追加され、自分だけのオリジナルドアも作れます。
 ---
 
 [![MalisisDoors](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208141107.png)](#5/a/5a987635.png "MalisisDoors")  

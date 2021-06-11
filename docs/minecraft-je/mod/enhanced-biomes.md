@@ -1,6 +1,5 @@
 ---
 title: 【MOD紹介】旅立とう、スーパーリアルバイ王蟲へ「Enhanced Biomes」
- 1.7でバイオームが追加されましたが、このMODではさらにリアル志向のバイ王蟲を追加します。全部で87種類もあるそうですよ。大冒険の始まりだ！
 ---
 
 [![EnhancedBiomes](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155451.png)](#b/b/bb7b615b.png "EnhancedBiomes")  

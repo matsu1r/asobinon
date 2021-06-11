@@ -1,9 +1,5 @@
 ---
 title: ホラゲー制作に便利! マイクラの効果音/音楽を、自由な音程で聞けるツール「Minecraft Assets Listener」
- 爆発や叫び声、クイズの正解など、ピッチを変えれば色々な音を再生できます。
- しかし、どんな設定をすれば理想の音を鳴らせるのか分かりにくいですね。
- そこで、のと氏制作の「Minecraft Assets Listener」を使いましょう。
- 音量とピッチを自由に決めてSEと音楽を再生できるので、意外な発見があるかも!?
 ---
 
 [![assetsListener](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208174603.png)](#e/9/e9ef948e.png "assetsListener")  

@@ -1,6 +1,5 @@
 ---
 title: リアルイベント「Minecraft Festival」が来年に開催延期、アプデ生放送は継続
- Minecraftのリアルイベント「Minecraft Festival」は当初、今年の9月末にフロリダ州オーランドでの開催が予定されていた。しかし昨今の新型コロナウイルスの流行により準備に支障が生じていることから、開催が「2021年秋」に延期された。ただ、アップデート内容などを発表する「Minecon Live」改め「Minecraft Live」は、9月に放送が予定されている。
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208100824.jpg)

@@ -1,7 +1,5 @@
 ---
 title: マイクラでマインスイーパー! 「MinecraftTerrainEditor」の新機能で遊ぼう
- 「Minecraft Terrain Editor」です。なんと「RTM」のngt5479さん制作です。
- ※今回紹介するのはマインスイーパー機能だけです。
 ---
 
 [![マインスイーパー](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208134908.png)](#4/5/45346031.png "マインスイーパー")  

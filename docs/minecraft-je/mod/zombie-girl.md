@@ -1,6 +1,5 @@
 ---
 title: 【MOD紹介】可愛いゾンビ!可愛いゾンビ!ヘイ!「ゾンビガールMOD」
- 女の子だってゾンビになっちゃう！　　ですが・・・・・・・
 ---
 
 **[![ゾンビガール](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155843.png)](#b/f/bf5c7822.png "ゾンビガール")  

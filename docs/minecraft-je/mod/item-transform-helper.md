@@ -1,6 +1,5 @@
 ---
 title: 【MOD紹介】1.8対応! 剣などのアイテムを自由自在に変形/回転「ItemTransformHelper」
- 今回紹介するのは、TheGreyGhostさん制作の「Item Transform Helper」です。なんと手に持ったアイテムやブロックを自由に変形/回転/移動できます。
 ---
 
 [![ItemTransformHelper](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164850.png)](#e/6/e6c0e0ff.png "ItemTransformHelper")  

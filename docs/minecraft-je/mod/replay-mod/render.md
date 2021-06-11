@@ -1,6 +1,5 @@
 ---
 title: 低スペでも影付きヌルヌル動画! 影MODを使いながらリプレイ動画を書き出す方法
- この動画書き出し機能を活用すれば、低スペックなPCでも影MOD付きでNullNullな動画を作れます。これまで諦めていた、美しい建築PVなどの動画制作を始めてみませんか。
 ---
 
 ![ReplayMod影MOD動画書き出し](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164750.png)
