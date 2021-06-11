@@ -83,7 +83,5 @@ Forgeの導入方法については[こちらの記事](/new-way-to-install-mod/
 導入後起動すると、プレイ中画面に**二次配布防止のための警告文**が現れます。  
 この警告の消し方については[作者さんフォーラム](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=13633)をご参照下さい。
 
-[@ngt5479さんのツイート](https://twitter.com/ngt5479) !function(d,s,id){var js,fjs=d.getElementsByTagName(s)\[0\],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-
 また、この記事の情報は**2015年7月29日現在のもの**となります。  
 このRealTrainModの最新情報は、作者の[ngt5479氏のTwitter](https://twitter.com/ngt5479)をチェックして下さい。

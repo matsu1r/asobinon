@@ -8,7 +8,7 @@ title: マインクラフトPE アップデート0.12のリリース日は大体
 
 \[9/5追記\] この記事のタイトルに、「9/8に決定!」と書きましたが、正しい開発者のツイートの解釈は「上手く行けば9月8日に出揃うだろう」というものでした。誤った表記を放置してしまい申し訳ありませんでした。
 
-.article-body-inner #onlysp-tweet-button{display:none;}
+.article-body-inner 
 
 > This hopefully means that MCPE will come out for iOS around the 8th of September along with all other versions!
 > 
@@ -44,8 +44,6 @@ Tommaso氏によると、**来週行われる”配信”(生放送か何か?)�
 > ? Daniel Wustenhoff (@darngeek) [2015, 10月 7](https://twitter.com/darngeek/status/651727193920413696)
 
 \[15/10/7追記\]PEの開発者Daniel氏が、**レッドストーンパウダーとランプの画像を公開**しました。▲レッドストーンの開発は進んでいる模様です。
-
-[ツイート](https://twitter.com/share) !function(d,s,id){var js,fjs=d.getElementsByTagName(s)\[0\],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 
 **▲ツイートして拡散して頂ければ嬉しいです。**
 

@@ -94,7 +94,7 @@ Activate/Deatcivate Machineにチェックを入れると、その**看板を右
 
 ![看板の文字の装飾](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121345.jpg)
 
-span.muno-futoji{position:relative;}span.muno-futoji:after{content:"太字";display:inline;position:absolute;width:200%;left:3px;}
+
 
 看板は4行に分けて好きな文章を入力します。文字色、斜体、太字、下線のオプションも用意されています。ですがこれ、**行ごとの装飾しかできない**ので文字ごとに細かく装飾したい方は[こちらの記事](https://www.napoan.com/sign-command-generator/)で解説したツールをお使い下さい。
 

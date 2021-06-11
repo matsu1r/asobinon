@@ -43,7 +43,7 @@ http://mcstacker.bimbimma.com/](http://mcstacker.bimbimma.com/)
 **「Command type:」をgive**コマンドモードに切り替えて、Player Nameに面倒なのでとりあえず**「@p」**と入力。「Item:」に「poti」まで打てば色々なポーションが出てきますが、実はここでオリジナルポーションの見た目を決めているんです。**例えばここでPoisonを選んだからって、後で効果を設定すれば毒は消えます。**  
 →\[2016年3月6日追記\]バージョン1.9では、**ここで選んだポーションの効果も残る**ようです。コメント等でのご指摘ありがとうございました。
 
-table div.imgholder{position:relative;overflow:hidden;width:32px;height:32px;} table img.potionsprite{max-width:32768px!important;width:1043px;height:32px;position:absolute;margin:0px!important}
+ table img.potionsprite{max-width:32768px!important;width:1043px;height:32px;position:absolute;margin:0px!important}
 
 作りたいポーションの色
 
@@ -156,7 +156,7 @@ Slowness Potion
 
 ▲バージョン1.9からの新しいポーションを入手するコマンドです。今までは、**「/give @p minecraft:potion 個数 8198」**などと**「ダメージ値」**を書いて種類を指定していましたが、**代わりに「{Potion:”ポーションID”}」と書いて種類を指定するようになりました。**
 
-.article-body-inner thead th{text-align:center!important;}
+
 
 バージョン1.9からの「Potion:」タグに入れるポーションID一覧  
 (スプラッシュポーションの場合もIDは同じ)

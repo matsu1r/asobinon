@@ -15,8 +15,6 @@ slug: /minecraft/update/v0-13/v0/
 アップデート日はいつ？  
 ****Android版もリリースされました!** iOS版とWindows10版、amazonアプリストア版はリリース済みです。**
 
-[ツイート](https://twitter.com/share) !function(d,s,id){var js,fjs=d.getElementsByTagName(s)\[0\],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-
 **Minecraft PE (マイクラPE)のアップデート0.13.0のアップデート内容をまとめました。**ベータ版の内容や、開発者さんのTwitter、[公式Wikiの情報](http://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.13.0)を翻訳しつつ載せてます。PEと**同じ内容でWindows10版にもアップデートが来ました。**
 
 ## 目次
@@ -117,7 +115,7 @@ https://www.napoan.com/pe-desert-temple-seed/](/pe-desert-temple-seed/ "ピラ�
 
 ## ブロックやアイテムの追加、変更点
 
-.item-list-table tbody th{text-align:left!important;font-weight:bold;font-size:1.05em;background-color:#D2FFFF!important;}.item-list-table tbody td{padding:0.4em;}
+.item-list-table tbody th{text-align:left!important;font-weight:bold;font-size:1.05em;background-color:
 
 PE0.13の新ブロック/新アイテムのレシピと解説一覧
 

@@ -10,7 +10,7 @@ title: 【紹介/配布編】新感覚PvPマップ! 「空中浮遊バトル」�
 マルチプレイで是非、**新感覚のPvPをお楽しみ下さい。**  
 使っているコマンドの仕組み等は、**後日投稿する「解説編」**をお待ち下さい。
 
-#article-contents p#rrr br{display:none!important;}
+
 
 ## 目次
 

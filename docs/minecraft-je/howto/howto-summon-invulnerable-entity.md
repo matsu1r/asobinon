@@ -10,7 +10,7 @@ title: 攻撃を受けない不死身のMobを召喚する方法 – ショッ�
 そこで、コマンドを使って**特定のエンティティに対する攻撃を無効にしましょう。**  
 今回は、**エンティティが攻撃を受けなくなるNBTタグ**「Invulnerable」を解説します。
 
-#article-contents p#rrr br{display:none;}
+
 
 ## 目次
 

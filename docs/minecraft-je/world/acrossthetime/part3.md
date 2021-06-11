@@ -10,7 +10,7 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 [**<< Part2** 職業を選んで街を探索](/AcrossTheTime-part2/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part2")  
 [砂漠のダンジョンで謎解き/ボス戦! **Part4 >>**](/AcrossTheTime-part4/ "砂漠のダンジョンで謎解き/ボス戦! 大長編RPG配布ワールド「AcrossTheTime」攻略 part4")
 
-.att-back-link{float:left;}.att-next-link{float:right;} .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-back-link:hover , .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
+ .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
 [**<< Part2** 町の人々との出会いと買い物](/AcrossTheTime-part2/ "ハンター? 忍者? 職業を選ぼう! 大長編RPG配布ワールド「AcrossTheTime」攻略 part2")
 

@@ -24,7 +24,7 @@ title: 【MOD解説】後からプレイを撮影!「ReplayMod」のリプレイ
 
 [動画書き出し完全ガイド **part2 >>**](/replay-mod-part2/ "【MOD解説】「ReplayMod」動画書き出し完全ガイド- 高画質/360°でYouTubeに!【Minecraft】")
 
-.att-back-link{float:left;}.att-next-link{float:right;} .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-back-link:hover , .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
+ .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
 ## 「ヌルヌル動画」ってどんなの?
 

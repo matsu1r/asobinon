@@ -9,7 +9,7 @@ MinecraftPEのアップデート0.12で追加された**新要素「エンチャ
 **全種類の道具/武器/防具ごとに付くエンチャント効果を全てまとめました。**ダメージの増加量や、幸運でのアイテム増加率など細かいデータも表や図を駆使してまとめています。この記事を読めば、隠れた効果を最大限活用して、効率のいいサバイバル生活を送れます。  
 (エンチャントテーブルの使い方、効果の強化と合成は[基本編](/enchant-guide-basic/)にまとめています)
 
-#article-contents p#rrr br{display:none;}
+
 
 ## 目次
 
@@ -479,7 +479,7 @@ V(金床限定)
 
 **ダメージ2.0でハート1個です。**ダメージの数値÷2がハートの数です。
 
-#article-contents dl{margin:35px 15px 15px;padding:17px;border:solid 1px #A1A1A1;box-shadow:0px 3px 0px rgba(1,1,1,0.1);position:relative;}#article-contents dl dt{display: inline-block;background: #fff;padding: 0 10px;font-weight: bold;font-size:1.1em;}#article-contents dl dd{margin-left:0px;}#article-contents p{margin-bottom:10px}#article-contents strong {background:linear-gradient(rgba(0,0,0,0) 80%, #ffff66 75%);font-weight:bold;}#article-contents h2{font-size: 20px;border: solid 1px #7f7f7f!important;padding: 6px 5px 6px 12px!important;border-radius:5px;width:90%;box-shadow:0px 3px 0px #DDD;}#article-contents h3 {font-size: 17px;border-bottom: 2px solid #D4D4D4;border-left: 3px solid #D4D4D4;padding-left: 7px;width: 90%;}#article-contents h4 {border-bottom:1px solid #ccc;font-size:15px;width:90%;margin-top:1.2em;} #article-contents kbd, .article-body-inner kbd{font-weight:bold;}#article-contents a{text-decoration:underline;}
+ 
 
 ### 弓矢なのに敵を殴ったようにぶっ飛ばせる「パンチ(衝撃)」
 

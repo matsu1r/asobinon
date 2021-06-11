@@ -280,7 +280,7 @@ _「ふやあああ!」_というミッションが出されています。
 
 [職業の選択、街での出会いと買い物 **Part2 >>**](/AcrossTheTime-part2/ "ハンター? 忍者? 職業を選ぼう! 大長編RPG配布ワールド「AcrossTheTime」攻略 part2")
 
-.att-next-link{float:right;} .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
+ .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
 ## 参考にさせて頂いたページ様
 

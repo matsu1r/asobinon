@@ -97,7 +97,7 @@ pe-nether-fortress-seed/](/pe-nether-fortress-seed/ "ネザー要塞にすぐ行
 
 [記事はまだ続きます! 各ポーションの作り方一覧 >>](2/)
 
-.map-table{margin-bottom:10px;}.map-table th{padding:12px 19px 11px;}.map-table th{background:#e1e1e1;text-align:center;font-weight:bold;}.map-table td{text-align:left!important;} td.upslot, td.underslot{font-size:1.2em;font-weight:bold;}
+
 
 ### 暗いところをハッキリ見る! 「暗視のポーション」の作り方/材料
 
@@ -186,7 +186,7 @@ pe-nether-fortress-seed/](/pe-nether-fortress-seed/ "ネザー要塞にすぐ行
 
 他のポーションと同じように**レッドストーンパウダーを加えれば、効果時間を延長できる。**(3分→8分)この時、強化版跳躍のポーションの効果時間を延長しようとすると、効果の強さが元に戻ってしまうので注意。
 
-.map-table{margin-bottom:10px;}.map-table th{padding:12px 19px 11px;}.map-table th{background:#e1e1e1;text-align:center;font-weight:bold;}.map-table td{text-align:left!important;} td.upslot, td.underslot{font-size:1.2em;font-weight:bold;} #article-contents strong {background:linear-gradient(rgba(0,0,0,0) 80%, #ffff66 75%);font-weight:bold;}#article-contents h2{font-size: 20px;border: solid 1px #7f7f7f!important;padding: 6px 5px 6px 12px!important;border-radius:5px;width:90%;box-shadow:0px 3px 0px #DDD;}#article-contents h3 {font-size: 17px;border-bottom: 2px solid #D4D4D4;border-left: 3px solid #D4D4D4;padding-left: 7px;width: 90%;}
+ 
 
 ### 溶岩の中を泳げる! 「耐火のポーション」の作り方/材料
 
@@ -467,7 +467,7 @@ pe-nether-fortress-seed/](/pe-nether-fortress-seed/ "ネザー要塞にすぐ行
 
 レッドストーンパウダーを加えれば、効果時間を**1分半→4分に**延長できる。
 
-.map-table{margin-bottom:10px;}.map-table th{padding:12px 19px 11px;}.map-table th{background:#e1e1e1;text-align:center;font-weight:bold;}.map-table td{text-align:left!important;} td.upslot, td.underslot{font-size:1.2em;font-weight:bold;} #article-contents strong {background:linear-gradient(rgba(0,0,0,0) 80%, #ffff66 75%);font-weight:bold;}#article-contents h2{font-size: 20px;border: solid 1px #7f7f7f!important;padding: 6px 5px 6px 12px!important;border-radius:5px;width:90%;box-shadow:0px 3px 0px #DDD;}#article-contents h3 {font-size: 17px;border-bottom: 2px solid #D4D4D4;border-left: 3px solid #D4D4D4;padding-left: 7px;width: 90%;}
+ 
 
 ## 敵Mobや他のプレイヤーに投げる「スプラッシュポーション」の作り方
 

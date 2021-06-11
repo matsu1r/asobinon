@@ -43,7 +43,7 @@ title: 「Loot Table (ドロップ表)」の使い方 Part1 Mobとチェスト�
 
 ## バニラで用意されているルートテーブル(ドロップ表)一覧
 
-table.loottable-list td{font-family:Consolas, 'Courier New', Courier, Monaco, monospace, Noto Sans;font-weight:bold;}
+
 
 バニラで用意されているLoot table一覧
 

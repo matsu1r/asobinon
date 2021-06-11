@@ -15,7 +15,7 @@ https://blogs.technet.microsoft.com/xboxjapanblog/2017/10/24/minecraft\_better\_
 
 **ただ単に「Minecraft」だけが入ったパッケージ版は販売されておりません。** 既に発売中の「エクスプローラーパック」も、12月7日発売予定後日発売予定の「スーパープラスパック」も、いくつかのDLCがセットになっています。**「スーパープラスパック」は、「エクスプローラーパック」の内容に加えて、「レッドストーンスペシャリストスキンパック」、そして待望の**「スーパーデューパーグラフィックスパック(リアルになるやべーやつ)」**も同梱された上位版です。**
 
-td.green{background-color: #C6EFCE; color: #006100;}td.red{background-color: #FFC7CE; color: #9C0006;}
+td.green{background-color: 
 
 「エクスプローラーパック」と「スーパープラスパック」の違い
 

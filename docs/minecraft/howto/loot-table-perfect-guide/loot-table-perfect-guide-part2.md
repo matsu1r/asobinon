@@ -19,7 +19,7 @@ https://www.napoan.com/data-pack-perfect-guide/](https://www.napoan.com/data-pac
 
 まずは▲の記事を参考に、あなたのワールドの中に「データパック」を作ってください。 データパックを作る際に名前空間フォルダを作りますが、バニラのルートテーブルを上書きしたい場合は「minecraft」に、そうでない場合は英数字で好きな名前を付けてください。 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208122103.png) そして名前空間フォルダの中に、loot\_table**s**という名前のフォルダを作成します。 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208114319.png) loot\_table**s**フォルダの中にルートテーブルのJSONを入れていくわけですが、**この中にさらにフォルダを作成して、JSONを整理することもできます。**もちろんloot\_table**s**フォルダ直下にJSONを入れても構いません。 そこに新規テキストファイルを作成して、**小文字の英数字とアンダーバーで名前を付け、末尾に.jsonを付けてください。** ## jsonの編集にはメモ帳ではなく高機能なテキストエディタを使おう ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208124328.jpg) 作成したJSONファイルをいよいよ編集していくのですが、ここで注意点を1つ。**Windows付属の「メモ帳」はおすすめしません。**こういう文書ファイルでは一文字のミスも許されませんから、**自動整形だとか構文チェックをしてくれる多機能なエディタでjsonファイルを開くことをお勧めします。** ちなみに私は**「Sublime Text 3」にMaterialってテーマを適用**して使ってます。 ## ルートテーブルの基本の書き方。アイテムのスロット数と出現確率を設定するには まずは以下のサンプルをコピペしてjsonに貼り付けてみましょう。 \`\`\`json { "pools":\[ { "rolls":3, "bonus\_rolls":2, "entries":\[ { "type":"item", "name":"minecraft:stone", "weight":2 }, { "type":"item", "name":"minecraft:diamond", "weight":1 } \] } \] } \`\`\` 基本的な書き方が分かっていただけたかと思います。「pools」の中に「entries」があり、その中にアイテムを書いていくんです。
 
-ul.code-guide li{margin:6px 0px;}
+
 
 *   “pools”: – 四角カッコの中にアイテムのパターンを書きます。
     

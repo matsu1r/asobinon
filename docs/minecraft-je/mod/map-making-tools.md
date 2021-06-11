@@ -18,7 +18,7 @@ title: 1.8のシングルでもWorldEditの機能を。ワールド製作者は�
 *   [地味に便利! アイテムやブロックのIDを簡単に入力](#id-input)
 *   [「Map Making Tools」の導入方法](#inst)
 
-b.command{font-size: 1.05em;font-weight: bold;display: inline-block;margin: 2px;padding: 3px;border-radius: 3px;font-weight: bold;color: rgb(0, 0, 0);background: #DBDBDB;}
+
 
 ## 選択範囲が見える! 一括破壊/壁や床を設置する機能
 

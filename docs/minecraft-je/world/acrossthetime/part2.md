@@ -14,7 +14,7 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
 [**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1") [レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part3/ "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
 
-.att-back-link{float:left;}.att-next-link{float:right;} .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-back-link:hover , .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
+ .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
 [
 
@@ -24,7 +24,7 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
 [napoan](https:/https://web.archive.org/web.archive.orghttps://web.archive.org/web/20200623233705/https://www.napoan.com/author/2687e8/)
 
-#article-contents dl{margin:35px 15px 15px;padding:17px;border:solid 1px #A1A1A1;box-shadow:0px 3px 0px rgba(1,1,1,0.1);position:relative;}#article-contents dl dt{display: inline-block;background: #fff;padding: 0 10px;font-weight: bold;font-size:1.1em;}#article-contents dl dd{margin-left:0px;}#article-contents p{margin-bottom:10px}#article-contents strong {background:linear-gradient(rgba(0,0,0,0) 80%, #ffff66 75%);font-weight:bold;}#article-contents h2{font-size: 20px;border: solid 1px #7f7f7f!important;padding: 6px 5px 6px 12px!important;border-radius:5px;width:90%;box-shadow:0px 3px 0px #DDD;}#article-contents h3 {font-size: 17px;border-bottom: 2px solid #D4D4D4;border-left: 3px solid #D4D4D4;padding-left: 7px;width: 90%;} #article-contents kbd, .article-body-inner kbd{font-weight:bold;}.article-body-inner blockquote:before{display:none!important;}
+
 
 [**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1")
 
@@ -695,7 +695,7 @@ _ステータス...更新...神様... うっ頭が_
 
 [レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part3/ "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
 
-.att-next-link{float:right;} .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
+ .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
 * * *
 

@@ -9,7 +9,7 @@ title: チームのキル数を合計して表示する方法 – ゼロから�
 
 [乗るだけでチーム分けできる装置の作り方 **Part2 >>**](/pvp-grouping-machine/ "[Minecraft] 乗るだけでチーム分けできる装置の作り方 -ゼロから自作するPvP作成講座#2 [コマンド解説]")
 
-.att-back-link{float:left;}.att-next-link{float:right;} .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-back-link:hover , .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
+ .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
 ## 目次
 
@@ -191,7 +191,7 @@ PvPを動かすのに必要な「スコアボード」を作成するコマン�
 
 [乗るだけでチーム分けできる装置の作り方 **Part2 >>**](/pvp-grouping-machine/ "[Minecraft] 乗るだけでチーム分けできる装置の作り方 -ゼロから自作するPvP作成講座#2 [コマンド解説]")
 
-.att-back-link{float:left;}.att-next-link{float:right;} .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:#fff;border:solid 1px #777;text-decoration:none!important;color:#000;transition:all .4s;border-radius:5px;} .att-back-link:hover , .att-next-link:hover{border-color:#000000!important;color:#000000!important;box-shadow:0px 0px 5px rgba(100,100,100,1);transition:all .4s;}
+ .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
 ![最後までお読み頂きありがとうございました](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208161849.png)
 

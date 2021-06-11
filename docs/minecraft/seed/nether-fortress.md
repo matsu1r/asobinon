@@ -131,7 +131,7 @@ title: ネザー要塞(砦)にすぐ行けるシード値5選 – 誰よりも�
 
 シード値情報元: [http://www.youtube.com/watch?v=LaxfVcrlNQE](http://www.youtube.com/watch?v=LaxfVcrlNQE)
 
-#article-contents p{margin-bottom:10px}#article-contents strong{background:linear-gradient(rgba(0,0,0,0) 80%, #ffff66 75%);font-weight:bold;}#article-contents h1{border-left: 5px solid #7f7f7f;box-shadow: 0px 0px 6px rgba(100,100,100,0.5);padding-left: 6px;line-height:1.8rem;border-radius: 0px 3px 3px 0px;font-size: 1.5rem;position: relative;width: 95%}#article-contents h2{font-size: 1.1em;border: solid 1px #7f7f7f!important;padding: 6px 5px 6px 12px!important;border-radius:5px;width:90%;box-shadow:0px 3px 0px #DDD;}
+
 
 < div style="margin: 15px; border: dashed 2px #228B22; border-radius: 10px; padding: 12px;">![最後までお読み頂きありがとうございました](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208133108.jpg)  
 **「こんなシード値を紹介して欲しい!」といったコメント、待ってます!**
