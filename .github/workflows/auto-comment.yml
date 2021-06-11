@@ -1,0 +1,19 @@
+name: Auto Comment
+on:
+  issues:
+  pull_request:
+    branches: [main]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: bubkoo/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issuesOpenedReactions: 'hooray, +1, eyes'
+          issuesOpened: >
+            👋 @{{ author }}
+            投稿ありがとうございます！
+          pullRequestOpened: >
+            👋 @{{ author }}
+            プルリクエストありがとうございます！「Vercel」っていうbotが、ちゃんと動くかテストをしてくれています。テストが終わったらサイトに反映されるので、しばらくお待ちください！
