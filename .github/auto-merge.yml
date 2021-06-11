@@ -1,0 +1,4 @@
+reportStatus: true
+rules:
+  - minApprovals:
+    COLLABORATOR: 0
