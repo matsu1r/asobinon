@@ -21,6 +21,8 @@ We are currently supporting Japanese language only. (Sorry, but admin is not goo
 
 編集作業に参加する前に、[CONTRIBUTING.md](https://github.com/sasigume/asobinon/blob/main/CONTRIBUTING.md)をご確認ください。
 
+(2021/06/12追記) 自動マージを有効にしました。
+
 ## Contributersとは
 
 誰でもプルリクエストできますが、特別に直接レポジトリにプッシュできるメンバーを「Contributers」の一覧に表示されます。参加申請はIssueまでどうぞ。
