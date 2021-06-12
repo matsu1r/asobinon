@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-slug: /minecraft-je/howto/mcje_portable/
+slug: /minecraft-je/howto/mcje-portable/
 ---
 # Minecraft JEのポータブル化(USBメモリ等で持ち運ぶ)の方法と注意点の備忘録
 

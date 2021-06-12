@@ -1,7 +1,7 @@
 ---
 title: おすすめミニマップMODを4つ厳選! 機能/使い方を徹底比較
-slug: /minecraft-je/howto/minimap-battle/
 sidebar_position: 0
+slug: /minecraft-je/howto/minimap-battle/
 ---
 
 ![](https://firebasestorage.googleapis.com/v0/b/asobinon-org.appspot.com/o/images%2Fuserupload%2FIIuR576aZBU8hsSybuEAU58oAkv2%2F75d2a21c-72ca-4c11-a610-c9c9401735a8.png?alt=media&token=d0a85d72-3624-4395-a827-b68aac48e5ab)

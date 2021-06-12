@@ -2,6 +2,8 @@
 title: 特殊な要素の書き方
 ---
 
+以下の要素は、環境によっては使えない場合もあります。
+
 ## 絵文字
 
 GitHubやDiscordと同じように、`:smile:`(:smile:)、`:rage:`(:rage:) といったemojiが使える。
@@ -80,7 +82,7 @@ Docusaurus v2以外では使えないので注意。**GitHub上ではただの�
 
 ### タイトル付き
 
-`:::note タイトル`と書けば、`タイトル`がタイトルになる。
+`:::note タイトル`と書けば、`タイトル`がタイトルになる。(別にwarningとかでも構わない)
 
 :::note タイトル
 タイトル付きお知らせ
@@ -91,6 +93,30 @@ Docusaurus v2以外では使えないので注意。**GitHub上ではただの�
 タイトル付きお知らせ
 :::
 ```
+
+## 数式
+
+[KaTeX](https://katex.org/)を使える。(いつ使うんだよってツッコミは無しな! ...ウマ娘の育成論とかでワンチャン使えるんじゃね?)
+
+```md
+Let $f:[a,b] \to \R$ be Riemann integrable. Let $F:[a,b]\to\R$ be $F(x)=
+\int_{a}^{x}f(t)dt$. Then $$F$$ is continuous, and at all $x$ such that $f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.
+```
+
+Let $f:[a,b] \to \R$ be Riemann integrable. Let $F:[a,b]\to\R$ be $F(x)=
+\int_{a}^{x}f(t)dt$. Then $$F$$ is continuous, and at all $x$ such that $f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.
+
+### ブロック
+
+```md
+$$
+I = \int_0^{2\pi} \sin(x) dx
+$$
+```
+
+$$
+I = \int_0^{2\pi} \sin(x) dx
+$$
 
 ## カスタムブロック
 

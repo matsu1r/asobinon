@@ -1,7 +1,7 @@
 ---
 title: LiteLoader導入方法の目次
-slug: /minecraft-je/howto/install-liteloader/
 sidebar_position: 0
+slug: /minecraft-je/howto/install-liteloader/
 ---
 
 ![LiteLoaderをForgeと共存させる方法](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123321.png)

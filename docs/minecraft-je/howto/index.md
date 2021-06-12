@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Editionのハウツー記事
-slug: /minecraft-je/howto/
 sidebar_position: 0
+slug: /minecraft-je/howto/
 ---
 
 このセクションには、Minecraft Java Editionのハウツーを集めた。

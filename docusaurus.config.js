@@ -1,14 +1,17 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
+const THEME_COLOR = '#ff3f00';
 const remarkCustomBlocks = require('remark-custom-blocks');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 
 module.exports = {
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  title: 'ASOBINON',
-  tagline: 'アソビノン。GitHubで管理するゲーム攻略サイト',
+  title: 'アソビノン',
+  tagline: '非営利・オープンソースゲーム攻略サイト',
   url: 'https://asobinon.org',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -52,33 +55,22 @@ module.exports = {
           label: 'Minecraft (BE)',
           items: [
             {
-              to: '/minecraft/howto/bedrock-friend-multiplayer-guide/',
-              label: 'マルチプレイ方法',
-            },
-            {
-              to: '/minecraft/howto/mobile-switch-world-transfer/',
-              label: 'ワールド転送方法',
-            },
-            {
-              to: '/minecraft/howto/howtouse-extra-addon-switch/',
-              label: 'スイッチでアドオン',
-            },
-            {
-              to: '/minecraft/howto/bedrock-command-words-pickup/',
-              label: 'コマンド用語集',
-            },
-            {
-              to: '/minecraft/howto/howtouse-summon-command/',
-              label: 'summonコマンドの使い方',
-            },
-            {
-              to: '/minecraft/reference/command-bedrock/',
-              label: 'BEのコマンド一覧',
+              to: '/minecraft/howto//',
+              label: 'ハウツー',
             },
             {
               to: '/minecraft/addon/',
               label: 'アドオン',
             },
+            {
+              to: '/minecraft/seed/',
+              label: 'シード値',
+            },
+            {
+              to: '/minecraft/addon/',
+              label: 'アドオン',
+            },
+            { to: '/minecraft/command/', label: 'コマンド' },
           ],
         },
         {
@@ -86,28 +78,16 @@ module.exports = {
           label: 'Minecraft (JE)',
           items: [
             {
-              to: '/minecraft-je/howto/osusume-mod',
-              label: 'おすすめMOD',
-            },
-            {
-              to: '/minecraft-je/howto/install-forge/',
-              label: 'MOD(Forge)導入方法',
-            },
-            {
-              to: '/minecraft-je/howto/buy/',
-              label: '購入方法',
+              to: '/minecraft-je/howto/',
+              label: 'ハウツー',
             },
             {
               to: '/minecraft-je/mod/',
-              label: 'MOD一覧',
+              label: 'MOD',
             },
           ],
         },
-        {
-          href: 'https://client.asobinon.org/buy',
-          position: 'right',
-          label: '支援する',
-        },
+        { to: '/blog', label: 'ブログ' },
         {
           href: 'https://github.com/sasigume/asobinon',
           position: 'right',
@@ -130,28 +110,32 @@ module.exports = {
               to: '/minecraft-je/',
               label: 'Minecraft (JE)',
             },
+            {
+              to: '/hytale/',
+              label: 'Hytale',
+            },
           ],
         },
         {
-          title: '支援する',
+          title: '編集ガイド',
           items: [
             {
-              href: 'https://client.asobinon.org/buy',
-              label: 'ちょっとだけ支援',
+              to: '/ASOBINON/contribute/markdown/',
+              label: 'Markdownの書き方',
             },
             {
-              href: 'https://client.asobinon.org/law',
-              label: '特定商取引法に基づく表示',
+              to: '/ASOBINON/contribute/image/',
+              label: '画像アップ方法',
+            },
+            {
+              to: '/ASOBINON/contribute/local/',
+              label: 'ローカルで編集する方法',
             },
           ],
         },
         {
           title: '特別なページ',
           items: [
-            {
-              to: '/ASOBINON/contribute/',
-              label: '編集ガイド',
-            },
             {
               to: '/code-of-conduct/',
               label: '行動規範',
@@ -178,12 +162,8 @@ module.exports = {
               href: `https://discord.gg/ASAXKMH`,
             },
             {
-              label: 'お問い合わせ',
-              href: `https://client.asobinon.org/contact`,
-            },
-            {
-              label: '運営',
-              href: `https://aely.one`,
+              label: '管理人に連絡',
+              href: `https://twitter.com/sasigume`,
             },
           ],
         },
@@ -200,11 +180,9 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-
-          /* https://github.com/sasigume/asobinon-client/tree/main/src/pages/edit/index.tsx
-          新エディター */
-          editUrl: 'https://client.asobinon.org/editor?path=',
+          editUrl: 'https://github.com/sasigume/asobinon/edit/main/',
           remarkPlugins: [
+            math,
             [
               remarkCustomBlocks,
               {
@@ -225,12 +203,30 @@ module.exports = {
               },
             ],
           ],
+          rehypePlugins: [katex],
+        },
+        blog: {
+          blogTitle: '運営ブログ',
+          blogDescription: 'アソビノンの編集に関することを記録するブログです。',
+          path: './blog',
+          feedOptions: {
+            type: 'all',
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
+  ],
+  stylesheets: [
+    {
+      // KaTeX用
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      type: 'text/css',
+      integrity: 'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous',
+    },
   ],
   themes: ['@saucelabs/theme-github-codeblock'],
   plugins: [
@@ -253,7 +249,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'theme-color',
-            content: '#ff3f00',
+            content: THEME_COLOR,
           },
           {
             tagName: 'meta',
@@ -263,7 +259,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'apple-mobile-web-app-status-bar-style',
-            content: '#ff3f00',
+            content: THEME_COLOR,
           },
           {
             tagName: 'link',
@@ -274,7 +270,7 @@ module.exports = {
             tagName: 'link',
             rel: 'mask-icon',
             href: '/pwa/manifest-icon-512x.png',
-            color: '#ff3f00',
+            color: THEME_COLOR,
           },
           {
             tagName: 'meta',
@@ -284,7 +280,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'msapplication-TileColor',
-            content: '#ff3f00',
+            content: THEME_COLOR,
           },
         ],
       },

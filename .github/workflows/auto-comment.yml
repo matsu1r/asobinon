@@ -1,7 +1,6 @@
 name: Auto Comment
 on:
-  issues:
-  pull_request:
+  pull_request_target:
     branches: [main]
 jobs:
   run:
@@ -10,10 +9,11 @@ jobs:
       - uses: bubkoo/auto-comment@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          issuesOpened: >
-            👋 @{{ author }}
-            issue投稿ありがとうございます。確認に時間がかかるかもしれませんが、しばらくお待ちください。
-
+          pullRequestOpenedReactions: 'hooray, +1, eyes'
           pullRequestOpened: >
             👋 @{{ author }}
-            プルリクエストありがとうございます。確認に時間がかかるかもしれませんが、しばらくお待ちください。
+            プルリク受け取りました！自動でマージされます。**本体サイトの更新には、もう三分ほど時間がかかります。**
+            もし`Some checks were not successful` と出ている場合は反映できていないので、**記事内のHTMLがJSXとして有効かどうか** などをご確認ください。
+          pullRequestClosed: >
+            👋 @{{ author }}
+            PRはクローズされました!

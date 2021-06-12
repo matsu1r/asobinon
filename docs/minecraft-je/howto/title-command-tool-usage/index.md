@@ -1,7 +1,7 @@
 ---
-slug: /minecraft-je/howto/title-command-tool-usage/
 title: titleコマンドを簡単に作れるツールの使い方
 sidebar_position: 0
+slug: /minecraft-je/howto/title-command-tool-usage/
 ---
 
 バージョン1.8で追加され、配布ワールドで必ずといっていいほど使われている**「titleコマンド」**。画面の真ん中にドでかい文字を表示するコマンドですが、**バージョン1.11で新機能が追加されたのをご存知ですか? 画面の中央のやや下、普段は「LSHIFTで降りる」などが表示される「アクションバー」に、好きなメッセージを表示できるようになったんです。**今回はそんなtitleコマンドを、**簡単に作成できるWebツール**の使い方をご紹介します。

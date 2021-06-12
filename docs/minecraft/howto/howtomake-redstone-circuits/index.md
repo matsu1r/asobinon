@@ -28,11 +28,11 @@ sidebar_position: 0
 
 ![ホッパーを使ったクロック回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105210.jpg)
 
-**0.14で追加された「[ホッパー](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#hopper)」を使ってもクロック回路が作れます。**向かい合わせて接続し、**(スニークしながら設置すれば繋がるはずです)**片方に適当なアイテムを入れ、コンパレーターを設置すれば定期的にON/OFFが繰り返されます。
+**0.14で追加された「[ホッパー](https://exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#hopper)」を使ってもクロック回路が作れます。**向かい合わせて接続し、**(スニークしながら設置すれば繋がるはずです)**片方に適当なアイテムを入れ、コンパレーターを設置すれば定期的にON/OFFが繰り返されます。
 
 ![コンパレーターを使ったクロック回路の作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104107.jpg)
 
-さらに[コンパレーター](//exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-comparator)を使っても簡単にクロック回路が作れます。**コンパレーターをタップすると赤く光り減算モードになる**ので、そこに図のようにパウダーとレバーを設置してONにすればカチカチと周期的に信号を発します。
+さらに[コンパレーター](https://exr-nap.sakura.ne.jp/www.napoan.com/pe-alpha-014/2/#rs-comparator)を使っても簡単にクロック回路が作れます。**コンパレーターをタップすると赤く光り減算モードになる**ので、そこに図のようにパウダーとレバーを設置してONにすればカチカチと周期的に信号を発します。
 
 ## 信号のオンオフを保持し、切り替え可能な”ラッチ回路”の作り方
 

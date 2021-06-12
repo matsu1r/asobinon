@@ -1,0 +1,3 @@
+reportStatus: true
+minApprovals:
+  COLLABORATOR: 0
