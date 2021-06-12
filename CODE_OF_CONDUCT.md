@@ -1,3 +1,3 @@
 # コントリビューター行動規範
 
-Webサイト上で表示するために、このプロジェクトの行動規範は[docsフォルダ内](./website/docs/code-of-conduct.md)に配置している。
+Webサイト上で表示するために、このプロジェクトの行動規範は[docsフォルダ内](./docs/code-of-conduct.md)に配置している。

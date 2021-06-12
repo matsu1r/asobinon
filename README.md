@@ -23,10 +23,4 @@ We are currently supporting Japanese language only. (Sorry, but admin is not goo
 
 ## Contributersとは
 
-誰でもプルリクエストできますが、特別に直接レポジトリにプッシュできるメンバーを「Contributers」の一覧に表示されます。参加申請はIssueまたは[お問い合わせ](https://md-contact.ima.icu)までどうぞ。
-
-## デプロイ時の注意
-
-Vercelのプロジェクト設定で、`website`をフォルダとして指定します。
-
-デプロイ中に「not a git repository」のようなエラーが出る場合は、**「フォルダ以外のファイルを含める」にチェックを入れて**ください。
+誰でもプルリクエストできますが、特別に直接レポジトリにプッシュできるメンバーを「Contributers」の一覧に表示されます。参加申請はIssueまでどうぞ。
