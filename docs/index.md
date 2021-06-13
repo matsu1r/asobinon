@@ -4,7 +4,7 @@ sidebar_position: 0
 slug: /
 ---
 
-<img style={{maxWidth:"600px"}} src="https://asobinon.org/ogp/ogp-1200x630.png" />
+![](https://asobinon.org/ogp/ogp-1200x630.png)
 
 
 ## Discord参加してね
