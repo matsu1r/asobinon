@@ -66,6 +66,10 @@ module.exports = {
               to: '/minecraft/seed/',
               label: 'シード値',
             },
+            {
+              to: '/minecraft/addon/',
+              label: 'アドオン',
+            },
             { to: '/minecraft/command/', label: 'コマンド' },
           ],
         },
