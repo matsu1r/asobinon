@@ -1,13 +1,13 @@
 ---
 title: ステップ2
---
+---
 ステップ2では、アドオンを作成するために必要な情報を作っていきます。。
 
 ## manifest.json
 アドオンには、そのアドオンがどういったものかを示すファイルがあります:`manifest.json`です。
 description、name、uuidには任意のもので上書きしてください。
 
-```json:manifest.json
+```json
 {
     "format_version": 1,
     "header": {
@@ -37,7 +37,8 @@ uuidは、アドオンを区別する識別子です。特に理由がなけれ�
 
 <details>
 <summary>ここで使用するmanifest.json</summary>
-```json:manifest.json
+
+```json
 {
     "format_version": 1,
     "header": {
