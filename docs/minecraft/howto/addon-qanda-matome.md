@@ -90,7 +90,8 @@ A. 私たちはフルにカスタマイズできるMinecraftへ向かって来�
 
 マイクラPE 0.16アップデート内容まとめ▼
 
-[![PEv016アップデート内容まとめ-2](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104407.png)  
-https://www.napoan.com/pe-update-016/](/pe-update-016/ "【マインクラフトPE】次回アップデート0.16内容まとめ")
+![PEv016アップデート内容まとめ-2](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104407.png)
+
+[こちら](/minecraft/update/v0-16/v0/ "【マインクラフトPE】次回アップデート0.16内容まとめ")
 
 そしてこの「アドオン」機能が実装される、マイクラPE/Win10の**アップデート「0.16」の内容まとめ**は▲こちらです。リリース予定日は10月18日。今のうちに予習しときましょ!
