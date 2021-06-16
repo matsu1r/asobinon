@@ -9,8 +9,7 @@ slug: /
 
 ## Discord参加してね
 
-[![Discord](https://img.shields.io/discord/390466362373570561)](https://discord.gg/ASAXKMH)
-
+[![Discord](https://img.shields.io/discord/390466362373570561?label=公式サーバー&logo=discord&color=5865f2&logoColor=fff)](https://discord.gg/ASAXKMH)
 [https://discord.gg/ASAXKMH](https://discord.gg/ASAXKMH)
 
 ## アソビノンとは
