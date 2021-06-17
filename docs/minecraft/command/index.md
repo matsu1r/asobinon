@@ -9,7 +9,7 @@ sidebar_position: 0
 ## コマンドの入力方法
 ### タッチパネル
 
-![](https://bn02pap001files.storage.live.com/y4mOlX9qD3v6rdZlYQjLjS6I0N-x7vkioHJ0qQcTUJpQuZbEn1lPiQBNy3z_D_TO_KVaf-Oj1O7Wumlpi4yS_WE8KX-w9C8QVxvwvYFDuioZ4sPGBGWbVHBgg-132JolOVVFolCOfnt8ZOFZsIYiwR31_P-YMoyZYyRJ_c6VDze23cJVtqBlrZW3oChpm3EjB5u?width=643&height=308&cropmode=none)
+![](https://bn02pap001files.storage.live.com/y4mt860eMNaGA-1Pb60eEx2fs-jC2uDm1_Hj66gAxIHxvn2EDfDA_ZmIlkYCNy8bOOczUN54Qd_aTlk9KJHQjf136lnytXtABJDXUl3qq4ObglWXsbCmt6i37eOPFBP_x5v0MUmW5Ohm48cI9gjw8vYNdfqqBlGkah9VGR5f-xOJOtAuYuBc8Yr0kR5Z8Nsd3Tc?width=256&height=123&cropmode=none)
 
 まずは画面上側のチャットボタンを押す。
 
@@ -24,7 +24,7 @@ sidebar_position: 0
 ## コマンドブロックの入手方法
 
 [[dl|コマンドブロックを1つ手に入れるコマンド]]
-|![](https://bn02pap001files.storage.live.com/y4muv1KVBX36wceiiJVeX05Y_q48w960vq7OXvKIK4uytr7Ss71UgLAuPcig9LVrhOX6t65sbwD71s3ojtowoCGwxUvTWL8fVbGxKqHkAnMr3qq1wGkTN3NLN1zOTRDnL287I67MwzuYQyImHDmnx3lK-oCqs-fnQvqg-9GNFpK-9CKFN9L0hTn7_jjN-MKdKQX?width=574&height=412&cropmode=none)
+|![](https://bn02pap001files.storage.live.com/y4mb1a0Sqi0VDfCqDck9oXWKbG8Liy0ivwhJS8Ox6vFIHa0m2hIFMfU7qHY4YZK9D7szrtQpvSQu8Xp3a0UZupJPv_Nah7H78TaZDVfmyhc2G_Djbw9QACYf7Mxg4l7MOn7aQafMX2j2wd7i3qvvzdQckr7iAAsQXxa2QfhBLJk0WRsaZFsUqnX3FjPE14MYPnd?width=574&height=412&cropmode=none)
 |```
 |/give @s command_block
 |```
