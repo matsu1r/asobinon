@@ -1,9 +1,8 @@
 ---
+title: Minecraft攻略 トップ
 sidebar_position: 0
 slug: /minecraft/
 ---
-
-# Minecraft攻略 トップ
 
 :::warning
 
