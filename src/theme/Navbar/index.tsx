@@ -4,8 +4,10 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+
 import React, { useCallback, useState, useEffect } from 'react';
 import clsx from 'clsx';
+
 import SearchBar from '@theme/SearchBar';
 import Toggle from '@theme/Toggle';
 import useThemeContext from '@theme/hooks/useThemeContext';
@@ -16,10 +18,14 @@ import useWindowSize, { windowSizes } from '@theme/hooks/useWindowSize';
 import NavbarItem from '@theme/NavbarItem';
 import Logo from '@theme/Logo';
 import IconMenu from '@theme/IconMenu';
-import styles from './styles.module.css'; // retrocompatible with v1
-const DefaultNavItemPosition = 'right'; // If split links by left/right
-// if position is unspecified, fallback to right (as v1)
 
+import styles from './styles.module.css';
+
+// retrocompatible with v1
+const DefaultNavItemPosition = 'right';
+
+// If split links by left/right
+// if position is unspecified, fallback to right (as v1)
 function splitNavItemsByPosition(items) {
   const leftItems = items.filter((item) => (item.position ?? DefaultNavItemPosition) === 'left');
   const rightItems = items.filter((item) => (item.position ?? DefaultNavItemPosition) === 'right');
@@ -29,7 +35,7 @@ function splitNavItemsByPosition(items) {
   };
 }
 
-function Navbar() {
+function Navbar(): JSX.Element {
   const {
     navbar: { items, hideOnScroll, style },
     colorMode: { disableSwitch: disableColorModeSwitch },
@@ -37,25 +43,32 @@ function Navbar() {
   const [sidebarShown, setSidebarShown] = useState(false);
   const { isDarkTheme, setLightTheme, setDarkTheme } = useThemeContext();
   const { navbarRef, isNavbarVisible } = useHideableNavbar(hideOnScroll);
+
   useLockBodyScroll(sidebarShown);
+
   const showSidebar = useCallback(() => {
     setSidebarShown(true);
   }, [setSidebarShown]);
   const hideSidebar = useCallback(() => {
     setSidebarShown(false);
   }, [setSidebarShown]);
+
   const onToggleChange = useCallback(
     (e) => (e.target.checked ? setDarkTheme() : setLightTheme()),
     [setLightTheme, setDarkTheme],
   );
+
   const windowSize = useWindowSize();
+
   useEffect(() => {
     if (windowSize === windowSizes.desktop) {
       setSidebarShown(false);
     }
   }, [windowSize]);
+
   const hasSearchNavbarItem = items.some((item) => item.type === 'search');
   const { leftItems, rightItems } = splitNavItemsByPosition(items);
+
   return (
     <nav
       ref={navbarRef}
@@ -72,14 +85,14 @@ function Navbar() {
           <Logo
             className="navbar__brand"
             imageClassName={clsx(styles.moveRight, 'navbar__logo')}
-            titleClassName={clsx('navbar__title')}
+            titleClassName="navbar__title"
           />
 
           {/* moved to avoid confusing mobile UX */}
           {items != null && items.length !== 0 && (
             <button
               aria-label="Navigation bar toggle"
-              className="navbar__toggle"
+              className="navbar__toggle clean-btn"
               type="button"
               tabIndex={0}
               onClick={showSidebar}
@@ -108,7 +121,7 @@ function Navbar() {
       </div>
       <div role="presentation" className="navbar-sidebar__backdrop" onClick={hideSidebar} />
       <div className="navbar-sidebar">
-        <div className={clsx(styles.moveRight, 'navbar-sidebar__brand')}>
+        <div className="navbar-sidebar__brand">
           <Logo
             className="navbar__brand"
             imageClassName="navbar__logo"
@@ -125,7 +138,7 @@ function Navbar() {
               {items.map((item, i) => (
                 <NavbarItem
                   mobile
-                  {...item} // TODO fix typing
+                  {...(item as any)} // TODO fix typing
                   onClick={hideSidebar}
                   key={i}
                 />

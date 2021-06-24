@@ -1,6 +1,6 @@
 {
   "name": "asobinon",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "private": true,
   "author": "sasigume",
   "homepage": "https://asobinon.org/",
@@ -57,9 +57,9 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.3",
-    "@docusaurus/module-type-aliases": "^2.0.0-alpha.75",
+    "@docusaurus/module-type-aliases": "^2.0.0-beta.1",
     "@tsconfig/docusaurus": "^1.0.2",
-    "@types/react": "^17.0.5",
+    "@types/react": "^17.0.11",
     "@types/react-helmet": "^6.1.1",
     "@types/react-router-dom": "^5.1.7",
     "@typescript-eslint/eslint-plugin": "^4.22.1",
@@ -74,7 +74,7 @@
     "prettier": "^2.3.0",
     "pretty-quick": "^3.1.0",
     "raw-loader": "^4.0.2",
-    "typescript": "^4.2.4"
+    "typescript": "^4.3.4"
   },
   "license": "MIT"
 }

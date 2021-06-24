@@ -1,37 +1,26 @@
 /**
- * Copyright (c) Facebook, Inc. and its affiliates. This file is modified by sasigume.
+ * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
 
-.docTitle {
-  /* font-size: 3rem; */
-  font-size: 2.4rem;
-  margin-bottom: calc(var(--ifm-leading-desktop) * var(--ifm-leading));
-  border-bottom: solid 4px #ddd;
-  padding-bottom: calc(var(--ifm-leading-desktop) * var(--ifm-leading));
+.docItemContainer header + * {
+  margin-top: 0;
 }
 
-.docItemContainer {
-  margin: 0 auto;
-  padding: 0 0.5rem;
+.lastUpdated {
+  margin-top: 0.2rem;
+  font-style: italic;
+  font-size: smaller;
 }
 
 @media only screen and (min-width: 997px) {
   .docItemCol {
     max-width: 75% !important;
   }
-}
 
-@media only screen and (max-width: 996px) {
-  .docItemContainer {
-    padding: 0 0.3rem;
+  .lastUpdated {
+    text-align: right;
   }
-}
-
-/* Added 2021-5-22 */
-/* 表をカスタマイズ */
-table {
-  text-align: left;
 }

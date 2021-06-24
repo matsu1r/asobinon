@@ -4,6 +4,7 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+
 import React, { useState, useCallback, useEffect, useRef, memo } from 'react';
 import clsx from 'clsx';
 import { useThemeConfig, isSamePath } from '@docusaurus/theme-common';
@@ -13,10 +14,13 @@ import useWindowSize, { windowSizes } from '@theme/hooks/useWindowSize';
 import useScrollPosition from '@theme/hooks/useScrollPosition';
 import Link from '@docusaurus/Link';
 import isInternalUrl from '@docusaurus/isInternalUrl';
+import type { Props } from '@theme/DocSidebar';
 import Logo from '@theme/Logo';
 import IconArrow from '@theme/IconArrow';
 import IconMenu from '@theme/IconMenu';
+import IconExternalLink from '@theme/IconExternalLink';
 import { translate } from '@docusaurus/Translate';
+
 import styles from './styles.module.css';
 import HowtoEditButton from '../../components/common/howto-edit-button';
 
@@ -34,17 +38,16 @@ const isActiveSidebarItem = (item, activePath) => {
   if (item.type === 'link') {
     return isSamePath(item.href, activePath);
   }
-
   if (item.type === 'category') {
     return item.items.some((subItem) => isActiveSidebarItem(subItem, activePath));
   }
-
   return false;
-}; // Optimize sidebar at each "level"
+};
+
+// Optimize sidebar at each "level"
 // TODO this item should probably not receive the "activePath" props
 // TODO this triggers whole sidebar re-renders on navigation
-
-const DocSidebarItems = memo(function DocSidebarItems({ items, ...props }) {
+const DocSidebarItems = memo(function DocSidebarItems({ items, ...props }: any): JSX.Element {
   return items.map((item, index) => (
     <DocSidebarItem
       key={index} // sidebar is static, the index does not change
@@ -54,11 +57,10 @@ const DocSidebarItems = memo(function DocSidebarItems({ items, ...props }) {
   ));
 });
 
-function DocSidebarItem(props) {
+function DocSidebarItem(props): JSX.Element {
   switch (props.item.type) {
     case 'category':
       return <DocSidebarItemCategory {...props} />;
-
     case 'link':
     default:
       return <DocSidebarItemLink {...props} />;
@@ -67,31 +69,33 @@ function DocSidebarItem(props) {
 
 function DocSidebarItemCategory({ item, onItemClick, collapsible, activePath, ...props }) {
   const { items, label } = item;
-  const isActive = isActiveSidebarItem(item, activePath);
-  const wasActive = usePrevious(isActive); // active categories are always initialized as expanded
-  // the default (item.collapsed) is only used for non-active categories
 
+  const isActive = isActiveSidebarItem(item, activePath);
+  const wasActive = usePrevious(isActive);
+
+  // active categories are always initialized as expanded
+  // the default (item.collapsed) is only used for non-active categories
   const [collapsed, setCollapsed] = useState(() => {
     if (!collapsible) {
       return false;
     }
-
     return isActive ? false : item.collapsed;
   });
-  const menuListRef = useRef(null);
-  const [menuListHeight, setMenuListHeight] = useState(undefined);
 
+  const menuListRef = useRef<HTMLUListElement>(null);
+  const [menuListHeight, setMenuListHeight] = useState<string | undefined>(undefined);
   const handleMenuListHeight = (calc = true) => {
     setMenuListHeight(calc ? `${menuListRef.current?.scrollHeight}px` : undefined);
-  }; // If we navigate to a category, it should automatically expand itself
+  };
 
+  // If we navigate to a category, it should automatically expand itself
   useEffect(() => {
     const justBecameActive = isActive && !wasActive;
-
     if (justBecameActive && collapsed) {
       setCollapsed(false);
     }
   }, [isActive, wasActive, collapsed]);
+
   const handleItemClick = useCallback(
     (e) => {
       e.preventDefault();
@@ -165,7 +169,6 @@ function DocSidebarItemLink({
       <Link
         className={clsx('menu__link', {
           'menu__link--active': isActive,
-          [styles.menuLinkExternal]: !isInternalUrl(href),
         })}
         to={href}
         {...(isInternalUrl(href) && {
@@ -175,7 +178,14 @@ function DocSidebarItemLink({
         })}
         {...props}
       >
-        {label}
+        {isInternalUrl(href) ? (
+          label
+        ) : (
+          <span>
+            {label}
+            <IconExternalLink />
+          </span>
+        )}
       </Link>
     </li>
   );
@@ -195,12 +205,14 @@ function useShowAnnouncementBar() {
 function useResponsiveSidebar() {
   const [showResponsiveSidebar, setShowResponsiveSidebar] = useState(false);
   useLockBodyScroll(showResponsiveSidebar);
+
   const windowSize = useWindowSize();
   useEffect(() => {
     if (windowSize === windowSizes.desktop) {
       setShowResponsiveSidebar(false);
     }
   }, [windowSize]);
+
   const closeResponsiveSidebar = useCallback(
     (e) => {
       e.target.blur();
@@ -208,9 +220,11 @@ function useResponsiveSidebar() {
     },
     [setShowResponsiveSidebar],
   );
+
   const toggleResponsiveSidebar = useCallback(() => {
     setShowResponsiveSidebar((value) => !value);
   }, [setShowResponsiveSidebar]);
+
   return {
     showResponsiveSidebar,
     closeResponsiveSidebar,
@@ -274,15 +288,23 @@ function ResponsiveSidebarButton({ responsiveSidebarOpened, onClick }) {
   );
 }
 
-function DocSidebar({ path, sidebar, sidebarCollapsible = true, onCollapse, isHidden }) {
+function DocSidebar({
+  path,
+  sidebar,
+  sidebarCollapsible = true,
+  onCollapse,
+  isHidden,
+}: Props): JSX.Element | null {
   const showAnnouncementBar = useShowAnnouncementBar();
   const {
     navbar: { hideOnScroll },
     hideableSidebar,
   } = useThemeConfig();
   const { isAnnouncementBarClosed } = useUserPreferencesContext();
+
   const { showResponsiveSidebar, closeResponsiveSidebar, toggleResponsiveSidebar } =
     useResponsiveSidebar();
+
   return (
     <div
       className={clsx(styles.sidebar, {
@@ -291,18 +313,16 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true, onCollapse, isHi
       })}
     >
       {hideOnScroll && <Logo tabIndex={-1} className={styles.sidebarLogo} />}
-      <div
-        className={clsx(
-          'menu',
-          'menu--responsive',
-          'thin-scrollbar',
-          'sidebarPadding',
-          styles.menu,
-          {
-            'menu--show': showResponsiveSidebar,
-            [styles.menuWithAnnouncementBar]: !isAnnouncementBarClosed && showAnnouncementBar,
-          },
-        )}
+      <nav
+        className={clsx('menu', 'menu--responsive', 'thin-scrollbar', styles.menu, {
+          'menu--show': showResponsiveSidebar,
+          [styles.menuWithAnnouncementBar]: !isAnnouncementBarClosed && showAnnouncementBar,
+        })}
+        aria-label={translate({
+          id: 'theme.docs.sidebar.navAriaLabel',
+          message: 'Sidebar navigation',
+          description: 'The ARIA label for documentation menu',
+        })}
       >
         <ResponsiveSidebarButton
           responsiveSidebarOpened={showResponsiveSidebar}
@@ -321,7 +341,7 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true, onCollapse, isHi
             <HowtoEditButton />
           </div>
         </ul>
-      </div>
+      </nav>
       {hideableSidebar && <HideableSidebarButton onClick={onCollapse} />}
     </div>
   );

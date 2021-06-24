@@ -4,14 +4,17 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+
 import React from 'react';
 import Translate from '@docusaurus/Translate';
+
+import type { Props } from '@theme/EditThisPage';
 import IconEdit from '@theme/IconEdit';
 
 // added by sasigume
 import styles from './EditThisPage.module.css';
 
-export default function EditThisPage({ editUrl }) {
+export default function EditThisPage({ editUrl }: Props): JSX.Element {
   const historyUrl = editUrl.replace('asobinon/edit', 'asobinon/commits');
   return (
     <div className={styles.wrapper}>
