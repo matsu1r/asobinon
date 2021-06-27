@@ -131,7 +131,7 @@ ages/fotolife/s/sasigume/20210208/20210208125946.png)](#0/f/0fda1ef3.png "16")
 ## 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Primitive Mobs」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287666-primitive-mobs-v1-0c-updated-10-13-14-its-back "「Primitive Mobs」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

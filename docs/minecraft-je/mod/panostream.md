@@ -16,7 +16,7 @@ title: 【今日の動画】リアルタイムで360°の実況動画を録画�
 「PanoStreamMod」 制作:CrushedPixel氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「PanoStreamMod」をダウンロード**  
     [こちら](http://panostreammod.com/ "「PanoStreamMod」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

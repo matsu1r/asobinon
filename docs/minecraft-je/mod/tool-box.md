@@ -57,7 +57,7 @@ _**“これさえあれば、何も要らない”**_と言っても過言で�
 このMODは**6/20現在、~1.7.10にのみ**対応しています
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「ToolBox」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2356711-toolbox-25-000-downloads-now-compatible-with "「ToolBox」のダウンロード")**からダウンロードして下さい。  
     [![ダウンロード](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208140055.jpg)](#4/f/4fda11e4.jpg "ダウンロード")

@@ -45,7 +45,7 @@ Forgeのバージョンを途中で切り替える方法は、[こちらの記�
 「AppleSkin」 制作:squeek502氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     (このMODはLiteLoaderを単体でインストールした場合も導入できます)
 2.  **「AppleSkin」をダウンロード**  
     [こちら](https://mods.curse.com/mc-mods/minecraft/248787-appleskin#t1:other-downloads "「AppleSkin」のダウンロード")からダウンロードして下さい。
@@ -63,7 +63,7 @@ Forgeのバージョンを途中で切り替える方法は、[こちらの記�
 「CutAll」「MineAll」「DigAll」 制作:scalar氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **MODをダウンロード**  
     [こちら](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874 "ダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -197,7 +197,7 @@ Ctrl+クリック
 「Inventory Tweaks」 制作:Kobata氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Inventory Tweaks」をダウンロード**  
     [こちら](http://minecraft.curseforge.com/projects/inventory-tweaks "「Inventory Tweaks」のダウンロード")からダウンロードして下さい。  
     ![](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578376822/73bb439b00e3fb2c8231ebd4f258c709_kk16fo.png)  
@@ -253,7 +253,7 @@ https://www.napoan.com/custom-crosshair-mod/](https://www.napoan.com/custom-cros
 「SpawnChecker」 制作:fillppo氏(~v1.1)→ v1.2.3~ ある氏が引き継ぎ
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「SpawnChecker」をダウンロード**  
     [こちら](http://forum.minecraftuser.jp/viewtopic.php?t=3835 "「SpawnChecker」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -286,7 +286,7 @@ Topographyボタンを押せば、等高線を分かりやすく表示してく�
 「JourneyMap」 制作:techbrew氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「JourneyMap」をダウンロード**  
     [こちら](https://minecraft.curseforge.com/projects/journeymap-32274/files "「JourneyMap」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -309,7 +309,7 @@ Topographyボタンを押せば、等高線を分かりやすく表示してく�
 「Xaero’s Minimap」 制作:xaero96氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Xaero’s Minimap」をダウンロード**  
     [こちら](http://chocolateminecraft.com/minimap.html "「Xaero's Minimap」のダウンロード")からダウンロードして下さい。  
     ![](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578376820/2e64867d1728b69813dd38183477d007_disrvi.png)  
@@ -356,7 +356,7 @@ LiteLoader専用MODならではの設定画面も用意されています。境�
 「PickupWidely」 制作:scalar氏引き継ぎ
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「PickupWidely」をダウンロード**  
     [こちら](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874 "「PickupWidely」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -394,7 +394,7 @@ Biome Borders Revidedと同じくUrushibara氏制作digitalshadowhawk氏引き�
 「Craftable Horse Armour & Saddle」 制作:EwyBoy氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Craftable Horse Armour & Saddle」をダウンロード**  
     [こちら](https://minecraft.curseforge.com/projects/craftable-horse-armour-saddle-cha-s "「Craftable Horse Armour & Saddle」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -415,7 +415,7 @@ MOD作者さんによる、**追加バイオーム一覧は[こちら](http://im
 「Biomes O’ Plenty」 制作:Adubbz氏、Amnet氏、Cheeserolls氏、Forstride氏、ted80氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Biomes O’ Plenty」をダウンロード**  
     [こちら](http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty#t1:other-downloads "「Biomes O' Plenty」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

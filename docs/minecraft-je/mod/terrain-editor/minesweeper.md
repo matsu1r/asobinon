@@ -70,7 +70,7 @@ _「ここは爆弾だ!」_と分かった場所は、**右クリックして旗
 ## 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **前提となる「NGTLib」と、  
     「MCTerrainEditor」をダウンロード**  
     **[こちら](http://forum.minecraftuser.jp/viewtopic.php?t=13633 "「NGTLib」と「MCTerrainEditor」のダウンロード")**からダウンロードして下さい。

@@ -38,7 +38,7 @@ title: Minecraft 1.9/1.10対応! カメラMODの新定番「PixelCam」の使い
 「PixelCam」 制作:CrushedPixel氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「PixelCam」をダウンロード**  
     [こちら](http://crushedpixel.eu/pixelcam/ "「PixelCam」のダウンロード")からダウンロードして下さい。**1.8用の「LEGACY v1.2」はこの記事で解説しているものと仕様が異なりサポートされていません**のでご注意下さい。  
     ![PixelCamのダウンロード時の注意点](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101845.jpg)

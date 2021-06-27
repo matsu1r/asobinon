@@ -1059,7 +1059,7 @@ condition(条件)はpoolごとではなく`entries: []` 内の**項目ごとに�
 ```
 ▲アイテムに応じた精錬済みアイテムを出すには、“minecraft:furnace\_smelt”というfunctionと、先程解説した“minecraft:entity\_properties”というcondition(条件)を合わせて使います。上記ルートテーブルをMobに設定すれば、**普通に死んだ場合は原木、燃え死んだ場合は木炭を落とします。**
 
-[Part3では、アイテムが出てこない場合の対処法を解説します。 >>](/loot-table-perfect-guide-part3/)
+[Part3では、アイテムが出てこない場合の対処法を解説します。 >>](./part3/)
 
 ## 参考にさせて頂いたページ様
 

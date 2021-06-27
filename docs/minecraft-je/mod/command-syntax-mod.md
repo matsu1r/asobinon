@@ -46,7 +46,7 @@ Command Syntax Mod | Autocomplete in CMD Blocks!
 このMODは**バージョン1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.8版をダウンロードして導入して下さい。
 2.  **「Command Syntax Mod」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2308096-command-syntax-mod-autocomplete-in-cmd-blocks "「Command Syntax Mod」のダウンロード")**からダウンロードして下さい。

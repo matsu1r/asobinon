@@ -322,7 +322,7 @@ FFFFFF
 ## 導入方法
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.7.10版をダウンロードして導入して下さい。
 2.  **「All-U-Want」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288788-all-u-want-create-an

@@ -50,7 +50,7 @@ Intel HD Graphicsのドライバーのダウンロードページ
 
 ### ForgeのMODと一緒に使いたいならShadersModをダウンロード
 
-バージョン1.8のForgeを導入していて(導入方法は[こちら](/new-way-to-install-mod/#forge-inst))、**既存のMODと一緒に影MODを使いたい**場合は、**ShadersModの1.8版**をForgeに導入する必要があります。
+バージョン1.8のForgeを導入していて(導入方法は[こちら](/minecraft-je/howto/install-forge/))、**既存のMODと一緒に影MODを使いたい**場合は、**ShadersModの1.8版**をForgeに導入する必要があります。
 
 ShadersModの1.8版をダウンロード
 
@@ -59,7 +59,7 @@ http://shadersmod.net/version-1-8/](http://shadersmod.net/version-1-8/ "Version 
 
 ![OotpfineとShadersModをmodsに入れる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162004.jpg)
 
-「ShadersMod」を、**ランチャーでGamde Directoryに設定したフォルダのmodsに**入れましょう。**「そんな設定した覚えは無いぞ!」**って方は[こちらの記事](/new-way-to-install-mod/#forge-inst)を参考にForgeを導入しなおして下さい。
+「ShadersMod」を、**ランチャーでGamde Directoryに設定したフォルダのmodsに**入れましょう。**「そんな設定した覚えは無いぞ!」**って方は[こちらの記事](/minecraft-je/howto/install-forge/)を参考にForgeを導入しなおして下さい。
 
 ### 1.8 / 1.8.8以降の最新の環境で影だけ使いたいならOptifineをインストール
 

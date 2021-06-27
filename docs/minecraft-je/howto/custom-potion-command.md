@@ -16,8 +16,9 @@ https://www.napoan.com/pcversion19-command-guide/](https://www.napoan.com/pcvers
 
 ## 目次
 
-*   [好きな効果を組み合わせた、オリジナルポーションのコマンドを解説](#custom)
-*   [バージョン1.9で変わった、ポーションの新しい入手コマンドを解説](#on1.9)
+- [目次](#目次)
+- [好きな効果を組み合わせた、オリジナルポーションのコマンドを解説](#好きな効果を組み合わせたオリジナルポーションのコマンドを解説)
+- [バージョン1.9で変わった、ポーションの新しい入手コマンドを解説](#バージョン19で変わったポーションの新しい入手コマンドを解説)
 
 ## 好きな効果を組み合わせた、オリジナルポーションのコマンドを解説
 
@@ -312,15 +313,3 @@ long\_weakness
 **/give @p minecraft:potion 1 0 {CustomPotionEffects:\[{Id:7,Amplifier:2,Duration:20}\],Potion:”minecraft:healing“}**となります。「Potion」タグで見た目を、「CustomPotionEffects」タグで実際の効果を設定するのです。
 
 \[2016年3月6日追記\] バージョン1.9現在、**「Potion」タグで指定したポーションの効果も一緒に付く**仕様のようです。誤った記述を放置してしまい申し訳ありませんでした。
-
-![いかがでしたか](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144351.png)
-
-いかがでしたか。1.9ではコマンドの変更点が色々あるんです。  
-**「これはどうするの?」**などコメント待ってます。
-
-最近書いたコマンド解説記事
-
-*   [Dragnoz氏制作、**MGSVのフルトン回収を再現**してみた](/mgs-fulton-command-by-dragnoz/) _**New!!**_
-*   [PvP作成に! **チームのキル数を合計して表示**する方法](/splatoon-trap-command-part1/)
-*   [**Splatoon風トラップ**の作り方 – チーム戦に対応してます](/splatoon-trap-command-part1/)
-*   [**空中浮遊PvP**の作り方/オフハンドのアイテムを判定する方法~](/45837670/)

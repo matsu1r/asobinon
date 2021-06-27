@@ -83,7 +83,7 @@ title: 【MOD紹介】余の辞書にゲームバランスという文字は無�
 このMODは**バージョン1.8と1.7.10のForge****両方に対応しています!**
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.8版もしくは1.7.10版をダウンロードして導入して下さい。
 2.  **「Admin Weapons」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2232900-admin-weapons-weapons-for-server-operator "「Item Transform Helper」のダウンロード")**からダウンロードして下さい。

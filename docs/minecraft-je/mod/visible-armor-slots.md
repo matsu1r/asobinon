@@ -46,7 +46,7 @@ title: 面倒な操作から開放! クラフト/エンチャ等したアイテ�
 2016年3月24日現在、このMODはバージョン1.9のForge用です。
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Visible Armor Slots」をダウンロード**  
     **[こちら](http://mods.curse.com/mc-mods/minecraft/244589-visible-armor-slots "「Visible Armor Slots」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

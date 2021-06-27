@@ -125,7 +125,7 @@ title: 1.8のシングルでもWorldEditの機能を。ワールド製作者は�
 このMODは**1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「MapMakingTools」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287188-map-making-tools-quick-build-system-autobuilding "「MapMakingTools」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

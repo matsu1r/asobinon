@@ -46,7 +46,7 @@ title: 【MOD紹介】壊してしまったガラスも、破片を集めて元�
 このMODは2016/1/16現在**1.7.10/1.8/1.8.8/1.8.9のForge**用のMODです。
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Grass Shards」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2342793-glass-shards-and-ice-shards "「Glass Shards」のダウンロード")からダウンロードして下さい。  
     ![GlassShardsMODのダウンロード](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111641.jpg)  

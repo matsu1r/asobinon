@@ -84,7 +84,7 @@ mgs/9/0/90906641.png "色々な素材の剣")
 このMODは**バージョン1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.8版をダウンロードして導入して下さい。
 2.  **「Igneous Additions」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2357019-igneous-additions-1-1-more-than-just-a-rock-2650 "「Igneous Additions」のダウンロード")**からダウンロードして下さい。

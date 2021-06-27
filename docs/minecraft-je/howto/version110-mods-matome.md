@@ -45,7 +45,7 @@ http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874](http://forum.minecraftu
 「Inventory X」 制作:Jagm\_11氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Inventory X」をダウンロード**  
     [こちら](http://mods.curse.com/mc-mods/minecraft/245997-inventory-x "「Inventory X」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -166,7 +166,7 @@ Ctrl+クリック
 「Inventory Tweaks」 制作:Kobata氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Inventory Tweaks」をダウンロード**  
     [こちら](http://minecraft.curseforge.com/projects/inventory-tweaks "「Inventory Tweaks」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -224,7 +224,7 @@ https://www.napoan.com/optifine-setup-guide/](https://www.napoan.com/optifine-se
 「SpawnChecker」 制作:fillppo氏(~v1.1)→ v1.2.3~ ある氏が引き継ぎ
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「SpawnChecker」をダウンロード**  
     [こちら](http://forum.minecraftuser.jp/viewtopic.php?t=3835 "「SpawnChecker」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -285,7 +285,7 @@ LiteLoader専用MODならではの設定画面も用意されています。境�
 「Xaero’s Minimap」 制作:xaero96氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Xaero’s Minimap」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379024-xaeros-minimap-1-9-1-8-9-1-8-1-7-10 "「Xaero's Minimap」のダウンロード")からダウンロードして下さい。  
     ![Xaero's Minimapのダウンロード](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578380421/70fc5f39bd53784edbc9aa2f899b94be_vdszy2.jpg)  
@@ -328,7 +328,7 @@ Biome Borders Revidedと同じくUrushibara氏制作digitalshadowhawk氏引き�
 「Nametags Tweaks」 制作:HunterzCZ氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Nametags Tweaks」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2128196-nametags-tweaks-1-2-updated-for-1-9 "「Nametags Tweaks」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -347,7 +347,7 @@ IC2、IndustrialCraft2 ― 言わずと知れた大型工業化MODですね。**
 「IndustrialCraft2 (IC2)」 制作:[こちら](http://wiki.industrial-craft.net/index.php?title=Credits)の方々
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「IndustrialCraft 2」をダウンロード**  
     [こちら](http://wiki.industrial-craft.net/index.php?title=Download "「Nametags Tweaks」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -372,7 +372,7 @@ IC2、IndustrialCraft2 ― 言わずと知れた大型工業化MODですね。**
 「Craftable Saddles」 制作:456Xander氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Craftable Saddles」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2706136-craftable-saddles "「Craftable Saddles」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -393,7 +393,7 @@ MOD作者さんによる、**追加バイオーム一覧は[こちら](http://im
 「Biomes O’ Plenty」 制作:Adubbz氏、Amnet氏、Cheeserolls氏、Forstride氏、ted80氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Biomes O’ Plenty」をダウンロード**  
     [こちら](http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty#t1:other-downloads "「Biomes O' Plenty」のダウンロード")からダウンロードして下さい。  
     ![Biomes O'Plentyのダウンロードについて](https://res.cloudinary.com/napoan-com/image/upload/w_650,c_limit,f_auto,q_auto/v1578380409/0ce36576e35ec1531482556fa280c7d4_urrsmi.jpg)  

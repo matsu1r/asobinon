@@ -104,7 +104,7 @@ https://www.napoan.com/44869064/](/44869064/ "ATG")
 このMODは**1.8.9のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Highlands」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2494877-highlands-uncharted-territory-finally-for "「Caterpillar」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

@@ -15,56 +15,6 @@ https://www.napoan.com/pe-alpha-015/](/pe-alpha-015/)
 \[Minecraft: Windows 10 Edition 0.14.0\]  
 アップデート日はいつ? :**iOSの[AppStore](https://itunes.apple.com/jp/app/minecraft-pocket-edition/id479516143)およびAndroidの[GooglePlay](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)、[Windowsストア](https://www.microsoft.com/ja-jp/store/games/minecraft-pocket-edition/9wzdncrdzsbb)にてリリースされました!** iPhone/iPad/iPod touchでももう遊べます。
 
-[\[2016年5月19日リリース\] バージョン0.14.3の内容まとめ >>](https://www.napoan.com/pe-alpha-0142-and-0143/)
-
-## 目次
-
-*   [モブ(動物、敵キャラ等)に関する追加/変更点](#mob)
-    *   [**「ウィッチ(魔女)」**を追加。ポーションを使って攻撃してくるぞ](#witch)
-    *   [赤ちゃんゾンビが他のMobに乗るようになった](#baby-zombies-ride-mobs)
-    *   [村人が雷に打たれるとウィッチ(魔女)になるように](#villager-witch)
-    *   [エンダーマンを倒した時、持っているブロックをドロップするようになった](#enderman)
-    *   [ガストが炎球を発射する時、顔が変わるようになった](#ghast-face)
-    *   [ブレイズとマグマキューブが暗い所で光るようになった](#grow-mobs)
-*   [ワールドの生成(ダンジョンや構造物)に関する追加/変更点](#world)
-    *   [「魔女の小屋(ウィッチの小屋)」が生成されるようになった _内容更新!_](#huts)
-    *   [廃坑にチェスト付きトロッコが生成されるように](#minecart-with-chest-in-shaft)
-    *   [キノコ島バイオームに巨大キノコがちゃんと生成されるように修正](#large-mushroom)
-*   [ブロックやアイテムの追加、変更点](/pe-alpha-014/2/#block-and-item)
-    *   [ついに**「地図」を追加**! 金床で範囲を広げたり、コンパスを合成して現在地を表示 _内容更新!_](/pe-alpha-014/2/#map)
-    *   [アイテムやブロックを飾れる「額縁」をついに追加](/pe-alpha-014/2/#item-frame)
-    *   [**スライムブロック**を追加、ぴょんぴょんできる](/pe-alpha-014/2/#slime-block)
-    *   [**レッドストーンリピーター**を追加、信号の遅延など色々できる](/pe-alpha-014/2/#rs-repeater)
-    *   [レッドストーンコンパレーターを追加、簡単な使い方を解説](/pe-alpha-014/2/#rs-comparator)
-    *   [**ホッパー**を追加、アイテムを吸い込んで輸送できる](/pe-alpha-014/3/#hopper)
-    *   [ドロッパーを追加、アイテムを上に運べて超便利](/pe-alpha-014/3/#dropper)
-    *   [**発射装置(ディスペンサー)**を追加、矢などを発射できる _内容更新!_](/pe-alpha-014/3/#dispenser)
-    *   [TNT付きトロッコを追加、アクティベーターレールで爆発](/pe-alpha-014/3/#tnt-cart)
-    *   [チェスト付きトロッコを追加](/pe-alpha-014/3/#chest-cart)
-    *   [ホッパー付きトロッコを追加](/pe-alpha-014/3/#hopper-cart)
-    *   [「大釜」を追加、水やポーションを貯蔵したり革の防具の染色/脱色が出来る](/pe-alpha-014/3/#cauldron)
-    *   [「赤砂岩の階段」を追加](/pe-alpha-014/3/#red-sand-stairs)
-    *   [「滑らかな赤砂岩」を追加](/pe-alpha-014/3/#smooth-red-sand)
-    *   [「赤砂岩のハーフブロック」を追加](/pe-alpha-014/3/#red-sand-slab)
-    *   [「模様入りの赤砂岩」を追加](/pe-alpha-014/3/#chiseled-red-sand)
-    *   [トラップチェストを2つ並べると「ラージトラップチェスト」になるように](/pe-alpha-014/3/#large-trapchest)
-    *   [ゲーム内では入手できないが、「カメラ」が使えるようになった](/pe-alpha-014/3/#camera)
-*   [ゲームプレイに関する追加/変更点](/pe-alpha-014/4/#gameplay)
-    *   [クリエイティブモードでもチェストを開けたり、かまどなどのユーティリティを使えるようになった](/pe-alpha-014/4/#use-utility-in-creative)
-    *   [クリエイティブモードでも装備/クラフト/インベントリ画面が使えるようになった](/pe-alpha-014/4/#survival-gui-in-creative)
-    *   [クリエイティブモードからサバイバルモードに変更してもアイテムが消えなくなった](/pe-alpha-014/4/#change-mode-not-clear)
-    *   [カボチャを頭に被れるようになった](/pe-alpha-014/4/#pumpkin)
-    *   [Mobの頭を被れるようになった。被るといいことあるかも](/pe-alpha-014/4/#mob-head)
-    *   [革の防具に色を付けられるようになった](/pe-alpha-014/4/#armor-dyable)
-*   [システム(グラフィック、操作)に関する新要素と変更点](/pe-alpha-014/4/#system)
-    *   [PEのタイトル画面が刷新され、Windows10版に近いデザインになった](/pe-alpha-014/4/#title-screen)
-    *   [「GUIズーム」から、画面のレイアウトの大きさを変更できるように](/pe-alpha-014/4/#gui-zoom)
-    *   [「オートジャンプ」をOFFにできないバグが修正された](/pe-alpha-014/4/#fix-autojump)
-
-**※情報が入り次第、どんどん追記していきます。**
-
-**PEでスクショを撮れていない箇所はPC版のスクショで補っています。**幅広い年齢層の方に分かりやすい記事を目指しているため、多少説明がクドい箇所もありますが予めご了承下さい。?
-
 ## モブ(動物、敵キャラ等)に関する追加/変更点
 
 ### 「ウィッチ(魔女)」を追加。ポーションを使って攻撃してくるぞ

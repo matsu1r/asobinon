@@ -57,7 +57,7 @@ title: 【MOD紹介】無限にインベントリを広げよう! しかし代�
 頻繁にクラッシュするので、メインデータでの使用は慎重に。**
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「InfiniteInvo」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2336005-infiniteinvo-all-the-inventory-space-a-player "MOD「InfiniteInvo」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

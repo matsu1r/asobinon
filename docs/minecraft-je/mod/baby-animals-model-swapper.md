@@ -63,7 +63,7 @@ title: 【MOD紹介】ただでさえ可愛い赤ちゃんを、こんなにカ�
 このMODは**1.6.4~1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.8版も使えます。
 2.  **「BabyAnimalsModelSwapper」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2364027-baby-animals-model-swapper-bunnies-update "「BabyAnimalsModelSwapper」のダウンロード")**からダウンロードして下さい。

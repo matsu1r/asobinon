@@ -98,7 +98,7 @@ title: 奈落に落ちたらネザーなど、落ちたり登ったりしてデ�
 2016年3月24日現在、このMODはバージョン1.9/1.7.10のForge用です。
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「World Drop」をダウンロード**  
     **[こちら](http://mods.curse.com/mc-mods/minecraft/226551-world-drop "「World Drop」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

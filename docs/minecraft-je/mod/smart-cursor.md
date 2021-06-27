@@ -76,7 +76,7 @@ OFFで表示しない、**NUMERICがデフォルト**の表示、**ICONSがハ�
 ## 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.7.10版をダウンロードして導入して下さい。
 2.  **「SmartCursor」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2167671-smartcursor-good-replacement-for-wawla-with-api "「SmartCursor」のダウンロード")**からダウンロードして下さい。

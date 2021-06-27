@@ -46,7 +46,7 @@ title: 【MOD紹介】レトロゲー風の無限に広がるマップを見る�
 ## 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Antique Atlas」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas "MOD「Antique Atlas」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

@@ -111,7 +111,7 @@ title: 【MOD紹介】究極の一角獣を探せ! 空を飛び、炎を纏う�
 このMODは**バージョン1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.8版をダウンロードして導入して下さい。
 2.  **「The Ultimate Unicorn Mod」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2447896-new-contest-win-2-custom-unicorns-wings-horns-and "「The Ultimate Unicorn Mod」のダウンロード")**からダウンロードして下さい。

@@ -28,7 +28,7 @@ MOD「WearMC」のダウンロード
 ▲「Minecraft Forge」版をダウンロードしましょう。
 
 ダウンロードしたMODのファイルを、modsフォルダに入れます。  
-**Forgeをまだ導入していない**、という方は[こちらの記事](/new-way-to-install-mod/#forge-inst)を参考に導入して下さい。  
+**Forgeをまだ導入していない**、という方は[こちらの記事](/minecraft-je/howto/install-forge/)を参考に導入して下さい。  
 (1.7.10版をダウンロードして下さい。導入手順は変わりません。
 
 [![何も起こらない。](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144638.png)](#7/a/7ab0bcaa.png "何も起こらない。")

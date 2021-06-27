@@ -36,7 +36,7 @@ title: 1.8対応のカメラMOD! 簡単にポイントを設定してヌルヌ�
 このMODは**バージョン1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.8版をダウンロードして導入して下さい。
 2.  **「PixelCam」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2327429-pixelcam-camera-studio-for-minecraft-1-8 "「PixelCam」のダウンロード")**からダウンロードして下さい。

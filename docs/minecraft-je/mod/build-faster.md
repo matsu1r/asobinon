@@ -115,7 +115,7 @@ title: 【MOD紹介】建築作業を超効率化! ワンクリックでブロ�
 ## 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Build Faster」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2258367-build-faster-v2-1-7-10 "「Build Faster MOD」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

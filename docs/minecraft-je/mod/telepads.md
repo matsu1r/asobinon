@@ -57,7 +57,7 @@ TelePadは、サバイバルでは壊せません。**壊したとしてもポ�
 このMODは、2016年1月18日現在バージョン1.7.10のForgeにのみ対応しています。
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「TelePads」と「Darkhax\`s Bookshelf library」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292377-telepads-taking-teleports-to-a-whole-new-level "「TelePads」のダウンロード")**からダウンロードして下さい。  
     ![どちらもダウンロードしてください](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208090214.jpg)

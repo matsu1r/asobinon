@@ -156,7 +156,7 @@ Reinforcementsを接続すると、ドリルの設定画面に「Reinforcement�
 2016年3月24日現在、このMODはバージョン1.8.9のForge用です。
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Caterpillar」をダウンロード**  
     **[こちら](http://mods.curse.com/mc-mods/minecraft/237628-caterpillar "「Caterpillar」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

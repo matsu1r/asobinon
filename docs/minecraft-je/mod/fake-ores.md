@@ -90,7 +90,7 @@ HPを半分ぐらい削ると、**体が緑色に染まり「第二形態」へ*
 このMODは**1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「FakeOres2」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2461487-fake-ores2-now-available-for-minecraft-1-8 "「FakeOres2」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

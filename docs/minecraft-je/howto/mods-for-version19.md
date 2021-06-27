@@ -68,7 +68,7 @@ https://www.napoan.com/minimap-battle/](https://www.napoan.com/minimap-battle/)
 「Xaero’s Minimap」 制作:xaero96氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Xaero’s Minimap」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379024-xaeros-minimap-1-9-1-8-9-1-8-1-7-10 "「Xaero's Minimap」のダウンロード")からダウンロードして下さい。  
     \[2016年3月29日追記\]▲右の「Version1.7.10」の下の「Download」というリンクからダウンロード一覧に行けますので、そこで1.9版をダウンロードして下さい。
@@ -86,7 +86,7 @@ https://www.napoan.com/minimap-battle/](https://www.napoan.com/minimap-battle/)
 「Ender Compass」 制作:Mrlbby氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Ender Compass」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2220888-ender-compass "「Ender Compass」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -207,7 +207,7 @@ Ctrl+クリック
 「Inventory Tweaks」 制作:Kobata氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Inventory Tweaks」をダウンロード**  
     [こちら](http://minecraft.curseforge.com/projects/inventory-tweaks "「Inventory Tweaks」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -228,7 +228,7 @@ MOD作者さんによる、**追加バイオーム一覧は[こちら](http://im
 「Biomes O’ Plenty」 制作:Adubbz氏、Amnet氏、Cheeserolls氏、Forstride氏、ted80氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Biomes O’ Plenty」をダウンロード**  
     [こちら](http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/index_1.9.html "「Biomes O' Plenty」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -294,7 +294,7 @@ trueなら24時間表示(15:05など)、falseなら12時間表示(3:05など)に
 「Real Time Clock」 制作:xilef11氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Real Time Clock」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2412270-real-time-clock-mod "「Real Time Clock」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -339,7 +339,7 @@ https://www.napoan.com/46158505/](https://www.napoan.com/46158505/)
 「Dynamic Lights」 制作:AtomicStryker氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Dynamic Lights」をダウンロード**  
     [こちら](http://atomicstryker.net/dynamiclights.php "「Dynamic Lights」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -360,7 +360,7 @@ https://www.napoan.com/46158505/](https://www.napoan.com/46158505/)
 「Real Time Translation」 制作:Ringowhs氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Real Time Translation」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2599597-1-7-10-1-9-real-time-translation-mod-break-the "「Real Time Translation」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
@@ -394,7 +394,7 @@ https://www.napoan.com/44756846/](https://www.napoan.com/44756846/)
 「Nametags Tweaks」 制作:HunterzCZ氏
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Nametags Tweaks」をダウンロード**  
     [こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2128196-nametags-tweaks-1-2-updated-for-1-9 "「Nametags Tweaks」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

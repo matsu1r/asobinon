@@ -70,7 +70,7 @@ title: 【MOD紹介】1.8対応! 剣などのアイテムを自由自在に変�
 このMODは**バージョン1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください  
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください  
     ※Forgeは1.8版をダウンロードして導入して下さい。
 2.  **「Item Transform Helper」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2342078-item-transform-helper-interactively-rotate-scale "「Item Transform Helper」のダウンロード")**からダウンロードして下さい。

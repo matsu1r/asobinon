@@ -107,7 +107,7 @@ Part1で解説したカメラの動きの設定と合わせて、より効果的
 このMODは**1.8のForge**用のMODです!
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/#forge-inst)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「ReplayMod」をダウンロード**  
     [こちら](http://www.replaymod.com/download/ "「ReplayMod」のダウンロード")からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
