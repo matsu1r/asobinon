@@ -4,15 +4,15 @@ title: レベル上げと能力強化、砂漠の怪しげな村! 大長編RPG�
 
 [![AcrossTheTime-part3](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180811.png)](#f/e/fec18e46.png "AcrossTheTime-part3")
 
-**最大級、大長編RPGアドベンチャーワールド**_「Across The Time」_。[part2](/AcrossTheTime-part2/)では、職業を選んで、街の人との出会いを楽しみました。**今回のpart3では、砂漠のダンジョンを目指し、怪しい砂漠の村を訪れます。****レベル上げにおすすめの場所、能力の強化など**ますますRPG感満載の攻略記事になってきました。****強くなるコツやダンジョンの攻略ルートをマスターして、**どんどんストーリーを進めましょう!**  
+**最大級、大長編RPGアドベンチャーワールド**_「Across The Time」_。[part2](./part2/)では、職業を選んで、街の人との出会いを楽しみました。**今回のpart3では、砂漠のダンジョンを目指し、怪しい砂漠の村を訪れます。****レベル上げにおすすめの場所、能力の強化など**ますますRPG感満載の攻略記事になってきました。****強くなるコツやダンジョンの攻略ルートをマスターして、**どんどんストーリーを進めましょう!**  
 _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
-[**<< Part2** 職業を選んで街を探索](/AcrossTheTime-part2/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part2")  
-[砂漠のダンジョンで謎解き/ボス戦! **Part4 >>**](/AcrossTheTime-part4/ "砂漠のダンジョンで謎解き/ボス戦! 大長編RPG配布ワールド「AcrossTheTime」攻略 part4")
+[**<< Part2** 職業を選んで街を探索](./part2/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part2")  
+[砂漠のダンジョンで謎解き/ボス戦! **Part4 >>**](./part4/ "砂漠のダンジョンで謎解き/ボス戦! 大長編RPG配布ワールド「AcrossTheTime」攻略 part4")
 
  .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
-[**<< Part2** 町の人々との出会いと買い物](/AcrossTheTime-part2/ "ハンター? 忍者? 職業を選ぼう! 大長編RPG配布ワールド「AcrossTheTime」攻略 part2")
+[**<< Part2** 町の人々との出会いと買い物](./part2/ "ハンター? 忍者? 職業を選ぼう! 大長編RPG配布ワールド「AcrossTheTime」攻略 part2")
 
 ## 目次
 
@@ -96,7 +96,7 @@ AnrossTheTime 攻略記事 part1
 
 [![マスターのアップグレード屋に行こう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208133932.png)](#3/d/3d35e3c2.png "マスターのアップグレード屋に行こう")
 
-エンチャントもしないのに、**なんでレベル上げ**したんでしょう? 答えはコレ。**街の「ピング・ウー」マスターの家の地下で、「アップグレード」をするためです**。マスターの家については[part2でも触れました](/AcrossTheTime-part2/#ping)ね。
+エンチャントもしないのに、**なんでレベル上げ**したんでしょう? 答えはコレ。**街の「ピング・ウー」マスターの家の地下で、「アップグレード」をするためです**。マスターの家については[part2でも触れました](./part2/#ping)ね。
 
 [![レベルを使ってアップグレードしよう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208132844.png)](#2/d/2d347ecd.png "レベルを使ってアップグレードしよう")
 
@@ -183,4 +183,4 @@ _I\`m grateful to Mr Piccomaster and Thundesrtruck for this map!_ 🙂**
 
 ---
 
-[次回 part4 ~砂漠のダンジョンにやっと潜入!~ \>>>](https://www.napoan.com/AcrossTheTime-part4/)
+[次回 part4 ~砂漠のダンジョンにやっと潜入!~ \>>>](https://www.napoan.com./part4/)

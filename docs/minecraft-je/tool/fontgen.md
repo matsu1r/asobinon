@@ -11,10 +11,11 @@ title: 好きなフォントをマイクラで使える! 「Minecraft FontGen」
 
 ## 目次
 
-*   [「Minecraft FontGen」の主な機能](#what)
-*   [好きなフリーフォントを探そう](#search-fonts)
-*   [「Minecraft FontGen」のダウンロードと使い方](#dl-and-use)
-*   [生成したフォントの導入方法](#install)
+- [目次](#目次)
+- [「Minecraft FontGen」の主な機能](#minecraft-fontgenの主な機能)
+- [好きなフリーフォントを探そう](#好きなフリーフォントを探そう)
+- [「Minecraft FontGen」のダウンロードと使い方](#minecraft-fontgenのダウンロードと使い方)
+- [生成したフォントの導入方法](#生成したフォントの導入方法)
 
 ## 「Minecraft FontGen」の主な機能
 
@@ -84,7 +85,7 @@ PCに入っている**「MSゴシック」**などでもいいのですが、**�
 
 そして、あらかじめ**バニラのProfileを用意しておきましょう。  
 **Forgeとかが入っているフォルダはダメです。**バニラにしか上手く導入できません。  
-**(新しいProfileの作り方については、[こちらの記事](/42200928/#intojar)に方法をまとめています。)  
+
 ![2015-2-26_19-24-52](https://cdn-ak.f.st-hatena.com/images/fo
 tolife/s/sasigume/20210208/20210208145341.jpg)  
 **.minecraft > versions > 1.8(1.7)……**といったフォルダがあるので、**そこを7-zipで開きます。**  

@@ -6,7 +6,7 @@ title: マイクラでマインスイーパー! 「MinecraftTerrainEditor」の�
 **皆さん、マインスイーパーって遊んだことありますか。**  
 PCにひっそりと入ってたアレです。**爆弾のやつです。**  
 それをマイクラで遊べちゃうMOD。それは…  
-**「Minecraft Terrain Editor」**です。なんと**「[RTM](/tag/RealTrainMod)」**の**[ngt5479さん](https://twitter.com/ngt5479)制作**です。
+**「Minecraft Terrain Editor」**です。なんと**「RTM」**の**[ngt5479さん](https://twitter.com/ngt5479)制作**です。
 
 **※今回紹介するのはマインスイーパー機能だけです。**  
 **「MCTE」**のメイン機能は、**ブロックの一括設置やコピー、地形編集です。**  

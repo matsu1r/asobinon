@@ -3,18 +3,10 @@ title: 1.8対応のカメラMOD! 簡単にポイントを設定してヌルヌ�
 ---
 
 [![PixelCam](https://www.napoan.com/wp-content/uploads/imgs/3/1/310f5f1d.png)](#3/1/310f5f1d.png "PixelCam")  
-**カメラMODといえば、「CameraStudio」が有名ですね。**  
-しかし、[前回の記事](/43206623/ "[Minecraft]CameraStudioで録画できない! Recorderのダウンロード場所と導入方法")で触れたとおり、**作者さんは開発をやめてしまいました…**  
-そこで、**1.8対応の新たなカメラMODが制作/リリースされました。**  
+
 今回紹介するのは、**あのCrushedPixelさん制作**の**「PixelCam」**です。  
 素晴らしいコマンド解説動画が人気な方のMODですから、**便利なこと間違いなし。**   
 **シングル/マルチプレイどちらも対応**の、**是非導入しておきたいMODです。**
-
-## 目次 -contents-
-
-*   [1.8対応のカメラMOD「PixelCam」の導入方法](#how-to-inst)
-*   [「PixelCam」の使い方 – ルートを設定、撮影開始](#how-to-use)
-*   [不具合と、サバイバルやマルチプレイのサーバーで使う時の注意点](#note)
 
 ## 1.8対応のカメラMOD「PixelCam」の導入方法
 

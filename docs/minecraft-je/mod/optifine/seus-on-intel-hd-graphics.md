@@ -6,14 +6,6 @@ title: 「SEUS」をIntel HD Graphicsで動かす方法。憧れのシェーダ�
 
 影MODを動かすのに必要な**「シェーダーパック」**の中で、**一番人気なのは「Sonic Ether’s Unbelievable Shaders」、通称SEUS。太陽光の表現などがとても綺麗です。**でも、**ノートPCのIntel HD Graphicsが古かった場合、そのままでは動きません…** そこで、今回はオンボード(グラボ無し)でSEUSを無理やり動かす方法を解説します。
 
-## 目次
-
-*   [今回導入する「SEUS」ってどんなシェーダーパック?](#about)
-*   [ドライバーを更新するだけでちゃんと動く場合もあります](#driver)
-*   [前提となる影MODを導入しよう。1.8.8のOptifineは影を同梱!](#easy-inst)
-*   [「SEUS」のバージョン10.1 Standard版をダウンロード](#dl-seus)
-*   [正常に動かない方はSEUSの中身を改造すれば動きます](#edit-seus)
-
 ## 今回導入する「SEUS」ってどんなシェーダーパック?
 
 [![ようこそSEUSの世界へ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208154505.png)](#b/1/b19fcde4.png "ようこそSEUSの世界へ")
@@ -66,14 +58,6 @@ http://shadersmod.net/version-1-8/](http://shadersmod.net/version-1-8/ "Version 
 [![Optifine最新版は影MODと合体したんです](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208142109.png)](#6/2/62bb323a.png "Optifine最新版は影MODと合体したんです")
 
 バージョン1.8/1.8.8/1.8.9の最新のOptifineなら、なんと**Optifineだけでシェーダーパックを読み込めるようになりました!** つまりForgeが無くても影を存分に楽しめるんです。
-
-Forge/ShadersMod不要の影MOD導入方法の解説記事
-
-[![Forge/ShadersMod不要の影MOD導入方法の解説記事](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152620.png)  
-optifine-integrated-shadersmod/](/optifine-integrated-shadersmod/ "OptiFine Downloads")
-
-▲ForgeやShadersMod不要の影MOD導入方法(v1.8~)は上記記事で解説しております。**限りなくバニラに近い環境で、安定した  
-影MODでのプレイを楽しみたい方**は是非こちらの方法をお使い下さい!
 
 [![FastRenderをOFFに](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208154201.png)](#a/e/aeac17a7.png "FastRenderをOFFに")
 

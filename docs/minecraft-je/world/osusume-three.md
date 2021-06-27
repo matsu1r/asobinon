@@ -7,17 +7,6 @@ title: 走る！動く！落ちる！おすすめ配布ワールド3連発！【
 今回、初めて配布ワールドの紹介をします!  
 私が遊んで面白いと思った配布ワールドを、3つ紹介します!
 
-目次
-
-・落ちる! 跳ぶ! 走る! **ダンジョン10種以上詰め合わせ!** 衝撃の爽快感!  
- [「THE DROPPER 2; Newton VS Darwin」](/36887784/#dr)
-
-・な、何だこれは! **スカイブロック・・・じゃない!**  
-**[「SkyGrid Survival Map」](/36887784/#sg)**  
-  
-・怪しげな建物! **トンネルの先には・・・・？**  
-[**「The Temple of Notch」**](/36887784/#tn) 
-
 ## 「THE DROPPER 2; Newton VS Darwin」 
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208074607.jpg)

@@ -4,30 +4,22 @@ title: 砂漠のダンジョンで謎解き/ボス戦! 大長編RPG配布ワー�
 
 [![AcrossTheTime-part4](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208133131.png)](#2/f/2f658bcb.png "AcrossTheTime-part4")
 
-**最大級、大長編RPGアドベンチャーワールド**_「Across The Time」_。[part3](/AcrossTheTime-part3/)では、レベル上げや能力の強化をしながら旅しました。 **今回のpart4では、砂漠のダンジョンについに挑戦します。****さらなる能力の強化、ダンジョンの攻略ルートなど細かく解説していきます。** **どんどんストーリーを進めましょう!**  
+**最大級、大長編RPGアドベンチャーワールド**_「Across The Time」_。[part3](./part3/)では、レベル上げや能力の強化をしながら旅しました。 **今回のpart4では、砂漠のダンジョンについに挑戦します。****さらなる能力の強化、ダンジョンの攻略ルートなど細かく解説していきます。** **どんどんストーリーを進めましょう!**  
 _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
-[**<< Part3** レベル上げと能力の強化](/AcrossTheTime-part3/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part2")
+[**<< Part3** レベル上げと能力の強化](./part3/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part2")
 
-[**<< Part3** レベル上げと能力強化](/AcrossTheTime-part3/ "レベル上げと能力強化、砂漠の怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略part3 [Minecraft]")
-
-## 目次
-
-*   [「Across The Time」の特徴やダウンロードはpar1へ](#about-world)
-*   [ダンジョンに行く前に、装備品や能力を強化しておこう。](#upgrade)
-*   [砂漠のダンジョンに潜入! まずは迷路のレバーを探せ](#dungeon)
-*   [砂漠のダンジョン奥深くへ進め! ボスのスケルトンを倒そう](#dungeon2)
-*   [次回、part5の予告](#next-part)
+[**<< Part3** レベル上げと能力強化](./part3/ "レベル上げと能力強化、砂漠の怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略part3 [Minecraft]")
 
 ## 「Across The Time」の特徴やダウンロードはpart1へ
 
 この記事は、**大規模アドベンチャーマップ「Across The Time」の攻略ガイドpart4です。**  
-**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](/AcrossTheTime-part1/)に詳しく書いています。**
+**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](/minecraft-je/world/actossthetime/)に詳しく書いています。**
 
 AnrossTheTime 攻略記事 part1
 
 [![AcrossTheTime](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144726.png)  
-https://www.napoan.com/AcrossTheTime-part1/](/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")
+/minecraft-je/world/actossthetime/](/minecraft-je/world/actossthetime/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")
 
 ## ダンジョンに行く前に、装備品や能力を強化しておこう。
 
@@ -39,7 +31,7 @@ https://www.napoan.com/AcrossTheTime-part1/](/AcrossTheTime-part1/ "広大なマ
 
 [![鍛冶屋で装備を買おう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150931.png)](#8/f/8f619029.png "鍛冶屋で装備を買おう")
 
-まずは装備品を買いましょう。[part2](/AcrossTheTime-part2/)で解説した**「Vulkさんの鍛冶屋」**には豊富な装備品が並べられていて、いつの間にか開放されている地下二階にはエンチャント済みの装備品もあります。今回は180クロノトンを払って鉄のチェストプレートを買いました。
+まずは装備品を買いましょう。[part2](./part2/)で解説した**「Vulkさんの鍛冶屋」**には豊富な装備品が並べられていて、いつの間にか開放されている地下二階にはエンチャント済みの装備品もあります。今回は180クロノトンを払って鉄のチェストプレートを買いました。
 
 [![採掘速度上昇の効果を付けよう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208145255.png)](#7/f/7fbd4b4e.png "採掘速度上昇の効果を付けよう")
 
@@ -57,7 +49,7 @@ https://www.napoan.com/AcrossTheTime-part1/](/AcrossTheTime-part1/ "広大なマ
 
 [![今回潜入するダンジョンの全体図](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155513.png)](#b/b/bbe00949.png "今回潜入するダンジョンの全体図")
 
-こちらが[ReplayMod](/replay-mod-part1/)で撮影した、今回潜入するダンジョンの全体図です。**矢印の位置が入り口**で、**溶岩の上の通路や小さなピラミッド**があるのが確認できますね。
+こちらが[ReplayMod](/minecraft-je/mod/replay-mod/)で撮影した、今回潜入するダンジョンの全体図です。**矢印の位置が入り口**で、**溶岩の上の通路や小さなピラミッド**があるのが確認できますね。
 
 [![チェックポイントとテレポートのボタン](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152806.png)](#a/1/a17340d9.png "チェックポイントとテレポートのボタン")
 
@@ -65,7 +57,7 @@ https://www.napoan.com/AcrossTheTime-part1/](/AcrossTheTime-part1/ "広大なマ
 
 [![ボタンを押して念の為にスケルトンを倒しておく](https://www.napoan.com/wp-content/uploads/imgs/b/c/bc25f828.png)](#b/c/bc25f828.png "ボタンを押して念の為にスケルトンを倒しておく")
 
-まずは真ん中の溶岩の上の通路を進み、**2つのボタンを押しましょう。**すると右側にスケルトンが出てくるので、弓を持っているなら先に倒してしまいましょう。[私は「ハンター」の職業を選んだ](/AcrossTheTime-part2/#select-jobs)ので矢は使い放題です♪
+まずは真ん中の溶岩の上の通路を進み、**2つのボタンを押しましょう。**すると右側にスケルトンが出てくるので、弓を持っているなら先に倒してしまいましょう。[私は「ハンター」の職業を選んだ](./part2/#select-jobs)ので矢は使い放題です♪
 
 [![アイテムを回収して突き進め](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155411.png)](#b/b/bb27f56a.
 png "アイテムを回収して突き進め")
@@ -126,7 +118,7 @@ png "アイテムを回収して突き進め")
 
 [![次回、死す](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208145646.png)](#8/2/8292d712.png "次回、死す")
 
-次回は、**「フィオーネの森」に潜入**する予定です。 果たして森の奥には何が待っているのでしょうか。[王様が屋敷で言った](/AcrossTheTime-part2/#calypso)「2つのジェム」は無事回収できるのでしょうか…? お楽しみに。
+次回は、**「フィオーネの森」に潜入**する予定です。 果たして森の奥には何が待っているのでしょうか。[王様が屋敷で言った](./part2/#calypso)「2つのジェム」は無事回収できるのでしょうか…? お楽しみに。
 
 \[12/4追記\] コメントで頂いた情報によりますと、砂漠のダンジョンにはまだ本当のボスが隠れているみたいです。ジェム回収のために、**次回は改めて砂漠のダンジョンを完全攻略する予定**です。
 
