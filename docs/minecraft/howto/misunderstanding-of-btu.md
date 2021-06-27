@@ -9,7 +9,7 @@ title: PC版とマルチ←できません BetterTogetherUpdateのよくある�
 アップデート1.2「BetterTogetherUpdate」の内容まとめはこちら
 
 [![PE12アップデートまとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105655.png)  
-https://www.napoan.com/pe-update-12/](/pe-update-12/)
+/minecraft/update/v1-2/v0/](/pe-update-12/)
 
 ## PEと”PC版が”マルチプレイできる！←違います
 

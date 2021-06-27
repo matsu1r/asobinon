@@ -33,7 +33,7 @@ title: ReplayMod完全ガイド Part4 リプレイの中に画像(文字)を貼�
 
 [![背景を透明にした画像を作成しよう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208154324.jpg)](#a/f/afe546c2.jpg "背景を透明にした画像を作成しよう")
 
-まずは貼り付ける画像がないことには始まりません。**ペイントではなく「GIMP」「Photoshop」などの高機能な編集ソフトを使えば、背景を透明にした画像が作れます。**ちなみに、▲で使っているマイクラ風フォントは[こちらの記事](/44816309/)で紹介したものです。
+まずは貼り付ける画像がないことには始まりません。**ペイントではなく「GIMP」「Photoshop」などの高機能な編集ソフトを使えば、背景を透明にした画像が作れます。**
 
 [![Gキーを押してAssetManagerを開く](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175022.png)](#e/e/ee7f072e.png "Gキーを押してAssetManagerを開く")
 

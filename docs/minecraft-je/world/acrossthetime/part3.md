@@ -26,12 +26,12 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 # 「Across The Time」の特徴やダウンロードはpart1へ
 
 この記事は、**大規模アドベンチャーマップ「Across The Time」の攻略ガイドpart3です。**  
-**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](/AcrossTheTime-part1/)に詳しく書いています。**
+**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](/minecraft-je/world/acrossthetime/)に詳しく書いています。**
 
 AnrossTheTime 攻略記事 part1
 
 [![AcrossTheTime](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144726.png)  
-**AcrossTheTime-part1/**](/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")
+**AcrossTheTime-part1/**](/minecraft-je/world/acrossthetime/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")
 
 # どうしても英語が分からない方は、ランチャーを開きっぱなしに
 

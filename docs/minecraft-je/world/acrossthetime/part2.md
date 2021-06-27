@@ -6,13 +6,13 @@ title: ハンター? 忍者? 職業を選ぼう! 大長編RPG配布ワールド�
 
 ![AcrossTheTime-part2](https://web.archive.org/web/20200623233705im_/https://www.napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png)](https://web.archive.org/web/20200623233705/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/c/5/c59ed7d1.png "AcrossTheTime-part2")  
 **最大級、大長編RPGアドベンチャーワールド**_「Across The Time」_。  
-[part1](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/)では、ワールドのダウンロードやチュートリアル、街での戦闘を解説しました。  
+[part1](/minecraft-je/world/acrossthetime/)では、ワールドのダウンロードやチュートリアル、街での戦闘を解説しました。  
 **今回のpart2では、ついに職業を選択し、最初の町で色々な出会いや体験をします。**  
 **キャラとの会話、買い物など****RPGらしいストーリーと遊びをたっぷり楽しめます。**  
 マルチプレイで、**友達と協力したり競い合って、どんどんストーリーを進めましょう!**  
 _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
-[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1") [レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part3/ "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
+[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](/minecraft-je/world/acrossthetime/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1") [レベル上げと能力強化、砂漠の怪しげな村 **Part3 >>**](/minecraft-je/world/acrossthetime/part3 "能力強化と怪しげな村! 大長編RPG配布ワールド「AcrossTheTime」攻略 part3")
 
  .att-back-link , .att-next-link{display:block;padding:3px;margin:2px 2px 2px 10px;background-color:
 
@@ -26,7 +26,7 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 
 
 
-[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1")
+[**<< Part1** ダウンロードと導入方法、チュートリアルとプロローグ](/minecraft-je/world/acrossthetime/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1")
 
 ## 目次
 
@@ -39,14 +39,14 @@ _I\`m grateful to **Mr Piccomaster and Thundesrtruck** for this map!_ 🙂
 # 「Across The Time」の特徴やダウンロードはpar1へ
 
 この記事は、**大規模アドベンチャーマップ「Across The Time」の攻略ガイドpart2です。**  
-**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/)に詳しく書いています。**
+**ワールドのダウンロード**や、**内容の特徴**、**注意点/ルールなど**は**[part1](/minecraft-je/world/acrossthetime/)に詳しく書いています。**
 
 [
 
 ![AcrossTheTime](https://web.archive.org/web/20200623233705im_/http://napoan.com/www.napoan.com/wp-content/uploads/imgs/7/b/7b68b57f.png)
 
 ![AcrossTheTime](https://web.archive.org/web/20200623233705im_/https://www.napoan.com/www.napoan.com/wp-content/uploads/imgs/7/b/7b68b57f.png)  
-**AcrossTheTime-part1/**](https://web.archive.org/web/20200623233705/http://napoan.com/AcrossTheTime-part1/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")  
+**AcrossTheTime-part1/**](/minecraft-je/world/acrossthetime/ "広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1[Minecraft]")  
   
 
 # ストーリー攻略 part2 ～職業を選択、沢山の出会い～

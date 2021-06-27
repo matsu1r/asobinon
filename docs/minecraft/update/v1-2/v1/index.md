@@ -12,7 +12,7 @@ slug: /minecraft/update/v1-2/v1/
 *   Windows10: リリースされました
 *   XboxOne: リリースされました
 
-[<< バージョン1.2の内容まとめ](https://www.napoan.com/pe-update-12/)  
+[<< バージョン1.2の内容まとめ](/minecraft/update/v1-2/v0/)  
 [バージョン1.2.2の内容まとめ >>](https://www.napoan.com/bedrock-update-122/)
 
 スマホ・タブレット・Windows10アプリ・XboxOneで配信中の**「Minecraft(BE,BedrockEdition,統合版)」のアップデート「1.2.1」の更新内容**をまとめました。コントローラー用のフリーカーソルの実装や、いくつかの改善・バグ修正が含まれています。
