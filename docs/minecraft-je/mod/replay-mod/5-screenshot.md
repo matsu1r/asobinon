@@ -1,5 +1,5 @@
 ---
-title: 「ReplayMod」で360°スクショを撮影、共有する手順
+title: ReplayMod完全ガイド part5 で360°スクショを撮影、共有
 ---
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208123517.png)
@@ -88,3 +88,7 @@ VeeR VR
 投稿時の設定画面では、タイトル、説明文、公開状態を設定したり、3D画像にしたりできます。
 
 ▲スクショを公開すれば、こんな風に**Webページに埋め込むことも**できます。是非色々な場面をVeeRで共有してみてください。
+
+:::info
+これでスクショ編は終了です! [Part6 建築動画編](./speedbuildgen/)に進みましょう。
+:::

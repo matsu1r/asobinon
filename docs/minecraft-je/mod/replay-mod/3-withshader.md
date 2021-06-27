@@ -1,22 +1,11 @@
 ---
-title: 低スペでも影付きヌルヌル動画! 影MODを使いながらリプレイ動画を書き出す方法
+title: ReplayMod完全ガイド Part3 影MODを使いながら動画を書き出す
 ---
 
 ![ReplayMod影MOD動画書き出し](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164750.png)
 
 過去のプレイを動画にできる画期的なMOD「ReplayMod」。最新バージョンの「1.0.7」では、ついに**影MOD(シェーダパック)を適用した状態で動画を書き出せるようになりました!** 今回は、ReplayModの最新バージョンを導入して、**影MODを使いながらリプレイを動画化する手順**を解説します。  
 この動画書き出し機能を活用すれば、**低スペックなPCでも影MOD付きでNullNullな動画を作れます。**これまで諦めていた、美しい建築PVなどの動画制作を始めてみませんか。
-
-[**<< part3** リプレイ内に画像を貼り付ける](/replay-mod-part1/ "【MOD解説】")
-
-## 目次
-
-*   [影MODを使ったリプレイ動画とは。低スペでもヌルヌル!](#about)
-*   [「ReplayMod」の最新バージョンをダウンロードしよう](#rm-inst)
-*   [「Shaders Mod」を導入して、Optifineは無効化!](#install)
-*   [シェーダーパックを適用した状態で動画を書き出す手順](#render)
-
-[**<< part3** リプレイ内に画像を貼り付ける](/replay-mod-part1/ "【MOD解説】")
 
 ## 影MODを使ったリプレイ動画とは。低スペでもヌルヌル!
 
@@ -42,13 +31,6 @@ http://www.replaymod.com/download/](http://www.replaymod.com/download/)
 ![Snapshot版をダウンロード](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111831.jpg)  
 \[2016年5月7日追記\] **SEUS等のハイエンドなシェーダーパックを使う場合、「Dec 10」の日付のv1.0.7を使うと書き出し時にクラッシュします。**下の「Latest Snapshot」を使って下さい。私はこれを知らなかったので一生懸命作ったカメラパスデータが消えてしまいました＞＜
 
-「ReplayMod」の使い方(リプレイ閲覧/編集/カメラの設定/動画書き出し/画像挿入)の解説
-
-[![ReplayMod1](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208135735.png)  
-https://www.napoan.com/replay-mod-part1/](/replay-mod-part1/ "【MOD解説】")
-
-ダウンロード以降の導入方法や、ReplayModの基本的な使い方については▲の記事をお読み下さい。第一回と第二回、特別編の3記事をご用意しています。(この記事はReplayModシリーズ第4弾です)
-
 ## 「Shaders Mod」を導入して、Optifineは無効化!
 
 「ReplayMod」でシェーダーパックを使うには、現在Karyonix氏が開発を引き継いでいる**「[Shaders Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix)」が必要**です。マイクラのバージョン1.8版のShadersModをダウンロードして導入しましょう。
@@ -73,10 +55,14 @@ part1でも触れましたが、2015年12月15日現在最新の**「ReplayMod v
 ShadersModを導入すると、ビデオ設定画面に**「Shaders…」**  
 ボタンが現れますのでクリックしましょう。ここで適用するシェーダーパックを選択します。私のおすすめは「[KUDA-Shaders v5](http://dedelner.net/choosedownload/)」です。**とっても動作が軽く、しかも草木の揺れや水の透明感などバッチリ。**
 
-それとリプレイを動画化するには、ReplayModの導入に加えて「ffmpeg」をPCにインストールする必要があります。**詳細な書き出し手順と設定については[part2](/replay-mod-part2/)で解説しています**のでご参照下さい。
+それとリプレイを動画化するには、ReplayModの導入に加えて「ffmpeg」をPCにインストールする必要があります。
 
 [![高画質で動画を書き出しましょう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208145238.png)](#7/f/7f7c20a5.png "高画質で動画を書き出しましょう")
 
 シェーダーパックの細かいグラフィック表現を最大限活かすために、動画を書き出す際、できるだけ**「MP4 – High Quality」を選択**しましょう。**解像度も動画サイトに合わせて、例えばYoutubeなら1920×1080のフルHD画質がおすすめです。**(PCのモニターより高い解像度でも大丈夫!)
 
 ▲ちなみにこの動画は、1920×1080で書きだした後AviUtlで文字やBGMを付けました。2回動画を書き出しするため時間は掛かりますが、私にとってヌルヌルな動画を作れた時の達成感は格別です。皆さんも是非[ReplayMod](http://www.replaymod.com)を使って、**綺麗でヌルヌルな建築PV動画など**を制作してみてください。
+
+:::info
+これでシェーダー編は終了です! [Part4 画像編](./image/)に進みましょう。
+:::

@@ -1,5 +1,5 @@
 ---
-title: 既存の建物の建築作業のリプレイ動画を、後から作れる。CrushedPixel氏制作の画期的ツールのご紹介
+title: ReplayMod完全ガイド Part6 建築を倍速で振り返る動画の作り方
 ---
 
 ![Schematicからリプレイを生成するツールの紹介](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101006.png)
@@ -124,3 +124,7 @@ ReplayModのリプレイ一覧にリプレイが出現するということで�
 ![見てみた](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208092053.png)
 
 すごい、ちゃんとブロック1つ1つを歩いて設置していってる… **この建築作業を記録していたわけでもなく、ましてや私の建築でもないのに建築過程が思考されロボットが建築してくれるわけです。**CrushedPixel氏の技術に脱帽!
+
+:::success
+これでチュートリアルは終了です!
+:::

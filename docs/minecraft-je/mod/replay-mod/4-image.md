@@ -1,23 +1,11 @@
 ---
-title: ReplayModで、リプレイの中に画像(文字)を貼り付ける方法 – あなたのマイクラ動画をクールに!
+title: ReplayMod完全ガイド Part4 リプレイの中に画像(文字)を貼り付ける
 ---
 
 [![ReplayMod画像貼り付け](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208135429.png)](#4/a/4a71d7d3.png "ReplayMod画像貼り付け")
 
 **リプレイを保存し、カメラの動きを設定、動画として書き出せる。**革命的なカメラMOD**「ReplayMod」**。今回は解説記事第三弾、**「リプレイ内に画像(文字)を貼り付ける」方法を解説します。最近ゲームのトレイラーなどで流行りのスタイルですね。**サーバーや配布ワールドの紹介動画づくりに、是非ご活用下さい。  
-(サムネ内のロゴは作者さんのものをお借りしました。撮影ワールドは「[AcrossTheTime](/tag/AcrossTheTime)」です)
-
-[**<< part3** 動画書き出し完全ガイド](/replay-mod-part2/ "【MOD解説】「ReplayMod」動画書き出し完全ガイド- 高画質/360°でYouTubeに!【Minecraft】") [影MOD付きで動画書き出し **part4 >>**](https://www.napoan.com/replaymod-with-shaders/ "[ReplayMod] 低スペでも影付きヌルヌル動画! 影MODを使いながらリプレイ動画を書き出す方法【Minecraft】")
-
-## 目次
-
-*   [ReplayModの基本的な使い方、カメラの動きの設定はpart1へ](#part1)
-*   [「リプレイ/動画の中に画像を貼り付ける」とはどんな機能?](#about)
-*   [ReplayModで、好きな画像をPCから読み込む手順](#load-image)
-*   [画像をリプレイ内に貼り付けて、大きさや向きを設定しよう](#object-manager)
-*   [「ReplayMod」の導入方法](#inst)
-
-[**<< part3** 動画書き出し完全ガイド](/replay-mod-part2/ "【MOD解説】「ReplayMod」動画書き出し完全ガイド- 高画質/360°でYouTubeに!【Minecraft】") [影MOD付きで動画書き出し **part4 >>**](https://www.napoan.com/replaymod-with-shaders/ "[ReplayMod] 低スペでも影付きヌルヌル動画! 影MODを使いながらリプレイ動画を書き出す方法【Minecraft】")
+(サムネ内のロゴは作者さんのものをお借りしました。撮影ワールドは[AcrossTheTime](/minecraft-je/world/acrossthetime/)」です)
 
 ※この記事は**2015年11月15日現在**最新の**ReplayMod「v1.0.6」**を使っています。今後のバージョンアップによって、作業の手順が変更になる場合もありますのでご注意下さい。
 
@@ -27,12 +15,7 @@ title: ReplayModで、リプレイの中に画像(文字)を貼り付ける方�
 
 リプレイを録画し、**後から自由に鑑賞**したり、**カメラの動きを設定**して動画を作ったり… 革新的なカメラMOD、「ReplayMod」。**動画制作に便利な様々な機能を解説していくシリーズの、今回は3回目**です。
 
-ReplayMod解説記事 part1 ~リプレイの閲覧、カメラの動きの設定とセーブ~
-
-[![ReplayMod1](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208135735.png)  
-https://www.napoan.com/replay-mod-part1/](/replay-mod-part1/ "【MOD解説】")
-
-▲今回、**この第一回、それと第二回をお読みになった前提で書いています。**ReplayModでのリプレイの閲覧やカメラの動かし方、動画として書き出す手順については上記part1とpart2をお読み下さい。
+**第一回、それと第二回をお読みになった前提で書いています。**ReplayModでのリプレイの閲覧やカメラの動かし方、動画として書き出す手順については上記part1とpart2をお読み下さい。
 
 ## 「リプレイ/動画の中に画像を貼り付ける」とはどんな機能?
 
@@ -100,17 +83,6 @@ Fキーを押して「オブジェクトマネージャー」という画面を�
 
 Part1で解説したカメラの動きの設定と合わせて、より効果的に画像(文字)を見せてみましょう。**ダイナミックな視点移動と組み合わせるとクールですよ。**完成したらPart2を参考に**動画に書き出すこともできます**ね。
 
-## 「ReplayMod」の導入方法
-
-導入方法
-
-このMODは**1.8のForge**用のMODです!
-
-1.  **Forgeを導入**  
-    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
-2.  **「ReplayMod」をダウンロード**  
-    [こちら](http://www.replaymod.com/download/ "「ReplayMod」のダウンロード")からダウンロードして下さい。
-3.  **modsフォルダにブチ込む**
-4.  **動画制作やスクショ撮影など、様々な場面で役立つはずです。**
-
-[**<< part3** 動画書き出し完全ガイド](/replay-mod-part2/ "【MOD解説】「ReplayMod」動画書き出し完全ガイド- 高画質/360°でYouTubeに!【Minecraft】") [影MOD付きで動画書き出し **part4 >>**](https://www.napoan.com/replaymod-with-shaders/ "[ReplayMod] 低スペでも影付きヌルヌル動画! 影MODを使いながらリプレイ動画を書き出す方法【Minecraft】")
+:::info
+これでがおず編は終了です! [Part5 スクショ編](./screenshot/)に進みましょう。
+:::
