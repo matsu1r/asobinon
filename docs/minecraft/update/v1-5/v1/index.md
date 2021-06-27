@@ -7,8 +7,6 @@ slug: /minecraft/update/v1-5/v1/
 
 スマホ・タブレット・Windows10・XboxOne・NintendoSwitchのMinecraft(BE/統合版)の**アップデート「1.5.1」**がリリースされました。スイッチでMSアカウントにログインできない不具合などが修正されています。
 
-[<< バージョン1.4/1.5の内容まとめ](https://www.napoan.com/bedrock-update-aquatic/)  
-[バージョン1.6の内容まとめ >>](https://www.napoan.com/bedrock-update-16/)
 
 ## 様々なバグが修正されました
 

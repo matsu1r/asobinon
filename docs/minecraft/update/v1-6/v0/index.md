@@ -142,7 +142,7 @@ slug: /minecraft/update/v1-6/v0/
 *   攻撃力は**イージーで4/ノーマルで6/ハードで9**
 *   降りてくるのを邪魔されたり、攻撃されたりすると、元の高度に戻る
 *   プレイヤーまたは懐いたオオカミがファントムを倒すと、経験値x5と、最大1個の「[  
-    ファントムの皮膜](/bedrock-update-aquatic/2/#membrane)」をドロップする
+    ファントムの皮膜](#membrane)」をドロップする
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208101934.png)
 
@@ -165,7 +165,7 @@ slug: /minecraft/update/v1-6/v0/
 *   クリエイティブモードでのみ壊すことができる
 *   配布ワールドやサーバーで、**プレイヤーの行動範囲を制限するのにぴったり**なブロックだ
 
-### 新アイテム「ファントムの皮膜」を追加
+### 新アイテム「ファントムの皮膜」を追加 {#membrane}
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208111311.png)
 

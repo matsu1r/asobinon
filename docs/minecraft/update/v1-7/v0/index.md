@@ -13,8 +13,6 @@ slug: /minecraft/update/v1-7/v0/
 *   XboxOne: リリースされました
 *   Switch: リリースされました
 
-[<< バージョン1.6.1の内容まとめ](https://www.napoan.com/bedrock-update-161/)  
-[バージョン1.8の内容まとめ >>](https://www.napoan.com/mcbe-update-18/)
 
 スコアボード機能がついに実装された、**スマホ・タブレット・NintendoSwitch・Windows10アプリ・XboxOneの**「Minecraft(BE,統合版)」のアップデート「1.7」の更新内容**をまとめました。** 開発者さんのツイート、公式Wikiの情報を基に画像付きで詳しくまとめています。
 
@@ -29,20 +27,6 @@ slug: /minecraft/update/v1-7/v0/
     [https://minecraft.gamepedia.com/Bedrock\_Edition\_1.7](https://minecraft.gamepedia.com/Bedrock_Edition_1.7)
 
 他、コマンド等の英語版公式Wikiの解説を参考にしました。分かりやすい説明、豊富なデータをまとめてくださった英語版公式Wikiの編集者の皆様には、感謝してもしきれません。
-
-## 目次
-
-*   [ゲームプレイに関する追加/変更点](#gameplay)
-    *   [クリエイティブモードや難易度ピースフルで食べ物を食べられるように](#food)
-    *   [チャット内のプレイヤー名は黄色でハイライトされるように](#highlight)
-    *   [チャットでアットマークを打つとプレイヤー名一覧が表示されるように](#atmark)
-*   [コマンドに関する追加/変更点](#command)
-    *   [scoreboardコマンドが追加された](#scoreboard)
-    *   [コマンドブロックを全て有効化/無効化するゲームルールが追加](#commandblocksenabled)
-*   [ゲームシステム、全体的なことに関する追加/変更点](#system)
-    *   [ストアでどこからでもトップ・購入済み商品・検索画面に飛べるようになった](#store)
-    *   [ストアの商品ページに「共有」ボタンが設置された](#store)
-    *   [ストアの検索、並び替え、絞り込み機能が改善された](#search)
 
 ## ゲームプレイに関する追加/変更点
 
