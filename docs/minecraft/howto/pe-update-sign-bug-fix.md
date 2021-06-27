@@ -23,13 +23,6 @@ http://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=ja](http:
 
 そして何よりもこれ。**やっと看板のバグが修正され、水をせき止められるようになりました。**0.13.0の配信後は**「TTが作れない!」**などクラフターの皆さんの悲鳴をあちらこちらから聞きましたが、もう大丈夫。
 
-ゴーレムトラップの作り方の記事を修正しました
-
-[![PEゴーレムトラップの作り方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208160958.png)  
-https://www.napoan.com/pe-iron-golem-farm/](pe-iron-golem-farm.html)
-
-▲今回のアップデートの配信を受けて、**ゴーレムトラップの作り方の記事を修正し、0.12時代の作り方に戻しました。**もう鉄トラップドアをわざわざ付ける必要はありません。
-
 ## 看板を使ったMobエレベーターと子供仕分け装置
 
 [![Mobエレベーターと子供Mob仕分け装置](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131233.jpg)](#1/b/1bde5760.jpg "Mobエレベーターと子供Mob仕分け装置")

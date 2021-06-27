@@ -81,8 +81,6 @@ Johan氏「いろんな新ブロックだよ! 」
 ![BhZn6TRCMAE-BKx - コピー (4)](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208130653.png)  
 PC版の1.8で追加される予定です。
 
-[このブロックについて詳しくはこちら!](/36727621/)
-
 ## 【いろいろな堅焼き粘土を追加】
 
 ![BhZn6TRCMAE-BKx - コピー (5)](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180412.png)  
@@ -91,7 +89,7 @@ PC版の1.8で追加される予定です。
 ## 【ポドゾルを追加】
 
 ![BhZn6TRCMAE-BKx - コピー (6)](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208140155.png)  
-で、出たー! [野菜たっぷりハンバーグ!](/32563653/)
+で、出たー! 野菜たっぷりハンバーグ!
 
 ## 【菌糸を追加】
 

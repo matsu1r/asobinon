@@ -10,7 +10,7 @@ title: 【マインクラフトPE】時間と天気を変更するコマンド�
 マイクラPE 0.16アップデート内容まとめ▼
 
 [![PEv016アップデート内容まとめ-2](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104407.png)  
-https://www.napoan.com/pe-update-016/](/pe-update-016/ "【マインクラフトPE】次回アップデート0.16内容まとめ")
+/minecraft/update/v0-16/v0/](/minecraft/update/v0-16/v0/ "【マインクラフトPE】次回アップデート0.16内容まとめ")
 
 ## まずは設定画面で「チート」をONにしよう
 

@@ -35,11 +35,11 @@ http://pocketbeta.minecraft.net/2016/09/0160-beta-changelog-build-4-aka-015907.h
 ![ウィザーを召喚してみた](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208112103.png)
 
 こちらが新ボスの**「ウィザー」**。試しに召喚してみたら、自ら地面を掘り下げて溶岩に突っ込んでました… 挙句の果てにドロップアイテムの「ネザースター」が燃えちゃいました。  
-召喚方法など、詳しくは[こちらで解説しています](https://www.napoan.com/pe-update-016/#wither)。
+召喚方法など、詳しくは[こちらで解説しています](/minecraft/update/v0-16/v0/#wither)。
 
 ![ビーコン](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208112114.png)
 
-こちらは新ブロック**「ビーコン」**。ダイヤブロックなどでピラミッドを作って、その上に置いて使います。一段でもいいんだけどね。使い方については[こちらで解説しています](https://www.napoan.com/pe-update-016/#beacon)。
+こちらは新ブロック**「ビーコン」**。ダイヤブロックなどでピラミッドを作って、その上に置いて使います。一段でもいいんだけどね。使い方については[こちらで解説しています](/minecraft/update/v0-16/v0/#beacon)。
 
 マインクラフトPE バージョン0.16のベータ版は、Googleアカウントを持っていれば誰でも参加できます。**(ただし遊べるのはAndroid端末のみ)** 参加方法については▼の記事をお読み下さい。
 
@@ -53,6 +53,6 @@ https://www.napoan.com/pe-howtojoin-beta/](/pe-howtojoin-beta/)
 マイクラPE 0.16アップデート内容まとめ▼
 
 [![PEv016アップデート内容まとめ-2](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208104407.png)  
-https://www.napoan.com/pe-update-016/](/pe-update-016/ "【マインクラフトPE】次回アップデート0.16内容まとめ")
+/minecraft/update/v0-16/v0/](/minecraft/update/v0-16/v0/ "【マインクラフトPE】次回アップデート0.16内容まとめ")
 
 以上、ニュースサイト気取りで記事を書いてみました。**最近なぜかうちのブログがあの「AppBank」と並んでGoogleの検索結果のニュース欄に載る事件が起きた**ので、試しにニュース記事書いたらどうなるかな? と思いやってみました。次はPE向けのコマンド解説記事になるかな…? ほんじゃさよなら!

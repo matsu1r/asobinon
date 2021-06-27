@@ -84,12 +84,6 @@ PE1.0のベータ版を退会するページ
 
 下の方にある**「プログラムを終了」をタップ**して下さい。するとベータテスターではなくなります。****一旦マイクラPEをアンインストールしてから、(ワールドは消えません)**もう一度[Playストア](http://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=ja)でインストールしましょう。**するといつもどおりの0.16に戻っています。
 
-## アップデート内容まとめ記事はこちら
-
-アップデート「1.0」内容まとめ
-
-[![PE1.0まとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105344.png)  
-https://www.napoan.com/pe-update-10/](https://www.napoan.com/pe-update-10/)
 
 ## バグを見つけたらバグ報告しましょう。報告の重複に注意!
 

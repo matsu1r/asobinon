@@ -19,7 +19,8 @@ slug: /minecraft/update/v0-13/v0/
 
 ### ウサギを追加。待望の癒やし役だが厄介者でもある
 
-[![ウサギを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175303.jpg)](#f/1/f125e8b0.jpg "ウサギを追加")
+[
+![ウサギを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175303.jpg)](#f/1/f125e8b0.jpg "ウサギを追加")
 
 *   **新しい動物Mob「ウサギ」を追加。**
 *   PC版では、平原/山岳/森/タイガ/湿地/ジャングル/ダークオークの森/サバンナにスポーンする。PEで変化があるかどうかは現在調査中
@@ -37,35 +38,31 @@ slug: /minecraft/update/v0-13/v0/
 
 *   私が遊んでみたところ変化が分からなかったのだが、**ガストとスライムのスポーン量が上がった。**
 
-### スケルトンがオオカミから逃げるようになった![スケルトンがオオカミから逃げる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208145534.jpg)
+### スケルトンがオオカミから逃げるようになった
+![スケルトンがオオカミから逃げる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208145534.jpg)
 
 *   **スケルトンがオオカミから逃げるようになった。**
 *   もちろんオオカミはスケルトンに攻撃し、スケルトンもやられたら攻撃を返す。
-
 
 
 ## ワールドの生成(ダンジョンや構造物)に関する追加/変更点
 
 ### ついに「ピラミッド(砂漠の寺院)」が生成されるように
 
-### [![ピラミッドが生成されるように](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208161624.jpg)](#d/1/d15dfd36.jpg "ピラミッドが生成されるように")
+
+![ピラミッドが生成されるように](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208161624.jpg)](#d/1/d15dfd36.jpg "ピラミッドが生成されるように")
 
 *   **新しいダンジョン「ピラミッド(砂漠の寺院)」を追加。**
 *   砂漠に時々生成される。砂に埋もれている場合もあるので注意して探そう。
 
-### [![ピラミッドの宝の下にはトラップが](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150813.jpg)](#8/d/8d9f61b5.jpg "ピラミッドの宝の下にはトラップが")
+
+![ピラミッドの宝の下にはトラップが](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150813.jpg)](#8/d/8d9f61b5.jpg "ピラミッドの宝の下にはトラップが")
 
 *   地下には**4つのチェストがあり、鉄や金、運が良ければダイヤなどのお宝アイテムが**入っている。
 *   **おなじみのTNTトラップもちゃんと用意してある。**ちなみに中央の板は新ブロックの[「感圧板」](#press-plate)だ
 
-**ピラミッドの近くにスポーンするシード値をまとめました! 保存版です。▼**
-
-[![ピラミッドにすぐ行けるシード値](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208142253.png)  
-https://www.napoan.com/pe-desert-temple-seed/](/pe-desert-temple-seed/ "ピラミッドにすぐ行けるシード値")
 
 ## ブロックやアイテムの追加、変更点
-
-.item-list-table tbody th{text-align:left!important;font-weight:bold;font-size:1.05em;background-color:
 
 PE0.13の新ブロック/新アイテムのレシピと解説一覧
 
@@ -163,54 +160,59 @@ PE0.13の新ブロック/新アイテムのレシピと解説一覧
 
 ### レッドストーン(パウダー/ワイヤー)を設置可能に。回路を作れる!
 
-### [![レッドストーンパウダーを設置可能に](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144926.jpg)](#7/c/7ca743d4.jpg "レッドストーンパウダーを設置可能に")
+
+![レッドストーンパウダーを設置可能に](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144926.jpg)](#7/c/7ca743d4.jpg "レッドストーンパウダーを設置可能に")
 
 *   **これまで何もできなかった「レッドストーン(パウダー)」が設置できるようになった。**
 *   横に並べると線が繋がる。**[「レバー」](#lever)や[「RSトーチ」](#rs-torch)などから出るレッドストーン信号を伝える**ことができる。
 
-### ![レッドストーンは段差でガラスを通り抜ける](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208154129.jpg)
+
+![レッドストーンは段差でガラスを通り抜ける](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208154129.jpg)
 
 *   レッドストーンは**1ブロックの段差を超えられるが、ブロックには遮断される**。ただしガラスは通り抜ける
 *   レッドストーンパウダーは、壁や天井には貼り付けられない。
 *   **水が当たるとワイヤーは剥がれてしまう**ので注意!
 
-**PE0.13の時点でレッドストーンで作れる回路のパーツをまとめました。▼**
+### レッドストーン信号の電源、レバーを追加!
 
-[![レッドストーン回路のパーツまとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208161417.png)  
-https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repeater/" "レッドストーン回路のパーツまとめ")
-
-### レッドストーン信号の電源、レバーを追加![レッドストーン信号が出る、レバーを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208153940.jpg)
+[レッドストーン信号が出る、レバーを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208153940.jpg)
 
 *   **「レバー」を追加。タップしてONにするとレッドストーン信号が出力される**
 *   サバイバルでのレシピは、**棒と丸石だけ**。
 *   **これだけで信号はずっと出力される。他にレッドストーントーチやレッドストーンブロックは要らない**ので注意!
 
-### ![レバーはブロックの側面や底面にも置けます](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162014.jpg)
+![レバーはブロックの側面や底面にも置けます](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162014.jpg)
 
 *   **レバーは、ブロックの側面や下側にも置ける。**例えば後述する[「レッドストーンランプ」](#rs-lamp)にくっつけてオンオフしたりできる。
 *   レッドストーンパウダー同様、水でアイテム化しまうので注意。
 
-### [![レバーでレールの分岐を切り替えられる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208124929.jpg)](#0/5/054f5e33.jpg "レバーでレールの分岐を切り替えられる")
+![レバーでレールの分岐を切り替えられる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208124929.jpg)](#0/5/054f5e33.jpg "レバーでレールの分岐を切り替えられる")
 
 *   **レールの横に置けば、レバーを倒して分岐を切り替えることもできる。**
 
-### レッドストーントーチを追加、リピーターの代わりやNOT回路に![レッドストーントーチを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162856.jpg)
+### レッドストーントーチを追加、リピーターの代わりやNOT回路に
+
+![レッドストーントーチを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162856.jpg)
 
 *   **「レッドストーントーチ」を追加。レシピはレッドストーンと棒。**
 *   置くだけでレッドストーン信号が出力される。ちょっとした明かりにもなる。
 
-### ![レッドストーントーチでNOT回路を作れる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180529.jpg)
+![レッドストーントーチでNOT回路を作れる](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180529.jpg)
 
 *   RSトーチが刺さったブロックに信号を後ろから入力すれば、刺さっているRSトーチはOFFになる
 *   **▲のようにブロックにRSトーチを挿せば、NOT回路が作れる**
 
-### レッドストーンランプを追加、オンオフできる照明![レッドストーンランプを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152136.jpg)
+### レッドストーンランプを追加、オンオフできる照明
+
+![レッドストーンランプを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152136.jpg)
 
 *   **新ブロック「レッドストーンランプ」を追加。レッドストーン信号を入力すると明るくなる**
 *   **レシピは、グロウストーンブロック1個とレッドストーンパウダー4個。**
 *   明るさレベルは「15」なので、溶岩と同じ明るさ。
 
-### 「木のボタン」「石のボタン」を追加![ボタンを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208151747.jpg)
+### 「木のボタン」「石のボタン」を追加
+
+![ボタンを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208151747.jpg)
 
 *   **「木のボタン」を追加。レシピは木材1つ。**
 *   **「石のボタン」を追加。レシピは焼石1つ。**
@@ -218,14 +220,18 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 *   石のボタンは1秒間、木のボタンは1.5秒間信号が出る
 *   ブロックの側面だけでなく、上面や底面にも付けられる。
 
-### 自動ドアが作れる「感圧板」を追加 ![感圧板を追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208134059.jpg)
+### 自動ドアが作れる「感圧板」を追加
+
+![感圧板を追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208134059.jpg)
 
 *   **「木製の感圧板」を追加。レシピは木材2つ。**
 *   **「石の感圧板」を追加。レシピは焼石2つ。**
 *   押すとレッドストーン信号が短時間出力される。
 *   **Mobやアイテムが乗ってもオンになる。ただし石の感圧板はアイテムに反応しない!**
 
-### 「重量感圧板」を追加、アイテムを乗せた数で信号の強さが変わる![2種類の重量感圧板を追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208165106.jpg)
+### 「重量感圧板」を追加、アイテムを乗せた数で信号の強さが変わる
+
+![2種類の重量感圧板を追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208165106.jpg)
 
 *   **金でできた「重量感圧板(軽)」を追加。レシピは金インゴット2つ。**
 *   **鉄でできた「重量感圧板(重)」を追加。レシピは鉄インゴット2つ。**
@@ -332,7 +338,9 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 
 ※「信号の強さ」によって、レッドストーンパウダーから信号が伝わる距離が変わります。
 
-### 「トリップワイヤーフック」を追加、トラップづくりに最適![トリップワイヤーフックを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164949.jpg)
+### 「トリップワイヤーフック」を追加、トラップづくりに最適
+
+![トリップワイヤーフックを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164949.jpg)
 
 *   **「トリップワイヤーフック」を追加。レシピは鉄インゴット、棒、木材をそれぞれ一つ。**
 *   トリップワイヤーフックを壁に貼り付け、**間に「糸」を設置して使う**。(今回のアプデで[糸が設置可能になった](#place-string))
@@ -340,37 +348,46 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 *   トリップワイヤーフックの間の糸は40ブロックの長さまで。
 *   トリップワイヤーフックの間の糸を、**ハサミを持たずに破壊すると短い信号が出力される**。つまり勝手にトラップを壊しても何か発動させられる。
 
-### 「日照センサー」を追加、時間に応じた仕掛けが作れる![日照センサーを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144313.jpg)
+### 「日照センサー」を追加、時間に応じた仕掛けが作れる
+![日照センサーを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144313.jpg)
 
 *   **「日照センサー」を追加。レシピはガラス、ネザー水晶、木材ハーフブロックをそれぞれ3つ。**
 *   そのままだと、日光が当たっている時にレッドストーン信号が出力される。
 *   これに色々な回路を繋いで、**「朝になると○○する」といった装置が作れる。**
 
-### ![日照センサーの月光センサーモード](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175815.jpg)
+
+![日照センサーの月光センサーモード](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175815.jpg)
 
 *   ****一回タップすると「月光センサーモード」になり、**通常とは逆で「日光が当たらなければ信号を出す」ブロックになる。**
 
-### 「トラップチェスト」を追加、開けると信号が出る![トラップチェストを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152606.jpg)
+### 「トラップチェスト」を追加、開けると信号が出る
+
+![トラップチェストを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208152606.jpg)
 
 *   **「トラップチェスト」を追加。レシピはチェストと「[トリップワイヤーフック](#tripwire)」をそれぞれ1つ。**
 *   **トラップチェストを開けている間はレッドストーン信号が出力される。**
 *   つまり、開けると何かが起こるチェストが作れる。
 *   普通のチェストとトラップチェストを見分けるには、持ち手部分を見よう。トラップ版は持ち手が赤っぽい。
 
-### 「ディテクターレール」を追加、トロッコの仕掛けを作ろう![ディテクターレールを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131903.jpg)
+### 「ディテクターレール」を追加、トロッコの仕掛けを作ろう
+
+![ディテクターレールを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131903.jpg)
 
 *   **「ディテクターレール」を追加。レシピは鉄インゴット6つ、石の感圧板1つ、レッドストーンパウダー1つ。**
 *   レールと繋いで設置し、**上にトロッコが通るとレッドストーン信号が出力される。**
 *   例えばトロッコが通ると後述する「[音ブロック](#noteblock)」で音が鳴る、などの仕掛けが作れる。
 
-### 「アクティベーターレール」を追加、トロッコからMobを落とせるぞ[![アクティベーターレールを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150241.jpg)](#8/7/87dda876.jpg "アクティベーターレールを追加")
+### 「アクティベーターレール」を追加、トロッコからMobを落とせるぞ
+
+[![アクティベーターレールを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150241.jpg)](#8/7/87dda876.jpg "アクティベーターレールを追加")
 
 *   **新ブロック「アクティベーターレール」を追加。**
 *   レシピは鉄インゴット6個、棒2本、レッドストーントーチ1本。
 *   **レッドストーン信号を入力すると、上に来たトロッコを揺らして乗っているMobを落とす。**
 *   PC版などでは「TNT付きトロッコ」などを起動する機能もあるが、PEではまだ対応したトロッコがない
 
-### 「音符ブロック」を追加、音楽を奏でよう! ![音符ブロックを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208124907.jpg)
+### 「音符ブロック」を追加、音楽を奏でよう! 
+![音符ブロックを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208124907.jpg)
 
 *   **新ブロック「音符ブロック」を追加。レッドストーン信号を入力すると音が鳴る**
 *   レシピはレッドストーン(パウダー)1個と木材8個。
@@ -399,12 +416,14 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 
 ピアノ
 
-### マツ/シラカバ/アカシア/ジャングル/ダークオークのドアを追加![各種木材のドアを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208153526.jpg)
+### マツ/シラカバ/アカシア/ジャングル/ダークオークのドアを追加
+![各種木材のドアを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208153526.jpg)
 
 *   **「マツのドア」「シラカバのドア」「熱帯樹(ジャングル)のドア」「アカシアのドア」「ダークオークのドア」を追加。**
 *   ドアとしての機能に違いはない。シラカバのドアは和風な感じ。
 
-### 鉄のドアが作れる/使えるようになった。RS信号で開け閉めする![鉄のドアはレッドストーン信号で開け閉めする](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175457.jpg)
+### 鉄のドアが作れる/使えるようになった。RS信号で開け閉めする
+![鉄のドアはレッドストーン信号で開け閉めする](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175457.jpg)
 
 *   **「鉄のドア」がアイテム一覧画面に登場し、サバイバルでも鉄インゴット6つで作れるようになった。**(0.12ではツールアプリで取り出していた)
 *   **レッドストーン信号を使って開け閉め**する。例えば**前に感圧板を置けば、感圧板を置いた方向からしか入れないドアが作れる。**
@@ -416,7 +435,8 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 *   **木のトラップドアと違って、レッドストーン信号で開け閉めする。**
 *   例えば、地下室への入り口をボタンで開けるだとかできる。
 
-### パワードレール(加速レール)の動作にレッドストーン信号が必要になった![パワードレールの加速にレッドストーン信号が必要になった](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208083319.jpg)
+### パワードレール(加速レール)の動作にレッドストーン信号が必要になった
+![パワードレールの加速にレッドストーン信号が必要になった](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208083319.jpg)
 
 *   パワードレール(加速レール)でトロッコを動かす時に、レッドストーン信号が必要になった。
 *   **(レバーをオフにするなど)レッドストーン信号を入力しない場合、トロッコにブレーキがかかって止まる。**
@@ -428,17 +448,20 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 *   クリエイティブモードのアイテム一覧にはあるが、置いて飾りにするだけのブロックになった
 *   **これまでストーンカッターで作っていたアイテムは、全て作業台で同じように作れる**のでご安心を。
 
-### 「ウサギの皮」「ウサギの生肉」「焼き兎肉」「ウサギシチュー」を追加![ウサギの皮4つで革に](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208130207.jpg)
+### 「ウサギの皮」「ウサギの生肉」「焼き兎肉」「ウサギシチュー」を追加
+![ウサギの皮4つで革に](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208130207.jpg)
 
 *   素材アイテム「ウサギの皮」を追加。**ウサギを倒すとドロップ**される。
 *   **ウサギの皮を4つ集めてクラフトすると、牛の「革」になる。**つまりウサギを倒しまくれば、本や革の防具も作れるのだ。
 
-### ![ウサギの肉の満腹度回復量](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208142730.jpg)
+
+![ウサギの肉の満腹度回復量](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208142730.jpg)
 
 *   **「生の兎肉」**を追加。**ウサギを倒すとドロップ**される。
 *   かまどで「生の兎肉」を焼くと、**「焼き兎肉」**になる。焼き兎肉を食べると、満腹度ゲージが2.5個分(数値的には5)回復する。
 
-### ![ウサギシチューのレシピ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131036.jpg)
+
+![ウサギシチューのレシピ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131036.jpg)
 
 *   **「ウサギシチュー」**を追加。レシピは焼き兎肉、ニンジン、ベイクドポテト、キノコ、ボウルをそれぞれ1個。キノコは赤色でもいい。
 *   ウサギシチューを食べると、満腹度ゲージが5個分(数値的には10)回復する。
@@ -458,7 +481,8 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 
 ### 新しいスキンパック「バイオーム開拓者パック 1」が追加された
 
-### ![新しいスキンパックを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155054.jpg)
+
+![新しいスキンパックを追加](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155054.jpg)
 
 *   新しい**スキンパック「バイオーム開拓者パック 1」**が追加された。
 *   左上の「砂漠のいくじなし」は無料だが、他は有料。寄付だと思って買い揃えるのもいいかも。
@@ -468,7 +492,8 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 *   ボートの動作が見直され、**最高速度がダッシュと同じくらいになった。**
 *   ボートを動かす時に、[満腹度](/pe-alpha-012/#hunger)を消費しなくなった。
 
-### 骨粉で生える花が、バイオームごとに変わるようになった![バイオーム別に違う花が咲く](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180439.jpg)
+### 骨粉で生える花が、バイオームごとに変わるようになった
+![バイオーム別に違う花が咲く](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208180439.jpg)
 
 *   骨粉を地面に使って草や花を生やす際、**バイオームによって生える花の種類が変化する仕様に**なった。
 
@@ -480,7 +505,8 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 
 ### 手持ちアイテムの数字の表示がPC版のように大きくなった
 
-### ![手持ちアイテムやインベントリの数字が大きく](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164952.jpg)
+
+![手持ちアイテムやインベントリの数字が大きく](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164952.jpg)
 
 *   **手持ちアイテムバーやインベントリのアイテムの数字が大きくなり**、PC版のような文字になった。
 
@@ -489,7 +515,8 @@ https://www.napoan.com/pe-circuits-without-repeater/](/pe-circuits-without-repea
 *   **マルチプレイ機能全体のオン/オフ**を切り替えられるようになった。しかしワールド/サーバーでプレイ中には切り替えられない。
 *   **「LANに配信」(ローカルマルチプレイ)のオンオフ切り替えはゲーム内でも可能。**
 
-### 建築できる高度(y128)の制限より上にブロックを置こうとすると警告されるように![建築高度限界で警告が表示されるように](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155235.jpg)
+### 建築できる高度(y128)の制限より上にブロックを置こうとすると警告されるように
+![建築高度限界で警告が表示されるように](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208155235.jpg)
 
 *   **建築できる最高の高さ(Y=128)より上にブロックを置こうとすると**、警告が表示されるようになった。
 
