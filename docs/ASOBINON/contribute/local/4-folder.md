@@ -42,3 +42,5 @@ sidebar_position: 0
 |
 |**`index.md`が`index`フォルダになってしまうからです。**
 |`/(フォルダ名)/index/index.html`が作られた結果、`(フォルダ名)/index`がURLになってしまうのです。
+|
+|この問題については既に[issue](https://github.com/facebook/docusaurus/issues/2537)が立てられていて、今後`slug`が不要になる可能性もあります。
