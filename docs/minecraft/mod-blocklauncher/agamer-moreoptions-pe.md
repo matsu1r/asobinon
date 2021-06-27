@@ -17,12 +17,7 @@ title: 軽量化MODの入れ方と、草ブロックが変なのを直す方法
 
 ## まずはBlockLauncherをダウンロードしよう
 
-軽量化MODを入れるためには、**前提として「BlockLauncher」が必要**になります。**以下の記事を参考にダウンロード、インストールして下さい。**
-
-BlockLauncherのダウンロード、インストール方法解説記事
-
-[![BlockLauncher導入方法](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208143550.png)  
-https://www.napoan.com/45399626/](/45399626/ "バージョン0.11でMODの入れ方! BlockLauncherのダウンロード/導入方法")
+軽量化MODを入れるためには、**前提として「BlockLauncher」が必要**になります。
 
 [![開いてみた](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208162758.png)](#d/c/dcff681c.png "インストール成功")
 

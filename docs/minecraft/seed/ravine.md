@@ -89,8 +89,6 @@ BepisGuy123さん、素晴らしいシード値をありがとうございます
 情報元:[http://mcpedl.com/cross-ravine-plains-seed/](http://mcpedl.com/cross-ravine-plains-seed/)  
 sjk210さん、素晴らしいシード値をありがとうございます!
 
-[**記事はまだ続きます!** 村を囲む渓谷や、スポーン部屋付きの渓谷など >>](/bedrock-ravine-seeds/2/)
-
 ## でかい渓谷、渓谷に沿って進めば村
 
 シード値
