@@ -11,7 +11,7 @@ slug: /minecraft/update/v1-1/v3/
 ゲーム機版と統合! 次回アップデート「1.2」の内容まとめはこちら▼
 
 [![PE12アップデートまとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093917.png)  
-/minecraft/update/v1-2/v0/](/pe-update-12/)
+/minecraft/update/v1-2/v0/](/minecraft/update/v1-2/v0/)
 
 [<< バージョン1.1の内容まとめ](https://www.napoan.com/pe-update-11/)  
 [バージョン1.2の内容まとめ >>](/minecraft/update/v1-2/v0/)

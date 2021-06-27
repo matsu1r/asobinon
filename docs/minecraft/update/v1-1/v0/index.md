@@ -11,7 +11,7 @@ slug: /minecraft/update/v1-1/v0/
 ゲーム機版と統合! 次回アップデート「1.2」の内容まとめはこちら▼
 
 [![PE12アップデートまとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093917.png)  
-/minecraft/update/v1-2/v0/](/pe-update-12/)
+/minecraft/update/v1-2/v0/](/minecraft/update/v1-2/v0/)
 
 アップデート配信状況
 
@@ -132,7 +132,7 @@ slug: /minecraft/update/v1-1/v0/
 *   HPは24(♥x12)。
 *   こいつ自身は直接攻撃をしない。攻撃方法については後述する。
 *   100%の確率で新アイテム「  
-    [不死のトーテム](/pe-update-11/2/#totem)」をドロップする。0~1個のエメラルドも落とす。
+    [不死のトーテム](#totem)」をドロップする。0~1個のエメラルドも落とす。
 *   **一度倒すと二度と復活しない。**
 *   IDはevokerではなく「evocation\_illager」なので注意。
 
@@ -269,8 +269,6 @@ slug: /minecraft/update/v1-1/v0/
 
 *   エンドシティにスポーンする**シュルカーの色が、羊毛などに合わせて変更され**、鮮やかな色になった。
 
-[目次へ戻る▲](#mokuzi)  
-[**記事はまだ続きます!** 新アイテムやブロックなどについては2ページ目へ >>](/pe-update-11/2/)
 
 ## ブロックやアイテムの追加、変更点
 
@@ -322,7 +320,7 @@ shulker\_box
 [不死のトーテム](#totem)  
 totem
 
-*   **[エヴォーカー](/pe-update-11#evoker)** を倒すと必ずドロップ
+*   **[エヴォーカー](#evoker)** を倒すと必ずドロップ
 
   
 [鉄塊](#iron-nugget)  
@@ -401,7 +399,7 @@ iron\_nugget
 
 *   新アイテム**「不死のトーテム」**を追加。
 *   IDはPC版と違って「totem」だけなので注意。
-*   [エヴォーカー](/pe-update-11#evoker)を倒すと必ずドロップする。
+*   [エヴォーカー](#evoker)を倒すと必ずドロップする。
 
 ![オフハンドスロットにセット](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121759.png)
 
@@ -426,7 +424,7 @@ iron\_nugget
 
 *   宝の地図は、**「製図家」の村人と交易して入手するしかない**。
 *   宝の地図が入手できるのは4段階目の取引。
-*   製図家の取引一覧は[こちら](/pe-update-11#cartographer)を参照してほしい。
+*   製図家の取引一覧は[こちら](#cartographer)を参照してほしい。
 
 ![宝の地図](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208113117.png)
 
@@ -490,9 +488,6 @@ iron\_nugget
 ![色の変化](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208113046.png)
 
 *   羊毛とカーペットとシュルカーボックスの色が少し変わった。ちょっと明るくなった
-
-[目次へ戻る▲](/pe-update-11/#mokuzi)  
-[**記事はまだ続きます!** 新エンチャントや新ゲームモードについては3ページ目へ >>](/pe-update-11/3/)
 
 ## ゲームプレイに関する追加/変更点
 
@@ -640,4 +635,4 @@ https://www.napoan.com/pe-candestroy-canplaceon-command/](https://www.napoan.com
 *   ビデオ設定に**「スムースライティング(Smooth Lighting)」**の項目が追加された。
 *   OFFにすると昔のバージョンのように**明暗の差がはっきり**した描画になる。
 
-[目次へ戻る▲](/pe-update-11/#mokuzi)
+

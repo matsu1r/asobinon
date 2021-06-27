@@ -11,7 +11,7 @@ PEのバージョン0.14に対応していることを確認しました。**\[2
 アップデート「0.15.0」の内容まとめ記事はこちらです。
 
 [![Minecraft:Pocket Edition 0.15.0内容まとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208092340.png)  
-https://www.napoan.com/pe-alpha-015/](/pe-alpha-015/)
+/minecraft/update/v0-15/v0/](/minecraft/update/v0-15/v0/)
 
 ## 目次
 

@@ -64,4 +64,4 @@ https://www.windowscentral.com/first-signs-xbox-one-mouse-support-appear-xbox-in
 PEアップデート1.2「BetterTogetherUpdate」の内容まとめはこちら
 
 [![PE12アップデートまとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208105655.png)  
-/minecraft/update/v1-2/v0/](/pe-update-12/)
+/minecraft/update/v1-2/v0/](/minecraft/update/v1-2/v0/)

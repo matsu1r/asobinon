@@ -55,7 +55,7 @@ Windows10版のアイコン画像を使って**勝手にコラ画像作ってみ
 PEアップデート1.2「BetterTogetherUpdate」の内容まとめはこちら
 
 [![PE12アップデートまとめ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208093917.png)  
-/minecraft/update/v1-2/v0/](/pe-update-12/)
+/minecraft/update/v1-2/v0/](/minecraft/update/v1-2/v0/)
 
 ▲こちらの記事はマイクラPE向けのものですが、**これと同じ内容の新生「Minecraft」が配信されるんです。**  
 スイッチ版のアップデート内容まとめも別で書くので、まずは▲の記事を読んでね！

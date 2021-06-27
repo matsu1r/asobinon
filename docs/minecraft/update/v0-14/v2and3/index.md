@@ -11,7 +11,7 @@ slug: /minecraft/update/v0-14/v2and3/
 **サボテンの件は0.14.2の頃からあったバグだそうなので訂正、バージョン0.14.3の内容について追記**
 
 [<< バージョン0.14.0の内容まとめ](https://www.napoan.com/pe-alpha-014/)  
-[バージョン0.15の内容まとめ_New!!_ >>](https://www.napoan.com/pe-alpha-015/)
+[バージョン0.15の内容まとめ_New!!_ >>](/minecraft/update/v0-15/v0/)
 
 ※情報が入り次第どんどん追記します。
 

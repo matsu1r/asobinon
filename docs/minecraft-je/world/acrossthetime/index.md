@@ -1,6 +1,6 @@
 ---
 title: 広大なマップ,豊富な職業! マルチ対応のおすすめRPG配布ワールド「AcrossTheTime」攻略 part1
-slug: /minecraft-je/word/acrossthetime/
+slug: /minecraft-je/world/acrossthetime/
 ---
 
 **これまでで最大級、大長編**と呼べる、**RPG配布ワールド**を紹介します。  
