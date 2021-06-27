@@ -83,7 +83,7 @@ title: 【MOD紹介】今日は節分！鬼は俺！福も俺！「Angels&Demons
 **1\.** Forge1.6.4版を導入
 
 [＞＞Forgeダウンロード＜＜](http://files.minecraftforge.net)   
-(Forgeの導入方法については[こちらの記事](/new-way-to-install-mod/ "Forgeの導入方法解説記事です。")を参考にしてください) 
+(Forgeの導入方法については[こちらの記事](/minecraft-je/howto/install-forge/ "Forgeの導入方法解説記事です。")を参考にしてください) 
 
 **2.** このMODをダウンロード
 

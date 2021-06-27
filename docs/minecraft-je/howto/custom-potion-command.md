@@ -37,7 +37,7 @@ https://www.napoan.com/pcversion19-command-guide/](https://www.napoan.com/pcvers
 [![毎度お世話になっているMCStacker](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208144931.jpg)  
 http://mcstacker.bimbimma.com/](http://mcstacker.bimbimma.com/)
 
-うちのコマンド解説記事では度々登場している、**高機能コマンド生成ツール「MCStacker」**。詳しい使い方は[こちらの記事](/42534067/)で解説済みですが、今回はカスタムポーションのgiveコマンドをこのツールで作ります。
+うちのコマンド解説記事では度々登場している、**高機能コマンド生成ツール「MCStacker」**。今回はカスタムポーションのgiveコマンドをこのツールで作ります。
 
 ![ポーションの見た目を決めよう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131722.jpg)
 
@@ -128,14 +128,13 @@ Slowness Potion
 
 ![効果の内容を隠したい](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208125521.png)
 
-このままだと、ポーションの説明文の下に効果が一覧表示されます。**効果を隠したい時は「Hide Flags」にチェック**しましょう。この「ひでフラグ」機能の正しい使い方は前に[こちらの記事](/43851879/)で解説しましたね。
+このままだと、ポーションの説明文の下に効果が一覧表示されます。**効果を隠したい時は「Hide Flags」にチェック**しましょう。
 
 ## バージョン1.9で変わった、ポーションの新しい入手コマンドを解説
 
 [![先ほどのコマンドが使えません](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150437.png)](#8/9/89c9988a.png "先ほどのコマンドが使えません")
 
 先ほどのオリジナルポーションのコマンドを、現在SnapShotがリリースされている**バージョン1.9で使ってみるとうまく動きません。**ポーションの見た目を設定すると該当するアイテムが無い状態になります。実は、Snapshot15w31aにて**ポーションの仕様が変わり、従来の方法ではポーションをコマンドで入手できなくなってしまったのです。**ではどうすればいいんでしょうか。  
-(1.9のSnapshotを遊ぶ方法については[この前のフルトン回収の記事](/mgs-fulton-command-by-dragnoz/)をご覧ください)
 
 ![水入り瓶を選ぼう](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208131748.jpg)
 

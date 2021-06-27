@@ -138,12 +138,8 @@ scoreboardコマンドの**リセット機能**を使います。「9」のコ�
 
 ![AssetsListenerが役立ちました](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208153649.jpg)
 
-数あるマイクラの効果音の中から、警告音にピッタリなSEを探し当てるのは大変です。そんな時はこれ、[のと氏](https://twitter.com/notosanz)制作の**「Minecraft Assets Listener」**です。**マイクラのBGM/SEを検索して、音量とピッチを変更して何度でも聞けます。**使い方は以前に以下の記事にて紹介していますので、気になったら是非チェックしてみてください。
+数あるマイクラの効果音の中から、警告音にピッタリなSEを探し当てるのは大変です。そんな時はこれ、[のと氏](https://twitter.com/notosanz)制作の**「Minecraft Assets Listener」**です。マイクラのBGM/SEを検索して、音量とピッチを変更して何度でも聞けます
 
-マイクラの音声を自由に聞けるツール「Minecraft Assets Listener」の紹介記事
-
-[![AssetsListener](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208174603.png)  
-https://www.napoan.com/44137681/](/44137681/ "ホラゲー制作に便利! マイクラの効果音/音楽を、自由な音程で聞けるツール「Minecraft Assets Listener」")
 
 ### 一定時間が経過するとトラップを爆発させる
 

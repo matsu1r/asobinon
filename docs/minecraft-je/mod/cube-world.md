@@ -99,7 +99,7 @@ title: 【MOD紹介】あなたのワールドを丁寧に個包装しました�
 
 [＞＞MODの配布ページヘ＜＜](http://www.planetminecraft.com/mod/cube-world-1227625/)
 
-↑でダウンロードしたフォルダを展開して、[この方法](/new-way-to-install-mod/#buchi)で導入してください。  
+↑でダウンロードしたフォルダを展開して、[この方法](/minecraft-je/howto/install-forge/#buchi)で導入してください。  
 （jarのメタインフを消してからブチ込む方法です）
 
 **※最新バージョンで遊ぶときは、こちらの方法を使ってください**  

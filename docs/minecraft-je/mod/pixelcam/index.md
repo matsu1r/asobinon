@@ -1,5 +1,6 @@
 ---
 title: Minecraft 1.9/1.10対応! カメラMODの新定番「PixelCam」の使い方。座標に注目/連続移動など新機能も
+slug: /minecraft-je/mod/pixelcam/
 ---
 
 ![PixelCamの使い方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208121713.png)

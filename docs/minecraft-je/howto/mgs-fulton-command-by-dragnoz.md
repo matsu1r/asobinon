@@ -29,12 +29,6 @@ title: フルトン回収システムでMobを飛ばそう! Dragnoz氏が見事�
 
 このフルトン回収のコマンド、「空中浮遊」やら「tag」システムやらバージョン1.9の新機能をふんだんに使っています。まだ正式版はリリースされていませんが、**1.9のSnapShotを起動すれば作成できます。**
 
-こちらの記事でSnapShotの遊び方を解説しています
-
-[![SnapShotの遊び方](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208154628.jpg)  
-new-command-block/](/new-command-block/)
-
-大変申し訳ありませんが、この記事ではSnapShotの遊び方については割愛させて頂きます。**▲の記事にて、ランチャーからSnapShotをダウンロードして遊ぶ方法を解説している**ので分からない方はどうぞ。
 
 ## Dragnoz氏のコマンドを1つ1つ解説します
 

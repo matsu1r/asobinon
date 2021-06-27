@@ -1,5 +1,6 @@
 ---
 title: 【MOD紹介】クラフターよ、これが鉄道だ！「RealTrainMod」
+slug: /minecraft-je/mod/real-train-mod/
 ---
 
 :::warning

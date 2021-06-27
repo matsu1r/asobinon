@@ -1,5 +1,6 @@
 ---
 title: 【MOD紹介】今日から深海棲艦が好きになる「深これ」建造/開発/育成ガイド
+slug: /minecraft-je/mod/shincolle/
 ---
 
 [![深これ](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208141616.png)](#5/e/5ef1833d.png "深これ")  
@@ -8,15 +9,6 @@ title: 【MOD紹介】今日から深海棲艦が好きになる「深これ」�
 今回紹介するのは、Lulaneeさん制作の**「深これ」**です。  
 **資材集めから、深海棲艦の建造、装備品の開発、行動の指示などを解説します。**  
 **まだベータ版**なので、でいえむえむなどに怒られる事無く正式リリースしてほしいです…  
- 
-
-## 目次
-
-*   [「深これ」MODの**導入方法と日本語化**](#donyu)
-*   [深海棲艦の建造方法 – **資材集め、造船所の作り方**](#kenzo)
-    *   [小型造船所で深海棲艦を建造せよ](#small)
-    *   [大型の祭壇(造船所)を作って強力な棲艦を建造せよ](#big)
-*   [深海棲艦の**育成、強化、行動の指示**](#kyoka-kodo)
 
 ## 「深これ」MODの導入方法と日本語化
 
@@ -26,7 +18,7 @@ title: 【MOD紹介】今日から深海棲艦が好きになる「深これ」�
 まずは前提となるMinecraft Forgeを導入しましょう。
 
 **MinecraftForgeの導入方法**  
-[/new-way-to-install-mod/#forge-inst](/new-way-to-install-mod/#forge-inst "MinecraftForgeの導入方法")
+[/new-way-to-install-mod/#forge-inst](/minecraft-je/howto/install-forge/#forge-inst "MinecraftForgeの導入方法")
 
 ▲**Forgeの1.7.10版**をインストールして下さい。  
 最新の#1291がおすすめです。

@@ -250,8 +250,6 @@ https://www.napoan.com/area-effect-cloud-command/](https://www.napoan.com/area-e
 
 手書きするのが余計面倒になったので、私はツールに頼ることをおすすめします。tellrawコマンドなら[こちら](https://www.napoan.com/tellraw-command-generator/)、看板の文章を装飾するなら[こちら](https://www.napoan.com/sign-command-generator/)、titleコマンドなら[こちら](http://minecraft.tools/en/title.php)のツールをお使い下さい。
 
-[ポーションやplaysoundコマンドの仕様変更、新しいパーティクル… まだまだ盛り沢山です >>](2/)
-
 ## ポーションを入手するコマンドが変わりました
 
 ![従来のポーション入手コマンドを使うと](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208150437.png)
@@ -349,7 +347,7 @@ Luck (運)
 
 **/effect セレクタ minecraft:luck 秒数 レベル (true)**
 
-「luck(幸運)」がレベルの分だけ与えられます。この「運」は、**例えばLoot tableでアイテムを決定する際に使われます。**詳しくは[こちらの解説](/minecraft-je/howto/loot-table-perfect-guide/2/#basic)をお読み下さい。
+「luck(幸運)」がレベルの分だけ与えられます。この「運」は、**例えばLoot tableでアイテムを決定する際に使われます。**詳しくは[こちらの解説](/minecraft-je/howto/loot-table-perfect-guide/part2/#basic)をお読み下さい。
 
 Bad Luck
 
