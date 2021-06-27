@@ -121,7 +121,7 @@ title: 【MOD紹介】自分がもう一人いればいいのに(GTA風MOD)「Sy
 
 **1\. Forgeを導入しておく（1.6.4）**
 
- **Forge導入については[こちらの記事](/new-way-to-install-mod/)をご覧ください。
+ **Forge導入については[こちらの記事](/minecraft-je/howto/install-forge/)をご覧ください。
 
 2\. このMODをダウンロード
 

@@ -67,15 +67,8 @@ GUIの**下にあるボタン**を押して下さい。すると…..
 # 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Geochests」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2263411-geochests-v1-0-4-take-the-world-with-you)**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 
 4.  **村人の夢がついに実現(?)**
-
----
-
-余談ですが、このMODってだいぶ前に紹介した「Traveling house MOD」と似てますね。
-
-**【MOD紹介】これからは、家を携帯する時代「Traveling House MOD」**  
-[/37337062/](/37337062/)

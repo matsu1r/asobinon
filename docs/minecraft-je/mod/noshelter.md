@@ -78,7 +78,7 @@ title: 【MOD紹介】激ムズい! どこでもゾンビが追いかけてく�
 メインワールドに導入して損害が出ても私は責任を取りません。**
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「NoShelter」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2214385-noshelter-ai-and-invasion-mod-that-leaves-no)**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

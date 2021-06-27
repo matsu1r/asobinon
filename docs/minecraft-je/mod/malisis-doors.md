@@ -77,7 +77,7 @@ title: 【MOD紹介】組み合わせ無限大!世界に1つのドアを作ろ�
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 **2\. コアMOD「MalisisCore」を入手　（これも一緒に導入して下さい）**
 

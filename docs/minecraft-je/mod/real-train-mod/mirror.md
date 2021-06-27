@@ -78,7 +78,7 @@ RealTrainModのダウンロード
 ![2014-12-26_20-54-13](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208141455.jpg)
 
 ダウンロードした2つのzipを、お使いのForge専用フォルダー内の**mods**にブチ込みます。  
-Forgeの導入方法については[こちらの記事](/new-way-to-install-mod/)をお読み下さい。
+Forgeの導入方法については[こちらの記事](/minecraft-je/howto/install-forge/)をお読み下さい。
 
 導入後起動すると、プレイ中画面に**二次配布防止のための警告文**が現れます。  
 この警告の消し方については[作者さんフォーラム](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=13633)をご参照下さい。

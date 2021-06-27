@@ -343,13 +343,13 @@ Levitation (浮遊)
 **/effect <セレクタ> minecraft:levitation (秒数) (レベル) (true)**
 
 ![浮遊効果](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208091508.png)  
-1秒に(レベル+1)ブロック分上昇します。**レベルを255にすると、ジャンプしたり落下したり階段を登ったりできなくなります。**この浮遊効果を使った[「空中浮遊PvP」のワールドを配布しました](https://www.napoan.com/float-battle-show/)よね。
+1秒に(レベル+1)ブロック分上昇します。**レベルを255にすると、ジャンプしたり落下したり階段を登ったりできなくなります。**
 
 Luck (運)
 
 **/effect セレクタ minecraft:luck 秒数 レベル (true)**
 
-「luck(幸運)」がレベルの分だけ与えられます。この「運」は、**例えばLoot tableでアイテムを決定する際に使われます。**詳しくは[こちらの解説](https://www.napoan.com/loot-table-perfect-guide/2/#basic)をお読み下さい。
+「luck(幸運)」がレベルの分だけ与えられます。この「運」は、**例えばLoot tableでアイテムを決定する際に使われます。**詳しくは[こちらの解説](/minecraft-je/howto/loot-table-perfect-guide/2/#basic)をお読み下さい。
 
 Bad Luck
 

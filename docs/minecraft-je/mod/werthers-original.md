@@ -41,7 +41,7 @@ title: 【MOD紹介】私のおじいさんがくれた、初めてのキャン�
 # 導入方法
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「ヴェルタースオリジナルMOD」をダウンロード**  
     **[こちら](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=1758&start=540#p199539)**からダウンロードして下さい。
 3.  **ダウンロードしたzipを展開して、出てきたjarをmodsフォルダにブチ込む** ![2014-10-20_19-42-31](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208175849.jpg)

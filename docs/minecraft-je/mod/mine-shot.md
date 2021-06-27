@@ -52,7 +52,7 @@ title: 【MOD紹介】スクショは4Kの時代へ/ジオラマ風スクショ�
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「Mineshot」を入手  
 [＞＞ダウンロード＜＜](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282034-mineshot-1-7-high-resolution-screenshot-capturing)

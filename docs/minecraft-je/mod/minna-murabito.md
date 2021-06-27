@@ -42,7 +42,7 @@ title: 【MOD紹介】そしてみんなデカ鼻になる「みんな村人MOD�
 # 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「みんな村人MOD」をダウンロード**  
     **[こちら](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=1758&sid=8c42e3c8977482c526f87e90c5f61516&start=540#p201251)**からダウンロードして下さい。  
     **専用のリソースパックも一緒にDLします。**

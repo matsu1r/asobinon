@@ -46,7 +46,7 @@ title: 【MOD紹介】本当の血祭りはこれからだ – 血の力で戦�
 # 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「BloodBone」をダウンロード**  
     **[こちら](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=1758&sid=4197a8c8097ed46f0fcd3899a047016b&start=560#p203973 "MOD「BloodBone」の作者さんフォーラムです。")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

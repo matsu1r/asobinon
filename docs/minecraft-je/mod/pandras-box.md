@@ -111,7 +111,7 @@ f.png "02
 
 **1\. Forgeを導入しておく  
 　  
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください**
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください**
 
 **
 

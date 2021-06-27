@@ -72,7 +72,7 @@ PCから選ぶんじゃなくてネットに上げらてるものしか選べま
 # 導入方法
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「BetterRecoads」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2155190-better-records-download-songs-from-the-internet)**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

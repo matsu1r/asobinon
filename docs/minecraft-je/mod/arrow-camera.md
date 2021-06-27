@@ -59,7 +59,7 @@ Cキーを押している間 カメラマンがぶっ飛びます カメラが
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「Arrow Camera」を入手
 

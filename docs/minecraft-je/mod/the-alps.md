@@ -54,7 +54,7 @@ title: 【MOD紹介】天空の神殿からアルプスへ行こう（少女は�
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「The Alps Mod」を入手  
   

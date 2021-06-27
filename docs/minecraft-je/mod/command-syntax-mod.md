@@ -27,7 +27,7 @@ Wikiを読みながら**正確なスペルで正確な記法で手打ちしな�
 コマンドブロックのこの黒い画面、**なんとかならないの….?**
 
 そんな悩めるクラフターの声に応えてくれた天才クラフターがいます。  
-そう、**[前回紹介した「PixelCam」](/44666590/ "1.8対応のカメラMOD! 簡単にポイントを設定してヌルヌル撮影「PixelCam」byCrushedPixel")**を制作された**CrushedPixelさんです。**
+そう、**[前回紹介した「PixelCam」](./pixelcam/ "1.8対応のカメラMOD! 簡単にポイントを設定してヌルヌル撮影「PixelCam」byCrushedPixel")**を制作された**CrushedPixelさんです。**
 
 Command Syntax Mod | Autocomplete in CMD Blocks!
 

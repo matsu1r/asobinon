@@ -40,7 +40,7 @@ title: 【MOD紹介】ポッキーの日だからマイクラでポッキー作�
 # 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Minekawaii」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2168320-1-7-x-minekawaii-japanese-food-for-minecraft)**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

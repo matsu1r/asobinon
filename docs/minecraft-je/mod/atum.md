@@ -32,7 +32,7 @@ title: 【MOD紹介】呪われた砂漠の世界へ! 迷宮で戦闘,お宝探�
 このディメンションには、**昼夜構わず敵Mobが大量に出現します。**
 
 [![23](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208125704.png)](#0/e/0e2b34f6.png "23")  
-(HPやMob名の表示は[前回紹介した「SmartCursor」](/43913717/ "【MOD紹介】ここまで見せちゃう!? MobのHP/ブロックの情報を何でも表示「SmartCursor」[Minecraft]")の機能です)  
+(HPやMob名の表示は[前回紹介した「SmartCursor」](./smart-cursor/ "【MOD紹介】ここまで見せちゃう!? MobのHP/ブロックの情報を何でも表示「SmartCursor」[Minecraft]")の機能です)  
 この浮遊しているのは**「Desert Ghost」**。はっきり言って、**ただの雑魚キャラ**です。  
 しかし、**とにかく執拗に追いかけてくる**ので、囲まれたら大変です。
 

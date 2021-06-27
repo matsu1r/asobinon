@@ -53,7 +53,7 @@ title: 【MOD紹介】ただでさえ可愛い赤ちゃんを、こんなにカ�
 動物はなんで成長してしまうんだろう、**ずっと子供のままで居て欲しいですよね。**  
 人間もずっと子供のま)ry
 
-(**コマンドを使えば、ずっと子供のままの動物を召喚できます。**[こちらの記事](/forever-baby-animal-command/ "【Minecraft】子供のまま、成長しない動物を召喚する方法 - 新NBTタグ")へどうぞ。)
+(**コマンドを使えば、ずっと子供のままの動物を召喚できます。**[こちらの記事](/minecraft-je/howto/forever-baby-animal-command/ "【Minecraft】子供のまま、成長しない動物を召喚する方法 - 新NBTタグ")へどうぞ。)
 
 [**#StopModReposts**  
 そのダウンロード場所、本物ですか。MODは必ず正規の場所からダウンロードしましょう。](https://www.napoan.com/stop-mod-reposts/)

@@ -136,7 +136,7 @@ m/wp-content/uploads/imgs/c/d/cdde423f.png)](#c/d/cdde423f.png "14")
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「**RealTrainMod**」を入手  
 [＞＞ダウンロード＜＜](http://forum.minecraftuser.jp/viewtopic.php?f=13&t=13633)

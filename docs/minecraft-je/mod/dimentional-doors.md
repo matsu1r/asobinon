@@ -75,7 +75,7 @@ title: 【MOD紹介】どこまでも闇の世界! 新次元のダンジョン�
 # 導入方法
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「Dimensional Doors」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287583-dimensional-doors-v2-2-4)**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**

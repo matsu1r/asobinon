@@ -59,7 +59,7 @@ title: 【MOD紹介】立春寒波により、ジャングルに雪が降った�
 
 **1\. Forgeを導入しておく**
 
-[Forge導入についてはこちらの記事をご覧ください](/new-way-to-install-mod/)
+[Forge導入についてはこちらの記事をご覧ください](/minecraft-je/howto/install-forge/)
 
 **2.このMODをダウンロード**
 

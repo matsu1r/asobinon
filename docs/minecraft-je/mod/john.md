@@ -50,7 +50,7 @@ HPが40もあるので、ダイヤの剣でも十数回斬らないと倒せま�
 # 導入方法 
 
 1.  **Forgeを導入**  
-    **[こちら](/new-way-to-install-mod/)**の記事を参考にしてください
+    **[こちら](/minecraft-je/howto/install-forge/)**の記事を参考にしてください
 2.  **「John」をダウンロード**  
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283649-1-6-4-smp-john-v3-2-revived-mega-giant-john-baby)**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む** 

@@ -60,7 +60,7 @@ title: 【MOD紹介】中井貴一も大喜び！「みんなが幸せになれ�
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「**みんなが幸せになれるミキプルーンMOD**」を入手  
 [＞＞ダウンロード＜＜](http://www.nicovideo.jp/watch/sm23336773)

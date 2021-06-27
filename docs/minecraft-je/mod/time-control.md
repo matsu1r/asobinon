@@ -77,7 +77,7 @@ title: 【MOD紹介】時間を操れ、マトリックス風に！「Time Contr
 
 1\. Forgeを導入
 
-[**こちらの記事**](/new-way-to-install-mod/)を参考にしてください
+[**こちらの記事**](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「Time Control」と、前提のMODとして「grim3212core」を入手
 

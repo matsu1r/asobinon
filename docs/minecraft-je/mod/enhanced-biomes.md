@@ -33,7 +33,7 @@ title: 【MOD紹介】旅立とう、スーパーリアルバイ王蟲へ「Enha
 [![11](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208164642.png)](#e/4/e49f18ff.png "11")  
 砂漠と一緒に**「オアシス」**も生成され、村もありました。  
 オアシスの木はジャングルの木なので、村もジャングル仕様です。  
-（先日紹介した[「Mo\` Villages」](/38156378/)は導入していません）
+（先日紹介した[「Mo\` Villages」](./more-villages/)は導入していません）
 
 [![14](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sasigume/20210208/20210208151035.png)](#9/0/9089fd06.png "14")  
 **「干枯らびた湖」**バイオームに村が生成されると、このMODで追加される枯木を使った家ができます。  
@@ -55,7 +55,7 @@ title: 【MOD紹介】旅立とう、スーパーリアルバイ王蟲へ「Enha
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「**Enhanced Biomes**」を入手  
 [＞＞ダウンロード＜＜](http://www.minecraftforum.net/topic/2550247-172-forge-ssp-smp-enhanced-biomes-21-nearly-100-new-biomes-season-update/)

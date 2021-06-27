@@ -55,7 +55,7 @@ title: 【MOD紹介】余りまくる骨を装備にしちゃえ！「Skeleton A
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 2\. 「SkeletonArmorMOD」を入手
 

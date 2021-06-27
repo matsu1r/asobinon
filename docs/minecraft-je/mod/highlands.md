@@ -85,13 +85,6 @@ title: スクショが壁紙になるほど美しい世界。バニラの地形�
 
 結論: 影ってすごい。…いやいや、これじゃシェーダーの紹介記事じゃないですか。影無しでも、十分雄大な地形を楽しめますよ。**地面に使っているのは全てバニラのブロックなので、そのまま配布ワールドの土台として有効活用できますね。**例えばGrey Mountainsの頂上にそびえ立つお城とか…
 
-リアル路線のバイオーム追加MOD「Alternate Terrain Generation」
-
-[![ATG](https://www.napoan.com/wp-content/uploads/imgs/3/1/31f717e5.png)  
-https://www.napoan.com/44869064/](/44869064/ "ATG")
-
-リアル路線のバイオーム追加MODといえば、以前紹介した**「ATG」▲**がありますね。皆さんどちらがお好きですか? 今のところ私は「Highlands」がお気に入りですが、**影MOD次第であちらも十分美しくなるはずです。**それよりもっと前にも「[RWG](/43051058/)」を紹介しましたが、あれも影付きでプレイすればよかった…
-
 **
 
 **
@@ -109,9 +102,3 @@ https://www.napoan.com/44869064/](/44869064/ "ATG")
     **[こちら](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2494877-highlands-uncharted-territory-finally-for "「Caterpillar」のダウンロード")**からダウンロードして下さい。
 3.  **modsフォルダにブチ込む**
 4.  **影無しでも十分美しいですのでご安心を**
-
-
-
-
-
-**

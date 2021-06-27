@@ -54,7 +54,7 @@ title: 【MOD紹介】見えない/剥がれない/場所を問わず湧き潰�
 
 1\. Forgeを導入
 
-[こちらの記事](/new-way-to-install-mod/)を参考にしてください
+[こちらの記事](/minecraft-je/howto/install-forge/)を参考にしてください
 
 **2\. 「InvisibLights」を入手**
 

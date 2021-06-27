@@ -108,7 +108,7 @@ title: 【MOD紹介】もらったチョコは建材にしてしまえ！「Choc
 
 **1\. Forgeを導入しておく**
 
-  [Forgeの導入方法については、こちらの記事をご覧ください。](/new-way-to-install-mod/)
+  [Forgeの導入方法については、こちらの記事をご覧ください。](/minecraft-je/howto/install-forge/)
 
 **2\. このMODをダウンロード**
 
